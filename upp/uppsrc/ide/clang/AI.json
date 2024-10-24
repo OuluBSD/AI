@@ -1123,6 +1123,38 @@
 						"c": [
 
 						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 5,
+								"y": 108
+							},
+							"b": {
+								"x": 0,
+								"y": 108
+							},
+							"e": {
+								"x": 1,
+								"y": 113
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Jsonize",
+							"t": "void (JsonIO &)",
+							"i": "Jsonize(JsonIO&)",
+							"r": "void Jsonize(Upp::JsonIO& json)",
+							"s": "",
+							"u": "JSONIZE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
 					}
 				]
 			}
@@ -8418,6 +8450,1574 @@
 						"c": [
 
 						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 102
+							},
+							"b": {
+								"x": 0,
+								"y": 109
+							},
+							"e": {
+								"x": 1,
+								"y": 123
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:110:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 1,
+								"y": 107
+							},
+							"b": {
+								"x": 1,
+								"y": 114
+							},
+							"e": {
+								"x": 9,
+								"y": 114
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ITEM_CPP",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"i": "ITEM_CPP",
+							"r": "ITEM_CPP",
+							"s": "",
+							"u": "ITEM_CPP",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 1,
+								"y": 109
+							},
+							"b": {
+								"x": 1,
+								"y": 116
+							},
+							"e": {
+								"x": 11,
+								"y": 116
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ITEM_TNAME",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"i": "ITEM_TNAME",
+							"r": "ITEM_TNAME",
+							"s": "",
+							"u": "ITEM_TNAME",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 1,
+								"y": 110
+							},
+							"b": {
+								"x": 1,
+								"y": 117
+							},
+							"e": {
+								"x": 12,
+								"y": 117
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ITEM_NUMBER",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"i": "ITEM_NUMBER",
+							"r": "ITEM_NUMBER",
+							"s": "",
+							"u": "ITEM_NUMBER",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 1,
+								"y": 111
+							},
+							"b": {
+								"x": 1,
+								"y": 118
+							},
+							"e": {
+								"x": 10,
+								"y": 118
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ITEM_SIGN",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"i": "ITEM_SIGN",
+							"r": "ITEM_SIGN",
+							"s": "",
+							"u": "ITEM_SIGN",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 1,
+								"y": 112
+							},
+							"b": {
+								"x": 1,
+								"y": 119
+							},
+							"e": {
+								"x": 9,
+								"y": 119
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ITEM_UPP",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"i": "ITEM_UPP",
+							"r": "ITEM_UPP",
+							"s": "",
+							"u": "ITEM_UPP",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 1,
+								"y": 113
+							},
+							"b": {
+								"x": 1,
+								"y": 120
+							},
+							"e": {
+								"x": 10,
+								"y": 120
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ITEM_TYPE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"i": "ITEM_TYPE",
+							"r": "ITEM_TYPE",
+							"s": "",
+							"u": "ITEM_TYPE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 1,
+								"y": 115
+							},
+							"b": {
+								"x": 1,
+								"y": 122
+							},
+							"e": {
+								"x": 31,
+								"y": 122
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ITEM_PTYPE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:110:1)",
+							"i": "ITEM_PTYPE",
+							"r": "ITEM_PTYPE",
+							"s": "",
+							"u": "ITEM_PTYPE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 194
+							},
+							"b": {
+								"x": 0,
+								"y": 201
+							},
+							"e": {
+								"x": 32,
+								"y": 201
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:202:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:202:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:202:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 194
+							},
+							"b": {
+								"x": 7,
+								"y": 201
+							},
+							"e": {
+								"x": 30,
+								"y": 201
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:202:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 304
+							},
+							"b": {
+								"x": 1,
+								"y": 311
+							},
+							"e": {
+								"x": 24,
+								"y": 311
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "FileAnnotation0::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "FileAnnotation0",
+							"w": "FILEANNOTATION0",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 309
+							},
+							"b": {
+								"x": 1,
+								"y": 316
+							},
+							"e": {
+								"x": 24,
+								"y": 316
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "FileAnnotation::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "FileAnnotation",
+							"w": "FILEANNOTATION",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 192
+							},
+							"b": {
+								"x": 1,
+								"y": 199
+							},
+							"e": {
+								"x": 24,
+								"y": 199
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "CppFileInfo::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "CppFileInfo",
+							"w": "CPPFILEINFO",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 195
+							},
+							"b": {
+								"x": 0,
+								"y": 202
+							},
+							"e": {
+								"x": 32,
+								"y": 202
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:203:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:203:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:203:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 195
+							},
+							"b": {
+								"x": 7,
+								"y": 202
+							},
+							"e": {
+								"x": 30,
+								"y": 202
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:203:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 195
+							},
+							"b": {
+								"x": 0,
+								"y": 195
+							},
+							"e": {
+								"x": 32,
+								"y": 195
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:196:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:196:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/clang/clang.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/CLANG/CLANG.H:196:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 195
+							},
+							"b": {
+								"x": 7,
+								"y": 195
+							},
+							"e": {
+								"x": 30,
+								"y": 195
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:196:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 160
+							},
+							"b": {
+								"x": 1,
+								"y": 167
+							},
+							"e": {
+								"x": 24,
+								"y": 167
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "AnnotationItem::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "AnnotationItem",
+							"w": "ANNOTATIONITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 196
+							},
+							"b": {
+								"x": 0,
+								"y": 203
+							},
+							"e": {
+								"x": 32,
+								"y": 203
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:204:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:204:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:204:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 196
+							},
+							"b": {
+								"x": 7,
+								"y": 203
+							},
+							"e": {
+								"x": 30,
+								"y": 203
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:204:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 7,
+								"y": 163
+							},
+							"b": {
+								"x": 0,
+								"y": 170
+							},
+							"e": {
+								"x": 23,
+								"y": 170
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String ()",
+							"i": "ToString()",
+							"r": "Upp::String ToString()",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 197
+							},
+							"b": {
+								"x": 0,
+								"y": 204
+							},
+							"e": {
+								"x": 32,
+								"y": 204
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:205:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:205:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:205:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 197
+							},
+							"b": {
+								"x": 7,
+								"y": 204
+							},
+							"e": {
+								"x": 30,
+								"y": 204
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:205:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 163
+							},
+							"b": {
+								"x": 0,
+								"y": 170
+							},
+							"e": {
+								"x": 1,
+								"y": 172
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "AnnotationItem::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "AnnotationItem",
+							"w": "ANNOTATIONITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 199
+							},
+							"b": {
+								"x": 0,
+								"y": 206
+							},
+							"e": {
+								"x": 32,
+								"y": 206
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:207:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:207:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:207:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 199
+							},
+							"b": {
+								"x": 7,
+								"y": 206
+							},
+							"e": {
+								"x": 30,
+								"y": 206
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:207:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 200
+							},
+							"b": {
+								"x": 0,
+								"y": 207
+							},
+							"e": {
+								"x": 32,
+								"y": 207
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:208:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:208:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:208:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 200
+							},
+							"b": {
+								"x": 7,
+								"y": 207
+							},
+							"e": {
+								"x": 30,
+								"y": 207
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:208:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 201
+							},
+							"b": {
+								"x": 0,
+								"y": 208
+							},
+							"e": {
+								"x": 32,
+								"y": 208
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:209:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:209:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:209:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 201
+							},
+							"b": {
+								"x": 7,
+								"y": 208
+							},
+							"e": {
+								"x": 30,
+								"y": 208
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:209:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 200
+							},
+							"b": {
+								"x": 0,
+								"y": 200
+							},
+							"e": {
+								"x": 32,
+								"y": 200
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:201:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:201:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/clang/clang.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/CLANG/CLANG.H:201:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 200
+							},
+							"b": {
+								"x": 7,
+								"y": 200
+							},
+							"e": {
+								"x": 30,
+								"y": 200
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:201:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 196
+							},
+							"b": {
+								"x": 0,
+								"y": 196
+							},
+							"e": {
+								"x": 32,
+								"y": 196
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:197:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:197:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/clang/clang.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/CLANG/CLANG.H:197:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 196
+							},
+							"b": {
+								"x": 7,
+								"y": 196
+							},
+							"e": {
+								"x": 30,
+								"y": 196
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:197:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 176
+							},
+							"b": {
+								"x": 1,
+								"y": 182
+							},
+							"e": {
+								"x": 26,
+								"y": 183
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Serialize",
+							"t": "String (Stream &)",
+							"i": "ReferenceItem::Serialize(Stream&)",
+							"r": "Upp::String Serialize(Upp::Stream& s)",
+							"s": "",
+							"u": "SERIALIZE",
+							"q": "ReferenceItem",
+							"w": "REFERENCEITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 175
+							},
+							"b": {
+								"x": 1,
+								"y": 182
+							},
+							"e": {
+								"x": 24,
+								"y": 182
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "ReferenceItem::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "ReferenceItem",
+							"w": "REFERENCEITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 7,
+								"y": 178
+							},
+							"b": {
+								"x": 0,
+								"y": 185
+							},
+							"e": {
+								"x": 1,
+								"y": 187
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String ()",
+							"i": "ToString()",
+							"r": "Upp::String ToString()",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 199
+							},
+							"b": {
+								"x": 0,
+								"y": 199
+							},
+							"e": {
+								"x": 32,
+								"y": 199
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:200:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:200:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/clang/clang.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/CLANG/CLANG.H:200:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 199
+							},
+							"b": {
+								"x": 7,
+								"y": 199
+							},
+							"e": {
+								"x": 30,
+								"y": 199
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:200:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 22,
+								"y": 178
+							},
+							"b": {
+								"x": 0,
+								"y": 185
+							},
+							"e": {
+								"x": 6,
+								"y": 361
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "ReferenceItem::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "ReferenceItem",
+							"w": "REFERENCEITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 177
+							},
+							"b": {
+								"x": 1,
+								"y": 184
+							},
+							"e": {
+								"x": 27,
+								"y": 184
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Jsonize",
+							"t": "void (JsonIO &)",
+							"i": "ReferenceItem::Jsonize(JsonIO&)",
+							"r": "void Jsonize(Upp::JsonIO& json)",
+							"s": "",
+							"u": "JSONIZE",
+							"q": "ReferenceItem",
+							"w": "REFERENCEITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 197
+							},
+							"b": {
+								"x": 0,
+								"y": 197
+							},
+							"e": {
+								"x": 32,
+								"y": 197
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:198:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:198:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/clang/clang.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/CLANG/CLANG.H:198:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 197
+							},
+							"b": {
+								"x": 7,
+								"y": 197
+							},
+							"e": {
+								"x": 30,
+								"y": 197
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:198:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 176
+							},
+							"b": {
+								"x": 1,
+								"y": 183
+							},
+							"e": {
+								"x": 32,
+								"y": 183
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "MakeTargetString",
+							"t": "String () const",
+							"i": "ReferenceItem::MakeTargetString()const",
+							"r": "Upp::String MakeTargetString() const",
+							"s": "",
+							"u": "MAKETARGETSTRING",
+							"q": "ReferenceItem",
+							"w": "REFERENCEITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 198
+							},
+							"b": {
+								"x": 0,
+								"y": 205
+							},
+							"e": {
+								"x": 32,
+								"y": 205
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:206:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:206:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/ICONDES/IDEICONDES.CPP:206:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 198
+							},
+							"b": {
+								"x": 7,
+								"y": 205
+							},
+							"e": {
+								"x": 30,
+								"y": 205
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/IconDes/IdeIconDes.cpp:206:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 176
+							},
+							"b": {
+								"x": 1,
+								"y": 176
+							},
+							"e": {
+								"x": 54,
+								"y": 176
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "MakeTargetString",
+							"t": "String (const String &) const",
+							"i": "ReferenceItem::MakeTargetString(const String&)const",
+							"r": "Upp::String MakeTargetString(const Upp::String& filepath) const",
+							"s": "",
+							"u": "MAKETARGETSTRING",
+							"q": "ReferenceItem",
+							"w": "REFERENCEITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 0,
+								"y": 198
+							},
+							"b": {
+								"x": 0,
+								"y": 198
+							},
+							"e": {
+								"x": 32,
+								"y": 198
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:199:1)",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:199:1)",
+							"i": "(unnamed at/home/sblo/ai-upp/uppsrc/ide/clang/clang.)",
+							"r": "enum",
+							"s": "",
+							"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/CLANG/CLANG.H:199:1)",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 7,
+								"y": 198
+							},
+							"b": {
+								"x": 7,
+								"y": 198
+							},
+							"e": {
+								"x": 30,
+								"y": 198
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PARSE_FILE",
+							"t": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/clang/clang.h:199:1)",
+							"i": "PARSE_FILE",
+							"r": "PARSE_FILE",
+							"s": "",
+							"u": "PARSE_FILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
 					}
 				]
 			}
@@ -9099,6 +10699,262 @@
 							"u": "FINDID",
 							"q": "",
 							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 44
+							},
+							"b": {
+								"x": 0,
+								"y": 44
+							},
+							"e": {
+								"x": 1,
+								"y": 46
+							},
+							"d": true,
+							"iv": false,
+							"is": true,
+							"n": "s__s45_fn",
+							"t": "void ()",
+							"i": "s__s45_fn()",
+							"r": "static void s__s45_fn()",
+							"s": "",
+							"u": "S__S45_FN",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 110
+							},
+							"b": {
+								"x": 0,
+								"y": 110
+							},
+							"e": {
+								"x": 1,
+								"y": 112
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "FileAnnotation::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "FileAnnotation",
+							"w": "FILEANNOTATION",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 24,
+								"y": 114
+							},
+							"b": {
+								"x": 0,
+								"y": 114
+							},
+							"e": {
+								"x": 1,
+								"y": 116
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "FileAnnotation0::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "FileAnnotation0",
+							"w": "FILEANNOTATION0",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 24,
+								"y": 124
+							},
+							"b": {
+								"x": 0,
+								"y": 124
+							},
+							"e": {
+								"x": 1,
+								"y": 126
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "FileAnnotation0::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "FileAnnotation0",
+							"w": "FILEANNOTATION0",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 110
+							},
+							"b": {
+								"x": 0,
+								"y": 110
+							},
+							"e": {
+								"x": 1,
+								"y": 113
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "AnnotationItem::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "AnnotationItem",
+							"w": "ANNOTATIONITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 22,
+								"y": 115
+							},
+							"b": {
+								"x": 0,
+								"y": 115
+							},
+							"e": {
+								"x": 1,
+								"y": 117
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "ReferenceItem::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "",
+							"u": "TOSTRING",
+							"q": "ReferenceItem",
+							"w": "REFERENCEITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 7,
+								"y": 119
+							},
+							"b": {
+								"x": 0,
+								"y": 119
+							},
+							"e": {
+								"x": 1,
+								"y": 121
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "MakeTargetString",
+							"t": "String (const String &)",
+							"i": "MakeTargetString(const String&)",
+							"r": "Upp::String MakeTargetString(const Upp::String& filepath)",
+							"s": "",
+							"u": "MAKETARGETSTRING",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 22,
+								"y": 119
+							},
+							"b": {
+								"x": 0,
+								"y": 119
+							},
+							"e": {
+								"x": 1,
+								"y": 122
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "MakeTargetString",
+							"t": "String (const String &) const",
+							"i": "ReferenceItem::MakeTargetString(const String&)const",
+							"r": "Upp::String MakeTargetString(const Upp::String& filepath) const",
+							"s": "",
+							"u": "MAKETARGETSTRING",
+							"q": "ReferenceItem",
+							"w": "REFERENCEITEM",
 							"y": ""
 						},
 						"c": [
@@ -12561,5 +14417,5 @@
 			}
 		}
 	],
-	"saved_hash": "e43fb45bac75b594d9f6c5079695b0398f28166f"
+	"saved_hash": "6393b9f1d0367a926726ea54451c3fa8f9ad14a5"
 }

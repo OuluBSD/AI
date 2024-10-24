@@ -1682,6 +1682,38 @@
 						"c": [
 
 						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 39
+							},
+							"b": {
+								"x": 0,
+								"y": 39
+							},
+							"e": {
+								"x": 1,
+								"y": 41
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "SSLSocket__initializer_fn",
+							"t": "void ()",
+							"i": "Upp::SSLSocket__initializer_fn()",
+							"r": "void SSLSocket__initializer_fn()",
+							"s": "Upp",
+							"u": "SSLSOCKET__INITIALIZER_FN",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
 					}
 				]
 			}
@@ -4832,6 +4864,38 @@
 						"c": [
 
 						]
+					},
+					{
+						"a": {
+							"k": 2,
+							"p": {
+								"x": 0,
+								"y": 11
+							},
+							"b": {
+								"x": 0,
+								"y": 11
+							},
+							"e": {
+								"x": 15,
+								"y": 11
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "P7S__initialize_struct",
+							"t": "Upp::P7S__initialize_struct",
+							"i": "Upp::P7S__initialize_struct",
+							"r": "P7S__initialize_struct",
+							"s": "Upp",
+							"u": "P7S__INITIALIZE_STRUCT",
+							"q": "Upp::P7S__initialize_struct",
+							"w": "UPP::P7S__INITIALIZE_STRUCT",
+							"y": ""
+						},
+						"c": [
+
+						]
 					}
 				]
 			}
@@ -5644,5 +5708,5 @@
 			}
 		}
 	],
-	"saved_hash": "fefe76a6a5abbf09ab93c232fe7de1a190c6990b"
+	"saved_hash": "6aa8c28a791a3422173db3be66534fa8ce7f9808"
 }

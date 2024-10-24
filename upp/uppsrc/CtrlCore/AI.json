@@ -46486,6 +46486,70 @@
 						"c": [
 
 						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 126
+							},
+							"b": {
+								"x": 0,
+								"y": 126
+							},
+							"e": {
+								"x": 39,
+								"y": 126
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ch_var__TopSeparator1",
+							"t": "ChValue &()",
+							"i": "Upp::ch_var__TopSeparator1()",
+							"r": "Upp::ChValue& ch_var__TopSeparator1()",
+							"s": "Upp",
+							"u": "CH_VAR__TOPSEPARATOR1",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 180
+							},
+							"b": {
+								"x": 0,
+								"y": 180
+							},
+							"e": {
+								"x": 33,
+								"y": 180
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ch_var__FrameButtonWidth",
+							"t": "ChInt &()",
+							"i": "Upp::ch_var__FrameButtonWidth()",
+							"r": "Upp::ChInt& ch_var__FrameButtonWidth()",
+							"s": "Upp",
+							"u": "CH_VAR__FRAMEBUTTONWIDTH",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
 					}
 				]
 			}
@@ -54397,6 +54461,70 @@
 							"r": "Upp::ChInt& ch_var__GUI_DblClickTime()",
 							"s": "Upp",
 							"u": "CH_VAR__GUI_DBLCLICKTIME",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 967
+							},
+							"b": {
+								"x": 0,
+								"y": 967
+							},
+							"e": {
+								"x": 30,
+								"y": 967
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ch_var__GUI_ToolTipDelay",
+							"t": "ChInt &()",
+							"i": "Upp::ch_var__GUI_ToolTipDelay()",
+							"r": "Upp::ChInt& ch_var__GUI_ToolTipDelay()",
+							"s": "Upp",
+							"u": "CH_VAR__GUI_TOOLTIPDELAY",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 968
+							},
+							"b": {
+								"x": 0,
+								"y": 968
+							},
+							"e": {
+								"x": 26,
+								"y": 968
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ch_var__GUI_DropShadows",
+							"t": "ChInt &()",
+							"i": "Upp::ch_var__GUI_DropShadows()",
+							"r": "Upp::ChInt& ch_var__GUI_DropShadows()",
+							"s": "Upp",
+							"u": "CH_VAR__GUI_DROPSHADOWS",
 							"q": "Upp",
 							"w": "UPP",
 							"y": ""
@@ -70131,6 +70259,70 @@
 							"u": "SETLAYOUT_SIZE",
 							"q": "Upp",
 							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 0,
+								"y": 479
+							},
+							"b": {
+								"x": 0,
+								"y": 479
+							},
+							"e": {
+								"x": 1,
+								"y": 482
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Init",
+							"t": "void ()",
+							"i": "Upp::TopWindow__TopStyle__StyleDefault::Init()",
+							"r": "void Init()",
+							"s": "Upp",
+							"u": "INIT",
+							"q": "Upp::TopWindow__TopStyle__StyleDefault",
+							"w": "UPP::TOPWINDOW__TOPSTYLE__STYLEDEFAULT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 0,
+								"y": 479
+							},
+							"b": {
+								"x": 0,
+								"y": 479
+							},
+							"e": {
+								"x": 43,
+								"y": 479
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "InitIt",
+							"t": "void ()",
+							"i": "Upp::TopWindow__TopStyle__StyleDefault::InitIt()",
+							"r": "void InitIt()",
+							"s": "Upp",
+							"u": "INITIT",
+							"q": "Upp::TopWindow__TopStyle__StyleDefault",
+							"w": "UPP::TOPWINDOW__TOPSTYLE__STYLEDEFAULT",
 							"y": ""
 						},
 						"c": [
@@ -107319,5 +107511,5 @@
 			}
 		}
 	],
-	"saved_hash": "fa17f5ff698b50f83f333fac64684c978d72484f"
+	"saved_hash": "6274c187c76ed1b67247aa69113f26a8eef93e12"
 }

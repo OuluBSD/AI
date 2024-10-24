@@ -4547,6 +4547,38 @@
 						"c": [
 
 						]
+					},
+					{
+						"a": {
+							"k": 501,
+							"p": {
+								"x": 8,
+								"y": 10
+							},
+							"b": {
+								"x": 8,
+								"y": 10
+							},
+							"e": {
+								"x": 43,
+								"y": 10
+							},
+							"d": false,
+							"iv": false,
+							"is": true,
+							"n": "IMAGEFILE",
+							"t": "",
+							"i": "IMAGEFILE",
+							"r": "IMAGEFILE",
+							"s": "",
+							"u": "IMAGEFILE",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
 					}
 				]
 			}
@@ -14979,5 +15011,5 @@
 			}
 		}
 	],
-	"saved_hash": "f65b91e622f2d313e50a6b38e976de62bb4d7670"
+	"saved_hash": "9b3ef66ad68e4c32217685ac9eb8917b2c88e3a5"
 }

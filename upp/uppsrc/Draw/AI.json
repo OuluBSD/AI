@@ -89981,6 +89981,102 @@
 						"c": [
 
 						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 17
+							},
+							"b": {
+								"x": 0,
+								"y": 17
+							},
+							"e": {
+								"x": 43,
+								"y": 17
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ch_var__SLtGreen",
+							"t": "ChColor &()",
+							"i": "Upp::ch_var__SLtGreen()",
+							"r": "Upp::ChColor& ch_var__SLtGreen()",
+							"s": "Upp",
+							"u": "CH_VAR__SLTGREEN",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 20
+							},
+							"b": {
+								"x": 0,
+								"y": 20
+							},
+							"e": {
+								"x": 47,
+								"y": 20
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ch_var__SLtMagenta",
+							"t": "ChColor &()",
+							"i": "Upp::ch_var__SLtMagenta()",
+							"r": "Upp::ChColor& ch_var__SLtMagenta()",
+							"s": "Upp",
+							"u": "CH_VAR__SLTMAGENTA",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 40
+							},
+							"b": {
+								"x": 0,
+								"y": 40
+							},
+							"e": {
+								"x": 33,
+								"y": 40
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ch_var__SColorDisabled",
+							"t": "ChColor &()",
+							"i": "Upp::ch_var__SColorDisabled()",
+							"r": "Upp::ChColor& ch_var__SColorDisabled()",
+							"s": "Upp",
+							"u": "CH_VAR__SCOLORDISABLED",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
 					}
 				]
 			}
@@ -103151,5 +103247,5 @@
 			}
 		}
 	],
-	"saved_hash": "b6cbf05bae214b7bd6980da8d35ea8673409b941"
+	"saved_hash": "50baafa7cfed745dca02429dbfe19726a996c0ee"
 }

@@ -3872,6 +3872,2054 @@
 						"c": [
 
 						]
+					},
+					{
+						"a": {
+							"k": 2,
+							"p": {
+								"x": 7,
+								"y": 303
+							},
+							"b": {
+								"x": 0,
+								"y": 303
+							},
+							"e": {
+								"x": 8,
+								"y": 303
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "C",
+							"t": "Upp::C",
+							"i": "Upp::C",
+							"r": "C",
+							"s": "Upp",
+							"u": "C",
+							"q": "Upp::C",
+							"w": "UPP::C",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 2,
+							"p": {
+								"x": 7,
+								"y": 303
+							},
+							"b": {
+								"x": 0,
+								"y": 303
+							},
+							"e": {
+								"x": 1,
+								"y": 306
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "CodeVisitor",
+							"t": "Upp::CodeVisitor",
+							"i": "Upp::CodeVisitor",
+							"r": "CodeVisitor",
+							"s": "Upp",
+							"u": "CODEVISITOR",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 307
+							},
+							"b": {
+								"x": 1,
+								"y": 307
+							},
+							"e": {
+								"x": 31,
+								"y": 307
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (FileAnnotation &)",
+							"i": "Upp::CodeVisitor::Visit(FileAnnotation&)",
+							"r": "void Visit(FileAnnotation& fa)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 5,
+								"y": 305
+							},
+							"b": {
+								"x": 1,
+								"y": 305
+							},
+							"e": {
+								"x": 14,
+								"y": 305
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "limit",
+							"t": "int",
+							"i": "Upp::CodeVisitor::limit",
+							"r": "int limit",
+							"s": "Upp",
+							"u": "LIMIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 1,
+								"y": 307
+							},
+							"b": {
+								"x": 1,
+								"y": 307
+							},
+							"e": {
+								"x": 14,
+								"y": 307
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "CodeVisitor",
+							"t": "void ()",
+							"i": "Upp::CodeVisitor::CodeVisitor()",
+							"r": "CodeVisitor()",
+							"s": "Upp",
+							"u": "CODEVISITOR",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 5,
+								"y": 311
+							},
+							"b": {
+								"x": 0,
+								"y": 311
+							},
+							"e": {
+								"x": 1,
+								"y": 313
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (FileAnnotation &)",
+							"i": "Upp::Visit(FileAnnotation&)",
+							"r": "void Visit(FileAnnotation& fa)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 2,
+							"p": {
+								"x": 8,
+								"y": 305
+							},
+							"b": {
+								"x": 1,
+								"y": 305
+							},
+							"e": {
+								"x": 1,
+								"y": 310
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Item",
+							"t": "Upp::CodeVisitor::Item",
+							"i": "Upp::CodeVisitor::Item",
+							"r": "Item",
+							"s": "Upp",
+							"u": "ITEM",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 5,
+								"y": 306
+							},
+							"b": {
+								"x": 1,
+								"y": 306
+							},
+							"e": {
+								"x": 14,
+								"y": 306
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "limit",
+							"t": "int",
+							"i": "Upp::CodeVisitor::Item::limit",
+							"r": "int limit",
+							"s": "Upp",
+							"u": "LIMIT",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 312
+							},
+							"b": {
+								"x": 0,
+								"y": 312
+							},
+							"e": {
+								"x": 1,
+								"y": 314
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (FileAnnotation &)",
+							"i": "Upp::CodeVisitor::Visit(FileAnnotation&)",
+							"r": "void Visit(FileAnnotation& fa)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 2,
+							"p": {
+								"x": 8,
+								"y": 305
+							},
+							"b": {
+								"x": 1,
+								"y": 305
+							},
+							"e": {
+								"x": 2,
+								"y": 307
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Item",
+							"t": "Upp::CodeVisitor::Item",
+							"i": "Upp::CodeVisitor::Item",
+							"r": "Item : Moveable<Item>",
+							"s": "Upp",
+							"u": "ITEM",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": "Upp::Moveable"
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 1,
+								"y": 310
+							},
+							"b": {
+								"x": 1,
+								"y": 310
+							},
+							"e": {
+								"x": 17,
+								"y": 310
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "CodeVisitor",
+							"t": "void ()",
+							"i": "Upp::CodeVisitor::CodeVisitor()",
+							"r": "CodeVisitor()",
+							"s": "Upp",
+							"u": "CODEVISITOR",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 14,
+								"y": 309
+							},
+							"b": {
+								"x": 1,
+								"y": 309
+							},
+							"e": {
+								"x": 19,
+								"y": 309
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "items",
+							"t": "Vector<Item>",
+							"i": "Upp::CodeVisitor::items",
+							"r": "Vector<Item> items",
+							"s": "Upp",
+							"u": "ITEMS",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 312
+							},
+							"b": {
+								"x": 1,
+								"y": 312
+							},
+							"e": {
+								"x": 36,
+								"y": 312
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "BeginVisit",
+							"t": "void (FileAnnotation &)",
+							"i": "Upp::CodeVisitor::BeginVisit(FileAnnotation&)",
+							"r": "void BeginVisit(FileAnnotation& fa)",
+							"s": "Upp",
+							"u": "BEGINVISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 316
+							},
+							"b": {
+								"x": 0,
+								"y": 316
+							},
+							"e": {
+								"x": 1,
+								"y": 318
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "BeginVisit",
+							"t": "void (FileAnnotation &)",
+							"i": "Upp::CodeVisitor::BeginVisit(FileAnnotation&)",
+							"r": "void BeginVisit(FileAnnotation& fa)",
+							"s": "Upp",
+							"u": "BEGINVISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 312
+							},
+							"b": {
+								"x": 1,
+								"y": 312
+							},
+							"e": {
+								"x": 34,
+								"y": 312
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "SetLimit",
+							"t": "void (int)",
+							"i": "Upp::CodeVisitor::SetLimit(int)",
+							"r": "void SetLimit(int i)",
+							"s": "Upp",
+							"u": "SETLIMIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 322
+							},
+							"b": {
+								"x": 0,
+								"y": 322
+							},
+							"e": {
+								"x": 1,
+								"y": 325
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (FileAnnotation &, Point)",
+							"i": "Upp::CodeVisitor::Visit(FileAnnotation&,Point)",
+							"r": "void Visit(FileAnnotation& fa, Upp::Point)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 313
+							},
+							"b": {
+								"x": 1,
+								"y": 313
+							},
+							"e": {
+								"x": 55,
+								"y": 313
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(FileAnnotation&,Point,Point)",
+							"r": "void Visit(FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 321
+							},
+							"b": {
+								"x": 0,
+								"y": 321
+							},
+							"e": {
+								"x": 1,
+								"y": 324
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(FileAnnotation&,Point,Point)",
+							"r": "void Visit(FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 317
+							},
+							"b": {
+								"x": 0,
+								"y": 317
+							},
+							"e": {
+								"x": 1,
+								"y": 347
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (int &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(int&,Point,Point)",
+							"r": "void Visit(int& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 8,
+								"y": 308
+							},
+							"b": {
+								"x": 2,
+								"y": 308
+							},
+							"e": {
+								"x": 11,
+								"y": 308
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "pos",
+							"t": "Point",
+							"i": "Upp::CodeVisitor::Item::pos",
+							"r": "Upp::Point pos",
+							"s": "Upp",
+							"u": "POS",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 7,
+								"y": 309
+							},
+							"b": {
+								"x": 2,
+								"y": 309
+							},
+							"e": {
+								"x": 77,
+								"y": 309
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "operator()",
+							"t": "bool (const Item &, const Item &) const",
+							"i": "Upp::CodeVisitor::Item::operator()(const Item&,const Item&)const",
+							"r": "bool operator()(const Upp::CodeVisitor::Item& a, const Upp::CodeVisitor::Item& b) const",
+							"s": "Upp",
+							"u": "OPERATOR()",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 24,
+								"y": 306
+							},
+							"b": {
+								"x": 2,
+								"y": 306
+							},
+							"e": {
+								"x": 31,
+								"y": 306
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ann",
+							"t": "const AnnotationItem *",
+							"i": "Upp::CodeVisitor::Item::ann",
+							"r": "const AnnotationItem *ann",
+							"s": "Upp",
+							"u": "ANN",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 9,
+								"y": 310
+							},
+							"b": {
+								"x": 2,
+								"y": 310
+							},
+							"e": {
+								"x": 2,
+								"y": 311
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "Upp::CodeVisitor::Item::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "Upp",
+							"u": "TOSTRING",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 318
+							},
+							"b": {
+								"x": 1,
+								"y": 318
+							},
+							"e": {
+								"x": 32,
+								"y": 318
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (AnnotationItem &)",
+							"i": "Upp::CodeVisitor::Visit(AnnotationItem&)",
+							"r": "void Visit(AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 319
+							},
+							"b": {
+								"x": 1,
+								"y": 319
+							},
+							"e": {
+								"x": 31,
+								"y": 319
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(ReferenceItem&)",
+							"r": "void Visit(ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 5,
+								"y": 362
+							},
+							"b": {
+								"x": 0,
+								"y": 362
+							},
+							"e": {
+								"x": 1,
+								"y": 364
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (AnnotationItem &)",
+							"i": "Upp::Visit(AnnotationItem&)",
+							"r": "void Visit(AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 5,
+								"y": 366
+							},
+							"b": {
+								"x": 0,
+								"y": 366
+							},
+							"e": {
+								"x": 30,
+								"y": 366
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (ReferenceItem &)",
+							"i": "Upp::Visit(ReferenceItem&)",
+							"r": "void Visit(ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 5,
+								"y": 366
+							},
+							"b": {
+								"x": 0,
+								"y": 366
+							},
+							"e": {
+								"x": 1,
+								"y": 368
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (ReferenceItem &)",
+							"i": "Upp::Visit(ReferenceItem&)",
+							"r": "void Visit(ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 317
+							},
+							"b": {
+								"x": 1,
+								"y": 317
+							},
+							"e": {
+								"x": 61,
+								"y": 317
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(const FileAnnotation&,Point,Point)",
+							"r": "void Visit(const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 322
+							},
+							"b": {
+								"x": 0,
+								"y": 322
+							},
+							"e": {
+								"x": 1,
+								"y": 360
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(const FileAnnotation&,Point,Point)",
+							"r": "void Visit(const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 362
+							},
+							"b": {
+								"x": 0,
+								"y": 362
+							},
+							"e": {
+								"x": 17,
+								"y": 417
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const AnnotationItem &)",
+							"i": "Upp::CodeVisitor::Visit(const AnnotationItem&)",
+							"r": "void Visit(const AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 366
+							},
+							"b": {
+								"x": 0,
+								"y": 366
+							},
+							"e": {
+								"x": 1,
+								"y": 370
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(const ReferenceItem&)",
+							"r": "void Visit(const ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 14,
+								"y": 314
+							},
+							"b": {
+								"x": 1,
+								"y": 314
+							},
+							"e": {
+								"x": 26,
+								"y": 314
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "export_items",
+							"t": "Vector<Item>",
+							"i": "Upp::CodeVisitor::export_items",
+							"r": "Vector<Item> export_items",
+							"s": "Upp",
+							"u": "EXPORT_ITEMS",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 320
+							},
+							"b": {
+								"x": 1,
+								"y": 320
+							},
+							"e": {
+								"x": 37,
+								"y": 320
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(const ReferenceItem&)",
+							"r": "void Visit(const ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 9,
+								"y": 308
+							},
+							"b": {
+								"x": 2,
+								"y": 308
+							},
+							"e": {
+								"x": 17,
+								"y": 308
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "error_id",
+							"t": "String",
+							"i": "Upp::CodeVisitor::Item::error_id",
+							"r": "Upp::String error_id",
+							"s": "Upp",
+							"u": "ERROR_ID",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 320
+							},
+							"b": {
+								"x": 1,
+								"y": 320
+							},
+							"e": {
+								"x": 38,
+								"y": 320
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const AnnotationItem &)",
+							"i": "Upp::CodeVisitor::Visit(const AnnotationItem&)",
+							"r": "void Visit(const AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 23,
+								"y": 308
+							},
+							"b": {
+								"x": 2,
+								"y": 308
+							},
+							"e": {
+								"x": 30,
+								"y": 308
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ref",
+							"t": "const ReferenceItem *",
+							"i": "Upp::CodeVisitor::Item::ref",
+							"r": "const ReferenceItem *ref",
+							"s": "Upp",
+							"u": "REF",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 372
+							},
+							"b": {
+								"x": 0,
+								"y": 372
+							},
+							"e": {
+								"x": 1,
+								"y": 377
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String)",
+							"i": "Upp::CodeVisitor::Visit(String)",
+							"r": "void Visit(Upp::String filconst)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 321
+							},
+							"b": {
+								"x": 1,
+								"y": 321
+							},
+							"e": {
+								"x": 55,
+								"y": 321
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String, const AnnotationItem &)",
+							"i": "Upp::CodeVisitor::Visit(String,const AnnotationItem&)",
+							"r": "void Visit(Upp::String filepath, const AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 322
+							},
+							"b": {
+								"x": 1,
+								"y": 322
+							},
+							"e": {
+								"x": 54,
+								"y": 322
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String, const ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(String,const ReferenceItem&)",
+							"r": "void Visit(Upp::String filepath, const ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 26,
+								"y": 317
+							},
+							"b": {
+								"x": 1,
+								"y": 317
+							},
+							"e": {
+								"x": 31,
+								"y": 317
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "files",
+							"t": "VectorMap<String, String>",
+							"i": "Upp::CodeVisitor::files",
+							"r": "VectorMap<String, String> files",
+							"s": "Upp",
+							"u": "FILES",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 373
+							},
+							"b": {
+								"x": 0,
+								"y": 373
+							},
+							"e": {
+								"x": 1,
+								"y": 378
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String, const AnnotationItem &)",
+							"i": "Upp::CodeVisitor::Visit(String,const AnnotationItem&)",
+							"r": "void Visit(Upp::String filepath, const AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 6,
+								"y": 324
+							},
+							"b": {
+								"x": 1,
+								"y": 324
+							},
+							"e": {
+								"x": 7,
+								"y": 324
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "L",
+							"t": "void",
+							"i": "Upp::CodeVisitor::L",
+							"r": "void L",
+							"s": "Upp",
+							"u": "L",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 14,
+								"y": 401
+							},
+							"b": {
+								"x": 0,
+								"y": 401
+							},
+							"e": {
+								"x": 1,
+								"y": 403
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "LoadPath",
+							"t": "const String &(String)",
+							"i": "Upp::LoadPath(String)",
+							"r": "const Upp::String& LoadPath(Upp::String path)",
+							"s": "Upp",
+							"u": "LOADPATH",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 27,
+								"y": 401
+							},
+							"b": {
+								"x": 0,
+								"y": 401
+							},
+							"e": {
+								"x": 1,
+								"y": 404
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "LoadPath",
+							"t": "const String &(String)",
+							"i": "Upp::CodeVisitor::LoadPath(String)",
+							"r": "const Upp::String& LoadPath(Upp::String path)",
+							"s": "Upp",
+							"u": "LOADPATH",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 327
+							},
+							"b": {
+								"x": 0,
+								"y": 327
+							},
+							"e": {
+								"x": 1,
+								"y": 372
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String, const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(String,const FileAnnotation&,Point,Point)",
+							"r": "void Visit(Upp::String path, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 321
+							},
+							"b": {
+								"x": 1,
+								"y": 321
+							},
+							"e": {
+								"x": 74,
+								"y": 321
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String, const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(String,const FileAnnotation&,Point,Point)",
+							"r": "void Visit(Upp::String path, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 322
+							},
+							"b": {
+								"x": 1,
+								"y": 322
+							},
+							"e": {
+								"x": 78,
+								"y": 322
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String, const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(String,const FileAnnotation&,Point,Point)",
+							"r": "void Visit(Upp::String filepath, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 15,
+								"y": 325
+							},
+							"b": {
+								"x": 1,
+								"y": 325
+							},
+							"e": {
+								"x": 36,
+								"y": 325
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "LoadPath",
+							"t": "const String &(String)",
+							"i": "Upp::CodeVisitor::LoadPath(String)",
+							"r": "const Upp::String& LoadPath(Upp::String path)",
+							"s": "Upp",
+							"u": "LOADPATH",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 328
+							},
+							"b": {
+								"x": 0,
+								"y": 328
+							},
+							"e": {
+								"x": 1,
+								"y": 373
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String, const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(String,const FileAnnotation&,Point,Point)",
+							"r": "void Visit(Upp::String filepath, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 5,
+								"y": 328
+							},
+							"b": {
+								"x": 0,
+								"y": 328
+							},
+							"e": {
+								"x": 1,
+								"y": 330
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Begin",
+							"t": "void ()",
+							"i": "Upp::Begin()",
+							"r": "void Begin()",
+							"s": "Upp",
+							"u": "BEGIN",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 328
+							},
+							"b": {
+								"x": 0,
+								"y": 328
+							},
+							"e": {
+								"x": 1,
+								"y": 331
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Begin",
+							"t": "void ()",
+							"i": "Upp::CodeVisitor::Begin()",
+							"r": "void Begin()",
+							"s": "Upp",
+							"u": "BEGIN",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 390
+							},
+							"b": {
+								"x": 0,
+								"y": 390
+							},
+							"e": {
+								"x": 1,
+								"y": 408
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (String, const ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(String,const ReferenceItem&)",
+							"r": "void Visit(Upp::String filepath, const ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 377
+							},
+							"b": {
+								"x": 0,
+								"y": 377
+							},
+							"e": {
+								"x": 1,
+								"y": 388
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const AnnotationItem &)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const AnnotationItem&)",
+							"r": "void Visit(const Upp::String& filepath, const AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 323
+							},
+							"b": {
+								"x": 1,
+								"y": 323
+							},
+							"e": {
+								"x": 62,
+								"y": 323
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const AnnotationItem &)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const AnnotationItem&)",
+							"r": "void Visit(const Upp::String& filepath, const AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 333
+							},
+							"b": {
+								"x": 0,
+								"y": 333
+							},
+							"e": {
+								"x": 1,
+								"y": 375
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const FileAnnotation&,Point,Point)",
+							"r": "void Visit(const Upp::String& filepath, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 323
+							},
+							"b": {
+								"x": 1,
+								"y": 323
+							},
+							"e": {
+								"x": 85,
+								"y": 323
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const FileAnnotation&,Point,Point)",
+							"r": "void Visit(const Upp::String& filepath, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 325
+							},
+							"b": {
+								"x": 1,
+								"y": 325
+							},
+							"e": {
+								"x": 61,
+								"y": 325
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const ReferenceItem&)",
+							"r": "void Visit(const Upp::String& filepath, const ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 391
+							},
+							"b": {
+								"x": 0,
+								"y": 391
+							},
+							"e": {
+								"x": 1,
+								"y": 409
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const ReferenceItem&)",
+							"r": "void Visit(const Upp::String& filepath, const ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 323
+							},
+							"b": {
+								"x": 1,
+								"y": 323
+							},
+							"e": {
+								"x": 13,
+								"y": 323
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Begin",
+							"t": "void ()",
+							"i": "Upp::CodeVisitor::Begin()",
+							"r": "void Begin()",
+							"s": "Upp",
+							"u": "BEGIN",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 328
+							},
+							"b": {
+								"x": 1,
+								"y": 328
+							},
+							"e": {
+								"x": 61,
+								"y": 328
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const ReferenceItem&)",
+							"r": "void Visit(const Upp::String& filepath, const ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 5,
+								"y": 422
+							},
+							"b": {
+								"x": 0,
+								"y": 422
+							},
+							"e": {
+								"x": 1,
+								"y": 438
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "VisitId",
+							"t": "void (const String &, const String &)",
+							"i": "Upp::VisitId(const String&,const String&)",
+							"r": "void VisitId(const Upp::String& filepath, const Upp::String& id)",
+							"s": "Upp",
+							"u": "VISITID",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 423
+							},
+							"b": {
+								"x": 0,
+								"y": 423
+							},
+							"e": {
+								"x": 1,
+								"y": 439
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "VisitId",
+							"t": "void (const String &, const String &)",
+							"i": "Upp::CodeVisitor::VisitId(const String&,const String&)",
+							"r": "void VisitId(const Upp::String& filepath, const Upp::String& id)",
+							"s": "Upp",
+							"u": "VISITID",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 18,
+								"y": 423
+							},
+							"b": {
+								"x": 0,
+								"y": 423
+							},
+							"e": {
+								"x": 1,
+								"y": 438
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "VisitId",
+							"t": "void (const String &, const String &)",
+							"i": "Upp::CodeVisitor::VisitId(const String&,const String&)",
+							"r": "void VisitId(const Upp::String& filepath, const Upp::String& cmp_id)",
+							"s": "Upp",
+							"u": "VISITID",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
 					}
 				]
 			}
@@ -5312,6 +7360,38 @@
 							"r": "static ArrayMap<String, AionFile>& AionFiles()",
 							"s": "Upp",
 							"u": "AIONFILES",
+							"q": "Upp::AICodeCtrl",
+							"w": "UPP::AICODECTRL",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 25,
+								"y": 11
+							},
+							"b": {
+								"x": 1,
+								"y": 25
+							},
+							"e": {
+								"x": 35,
+								"y": 25
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "depthfirst",
+							"t": "ArrayCtrl",
+							"i": "Upp::AICodeCtrl::depthfirst",
+							"r": "Upp::ArrayCtrl depthfirst",
+							"s": "Upp",
+							"u": "DEPTHFIRST",
 							"q": "Upp::AICodeCtrl",
 							"w": "UPP::AICODECTRL",
 							"y": ""
@@ -20346,7 +22426,790 @@
 					}
 				]
 			}
+		},
+		{
+			"key": "/home/sblo/ai-upp/uppsrc/AI/CodeVisitor.h",
+			"value": {
+				"items": [
+					{
+						"a": {
+							"k": 501,
+							"p": {
+								"x": 8,
+								"y": 1
+							},
+							"b": {
+								"x": 8,
+								"y": 1
+							},
+							"e": {
+								"x": 26,
+								"y": 1
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "_AI_CodeVisitor_h_",
+							"t": "",
+							"i": "_AI_CodeVisitor_h_",
+							"r": "_AI_CodeVisitor_h_",
+							"s": "",
+							"u": "_AI_CODEVISITOR_H_",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 2,
+							"p": {
+								"x": 7,
+								"y": 5
+							},
+							"b": {
+								"x": 0,
+								"y": 5
+							},
+							"e": {
+								"x": 1,
+								"y": 31
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "CodeVisitor",
+							"t": "Upp::CodeVisitor",
+							"i": "Upp::CodeVisitor",
+							"r": "CodeVisitor",
+							"s": "Upp",
+							"u": "CODEVISITOR",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 2,
+							"p": {
+								"x": 8,
+								"y": 7
+							},
+							"b": {
+								"x": 1,
+								"y": 7
+							},
+							"e": {
+								"x": 2,
+								"y": 14
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Item",
+							"t": "Upp::CodeVisitor::Item",
+							"i": "Upp::CodeVisitor::Item",
+							"r": "Item : Moveable<Item>",
+							"s": "Upp",
+							"u": "ITEM",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": "Upp::Moveable"
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 24,
+								"y": 8
+							},
+							"b": {
+								"x": 2,
+								"y": 8
+							},
+							"e": {
+								"x": 31,
+								"y": 8
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ann",
+							"t": "const AnnotationItem *",
+							"i": "Upp::CodeVisitor::Item::ann",
+							"r": "const AnnotationItem *ann",
+							"s": "Upp",
+							"u": "ANN",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 23,
+								"y": 9
+							},
+							"b": {
+								"x": 2,
+								"y": 9
+							},
+							"e": {
+								"x": 30,
+								"y": 9
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ref",
+							"t": "const ReferenceItem *",
+							"i": "Upp::CodeVisitor::Item::ref",
+							"r": "const ReferenceItem *ref",
+							"s": "Upp",
+							"u": "REF",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 9,
+								"y": 10
+							},
+							"b": {
+								"x": 2,
+								"y": 10
+							},
+							"e": {
+								"x": 17,
+								"y": 10
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "error_id",
+							"t": "String",
+							"i": "Upp::CodeVisitor::Item::error_id",
+							"r": "Upp::String error_id",
+							"s": "Upp",
+							"u": "ERROR_ID",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 8,
+								"y": 11
+							},
+							"b": {
+								"x": 2,
+								"y": 11
+							},
+							"e": {
+								"x": 11,
+								"y": 11
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "pos",
+							"t": "Point",
+							"i": "Upp::CodeVisitor::Item::pos",
+							"r": "Upp::Point pos",
+							"s": "Upp",
+							"u": "POS",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 7,
+								"y": 12
+							},
+							"b": {
+								"x": 2,
+								"y": 12
+							},
+							"e": {
+								"x": 122,
+								"y": 12
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "operator()",
+							"t": "bool (const Item &, const Item &) const",
+							"i": "Upp::CodeVisitor::Item::operator()(const Item&,const Item&)const",
+							"r": "bool operator()(const Upp::CodeVisitor::Item& a, const Upp::CodeVisitor::Item& b) const",
+							"s": "Upp",
+							"u": "OPERATOR()",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 9,
+								"y": 13
+							},
+							"b": {
+								"x": 2,
+								"y": 13
+							},
+							"e": {
+								"x": 147,
+								"y": 13
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToString",
+							"t": "String () const",
+							"i": "Upp::CodeVisitor::Item::ToString()const",
+							"r": "Upp::String ToString() const",
+							"s": "Upp",
+							"u": "TOSTRING",
+							"q": "Upp::CodeVisitor::Item",
+							"w": "UPP::CODEVISITOR::ITEM",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 5,
+								"y": 15
+							},
+							"b": {
+								"x": 1,
+								"y": 15
+							},
+							"e": {
+								"x": 14,
+								"y": 15
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "limit",
+							"t": "int",
+							"i": "Upp::CodeVisitor::limit",
+							"r": "int limit",
+							"s": "Upp",
+							"u": "LIMIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 14,
+								"y": 16
+							},
+							"b": {
+								"x": 1,
+								"y": 16
+							},
+							"e": {
+								"x": 19,
+								"y": 16
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "items",
+							"t": "Vector<Item>",
+							"i": "Upp::CodeVisitor::items",
+							"r": "Vector<Item> items",
+							"s": "Upp",
+							"u": "ITEMS",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 14,
+								"y": 17
+							},
+							"b": {
+								"x": 1,
+								"y": 17
+							},
+							"e": {
+								"x": 26,
+								"y": 17
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "export_items",
+							"t": "Vector<Item>",
+							"i": "Upp::CodeVisitor::export_items",
+							"r": "Vector<Item> export_items",
+							"s": "Upp",
+							"u": "EXPORT_ITEMS",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 26,
+								"y": 18
+							},
+							"b": {
+								"x": 1,
+								"y": 18
+							},
+							"e": {
+								"x": 31,
+								"y": 18
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "files",
+							"t": "VectorMap<String, String>",
+							"i": "Upp::CodeVisitor::files",
+							"r": "VectorMap<String, String> files",
+							"s": "Upp",
+							"u": "FILES",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 15,
+								"y": 19
+							},
+							"b": {
+								"x": 1,
+								"y": 19
+							},
+							"e": {
+								"x": 27,
+								"y": 19
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "visited_refs",
+							"t": "Index<String>",
+							"i": "Upp::CodeVisitor::visited_refs",
+							"r": "Index<String> visited_refs",
+							"s": "Upp",
+							"u": "VISITED_REFS",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 15,
+								"y": 20
+							},
+							"b": {
+								"x": 1,
+								"y": 20
+							},
+							"e": {
+								"x": 27,
+								"y": 20
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "visited_defs",
+							"t": "Index<String>",
+							"i": "Upp::CodeVisitor::visited_defs",
+							"r": "Index<String> visited_defs",
+							"s": "Upp",
+							"u": "VISITED_DEFS",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 15,
+								"y": 21
+							},
+							"b": {
+								"x": 1,
+								"y": 21
+							},
+							"e": {
+								"x": 28,
+								"y": 21
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "visited_decls",
+							"t": "Index<String>",
+							"i": "Upp::CodeVisitor::visited_decls",
+							"r": "Index<String> visited_decls",
+							"s": "Upp",
+							"u": "VISITED_DECLS",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 1,
+								"y": 23
+							},
+							"b": {
+								"x": 1,
+								"y": 23
+							},
+							"e": {
+								"x": 17,
+								"y": 23
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "CodeVisitor",
+							"t": "void ()",
+							"i": "Upp::CodeVisitor::CodeVisitor()",
+							"r": "CodeVisitor()",
+							"s": "Upp",
+							"u": "CODEVISITOR",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 24
+							},
+							"b": {
+								"x": 1,
+								"y": 24
+							},
+							"e": {
+								"x": 34,
+								"y": 24
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "SetLimit",
+							"t": "void (int)",
+							"i": "Upp::CodeVisitor::SetLimit(int)",
+							"r": "void SetLimit(int i)",
+							"s": "Upp",
+							"u": "SETLIMIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 25
+							},
+							"b": {
+								"x": 1,
+								"y": 25
+							},
+							"e": {
+								"x": 13,
+								"y": 25
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Begin",
+							"t": "void ()",
+							"i": "Upp::CodeVisitor::Begin()",
+							"r": "void Begin()",
+							"s": "Upp",
+							"u": "BEGIN",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 26
+							},
+							"b": {
+								"x": 1,
+								"y": 26
+							},
+							"e": {
+								"x": 85,
+								"y": 26
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const FileAnnotation &, Point, Point)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const FileAnnotation&,Point,Point)",
+							"r": "void Visit(const Upp::String& filepath, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 27
+							},
+							"b": {
+								"x": 1,
+								"y": 27
+							},
+							"e": {
+								"x": 62,
+								"y": 27
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const AnnotationItem &)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const AnnotationItem&)",
+							"r": "void Visit(const Upp::String& filepath, const AnnotationItem& ann)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 28
+							},
+							"b": {
+								"x": 1,
+								"y": 28
+							},
+							"e": {
+								"x": 61,
+								"y": 28
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Visit",
+							"t": "void (const String &, const ReferenceItem &)",
+							"i": "Upp::CodeVisitor::Visit(const String&,const ReferenceItem&)",
+							"r": "void Visit(const Upp::String& filepath, const ReferenceItem& ref)",
+							"s": "Upp",
+							"u": "VISIT",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 29
+							},
+							"b": {
+								"x": 1,
+								"y": 29
+							},
+							"e": {
+								"x": 55,
+								"y": 29
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "VisitId",
+							"t": "void (const String &, const String &)",
+							"i": "Upp::CodeVisitor::VisitId(const String&,const String&)",
+							"r": "void VisitId(const Upp::String& filepath, const Upp::String& id)",
+							"s": "Upp",
+							"u": "VISITID",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 15,
+								"y": 30
+							},
+							"b": {
+								"x": 1,
+								"y": 30
+							},
+							"e": {
+								"x": 36,
+								"y": 30
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "LoadPath",
+							"t": "const String &(String)",
+							"i": "Upp::CodeVisitor::LoadPath(String)",
+							"r": "const Upp::String& LoadPath(Upp::String path)",
+							"s": "Upp",
+							"u": "LOADPATH",
+							"q": "Upp::CodeVisitor",
+							"w": "UPP::CODEVISITOR",
+							"y": ""
+						},
+						"c": [
+
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "/home/sblo/ai-upp/uppsrc/AI/CodeVisitor.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
 		}
 	],
-	"saved_hash": "73dc5820fa4a9d310f7a7447dc45ec03741435ed"
+	"saved_hash": "f90c08f03b92e4d1f22e7e4d017b40227eba2aa7"
 }
