@@ -1,1 +1,21 @@
-{"files":[{"key":"/home/sblo/ai-upp/uppsrc/uppconfig.h","value":{"items":[]}},{"key":"/home/sblo/ai-upp/uppsrc/guiplatform.h","value":{"items":[]}}],"saved_hash":"a1677a1804896e105b8cf2a957427a48d90c6812"}
+{
+	"files": [
+		{
+			"key": "/home/sblo/ai-upp/uppsrc/uppconfig.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "/home/sblo/ai-upp/uppsrc/guiplatform.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	],
+	"saved_hash": "67d7237e5a2a261cb70bdf2ead857a850a7ccea9"
+}
