@@ -1,1 +1,646 @@
-{"files":[{"key":"/home/sblo/ai-upp/examples/HelloWorld/hello.cpp","value":{"items":[{"a":{"k":4,"p":{"x":6,"y":4},"b":{"x":0,"y":4},"e":{"x":1,"y":16},"d":true,"iv":false,"is":false,"n":"HelloWorld","t":"HelloWorld","i":"HelloWorld","r":"HelloWorld : public Upp::TopWindow","s":"","u":"HELLOWORLD","q":"HelloWorld","w":"HELLOWORLD","y":"Upp::TopWindow"},"c":[]},{"a":{"k":6,"p":{"x":9,"y":5},"b":{"x":1,"y":5},"e":{"x":13,"y":5},"d":true,"iv":false,"is":false,"n":"menu","t":"MenuBar","i":"HelloWorld::menu","r":"Upp::MenuBar menu","s":"","u":"MENU","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":6,"p":{"x":11,"y":6},"b":{"x":1,"y":6},"e":{"x":17,"y":6},"d":true,"iv":false,"is":false,"n":"status","t":"StatusBar","i":"HelloWorld::status","r":"Upp::StatusBar status","s":"","u":"STATUS","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":21,"p":{"x":6,"y":8},"b":{"x":1,"y":8},"e":{"x":24,"y":8},"d":false,"iv":false,"is":false,"n":"FileMenu","t":"void (Bar &)","i":"HelloWorld::FileMenu(Bar&)","r":"void FileMenu(Upp::Bar& bar)","s":"","u":"FILEMENU","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":21,"p":{"x":6,"y":9},"b":{"x":1,"y":9},"e":{"x":24,"y":9},"d":false,"iv":false,"is":false,"n":"MainMenu","t":"void (Bar &)","i":"HelloWorld::MainMenu(Bar&)","r":"void MainMenu(Upp::Bar& bar)","s":"","u":"MAINMENU","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":21,"p":{"x":6,"y":10},"b":{"x":1,"y":10},"e":{"x":13,"y":10},"d":false,"iv":false,"is":false,"n":"About","t":"void ()","i":"HelloWorld::About()","r":"void About()","s":"","u":"ABOUT","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":20,"p":{"x":20,"y":13},"b":{"x":1,"y":13},"e":{"x":29,"y":13},"d":true,"iv":false,"is":false,"n":"CLASSNAME","t":"HelloWorld::CLASSNAME","i":"HelloWorld::CLASSNAME","r":"typedef HelloWorld CLASSNAME","s":"","u":"CLASSNAME","q":"HelloWorld","w":"HELLOWORLD","y":"HelloWorld"},"c":[]},{"a":{"k":24,"p":{"x":1,"y":15},"b":{"x":1,"y":15},"e":{"x":13,"y":15},"d":false,"iv":false,"is":false,"n":"HelloWorld","t":"void ()","i":"HelloWorld::HelloWorld()","r":"HelloWorld()","s":"","u":"HELLOWORLD","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":21,"p":{"x":17,"y":18},"b":{"x":0,"y":18},"e":{"x":1,"y":21},"d":true,"iv":false,"is":false,"n":"About","t":"void ()","i":"HelloWorld::About()","r":"void About()","s":"","u":"ABOUT","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":21,"p":{"x":17,"y":23},"b":{"x":0,"y":23},"e":{"x":1,"y":28},"d":true,"iv":false,"is":false,"n":"FileMenu","t":"void (Bar &)","i":"HelloWorld::FileMenu(Bar&)","r":"void FileMenu(Upp::Bar& bar)","s":"","u":"FILEMENU","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":21,"p":{"x":17,"y":30},"b":{"x":0,"y":30},"e":{"x":1,"y":33},"d":true,"iv":false,"is":false,"n":"MainMenu","t":"void (Bar &)","i":"HelloWorld::MainMenu(Bar&)","r":"void MainMenu(Upp::Bar& bar)","s":"","u":"MAINMENU","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":24,"p":{"x":12,"y":35},"b":{"x":0,"y":35},"e":{"x":1,"y":41},"d":true,"iv":false,"is":false,"n":"HelloWorld","t":"void ()","i":"HelloWorld::HelloWorld()","r":"HelloWorld()","s":"","u":"HELLOWORLD","q":"HelloWorld","w":"HELLOWORLD","y":""},"c":[]},{"a":{"k":8,"p":{"x":0,"y":43},"b":{"x":0,"y":43},"e":{"x":1,"y":47},"d":true,"iv":false,"is":false,"n":"GuiMainFn_","t":"void ()","i":"GuiMainFn_()","r":"void GuiMainFn_()","s":"","u":"GUIMAINFN_","q":"","w":"","y":""},"c":[]},{"a":{"k":8,"p":{"x":0,"y":43},"b":{"x":0,"y":43},"e":{"x":12,"y":43},"d":true,"iv":false,"is":false,"n":"main","t":"int (int, char **, const char **)","i":"main(int,char**,const char**)","r":"int main(int argc, char **argv, const char **envptr)","s":"","u":"MAIN","q":"","w":"","y":""},"c":[]},{"a":{"k":8,"p":{"x":0,"y":43},"b":{"x":0,"y":43},"e":{"x":12,"y":43},"d":false,"iv":false,"is":false,"n":"GuiMainFn_","t":"void ()","i":"GuiMainFn_()","r":"void GuiMainFn_()","s":"","u":"GUIMAINFN_","q":"","w":"","y":""},"c":[]}]}}],"saved_hash":"be4ce48a9100eef444eaa90090faae110c05be39"}
+{
+	"files": [
+		{
+			"key": "/home/sblo/ai-upp/examples/HelloWorld/hello.cpp",
+			"value": {
+				"items": [
+					{
+						"a": {
+							"k": 4,
+							"p": {
+								"x": 6,
+								"y": 4
+							},
+							"b": {
+								"x": 0,
+								"y": 4
+							},
+							"e": {
+								"x": 1,
+								"y": 16
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "HelloWorld",
+							"t": "HelloWorld",
+							"i": "HelloWorld",
+							"r": "HelloWorld : public Upp::TopWindow",
+							"s": "",
+							"u": "HELLOWORLD",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": "Upp::TopWindow"
+						},
+						"c": [
+							{
+								"l": 0,
+								"h": "-195170493901793478",
+								"s": "Defines a Hello World class that is public"
+							},
+							{
+								"l": 1,
+								"h": "2472666220735034434",
+								"s": "Creates two menus, both within elements"
+							},
+							{
+								"l": 2,
+								"h": "7959457031051891591",
+								"s": "Creates a status bar within the window"
+							},
+							{
+								"l": 4,
+								"h": "-663764231951216291",
+								"s": "Defines a function for the File Menu"
+							},
+							{
+								"l": 5,
+								"h": "-8835381987521285918",
+								"s": "Defines a function for the Main Menu"
+							},
+							{
+								"l": 6,
+								"h": "-161817307331669615",
+								"s": "Defines a function for displaying the About information"
+							},
+							{
+								"l": 9,
+								"h": "5577873112731025437",
+								"s": "typedef is used for declaring an alias for a data type."
+							},
+							{
+								"l": 11,
+								"h": "3851472654717448852",
+								"s": "Default constructor for the HelloWorld class"
+							}
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 9,
+								"y": 5
+							},
+							"b": {
+								"x": 1,
+								"y": 5
+							},
+							"e": {
+								"x": 13,
+								"y": 5
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "menu",
+							"t": "MenuBar",
+							"i": "HelloWorld::menu",
+							"r": "Upp::MenuBar menu",
+							"s": "",
+							"u": "MENU",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 11,
+								"y": 6
+							},
+							"b": {
+								"x": 1,
+								"y": 6
+							},
+							"e": {
+								"x": 17,
+								"y": 6
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "status",
+							"t": "StatusBar",
+							"i": "HelloWorld::status",
+							"r": "Upp::StatusBar status",
+							"s": "",
+							"u": "STATUS",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 8
+							},
+							"b": {
+								"x": 1,
+								"y": 8
+							},
+							"e": {
+								"x": 24,
+								"y": 8
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "FileMenu",
+							"t": "void (Bar &)",
+							"i": "HelloWorld::FileMenu(Bar&)",
+							"r": "void FileMenu(Upp::Bar& bar)",
+							"s": "",
+							"u": "FILEMENU",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 9
+							},
+							"b": {
+								"x": 1,
+								"y": 9
+							},
+							"e": {
+								"x": 24,
+								"y": 9
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "MainMenu",
+							"t": "void (Bar &)",
+							"i": "HelloWorld::MainMenu(Bar&)",
+							"r": "void MainMenu(Upp::Bar& bar)",
+							"s": "",
+							"u": "MAINMENU",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 10
+							},
+							"b": {
+								"x": 1,
+								"y": 10
+							},
+							"e": {
+								"x": 13,
+								"y": 10
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "About",
+							"t": "void ()",
+							"i": "HelloWorld::About()",
+							"r": "void About()",
+							"s": "",
+							"u": "ABOUT",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 20,
+							"p": {
+								"x": 20,
+								"y": 13
+							},
+							"b": {
+								"x": 1,
+								"y": 13
+							},
+							"e": {
+								"x": 29,
+								"y": 13
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "CLASSNAME",
+							"t": "HelloWorld::CLASSNAME",
+							"i": "HelloWorld::CLASSNAME",
+							"r": "typedef HelloWorld CLASSNAME",
+							"s": "",
+							"u": "CLASSNAME",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": "HelloWorld"
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 1,
+								"y": 15
+							},
+							"b": {
+								"x": 1,
+								"y": 15
+							},
+							"e": {
+								"x": 13,
+								"y": 15
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "HelloWorld",
+							"t": "void ()",
+							"i": "HelloWorld::HelloWorld()",
+							"r": "HelloWorld()",
+							"s": "",
+							"u": "HELLOWORLD",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 17,
+								"y": 18
+							},
+							"b": {
+								"x": 0,
+								"y": 18
+							},
+							"e": {
+								"x": 1,
+								"y": 21
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "About",
+							"t": "void ()",
+							"i": "HelloWorld::About()",
+							"r": "void About()",
+							"s": "",
+							"u": "ABOUT",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+							{
+								"l": 0,
+								"h": "-2586256925660219291",
+								"s": "Defines a function named \"About\" that returns void and belongs to the class \"HelloWorld\""
+							},
+							{
+								"l": 1,
+								"h": "6760800398266365036",
+								"s": "Starts the body of the \"About\" function"
+							},
+							{
+								"l": 2,
+								"h": "-5896220437347812512",
+								"s": "Displays the given message using the PromptOK function"
+							},
+							{
+								"l": 3,
+								"h": "-1258570005006317306",
+								"s": "Closes the body of the \"About\" function"
+							}
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 17,
+								"y": 23
+							},
+							"b": {
+								"x": 0,
+								"y": 23
+							},
+							"e": {
+								"x": 1,
+								"y": 28
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "FileMenu",
+							"t": "void (Bar &)",
+							"i": "HelloWorld::FileMenu(Bar&)",
+							"r": "void FileMenu(Upp::Bar& bar)",
+							"s": "",
+							"u": "FILEMENU",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+							{
+								"l": 0,
+								"h": "-6352598482575200101",
+								"s": "Bar allows you to create a simple drop-down menu in a window or dialog box in your program"
+							},
+							{
+								"l": 1,
+								"h": "6760800398266365036",
+								"s": "Definition of FileMenu, inside it's body we insert the two items of drop down menu, \"About\" and \"Exit\""
+							},
+							{
+								"l": 2,
+								"h": "-6684243577893930009",
+								"s": "Add \"About..\" to the drop-down menu using bar.Add() function, THISBACK is used to specify the function to be executed when the menu item is clicked."
+							},
+							{
+								"l": 3,
+								"h": "6520786189030435033",
+								"s": "Insert a separator between the two items for visual clarity"
+							},
+							{
+								"l": 4,
+								"h": "5663879624691540832",
+								"s": "Add \"Exit\" to the drop-down menu using bar.Add() function, THISBACK is used to specify the function to be executed when the menu item is clicked."
+							},
+							{
+								"l": 5,
+								"h": "-1258570005006317306",
+								"s": "Close the window or dialog box when the \"Exit\" menu item is clicked."
+							}
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 17,
+								"y": 30
+							},
+							"b": {
+								"x": 0,
+								"y": 30
+							},
+							"e": {
+								"x": 1,
+								"y": 33
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "MainMenu",
+							"t": "void (Bar &)",
+							"i": "HelloWorld::MainMenu(Bar&)",
+							"r": "void MainMenu(Upp::Bar& bar)",
+							"s": "",
+							"u": "MAINMENU",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+							{
+								"l": 0,
+								"h": "-7620028912849809509",
+								"s": "main menu definition"
+							},
+							{
+								"l": 2,
+								"h": "-6389612837027290126",
+								"s": "adding submenu for \"file\" with action specified by the method pointer \"FileMenu\""
+							}
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 12,
+								"y": 35
+							},
+							"b": {
+								"x": 0,
+								"y": 35
+							},
+							"e": {
+								"x": 1,
+								"y": 41
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "HelloWorld",
+							"t": "void ()",
+							"i": "HelloWorld::HelloWorld()",
+							"r": "HelloWorld()",
+							"s": "",
+							"u": "HELLOWORLD",
+							"q": "HelloWorld",
+							"w": "HELLOWORLD",
+							"y": ""
+						},
+						"c": [
+							{
+								"l": 0,
+								"h": "-8050156175080078276",
+								"s": "Declare a class HelloWorld"
+							},
+							{
+								"l": 1,
+								"h": "6760800398266365036",
+								"s": "Define the constructor for HelloWorld"
+							},
+							{
+								"l": 2,
+								"h": "3328202556659995527",
+								"s": "Add a frame named \"menu\" to the HelloWorld"
+							},
+							{
+								"l": 3,
+								"h": "-2995310550607242738",
+								"s": "Add a frame named \"status\" to the HelloWorld"
+							},
+							{
+								"l": 4,
+								"h": "1026919663198789531",
+								"s": "Set the menu and its properties for the HelloWorld"
+							},
+							{
+								"l": 5,
+								"h": "4411774237708798897",
+								"s": "Set the status message for the HelloWorld"
+							},
+							{
+								"l": 6,
+								"h": "-1258570005006317306",
+								"s": "End constructor function and class definition"
+							}
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 43
+							},
+							"b": {
+								"x": 0,
+								"y": 43
+							},
+							"e": {
+								"x": 1,
+								"y": 47
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "GuiMainFn_",
+							"t": "void ()",
+							"i": "GuiMainFn_()",
+							"r": "void GuiMainFn_()",
+							"s": "",
+							"u": "GUIMAINFN_",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+							{
+								"l": 0,
+								"h": "8857024439376359189",
+								"s": "This line defines the main function of the program."
+							},
+							{
+								"l": 1,
+								"h": "6760800398266365036",
+								"s": "This line indicates the start of the main function."
+							},
+							{
+								"l": 2,
+								"h": "5994298357442561552",
+								"s": "This line sets the language of the program to English."
+							},
+							{
+								"l": 3,
+								"h": "-6116780816864416595",
+								"s": "This line creates a new instance of the HelloWorld class and runs it."
+							},
+							{
+								"l": 4,
+								"h": "-1258570005006317306",
+								"s": "This line marks the end of the main function."
+							}
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 43
+							},
+							"b": {
+								"x": 0,
+								"y": 43
+							},
+							"e": {
+								"x": 12,
+								"y": 43
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "main",
+							"t": "int (int, char **, const char **)",
+							"i": "main(int,char**,const char**)",
+							"r": "int main(int argc, char **argv, const char **envptr)",
+							"s": "",
+							"u": "MAIN",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 0,
+								"y": 43
+							},
+							"b": {
+								"x": 0,
+								"y": 43
+							},
+							"e": {
+								"x": 12,
+								"y": 43
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "GuiMainFn_",
+							"t": "void ()",
+							"i": "GuiMainFn_()",
+							"r": "void GuiMainFn_()",
+							"s": "",
+							"u": "GUIMAINFN_",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					}
+				]
+			}
+		}
+	],
+	"saved_hash": "53401f56df2fa15750c5a457da09ef31d3350a99"
+}

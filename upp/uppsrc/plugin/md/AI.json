@@ -1,1 +1,1875 @@
-{"files":[{"key":"/home/sblo/ai-upp/uppsrc/plugin/md/Markdown.h","value":{"items":[{"a":{"k":501,"p":{"x":8,"y":1},"b":{"x":8,"y":1},"e":{"x":22,"y":1},"d":false,"iv":false,"is":false,"n":"Upp_Markdown_h","t":"","i":"Upp_Markdown_h","r":"Upp_Markdown_h","s":"","u":"UPP_MARKDOWN_H","q":"","w":"","y":""},"c":[]},{"a":{"k":4,"p":{"x":6,"y":9},"b":{"x":0,"y":9},"e":{"x":1,"y":37},"d":true,"iv":false,"is":false,"n":"MarkdownConverter","t":"Upp::MarkdownConverter","i":"Upp::MarkdownConverter","r":"MarkdownConverter","s":"Upp","u":"MARKDOWNCONVERTER","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":24,"p":{"x":4,"y":11},"b":{"x":4,"y":11},"e":{"x":57,"y":11},"d":true,"iv":false,"is":false,"n":"MarkdownConverter","t":"void ()","i":"Upp::MarkdownConverter::MarkdownConverter()","r":"MarkdownConverter()","s":"Upp","u":"MARKDOWNCONVERTER","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":13},"b":{"x":4,"y":13},"e":{"x":173,"y":13},"d":true,"iv":false,"is":false,"n":"CollapseWhitespaces","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::CollapseWhitespaces(bool)","r":"Upp::MarkdownConverter& CollapseWhitespaces(bool b = true)","s":"Upp","u":"COLLAPSEWHITESPACES","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":14},"b":{"x":4,"y":14},"e":{"x":175,"y":14},"d":true,"iv":false,"is":false,"n":"NoIndentedCodeblocks","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::NoIndentedCodeblocks(bool)","r":"Upp::MarkdownConverter& NoIndentedCodeblocks(bool b = true)","s":"Upp","u":"NOINDENTEDCODEBLOCKS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":15},"b":{"x":4,"y":15},"e":{"x":161,"y":15},"d":true,"iv":false,"is":false,"n":"Tables","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::Tables(bool)","r":"Upp::MarkdownConverter& Tables(bool b = true)","s":"Upp","u":"TABLES","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":16},"b":{"x":4,"y":16},"e":{"x":164,"y":16},"d":true,"iv":false,"is":false,"n":"WikiLinks","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::WikiLinks(bool)","r":"Upp::MarkdownConverter& WikiLinks(bool b = true)","s":"Upp","u":"WIKILINKS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":17},"b":{"x":4,"y":17},"e":{"x":168,"y":17},"d":true,"iv":false,"is":false,"n":"Strikeout","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::Strikeout(bool)","r":"Upp::MarkdownConverter& Strikeout(bool b = true)","s":"Upp","u":"STRIKEOUT","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":18},"b":{"x":4,"y":18},"e":{"x":164,"y":18},"d":true,"iv":false,"is":false,"n":"Underline","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::Underline(bool)","r":"Upp::MarkdownConverter& Underline(bool b = true)","s":"Upp","u":"UNDERLINE","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":19},"b":{"x":4,"y":19},"e":{"x":167,"y":19},"d":true,"iv":false,"is":false,"n":"NoHtmlBlocks","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::NoHtmlBlocks(bool)","r":"Upp::MarkdownConverter& NoHtmlBlocks(bool b = true)","s":"Upp","u":"NOHTMLBLOCKS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":20},"b":{"x":4,"y":20},"e":{"x":166,"y":20},"d":true,"iv":false,"is":false,"n":"NoHtmlSpans","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::NoHtmlSpans(bool)","r":"Upp::MarkdownConverter& NoHtmlSpans(bool b = true)","s":"Upp","u":"NOHTMLSPANS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":21},"b":{"x":4,"y":21},"e":{"x":161,"y":21},"d":true,"iv":false,"is":false,"n":"NoHtml","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::NoHtml(bool)","r":"Upp::MarkdownConverter& NoHtml(bool b = true)","s":"Upp","u":"NOHTML","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":22},"b":{"x":4,"y":22},"e":{"x":175,"y":22},"d":true,"iv":false,"is":false,"n":"PermissiveAtxHeaders","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::PermissiveAtxHeaders(bool)","r":"Upp::MarkdownConverter& PermissiveAtxHeaders(bool b = true)","s":"Upp","u":"PERMISSIVEATXHEADERS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":23},"b":{"x":4,"y":23},"e":{"x":177,"y":23},"d":true,"iv":false,"is":false,"n":"PermissiveUrlAutolinks","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::PermissiveUrlAutolinks(bool)","r":"Upp::MarkdownConverter& PermissiveUrlAutolinks(bool b = true)","s":"Upp","u":"PERMISSIVEURLAUTOLINKS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":24},"b":{"x":4,"y":24},"e":{"x":177,"y":24},"d":true,"iv":false,"is":false,"n":"PermissiveWWWAutolinks","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::PermissiveWWWAutolinks(bool)","r":"Upp::MarkdownConverter& PermissiveWWWAutolinks(bool b = true)","s":"Upp","u":"PERMISSIVEWWWAUTOLINKS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":25},"b":{"x":4,"y":25},"e":{"x":179,"y":25},"d":true,"iv":false,"is":false,"n":"PermissiveEmailAutolinks","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::PermissiveEmailAutolinks(bool)","r":"Upp::MarkdownConverter& PermissiveEmailAutolinks(bool b = true)","s":"Upp","u":"PERMISSIVEEMAILAUTOLINKS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":26},"b":{"x":4,"y":26},"e":{"x":174,"y":26},"d":true,"iv":false,"is":false,"n":"PermissiveAutolinks","t":"MarkdownConverter &(bool)","i":"Upp::MarkdownConverter::PermissiveAutolinks(bool)","r":"Upp::MarkdownConverter& PermissiveAutolinks(bool b = true)","s":"Upp","u":"PERMISSIVEAUTOLINKS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":28},"b":{"x":4,"y":28},"e":{"x":112,"y":28},"d":true,"iv":false,"is":false,"n":"CommonMarkDialect","t":"MarkdownConverter &()","i":"Upp::MarkdownConverter::CommonMarkDialect()","r":"Upp::MarkdownConverter& CommonMarkDialect()","s":"Upp","u":"COMMONMARKDIALECT","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":29},"b":{"x":4,"y":29},"e":{"x":108,"y":29},"d":true,"iv":false,"is":false,"n":"GitHubDialect","t":"MarkdownConverter &()","i":"Upp::MarkdownConverter::GitHubDialect()","r":"Upp::MarkdownConverter& GitHubDialect()","s":"Upp","u":"GITHUBDIALECT","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":21,"p":{"x":11,"y":31},"b":{"x":4,"y":31},"e":{"x":45,"y":31},"d":false,"iv":false,"is":false,"n":"ToQtf","t":"String (const String &)","i":"Upp::MarkdownConverter::ToQtf(const String&)","r":"Upp::String ToQtf(const Upp::String& markdown_text)","s":"Upp","u":"TOQTF","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":6,"p":{"x":40,"y":33},"b":{"x":4,"y":33},"e":{"x":50,"y":33},"d":true,"iv":false,"is":false,"n":"WhenImages","t":"Event<VectorMap<String, String> &>","i":"Upp::MarkdownConverter::WhenImages","r":"Event<VectorMap<String, String>&> WhenImages","s":"Upp","u":"WHENIMAGES","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]},{"a":{"k":6,"p":{"x":20,"y":36},"b":{"x":4,"y":36},"e":{"x":25,"y":36},"d":true,"iv":false,"is":false,"n":"flags","t":"dword","i":"Upp::MarkdownConverter::flags","r":"Upp::dword flags","s":"Upp","u":"FLAGS","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]}]}},{"key":"/home/sblo/ai-upp/uppsrc/plugin/md/Markdown.cpp","value":{"items":[{"a":{"k":501,"p":{"x":8,"y":2},"b":{"x":8,"y":2},"e":{"x":15,"y":2},"d":false,"iv":false,"is":false,"n":"LLOG","t":"","i":"LLOG","r":"LLOG","s":"","u":"LLOG","q":"","w":"","y":""},"c":[]},{"a":{"k":4,"p":{"x":6,"y":6},"b":{"x":0,"y":6},"e":{"x":1,"y":49},"d":true,"iv":false,"is":false,"n":"sMarkdownContext","t":"Upp::sMarkdownContext","i":"Upp::sMarkdownContext","r":"sMarkdownContext : Upp::NoCopy","s":"Upp","u":"SMARKDOWNCONTEXT","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":"Upp::NoCopy"},"c":[]},{"a":{"k":2,"p":{"x":8,"y":7},"b":{"x":1,"y":7},"e":{"x":2,"y":16},"d":true,"iv":false,"is":false,"n":"Block","t":"Upp::sMarkdownContext::Block","i":"Upp::sMarkdownContext::Block","r":"Block","s":"Upp","u":"BLOCK","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":6,"p":{"x":15,"y":9},"b":{"x":2,"y":9},"e":{"x":19,"y":9},"d":true,"iv":false,"is":false,"n":"type","t":"MD_BLOCKTYPE","i":"Upp::sMarkdownContext::Block::type","r":"MD_BLOCKTYPE type","s":"Upp","u":"TYPE","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":6,"p":{"x":11,"y":10},"b":{"x":2,"y":10},"e":{"x":15,"y":10},"d":true,"iv":false,"is":false,"n":"text","t":"String","i":"Upp::sMarkdownContext::Block::text","r":"Upp::String text","s":"Upp","u":"TEXT","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":6,"p":{"x":10,"y":11},"b":{"x":2,"y":11},"e":{"x":14,"y":11},"d":true,"iv":false,"is":false,"n":"data","t":"Value","i":"Upp::sMarkdownContext::Block::data","r":"Upp::Value data","s":"Upp","u":"DATA","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":6,"p":{"x":9,"y":12},"b":{"x":2,"y":12},"e":{"x":14,"y":12},"d":true,"iv":false,"is":false,"n":"level","t":"int","i":"Upp::sMarkdownContext::Block::level","r":"int level","s":"Upp","u":"LEVEL","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":6,"p":{"x":11,"y":13},"b":{"x":2,"y":13},"e":{"x":17,"y":13},"d":true,"iv":false,"is":false,"n":"parent","t":"Block *","i":"Upp::sMarkdownContext::Block::parent","r":"Upp::sMarkdownContext::Block *parent","s":"Upp","u":"PARENT","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":6,"p":{"x":15,"y":14},"b":{"x":2,"y":14},"e":{"x":23,"y":14},"d":true,"iv":false,"is":false,"n":"children","t":"Array<Block>","i":"Upp::sMarkdownContext::Block::children","r":"Array<Block> children","s":"Upp","u":"CHILDREN","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":24,"p":{"x":2,"y":15},"b":{"x":2,"y":15},"e":{"x":33,"y":15},"d":false,"iv":false,"is":false,"n":"Block","t":"void (MD_BLOCKTYPE, Block *)","i":"Upp::sMarkdownContext::Block::Block(MD_BLOCKTYPE,Block*)","r":"Block(MD_BLOCKTYPE t, Upp::sMarkdownContext::Block *p)","s":"Upp","u":"BLOCK","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":5,"p":{"x":6,"y":18},"b":{"x":1,"y":18},"e":{"x":2,"y":24},"d":true,"iv":false,"is":false,"n":"NestedBlockPosition","t":"Upp::sMarkdownContext::NestedBlockPosition","i":"Upp::sMarkdownContext::NestedBlockPosition","r":"enum NestedBlockPosition","s":"Upp","u":"NESTEDBLOCKPOSITION","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":7,"p":{"x":2,"y":19},"b":{"x":2,"y":19},"e":{"x":22,"y":19},"d":true,"iv":false,"is":false,"n":"BLOCK_IN_OLIST","t":"Upp::sMarkdownContext::NestedBlockPosition","i":"Upp::sMarkdownContext::BLOCK_IN_OLIST","r":"BLOCK_IN_OLIST","s":"Upp","u":"BLOCK_IN_OLIST","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":7,"p":{"x":2,"y":20},"b":{"x":2,"y":20},"e":{"x":22,"y":20},"d":true,"iv":false,"is":false,"n":"BLOCK_IN_ULIST","t":"Upp::sMarkdownContext::NestedBlockPosition","i":"Upp::sMarkdownContext::BLOCK_IN_ULIST","r":"BLOCK_IN_ULIST","s":"Upp","u":"BLOCK_IN_ULIST","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":7,"p":{"x":2,"y":21},"b":{"x":2,"y":21},"e":{"x":22,"y":21},"d":true,"iv":false,"is":false,"n":"BLOCK_IN_QUOTE","t":"Upp::sMarkdownContext::NestedBlockPosition","i":"Upp::sMarkdownContext::BLOCK_IN_QUOTE","r":"BLOCK_IN_QUOTE","s":"Upp","u":"BLOCK_IN_QUOTE","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":7,"p":{"x":2,"y":22},"b":{"x":2,"y":22},"e":{"x":22,"y":22},"d":true,"iv":false,"is":false,"n":"BLOCK_IN_THEAD","t":"Upp::sMarkdownContext::NestedBlockPosition","i":"Upp::sMarkdownContext::BLOCK_IN_THEAD","r":"BLOCK_IN_THEAD","s":"Upp","u":"BLOCK_IN_THEAD","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":7,"p":{"x":2,"y":23},"b":{"x":2,"y":23},"e":{"x":23,"y":23},"d":true,"iv":false,"is":false,"n":"BLOCK_IN_TBODY","t":"Upp::sMarkdownContext::NestedBlockPosition","i":"Upp::sMarkdownContext::BLOCK_IN_TBODY","r":"BLOCK_IN_TBODY","s":"Upp","u":"BLOCK_IN_TBODY","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":6,"p":{"x":14,"y":26},"b":{"x":1,"y":26},"e":{"x":22,"y":26},"d":true,"iv":false,"is":false,"n":"document","t":"Array<Block>","i":"Upp::sMarkdownContext::document","r":"Array<Block> document","s":"Upp","u":"DOCUMENT","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":6,"p":{"x":10,"y":27},"b":{"x":1,"y":27},"e":{"x":23,"y":27},"d":true,"iv":false,"is":false,"n":"current_block","t":"Block *","i":"Upp::sMarkdownContext::current_block","r":"Upp::sMarkdownContext::Block *current_block","s":"Upp","u":"CURRENT_BLOCK","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":6,"p":{"x":8,"y":28},"b":{"x":1,"y":28},"e":{"x":21,"y":28},"d":true,"iv":false,"is":false,"n":"current_level","t":"int","i":"Upp::sMarkdownContext::current_level","r":"int current_level","s":"Upp","u":"CURRENT_LEVEL","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":21,"p":{"x":8,"y":30},"b":{"x":1,"y":30},"e":{"x":98,"y":30},"d":false,"iv":false,"is":false,"n":"Compose","t":"String (const Array<Block> &, int, bool, dword) const","i":"Upp::sMarkdownContext::Compose(const Array&,int,bool,dword)const","r":"Upp::String Compose(const Array<Block>& doc, int data = 0, bool notext = false, Upp::dword flags = 0) const","s":"Upp","u":"COMPOSE","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":21,"p":{"x":6,"y":33},"b":{"x":1,"y":33},"e":{"x":49,"y":33},"d":false,"iv":false,"is":false,"n":"BeginBlock","t":"void (MD_BLOCKTYPE, void *)","i":"Upp::sMarkdownContext::BeginBlock(MD_BLOCKTYPE,void*)","r":"void BeginBlock(MD_BLOCKTYPE type, void *detail)","s":"Upp","u":"BEGINBLOCK","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":21,"p":{"x":6,"y":34},"b":{"x":1,"y":34},"e":{"x":47,"y":34},"d":false,"iv":false,"is":false,"n":"EndBlock","t":"void (MD_BLOCKTYPE, void *)","i":"Upp::sMarkdownContext::EndBlock(MD_BLOCKTYPE,void*)","r":"void EndBlock(MD_BLOCKTYPE type, void *detail)","s":"Upp","u":"ENDBLOCK","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":21,"p":{"x":8,"y":36},"b":{"x":1,"y":36},"e":{"x":53,"y":36},"d":true,"iv":false,"is":false,"n":"ToQtf","t":"String ()","i":"Upp::sMarkdownContext::ToQtf()","r":"Upp::String ToQtf()","s":"Upp","u":"TOQTF","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":21,"p":{"x":19,"y":38},"b":{"x":1,"y":38},"e":{"x":113,"y":38},"d":true,"iv":false,"is":false,"n":"operator<<","t":"sMarkdownContext &(const String &)","i":"Upp::sMarkdownContext::operator<<(const String&)","r":"Upp::sMarkdownContext& operator<<(const Upp::String& s)","s":"Upp","u":"OPERATOR<<","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":21,"p":{"x":19,"y":39},"b":{"x":1,"y":39},"e":{"x":112,"y":39},"d":true,"iv":false,"is":false,"n":"operator<<","t":"sMarkdownContext &(const char *)","i":"Upp::sMarkdownContext::operator<<(const char*)","r":"Upp::sMarkdownContext& operator<<(const char *s)","s":"Upp","u":"OPERATOR<<","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":24,"p":{"x":1,"y":41},"b":{"x":1,"y":41},"e":{"x":3,"y":45},"d":true,"iv":false,"is":false,"n":"sMarkdownContext","t":"void ()","i":"Upp::sMarkdownContext::sMarkdownContext()","r":"sMarkdownContext()","s":"Upp","u":"SMARKDOWNCONTEXT","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":6,"p":{"x":27,"y":47},"b":{"x":1,"y":47},"e":{"x":33,"y":47},"d":true,"iv":false,"is":false,"n":"images","t":"VectorMap<String, String>","i":"Upp::sMarkdownContext::images","r":"VectorMap<String, String> images","s":"Upp","u":"IMAGES","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":6,"p":{"x":6,"y":48},"b":{"x":1,"y":48},"e":{"x":13,"y":48},"d":true,"iv":false,"is":false,"n":"no_text","t":"bool","i":"Upp::sMarkdownContext::no_text","r":"bool no_text","s":"Upp","u":"NO_TEXT","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":24,"p":{"x":25,"y":51},"b":{"x":0,"y":51},"e":{"x":1,"y":56},"d":true,"iv":false,"is":false,"n":"Block","t":"void (MD_BLOCKTYPE, Block *)","i":"Upp::sMarkdownContext::Block::Block(MD_BLOCKTYPE,Block*)","r":"Block(MD_BLOCKTYPE t, Upp::sMarkdownContext::Block *p)","s":"Upp","u":"BLOCK","q":"Upp::sMarkdownContext::Block","w":"UPP::SMARKDOWNCONTEXT::BLOCK","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":58},"b":{"x":0,"y":58},"e":{"x":1,"y":84},"d":true,"iv":false,"is":false,"n":"BeginBlock","t":"void (MD_BLOCKTYPE, void *)","i":"Upp::sMarkdownContext::BeginBlock(MD_BLOCKTYPE,void*)","r":"void BeginBlock(MD_BLOCKTYPE type, void *detail)","s":"Upp","u":"BEGINBLOCK","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":21,"p":{"x":23,"y":86},"b":{"x":0,"y":86},"e":{"x":1,"y":93},"d":true,"iv":false,"is":false,"n":"EndBlock","t":"void (MD_BLOCKTYPE, void *)","i":"Upp::sMarkdownContext::EndBlock(MD_BLOCKTYPE,void*)","r":"void EndBlock(MD_BLOCKTYPE type, void *detail)","s":"Upp","u":"ENDBLOCK","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":21,"p":{"x":25,"y":95},"b":{"x":0,"y":95},"e":{"x":1,"y":247},"d":true,"iv":false,"is":false,"n":"Compose","t":"String (const Array<Block> &, int, bool, dword) const","i":"Upp::sMarkdownContext::Compose(const Array&,int,bool,dword)const","r":"Upp::String Compose(const Array<Block>& doc, int data = 0, bool notext = false, Upp::dword flags = 0) const","s":"Upp","u":"COMPOSE","q":"Upp::sMarkdownContext","w":"UPP::SMARKDOWNCONTEXT","y":""},"c":[]},{"a":{"k":8,"p":{"x":14,"y":249},"b":{"x":0,"y":249},"e":{"x":1,"y":264},"d":true,"iv":false,"is":true,"n":"sDeQtfMd","t":"String (const char *)","i":"Upp::sDeQtfMd(const char*)","r":"static Upp::String sDeQtfMd(const char *s)","s":"Upp","u":"SDEQTFMD","q":"Upp","w":"UPP","y":""},"c":[]},{"a":{"k":8,"p":{"x":11,"y":266},"b":{"x":0,"y":266},"e":{"x":1,"y":290},"d":true,"iv":false,"is":true,"n":"sParseMdObjects","t":"int (MD_PARSER &, const String &, void *)","i":"Upp::sParseMdObjects(MD_PARSER&,const String&,void*)","r":"static int sParseMdObjects(MD_PARSER& parser, const Upp::String& txt, void *ctx)","s":"Upp","u":"SPARSEMDOBJECTS","q":"Upp","w":"UPP","y":""},"c":[]},{"a":{"k":8,"p":{"x":11,"y":292},"b":{"x":0,"y":292},"e":{"x":1,"y":389},"d":true,"iv":false,"is":true,"n":"sParseMdDocument","t":"int (MD_PARSER &, const String &, void *)","i":"Upp::sParseMdDocument(MD_PARSER&,const String&,void*)","r":"static int sParseMdDocument(MD_PARSER& parser, const Upp::String& txt, void *ctx)","s":"Upp","u":"SPARSEMDDOCUMENT","q":"Upp","w":"UPP","y":""},"c":[]},{"a":{"k":21,"p":{"x":26,"y":391},"b":{"x":0,"y":391},"e":{"x":1,"y":416},"d":true,"iv":false,"is":false,"n":"ToQtf","t":"String (const String &)","i":"Upp::MarkdownConverter::ToQtf(const String&)","r":"Upp::String ToQtf(const Upp::String& mdtext)","s":"Upp","u":"TOQTF","q":"Upp::MarkdownConverter","w":"UPP::MARKDOWNCONVERTER","y":""},"c":[]}]}}],"saved_hash":"09619967b50069a0c39a516f10c78b93906d1496"}
+{
+	"files": [
+		{
+			"key": "/home/sblo/ai-upp/uppsrc/plugin/md/Markdown.h",
+			"value": {
+				"items": [
+					{
+						"a": {
+							"k": 501,
+							"p": {
+								"x": 8,
+								"y": 1
+							},
+							"b": {
+								"x": 8,
+								"y": 1
+							},
+							"e": {
+								"x": 22,
+								"y": 1
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Upp_Markdown_h",
+							"t": "",
+							"i": "Upp_Markdown_h",
+							"r": "Upp_Markdown_h",
+							"s": "",
+							"u": "UPP_MARKDOWN_H",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 4,
+							"p": {
+								"x": 6,
+								"y": 9
+							},
+							"b": {
+								"x": 0,
+								"y": 9
+							},
+							"e": {
+								"x": 1,
+								"y": 37
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "MarkdownConverter",
+							"t": "Upp::MarkdownConverter",
+							"i": "Upp::MarkdownConverter",
+							"r": "MarkdownConverter",
+							"s": "Upp",
+							"u": "MARKDOWNCONVERTER",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 4,
+								"y": 11
+							},
+							"b": {
+								"x": 4,
+								"y": 11
+							},
+							"e": {
+								"x": 57,
+								"y": 11
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "MarkdownConverter",
+							"t": "void ()",
+							"i": "Upp::MarkdownConverter::MarkdownConverter()",
+							"r": "MarkdownConverter()",
+							"s": "Upp",
+							"u": "MARKDOWNCONVERTER",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 13
+							},
+							"b": {
+								"x": 4,
+								"y": 13
+							},
+							"e": {
+								"x": 173,
+								"y": 13
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "CollapseWhitespaces",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::CollapseWhitespaces(bool)",
+							"r": "Upp::MarkdownConverter& CollapseWhitespaces(bool b = true)",
+							"s": "Upp",
+							"u": "COLLAPSEWHITESPACES",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 14
+							},
+							"b": {
+								"x": 4,
+								"y": 14
+							},
+							"e": {
+								"x": 175,
+								"y": 14
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "NoIndentedCodeblocks",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::NoIndentedCodeblocks(bool)",
+							"r": "Upp::MarkdownConverter& NoIndentedCodeblocks(bool b = true)",
+							"s": "Upp",
+							"u": "NOINDENTEDCODEBLOCKS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 15
+							},
+							"b": {
+								"x": 4,
+								"y": 15
+							},
+							"e": {
+								"x": 161,
+								"y": 15
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Tables",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::Tables(bool)",
+							"r": "Upp::MarkdownConverter& Tables(bool b = true)",
+							"s": "Upp",
+							"u": "TABLES",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 16
+							},
+							"b": {
+								"x": 4,
+								"y": 16
+							},
+							"e": {
+								"x": 164,
+								"y": 16
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "WikiLinks",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::WikiLinks(bool)",
+							"r": "Upp::MarkdownConverter& WikiLinks(bool b = true)",
+							"s": "Upp",
+							"u": "WIKILINKS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 17
+							},
+							"b": {
+								"x": 4,
+								"y": 17
+							},
+							"e": {
+								"x": 168,
+								"y": 17
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Strikeout",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::Strikeout(bool)",
+							"r": "Upp::MarkdownConverter& Strikeout(bool b = true)",
+							"s": "Upp",
+							"u": "STRIKEOUT",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 18
+							},
+							"b": {
+								"x": 4,
+								"y": 18
+							},
+							"e": {
+								"x": 164,
+								"y": 18
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Underline",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::Underline(bool)",
+							"r": "Upp::MarkdownConverter& Underline(bool b = true)",
+							"s": "Upp",
+							"u": "UNDERLINE",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 19
+							},
+							"b": {
+								"x": 4,
+								"y": 19
+							},
+							"e": {
+								"x": 167,
+								"y": 19
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "NoHtmlBlocks",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::NoHtmlBlocks(bool)",
+							"r": "Upp::MarkdownConverter& NoHtmlBlocks(bool b = true)",
+							"s": "Upp",
+							"u": "NOHTMLBLOCKS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 20
+							},
+							"b": {
+								"x": 4,
+								"y": 20
+							},
+							"e": {
+								"x": 166,
+								"y": 20
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "NoHtmlSpans",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::NoHtmlSpans(bool)",
+							"r": "Upp::MarkdownConverter& NoHtmlSpans(bool b = true)",
+							"s": "Upp",
+							"u": "NOHTMLSPANS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 21
+							},
+							"b": {
+								"x": 4,
+								"y": 21
+							},
+							"e": {
+								"x": 161,
+								"y": 21
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "NoHtml",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::NoHtml(bool)",
+							"r": "Upp::MarkdownConverter& NoHtml(bool b = true)",
+							"s": "Upp",
+							"u": "NOHTML",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 22
+							},
+							"b": {
+								"x": 4,
+								"y": 22
+							},
+							"e": {
+								"x": 175,
+								"y": 22
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PermissiveAtxHeaders",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::PermissiveAtxHeaders(bool)",
+							"r": "Upp::MarkdownConverter& PermissiveAtxHeaders(bool b = true)",
+							"s": "Upp",
+							"u": "PERMISSIVEATXHEADERS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 23
+							},
+							"b": {
+								"x": 4,
+								"y": 23
+							},
+							"e": {
+								"x": 177,
+								"y": 23
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PermissiveUrlAutolinks",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::PermissiveUrlAutolinks(bool)",
+							"r": "Upp::MarkdownConverter& PermissiveUrlAutolinks(bool b = true)",
+							"s": "Upp",
+							"u": "PERMISSIVEURLAUTOLINKS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 24
+							},
+							"b": {
+								"x": 4,
+								"y": 24
+							},
+							"e": {
+								"x": 177,
+								"y": 24
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PermissiveWWWAutolinks",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::PermissiveWWWAutolinks(bool)",
+							"r": "Upp::MarkdownConverter& PermissiveWWWAutolinks(bool b = true)",
+							"s": "Upp",
+							"u": "PERMISSIVEWWWAUTOLINKS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 25
+							},
+							"b": {
+								"x": 4,
+								"y": 25
+							},
+							"e": {
+								"x": 179,
+								"y": 25
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PermissiveEmailAutolinks",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::PermissiveEmailAutolinks(bool)",
+							"r": "Upp::MarkdownConverter& PermissiveEmailAutolinks(bool b = true)",
+							"s": "Upp",
+							"u": "PERMISSIVEEMAILAUTOLINKS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 26
+							},
+							"b": {
+								"x": 4,
+								"y": 26
+							},
+							"e": {
+								"x": 174,
+								"y": 26
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "PermissiveAutolinks",
+							"t": "MarkdownConverter &(bool)",
+							"i": "Upp::MarkdownConverter::PermissiveAutolinks(bool)",
+							"r": "Upp::MarkdownConverter& PermissiveAutolinks(bool b = true)",
+							"s": "Upp",
+							"u": "PERMISSIVEAUTOLINKS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 28
+							},
+							"b": {
+								"x": 4,
+								"y": 28
+							},
+							"e": {
+								"x": 112,
+								"y": 28
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "CommonMarkDialect",
+							"t": "MarkdownConverter &()",
+							"i": "Upp::MarkdownConverter::CommonMarkDialect()",
+							"r": "Upp::MarkdownConverter& CommonMarkDialect()",
+							"s": "Upp",
+							"u": "COMMONMARKDIALECT",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 29
+							},
+							"b": {
+								"x": 4,
+								"y": 29
+							},
+							"e": {
+								"x": 108,
+								"y": 29
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "GitHubDialect",
+							"t": "MarkdownConverter &()",
+							"i": "Upp::MarkdownConverter::GitHubDialect()",
+							"r": "Upp::MarkdownConverter& GitHubDialect()",
+							"s": "Upp",
+							"u": "GITHUBDIALECT",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 11,
+								"y": 31
+							},
+							"b": {
+								"x": 4,
+								"y": 31
+							},
+							"e": {
+								"x": 45,
+								"y": 31
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "ToQtf",
+							"t": "String (const String &)",
+							"i": "Upp::MarkdownConverter::ToQtf(const String&)",
+							"r": "Upp::String ToQtf(const Upp::String& markdown_text)",
+							"s": "Upp",
+							"u": "TOQTF",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 40,
+								"y": 33
+							},
+							"b": {
+								"x": 4,
+								"y": 33
+							},
+							"e": {
+								"x": 50,
+								"y": 33
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "WhenImages",
+							"t": "Event<VectorMap<String, String> &>",
+							"i": "Upp::MarkdownConverter::WhenImages",
+							"r": "Event<VectorMap<String, String>&> WhenImages",
+							"s": "Upp",
+							"u": "WHENIMAGES",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 20,
+								"y": 36
+							},
+							"b": {
+								"x": 4,
+								"y": 36
+							},
+							"e": {
+								"x": 25,
+								"y": 36
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "flags",
+							"t": "dword",
+							"i": "Upp::MarkdownConverter::flags",
+							"r": "Upp::dword flags",
+							"s": "Upp",
+							"u": "FLAGS",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "/home/sblo/ai-upp/uppsrc/plugin/md/Markdown.cpp",
+			"value": {
+				"items": [
+					{
+						"a": {
+							"k": 501,
+							"p": {
+								"x": 8,
+								"y": 2
+							},
+							"b": {
+								"x": 8,
+								"y": 2
+							},
+							"e": {
+								"x": 15,
+								"y": 2
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "LLOG",
+							"t": "",
+							"i": "LLOG",
+							"r": "LLOG",
+							"s": "",
+							"u": "LLOG",
+							"q": "",
+							"w": "",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 4,
+							"p": {
+								"x": 6,
+								"y": 6
+							},
+							"b": {
+								"x": 0,
+								"y": 6
+							},
+							"e": {
+								"x": 1,
+								"y": 49
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "sMarkdownContext",
+							"t": "Upp::sMarkdownContext",
+							"i": "Upp::sMarkdownContext",
+							"r": "sMarkdownContext : Upp::NoCopy",
+							"s": "Upp",
+							"u": "SMARKDOWNCONTEXT",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": "Upp::NoCopy"
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 2,
+							"p": {
+								"x": 8,
+								"y": 7
+							},
+							"b": {
+								"x": 1,
+								"y": 7
+							},
+							"e": {
+								"x": 2,
+								"y": 16
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Block",
+							"t": "Upp::sMarkdownContext::Block",
+							"i": "Upp::sMarkdownContext::Block",
+							"r": "Block",
+							"s": "Upp",
+							"u": "BLOCK",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 15,
+								"y": 9
+							},
+							"b": {
+								"x": 2,
+								"y": 9
+							},
+							"e": {
+								"x": 19,
+								"y": 9
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "type",
+							"t": "MD_BLOCKTYPE",
+							"i": "Upp::sMarkdownContext::Block::type",
+							"r": "MD_BLOCKTYPE type",
+							"s": "Upp",
+							"u": "TYPE",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 11,
+								"y": 10
+							},
+							"b": {
+								"x": 2,
+								"y": 10
+							},
+							"e": {
+								"x": 15,
+								"y": 10
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "text",
+							"t": "String",
+							"i": "Upp::sMarkdownContext::Block::text",
+							"r": "Upp::String text",
+							"s": "Upp",
+							"u": "TEXT",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 10,
+								"y": 11
+							},
+							"b": {
+								"x": 2,
+								"y": 11
+							},
+							"e": {
+								"x": 14,
+								"y": 11
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "data",
+							"t": "Value",
+							"i": "Upp::sMarkdownContext::Block::data",
+							"r": "Upp::Value data",
+							"s": "Upp",
+							"u": "DATA",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 9,
+								"y": 12
+							},
+							"b": {
+								"x": 2,
+								"y": 12
+							},
+							"e": {
+								"x": 14,
+								"y": 12
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "level",
+							"t": "int",
+							"i": "Upp::sMarkdownContext::Block::level",
+							"r": "int level",
+							"s": "Upp",
+							"u": "LEVEL",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 11,
+								"y": 13
+							},
+							"b": {
+								"x": 2,
+								"y": 13
+							},
+							"e": {
+								"x": 17,
+								"y": 13
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "parent",
+							"t": "Block *",
+							"i": "Upp::sMarkdownContext::Block::parent",
+							"r": "Upp::sMarkdownContext::Block *parent",
+							"s": "Upp",
+							"u": "PARENT",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 15,
+								"y": 14
+							},
+							"b": {
+								"x": 2,
+								"y": 14
+							},
+							"e": {
+								"x": 23,
+								"y": 14
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "children",
+							"t": "Array<Block>",
+							"i": "Upp::sMarkdownContext::Block::children",
+							"r": "Array<Block> children",
+							"s": "Upp",
+							"u": "CHILDREN",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 2,
+								"y": 15
+							},
+							"b": {
+								"x": 2,
+								"y": 15
+							},
+							"e": {
+								"x": 33,
+								"y": 15
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Block",
+							"t": "void (MD_BLOCKTYPE, Block *)",
+							"i": "Upp::sMarkdownContext::Block::Block(MD_BLOCKTYPE,Block*)",
+							"r": "Block(MD_BLOCKTYPE t, Upp::sMarkdownContext::Block *p)",
+							"s": "Upp",
+							"u": "BLOCK",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 5,
+							"p": {
+								"x": 6,
+								"y": 18
+							},
+							"b": {
+								"x": 1,
+								"y": 18
+							},
+							"e": {
+								"x": 2,
+								"y": 24
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "NestedBlockPosition",
+							"t": "Upp::sMarkdownContext::NestedBlockPosition",
+							"i": "Upp::sMarkdownContext::NestedBlockPosition",
+							"r": "enum NestedBlockPosition",
+							"s": "Upp",
+							"u": "NESTEDBLOCKPOSITION",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 2,
+								"y": 19
+							},
+							"b": {
+								"x": 2,
+								"y": 19
+							},
+							"e": {
+								"x": 22,
+								"y": 19
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "BLOCK_IN_OLIST",
+							"t": "Upp::sMarkdownContext::NestedBlockPosition",
+							"i": "Upp::sMarkdownContext::BLOCK_IN_OLIST",
+							"r": "BLOCK_IN_OLIST",
+							"s": "Upp",
+							"u": "BLOCK_IN_OLIST",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 2,
+								"y": 20
+							},
+							"b": {
+								"x": 2,
+								"y": 20
+							},
+							"e": {
+								"x": 22,
+								"y": 20
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "BLOCK_IN_ULIST",
+							"t": "Upp::sMarkdownContext::NestedBlockPosition",
+							"i": "Upp::sMarkdownContext::BLOCK_IN_ULIST",
+							"r": "BLOCK_IN_ULIST",
+							"s": "Upp",
+							"u": "BLOCK_IN_ULIST",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 2,
+								"y": 21
+							},
+							"b": {
+								"x": 2,
+								"y": 21
+							},
+							"e": {
+								"x": 22,
+								"y": 21
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "BLOCK_IN_QUOTE",
+							"t": "Upp::sMarkdownContext::NestedBlockPosition",
+							"i": "Upp::sMarkdownContext::BLOCK_IN_QUOTE",
+							"r": "BLOCK_IN_QUOTE",
+							"s": "Upp",
+							"u": "BLOCK_IN_QUOTE",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 2,
+								"y": 22
+							},
+							"b": {
+								"x": 2,
+								"y": 22
+							},
+							"e": {
+								"x": 22,
+								"y": 22
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "BLOCK_IN_THEAD",
+							"t": "Upp::sMarkdownContext::NestedBlockPosition",
+							"i": "Upp::sMarkdownContext::BLOCK_IN_THEAD",
+							"r": "BLOCK_IN_THEAD",
+							"s": "Upp",
+							"u": "BLOCK_IN_THEAD",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 7,
+							"p": {
+								"x": 2,
+								"y": 23
+							},
+							"b": {
+								"x": 2,
+								"y": 23
+							},
+							"e": {
+								"x": 23,
+								"y": 23
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "BLOCK_IN_TBODY",
+							"t": "Upp::sMarkdownContext::NestedBlockPosition",
+							"i": "Upp::sMarkdownContext::BLOCK_IN_TBODY",
+							"r": "BLOCK_IN_TBODY",
+							"s": "Upp",
+							"u": "BLOCK_IN_TBODY",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 14,
+								"y": 26
+							},
+							"b": {
+								"x": 1,
+								"y": 26
+							},
+							"e": {
+								"x": 22,
+								"y": 26
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "document",
+							"t": "Array<Block>",
+							"i": "Upp::sMarkdownContext::document",
+							"r": "Array<Block> document",
+							"s": "Upp",
+							"u": "DOCUMENT",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 10,
+								"y": 27
+							},
+							"b": {
+								"x": 1,
+								"y": 27
+							},
+							"e": {
+								"x": 23,
+								"y": 27
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "current_block",
+							"t": "Block *",
+							"i": "Upp::sMarkdownContext::current_block",
+							"r": "Upp::sMarkdownContext::Block *current_block",
+							"s": "Upp",
+							"u": "CURRENT_BLOCK",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 8,
+								"y": 28
+							},
+							"b": {
+								"x": 1,
+								"y": 28
+							},
+							"e": {
+								"x": 21,
+								"y": 28
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "current_level",
+							"t": "int",
+							"i": "Upp::sMarkdownContext::current_level",
+							"r": "int current_level",
+							"s": "Upp",
+							"u": "CURRENT_LEVEL",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 30
+							},
+							"b": {
+								"x": 1,
+								"y": 30
+							},
+							"e": {
+								"x": 98,
+								"y": 30
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "Compose",
+							"t": "String (const Array<Block> &, int, bool, dword) const",
+							"i": "Upp::sMarkdownContext::Compose(const Array&,int,bool,dword)const",
+							"r": "Upp::String Compose(const Array<Block>& doc, int data = 0, bool notext = false, Upp::dword flags = 0) const",
+							"s": "Upp",
+							"u": "COMPOSE",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 33
+							},
+							"b": {
+								"x": 1,
+								"y": 33
+							},
+							"e": {
+								"x": 49,
+								"y": 33
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "BeginBlock",
+							"t": "void (MD_BLOCKTYPE, void *)",
+							"i": "Upp::sMarkdownContext::BeginBlock(MD_BLOCKTYPE,void*)",
+							"r": "void BeginBlock(MD_BLOCKTYPE type, void *detail)",
+							"s": "Upp",
+							"u": "BEGINBLOCK",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 6,
+								"y": 34
+							},
+							"b": {
+								"x": 1,
+								"y": 34
+							},
+							"e": {
+								"x": 47,
+								"y": 34
+							},
+							"d": false,
+							"iv": false,
+							"is": false,
+							"n": "EndBlock",
+							"t": "void (MD_BLOCKTYPE, void *)",
+							"i": "Upp::sMarkdownContext::EndBlock(MD_BLOCKTYPE,void*)",
+							"r": "void EndBlock(MD_BLOCKTYPE type, void *detail)",
+							"s": "Upp",
+							"u": "ENDBLOCK",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 8,
+								"y": 36
+							},
+							"b": {
+								"x": 1,
+								"y": 36
+							},
+							"e": {
+								"x": 53,
+								"y": 36
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToQtf",
+							"t": "String ()",
+							"i": "Upp::sMarkdownContext::ToQtf()",
+							"r": "Upp::String ToQtf()",
+							"s": "Upp",
+							"u": "TOQTF",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 19,
+								"y": 38
+							},
+							"b": {
+								"x": 1,
+								"y": 38
+							},
+							"e": {
+								"x": 113,
+								"y": 38
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "operator<<",
+							"t": "sMarkdownContext &(const String &)",
+							"i": "Upp::sMarkdownContext::operator<<(const String&)",
+							"r": "Upp::sMarkdownContext& operator<<(const Upp::String& s)",
+							"s": "Upp",
+							"u": "OPERATOR<<",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 19,
+								"y": 39
+							},
+							"b": {
+								"x": 1,
+								"y": 39
+							},
+							"e": {
+								"x": 112,
+								"y": 39
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "operator<<",
+							"t": "sMarkdownContext &(const char *)",
+							"i": "Upp::sMarkdownContext::operator<<(const char*)",
+							"r": "Upp::sMarkdownContext& operator<<(const char *s)",
+							"s": "Upp",
+							"u": "OPERATOR<<",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 1,
+								"y": 41
+							},
+							"b": {
+								"x": 1,
+								"y": 41
+							},
+							"e": {
+								"x": 3,
+								"y": 45
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "sMarkdownContext",
+							"t": "void ()",
+							"i": "Upp::sMarkdownContext::sMarkdownContext()",
+							"r": "sMarkdownContext()",
+							"s": "Upp",
+							"u": "SMARKDOWNCONTEXT",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 27,
+								"y": 47
+							},
+							"b": {
+								"x": 1,
+								"y": 47
+							},
+							"e": {
+								"x": 33,
+								"y": 47
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "images",
+							"t": "VectorMap<String, String>",
+							"i": "Upp::sMarkdownContext::images",
+							"r": "VectorMap<String, String> images",
+							"s": "Upp",
+							"u": "IMAGES",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 6,
+							"p": {
+								"x": 6,
+								"y": 48
+							},
+							"b": {
+								"x": 1,
+								"y": 48
+							},
+							"e": {
+								"x": 13,
+								"y": 48
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "no_text",
+							"t": "bool",
+							"i": "Upp::sMarkdownContext::no_text",
+							"r": "bool no_text",
+							"s": "Upp",
+							"u": "NO_TEXT",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 24,
+							"p": {
+								"x": 25,
+								"y": 51
+							},
+							"b": {
+								"x": 0,
+								"y": 51
+							},
+							"e": {
+								"x": 1,
+								"y": 56
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Block",
+							"t": "void (MD_BLOCKTYPE, Block *)",
+							"i": "Upp::sMarkdownContext::Block::Block(MD_BLOCKTYPE,Block*)",
+							"r": "Block(MD_BLOCKTYPE t, Upp::sMarkdownContext::Block *p)",
+							"s": "Upp",
+							"u": "BLOCK",
+							"q": "Upp::sMarkdownContext::Block",
+							"w": "UPP::SMARKDOWNCONTEXT::BLOCK",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 58
+							},
+							"b": {
+								"x": 0,
+								"y": 58
+							},
+							"e": {
+								"x": 1,
+								"y": 84
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "BeginBlock",
+							"t": "void (MD_BLOCKTYPE, void *)",
+							"i": "Upp::sMarkdownContext::BeginBlock(MD_BLOCKTYPE,void*)",
+							"r": "void BeginBlock(MD_BLOCKTYPE type, void *detail)",
+							"s": "Upp",
+							"u": "BEGINBLOCK",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 23,
+								"y": 86
+							},
+							"b": {
+								"x": 0,
+								"y": 86
+							},
+							"e": {
+								"x": 1,
+								"y": 93
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "EndBlock",
+							"t": "void (MD_BLOCKTYPE, void *)",
+							"i": "Upp::sMarkdownContext::EndBlock(MD_BLOCKTYPE,void*)",
+							"r": "void EndBlock(MD_BLOCKTYPE type, void *detail)",
+							"s": "Upp",
+							"u": "ENDBLOCK",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 25,
+								"y": 95
+							},
+							"b": {
+								"x": 0,
+								"y": 95
+							},
+							"e": {
+								"x": 1,
+								"y": 247
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "Compose",
+							"t": "String (const Array<Block> &, int, bool, dword) const",
+							"i": "Upp::sMarkdownContext::Compose(const Array&,int,bool,dword)const",
+							"r": "Upp::String Compose(const Array<Block>& doc, int data = 0, bool notext = false, Upp::dword flags = 0) const",
+							"s": "Upp",
+							"u": "COMPOSE",
+							"q": "Upp::sMarkdownContext",
+							"w": "UPP::SMARKDOWNCONTEXT",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 14,
+								"y": 249
+							},
+							"b": {
+								"x": 0,
+								"y": 249
+							},
+							"e": {
+								"x": 1,
+								"y": 264
+							},
+							"d": true,
+							"iv": false,
+							"is": true,
+							"n": "sDeQtfMd",
+							"t": "String (const char *)",
+							"i": "Upp::sDeQtfMd(const char*)",
+							"r": "static Upp::String sDeQtfMd(const char *s)",
+							"s": "Upp",
+							"u": "SDEQTFMD",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 11,
+								"y": 266
+							},
+							"b": {
+								"x": 0,
+								"y": 266
+							},
+							"e": {
+								"x": 1,
+								"y": 290
+							},
+							"d": true,
+							"iv": false,
+							"is": true,
+							"n": "sParseMdObjects",
+							"t": "int (MD_PARSER &, const String &, void *)",
+							"i": "Upp::sParseMdObjects(MD_PARSER&,const String&,void*)",
+							"r": "static int sParseMdObjects(MD_PARSER& parser, const Upp::String& txt, void *ctx)",
+							"s": "Upp",
+							"u": "SPARSEMDOBJECTS",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 8,
+							"p": {
+								"x": 11,
+								"y": 292
+							},
+							"b": {
+								"x": 0,
+								"y": 292
+							},
+							"e": {
+								"x": 1,
+								"y": 389
+							},
+							"d": true,
+							"iv": false,
+							"is": true,
+							"n": "sParseMdDocument",
+							"t": "int (MD_PARSER &, const String &, void *)",
+							"i": "Upp::sParseMdDocument(MD_PARSER&,const String&,void*)",
+							"r": "static int sParseMdDocument(MD_PARSER& parser, const Upp::String& txt, void *ctx)",
+							"s": "Upp",
+							"u": "SPARSEMDDOCUMENT",
+							"q": "Upp",
+							"w": "UPP",
+							"y": ""
+						},
+						"c": [
+
+						]
+					},
+					{
+						"a": {
+							"k": 21,
+							"p": {
+								"x": 26,
+								"y": 391
+							},
+							"b": {
+								"x": 0,
+								"y": 391
+							},
+							"e": {
+								"x": 1,
+								"y": 416
+							},
+							"d": true,
+							"iv": false,
+							"is": false,
+							"n": "ToQtf",
+							"t": "String (const String &)",
+							"i": "Upp::MarkdownConverter::ToQtf(const String&)",
+							"r": "Upp::String ToQtf(const Upp::String& mdtext)",
+							"s": "Upp",
+							"u": "TOQTF",
+							"q": "Upp::MarkdownConverter",
+							"w": "UPP::MARKDOWNCONVERTER",
+							"y": ""
+						},
+						"c": [
+
+						]
+					}
+				]
+			}
+		}
+	],
+	"saved_hash": "5a3c377f87ba08f095f4179b8eab5b33d3766a2d"
+}
