@@ -1,0 +1,45 @@
+{
+	"saved_hash": "727d2eb33ccab48b58794eb712b72d8563b70eb2",
+	"files": [
+		{
+			"key": "atomic_ops/sysdeps/msftc/x86_64.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/msftc/common32_defs.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/msftc/arm64.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/msftc/x86.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/msftc/arm.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,279 @@
+{
+	"saved_hash": "a2a9d0a1551f5c827a8d2ba270aa58094e55e002",
+	"files": [
+		{
+			"key": "SysInclude.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_SysInclude_SysInclude_h_",
+						"t": "",
+						"i": "_SysInclude_SysInclude_h_",
+						"r": "_SysInclude_SysInclude_h_",
+						"s": "",
+						"u": "_SYSINCLUDE_SYSINCLUDE_H_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98339442b070edda4e0e6609c9ac4a23b407a4d5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ai_std_version",
+						"t": "",
+						"i": "ai_std_version",
+						"r": "ai_std_version",
+						"s": "",
+						"u": "AI_STD_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e07669f42f967e98d4a860fb16c55837cf070377"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_CLANG",
+						"t": "",
+						"i": "HAVE_CLANG",
+						"r": "HAVE_CLANG",
+						"s": "",
+						"u": "HAVE_CLANG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "00cdde8f1cc8c807eb697862b2ba2182a8a3a5a7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LINUX",
+						"t": "",
+						"i": "HAVE_LINUX",
+						"r": "HAVE_LINUX",
+						"s": "",
+						"u": "HAVE_LINUX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b9a6ed0b0bb05cd764ea295539c6f2ff037c2a4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_POSIX",
+						"t": "",
+						"i": "HAVE_POSIX",
+						"r": "HAVE_POSIX",
+						"s": "",
+						"u": "HAVE_POSIX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f842deb6857ff952bcb8ec9026edbff7126eb7d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_OPENGL",
+						"t": "",
+						"i": "HAVE_OPENGL",
+						"r": "HAVE_OPENGL",
+						"s": "",
+						"u": "HAVE_OPENGL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dfe419ebcc71fc20becbd73a75b40906683f508a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_OPENSSL",
+						"t": "",
+						"i": "HAVE_OPENSSL",
+						"r": "HAVE_OPENSSL",
+						"s": "",
+						"u": "HAVE_OPENSSL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02e3313578199e7bb2965b58f7c3c2db872420cf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SDL2",
+						"t": "",
+						"i": "HAVE_SDL2",
+						"r": "HAVE_SDL2",
+						"s": "",
+						"u": "HAVE_SDL2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a7c647e286bdd5df2c6bb17adad0c703bad0528"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PCRE2_CODE_UNIT_WIDTH",
+						"t": "",
+						"i": "PCRE2_CODE_UNIT_WIDTH",
+						"r": "PCRE2_CODE_UNIT_WIDTH",
+						"s": "",
+						"u": "PCRE2_CODE_UNIT_WIDTH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dac380c65fb97e035e346986943ad03e2e005dda"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "SysInclude.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "main",
+						"t": "int (int, char **)",
+						"i": "main(int,char**)",
+						"r": "int main(int argc, char **argv)",
+						"s": "",
+						"u": "MAIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cde1037896228b8183d7d1ab7fcd0e84b8824bae"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

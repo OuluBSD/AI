@@ -1,0 +1,10169 @@
+{
+	"saved_hash": "6907f02f72d10679e33d5d14127e3a562ed28356",
+	"files": [
+		{
+			"key": "Cpu.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "i386.cpu",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "amd64.cpu",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Terminal.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Do_ps",
+						"t": "void (VectorMap<String, String> &, Index<String> &, const String &)",
+						"i": "Do_ps(VectorMap&,Index&,const String&)",
+						"r": "void Do_ps(VectorMap<String, String>& pids, Index<String>& ttys, const Upp::String& cmd)",
+						"s": "",
+						"u": "DO_PS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92c12aea899539788591c2be708ccac7b286502f"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "sPid",
+						"t": "VectorMap<String, String>",
+						"i": "sPid",
+						"r": "static VectorMap<String, String> sPid",
+						"s": "",
+						"u": "SPID",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6278f4a3c3f818a4e7d99e8527e66f67a71c4690"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "sTTY",
+						"t": "String",
+						"i": "sTTY",
+						"r": "static Upp::String sTTY",
+						"s": "",
+						"u": "STTY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e61a7988fc66ffb462e5792c415293bf27cb550a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CreateDebugTTY",
+						"t": "String ()",
+						"i": "CreateDebugTTY()",
+						"r": "Upp::String CreateDebugTTY()",
+						"s": "",
+						"u": "CREATEDEBUGTTY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fac019948d532dd4d7e8686c522d6709cc9b326"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "KillDebugTTY",
+						"t": "void ()",
+						"i": "KillDebugTTY()",
+						"r": "void KillDebugTTY()",
+						"s": "",
+						"u": "KILLDEBUGTTY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e71034f95732b0f4866466966c9a7dbe50485fa"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "TTYQuit",
+						"t": "bool ()",
+						"i": "TTYQuit()",
+						"r": "bool TTYQuit()",
+						"s": "",
+						"u": "TTYQUIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7743ab3def427b5fc9af0c069144e0a6ee6374b6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GdbCommand",
+						"t": "String (bool)",
+						"i": "GdbCommand(bool)",
+						"r": "Upp::String GdbCommand(bool console)",
+						"s": "",
+						"u": "GDBCOMMAND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e88d64e42b23ce3be7f63d3d3047d6a482e6a21"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Disas.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "MouseWheel",
+						"t": "void (Point, int, dword)",
+						"i": "DbgDisas::MouseWheel(Point,int,dword)",
+						"r": "void MouseWheel(Upp::Point, int zdelta, Upp::dword)",
+						"s": "",
+						"u": "MOUSEWHEEL",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "641252ab326999c8b9fb8201d1b125a0052235b5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetBox",
+						"t": "Size () const",
+						"i": "DbgDisas::GetBox()const",
+						"r": "Upp::Size GetBox() const",
+						"s": "",
+						"u": "GETBOX",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "05e2d298678cc278f7be0710aaadc70aa31c2fbd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Layout",
+						"t": "void ()",
+						"i": "DbgDisas::Layout()",
+						"r": "void Layout()",
+						"s": "",
+						"u": "LAYOUT",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1144752ab945848c4febfc10e99eff797a57caed"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Paint",
+						"t": "void (Draw &)",
+						"i": "DbgDisas::Paint(Draw&)",
+						"r": "void Paint(Upp::Draw& w)",
+						"s": "",
+						"u": "PAINT",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "160c929e2ef1f677286c37640c9f8e817925da26"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "LeftDown",
+						"t": "void (Point, dword)",
+						"i": "DbgDisas::LeftDown(Point,dword)",
+						"r": "void LeftDown(Upp::Point p, Upp::dword)",
+						"s": "",
+						"u": "LEFTDOWN",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "48bfacd2a9b69413f7c20029a51c484393a7454f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Key",
+						"t": "bool (dword, int)",
+						"i": "DbgDisas::Key(dword,int)",
+						"r": "bool Key(Upp::dword key, int)",
+						"s": "",
+						"u": "KEY",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a98b537dac21f460f253d51861ab03009584d47"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Clear",
+						"t": "void ()",
+						"i": "DbgDisas::Clear()",
+						"r": "void Clear()",
+						"s": "",
+						"u": "CLEAR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "432759cc149d3ac13334b82314ed3e7ff5344634"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Add",
+						"t": "void (adr_t, const String &, const String &, const String &)",
+						"i": "DbgDisas::Add(adr_t,const String&,const String&,const String&)",
+						"r": "void Add(adr_t adr, const Upp::String& code, const Upp::String& args, const Upp::String& bytes = Null)",
+						"s": "",
+						"u": "ADD",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8c41fedcb79f83f1179dca9775c826a36fb78407"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Scroll",
+						"t": "void ()",
+						"i": "DbgDisas::Scroll()",
+						"r": "void Scroll()",
+						"s": "",
+						"u": "SCROLL",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "811d1731599926267caf9b0619ebee3d5895067b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetCursor",
+						"t": "void (adr_t)",
+						"i": "DbgDisas::SetCursor(adr_t)",
+						"r": "void SetCursor(adr_t adr)",
+						"s": "",
+						"u": "SETCURSOR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c2d75ed23a57c32a3fcc3702e42c2712c3e8e62"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetIp",
+						"t": "void (adr_t, const Image &)",
+						"i": "DbgDisas::SetIp(adr_t,const Image&)",
+						"r": "void SetIp(adr_t adr, const Upp::Image& img)",
+						"s": "",
+						"u": "SETIP",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec9f7fe4b38195159bf8fb886ef481552f0b3725"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GotFocus",
+						"t": "void ()",
+						"i": "DbgDisas::GotFocus()",
+						"r": "void GotFocus()",
+						"s": "",
+						"u": "GOTFOCUS",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22f887a5c332f690f21583f679ceb1d3dd3cdda4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "LostFocus",
+						"t": "void ()",
+						"i": "DbgDisas::LostFocus()",
+						"r": "void LostFocus()",
+						"s": "",
+						"u": "LOSTFOCUS",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b9bee7ca7a5ed92f15432586d608bb2f4209213"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "WriteClipboard",
+						"t": "void ()",
+						"i": "DbgDisas::WriteClipboard()",
+						"r": "void WriteClipboard()",
+						"s": "",
+						"u": "WRITECLIPBOARD",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c4600fe8bf1d619ab1877c6dbc8d8112ed6849c"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DbgDisas",
+						"t": "void ()",
+						"i": "DbgDisas::DbgDisas()",
+						"r": "DbgDisas()",
+						"s": "",
+						"u": "DBGDISAS",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8bcc7349f39a8d84d859d88352db70af7ac6fe3d"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "GdbCmd.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LLOG",
+						"t": "",
+						"i": "LLOG",
+						"r": "LLOG",
+						"s": "",
+						"u": "LLOG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d83c43df219c111fa516fe33b765574dc658780b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IMAGECLASS",
+						"t": "",
+						"i": "IMAGECLASS",
+						"r": "IMAGECLASS",
+						"s": "",
+						"u": "IMAGECLASS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "294e238c04e4548d9d615e6b73be7b2b6161360a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IMAGEFILE",
+						"t": "",
+						"i": "IMAGEFILE",
+						"r": "IMAGEFILE",
+						"s": "",
+						"u": "IMAGEFILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7b22c0ed24e4da585250b6e8e2dcca2821349e1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FindTag",
+						"t": "const char *(const char *, const char *)",
+						"i": "FindTag(const char*,const char*)",
+						"r": "const char *FindTag(const char *txt, const char *tag)",
+						"s": "",
+						"u": "FINDTAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c00ce2d153a0ce134f6bb1b2ae25f5153ca8f7e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "AfterTag",
+						"t": "const char *(const char *, const char *)",
+						"i": "AfterTag(const char*,const char*)",
+						"r": "const char *AfterTag(const char *txt, const char *tag)",
+						"s": "",
+						"u": "AFTERTAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e65635036494bbf36980224c9f8cf6e078623ef8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "AfterHeading",
+						"t": "const char *(const char *, const char *)",
+						"i": "AfterHeading(const char*,const char*)",
+						"r": "const char *AfterHeading(const char *txt, const char *heading)",
+						"s": "",
+						"u": "AFTERHEADING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8382c162d1c127eee4f9dbdf6794f1b888535493"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Paint",
+						"t": "void (Draw &, const Rect &, const Value &, Color, Color, dword) const",
+						"i": "RedDisplay::Paint(Draw&,const Rect&,const Value&,Color,Color,dword)const",
+						"r": "void Paint(Upp::Draw& w, const Upp::Rect& r, const Upp::Value& q, Upp::Color ink, Upp::Color paper, Upp::dword s) const",
+						"s": "",
+						"u": "PAINT",
+						"q": "RedDisplay",
+						"w": "REDDISPLAY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7069df09c04df82e06b1d5d3a1d22e5ef937a5fe"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DataMap",
+						"t": "VectorMap<String, String> (const ArrayCtrl &)",
+						"i": "DataMap(const ArrayCtrl&)",
+						"r": "VectorMap<String, String> DataMap(const Upp::ArrayCtrl& data)",
+						"s": "",
+						"u": "DATAMAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "443f1edb9e3cfd8d074de0fca5bc95185d4ff064"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "MarkChanged",
+						"t": "void (const VectorMap<String, String> &, ArrayCtrl &)",
+						"i": "MarkChanged(const VectorMap&,ArrayCtrl&)",
+						"r": "void MarkChanged(const VectorMap<String, String>& m, Upp::ArrayCtrl& data)",
+						"s": "",
+						"u": "MARKCHANGED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcab49bc7505c9a3b1a4e031ea5fefe00744c500"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SyncFrameButtons",
+						"t": "void ()",
+						"i": "Gdb::SyncFrameButtons()",
+						"r": "void SyncFrameButtons()",
+						"s": "",
+						"u": "SYNCFRAMEBUTTONS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "db93761021017c80987da59ade43ce49c3df2362"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Lock",
+						"t": "void ()",
+						"i": "Gdb::Lock()",
+						"r": "void Lock()",
+						"s": "",
+						"u": "LOCK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "80760ef2a169c1b44cb421c9405765905cd4cc0f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Unlock",
+						"t": "void ()",
+						"i": "Gdb::Unlock()",
+						"r": "void Unlock()",
+						"s": "",
+						"u": "UNLOCK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8131b04cfd62232d742d7459fd703ac13ad3ae20"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Result",
+						"t": "bool (String &, const String &)",
+						"i": "Gdb::Result(String&,const String&)",
+						"r": "bool Result(Upp::String& result, const Upp::String& s)",
+						"s": "",
+						"u": "RESULT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb3747e3cf5e2bbb78f0a8c5826229b5caf3a566"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Cmd",
+						"t": "String (const char *, bool)",
+						"i": "Gdb::Cmd(const char*,bool)",
+						"r": "Upp::String Cmd(const char *command, bool start = false)",
+						"s": "",
+						"u": "CMD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e50a412bc42069ea68f25bfa50d95eb5d69dfe6"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FastCmd",
+						"t": "String (const char *)",
+						"i": "Gdb::FastCmd(const char*)",
+						"r": "Upp::String FastCmd(const char *command)",
+						"s": "",
+						"u": "FASTCMD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "21566a67285ef56d9981d959f4eaf174b26dd781"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Stop",
+						"t": "void ()",
+						"i": "Gdb::Stop()",
+						"r": "void Stop()",
+						"s": "",
+						"u": "STOP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81402965f9c912776ce0cf6285f01c922db6fbab"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "IsFinished",
+						"t": "bool ()",
+						"i": "Gdb::IsFinished()",
+						"r": "bool IsFinished()",
+						"s": "",
+						"u": "ISFINISHED",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f2e9472bca2cfb3fafb781af6f4801895af34974"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "GdbData.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "METHOD_NAME",
+						"t": "",
+						"i": "METHOD_NAME",
+						"r": "METHOD_NAME",
+						"s": "",
+						"u": "METHOD_NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b7f98127764669472d03261c5e70e54b5f734353"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SkipGdbInfo",
+						"t": "void (CParser &)",
+						"i": "SkipGdbInfo(CParser&)",
+						"r": "void SkipGdbInfo(Upp::CParser& p)",
+						"s": "",
+						"u": "SKIPGDBINFO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e425210cc5a9166a86ba89fa93fb7b0df0c6c38"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DataClean",
+						"t": "String (CParser &)",
+						"i": "DataClean(CParser&)",
+						"r": "Upp::String DataClean(Upp::CParser& p)",
+						"s": "",
+						"u": "DATACLEAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d0e1eb128b043ad0163002a2e6d608991b741eb8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DataClean",
+						"t": "String (const char *)",
+						"i": "DataClean(const char*)",
+						"r": "Upp::String DataClean(const char *s)",
+						"s": "",
+						"u": "DATACLEAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27dd1939522541b550289a33e88a95372f988dcf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GdbData",
+						"t": "String (const String &)",
+						"i": "GdbData(const String&)",
+						"r": "Upp::String GdbData(const Upp::String& exp)",
+						"s": "",
+						"u": "GDBDATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f56f0f7ffcb3d2587ef815e15607487b05a0e7b0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Locals",
+						"t": "void ()",
+						"i": "Gdb::Locals()",
+						"r": "void Locals()",
+						"s": "",
+						"u": "LOCALS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a601173499516912b82e04b21be317c9ac41558a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Print0",
+						"t": "String (const String &)",
+						"i": "Gdb::Print0(const String&)",
+						"r": "Upp::String Print0(const Upp::String& exp)",
+						"s": "",
+						"u": "PRINT0",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6239857c5bd4c7410d4cd59ce430ab39da2048e3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Print",
+						"t": "String (const String &)",
+						"i": "Gdb::Print(const String&)",
+						"r": "Upp::String Print(const Upp::String& exp)",
+						"s": "",
+						"u": "PRINT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b639eb29e9e7c0a5b88a40c3628bc9c517d4d38a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Watches",
+						"t": "void ()",
+						"i": "Gdb::Watches()",
+						"r": "void Watches()",
+						"s": "",
+						"u": "WATCHES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7bdd79299653b8fc00d78739b74ad659dbbcb2a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "TryAuto",
+						"t": "void (Index<String> &, const String &)",
+						"i": "Gdb::TryAuto(Index&,const String&)",
+						"r": "void TryAuto(Index<String>& tested, const Upp::String& exp)",
+						"s": "",
+						"u": "TRYAUTO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "874d79d081705662f5b7c57bee9d5ce8a82134a3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Autos",
+						"t": "void ()",
+						"i": "Gdb::Autos()",
+						"r": "void Autos()",
+						"s": "",
+						"u": "AUTOS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c5ce8bbe4697fa1938b61c0b6230d699d7b5f486"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ReadGdbValues",
+						"t": "void (CParser &, VectorMap<String, String> &)",
+						"i": "Gdb::ReadGdbValues(CParser&,VectorMap&)",
+						"r": "void ReadGdbValues(Upp::CParser& p, VectorMap<String, String>& val)",
+						"s": "",
+						"u": "READGDBVALUES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a8ff2df89cffef82a358d8c92026b8a5e5572d1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ReadGdbValues",
+						"t": "void (const String &, VectorMap<String, String> &)",
+						"i": "Gdb::ReadGdbValues(const String&,VectorMap&)",
+						"r": "void ReadGdbValues(const Upp::String& h, VectorMap<String, String>& val)",
+						"s": "",
+						"u": "READGDBVALUES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a0925ab73c1601afbf6cb6cf0ec2acb0b743524"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Self",
+						"t": "void ()",
+						"i": "Gdb::Self()",
+						"r": "void Self()",
+						"s": "",
+						"u": "SELF",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ecbef0ad2fd62eac5b657079c1d6ecef9903775"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Cpu",
+						"t": "void ()",
+						"i": "Gdb::Cpu()",
+						"r": "void Cpu()",
+						"s": "",
+						"u": "CPU",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b68ac692c8373f06a56b2f727727c72d2fc7ad2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ObtainData",
+						"t": "void ()",
+						"i": "Gdb::ObtainData()",
+						"r": "void ObtainData()",
+						"s": "",
+						"u": "OBTAINDATA",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abd1583693d155fbca921ebfead09fdd8203bd80"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetTab",
+						"t": "void (int)",
+						"i": "Gdb::SetTab(int)",
+						"r": "void SetTab(int q)",
+						"s": "",
+						"u": "SETTAB",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1774b1f2d3821cc32e11062ba821c682b17a4fba"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ClearWatches",
+						"t": "void ()",
+						"i": "Gdb::ClearWatches()",
+						"r": "void ClearWatches()",
+						"s": "",
+						"u": "CLEARWATCHES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "24443d7ce1eb0fa85341c9ec8f011bce4739bafe"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "QuickWatch",
+						"t": "void ()",
+						"i": "Gdb::QuickWatch()",
+						"r": "void QuickWatch()",
+						"s": "",
+						"u": "QUICKWATCH",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e26de47e6e3da02be285ca7fd10ef9f1a347740"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Tip",
+						"t": "bool (const String &, CodeEditor::MouseTip &)",
+						"i": "Gdb::Tip(const String&,CodeEditor::MouseTip&)",
+						"r": "bool Tip(const Upp::String& exp, Upp::CodeEditor::MouseTip& mt)",
+						"s": "",
+						"u": "TIP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a9c6a13f8735f4e3540885e78f0b3ddbe319e6ba"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetTree",
+						"t": "void (ArrayCtrl *)",
+						"i": "Gdb::SetTree(ArrayCtrl*)",
+						"r": "void SetTree(Upp::ArrayCtrl *a)",
+						"s": "",
+						"u": "SETTREE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "84e5edcc3b61f6bc10eae960a1d6279dfbb25ba2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ObtainValueFromTreeCursor",
+						"t": "Value (int) const",
+						"i": "Gdb::ObtainValueFromTreeCursor(int)const",
+						"r": "Upp::Value ObtainValueFromTreeCursor(int cursor) const",
+						"s": "",
+						"u": "OBTAINVALUEFROMTREECURSOR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d95d6d7975a21ae569fe7b263938b4991b11015"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "OnTreeBar",
+						"t": "void (Bar &)",
+						"i": "Gdb::OnTreeBar(Bar&)",
+						"r": "void OnTreeBar(Upp::Bar& bar)",
+						"s": "",
+						"u": "ONTREEBAR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4b095833cfe12867dae94a63963f29d54b0ea7d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "OnValueCopyToClipboard",
+						"t": "void (const Value &)",
+						"i": "Gdb::OnValueCopyToClipboard(const Value&)",
+						"r": "void OnValueCopyToClipboard(const Upp::Value& val)",
+						"s": "",
+						"u": "ONVALUECOPYTOCLIPBOARD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e3d1c1ff5606500e0e5a850db683253057ee878e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "OnTreeExpand",
+						"t": "void (int)",
+						"i": "Gdb::OnTreeExpand(int)",
+						"r": "void OnTreeExpand(int node)",
+						"s": "",
+						"u": "ONTREEEXPAND",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bc8dba842c76f73eeb21dba3c2d8d206f47ad5fb"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Gdb.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "METHOD_NAME",
+						"t": "",
+						"i": "METHOD_NAME",
+						"r": "METHOD_NAME",
+						"s": "",
+						"u": "METHOD_NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b7f98127764669472d03261c5e70e54b5f734353"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "WatchMenu",
+						"t": "void (Bar &)",
+						"i": "Gdb::WatchMenu(Bar&)",
+						"r": "void WatchMenu(Upp::Bar& bar)",
+						"s": "",
+						"u": "WATCHMENU",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a9942f98e92ec67a6073a8d86000b8640382724d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "DebugBar",
+						"t": "void (Bar &)",
+						"i": "Gdb::DebugBar(Bar&)",
+						"r": "void DebugBar(Upp::Bar& bar)",
+						"s": "",
+						"u": "DEBUGBAR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71c9b296abf93dc52594c8bb22fc931dc5027293"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FirstLine",
+						"t": "String (const String &)",
+						"i": "FirstLine(const String&)",
+						"r": "Upp::String FirstLine(const Upp::String& s)",
+						"s": "",
+						"u": "FIRSTLINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fde1099c937c226e44b0defa5f3e225d50d925de"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FormatFrame",
+						"t": "String (const char *)",
+						"i": "FormatFrame(const char*)",
+						"r": "Upp::String FormatFrame(const char *s)",
+						"s": "",
+						"u": "FORMATFRAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "105d5cabc69450a28fa86c10bace5f00bc35bd77"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CopyStack",
+						"t": "void ()",
+						"i": "Gdb::CopyStack()",
+						"r": "void CopyStack()",
+						"s": "",
+						"u": "COPYSTACK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94d0e606912f27d00ade1140bc12097af84b0f41"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CopyStackAll",
+						"t": "void ()",
+						"i": "Gdb::CopyStackAll()",
+						"r": "void CopyStackAll()",
+						"s": "",
+						"u": "COPYSTACKALL",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d80e21fd120022dd1b8bcba2c44611a866a6ce3d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CopyDisas",
+						"t": "void ()",
+						"i": "Gdb::CopyDisas()",
+						"r": "void CopyDisas()",
+						"s": "",
+						"u": "COPYDISAS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2268c532c367016b6afcdd97e7c015f8ec8cd3ee"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CharFilterReSlash",
+						"t": "int (int)",
+						"i": "CharFilterReSlash(int)",
+						"r": "int CharFilterReSlash(int c)",
+						"s": "",
+						"u": "CHARFILTERRESLASH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "387d6f3b56c21d224ca229d9666902d6f9230cd7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Bpoint",
+						"t": "String (const String &, int)",
+						"i": "Bpoint(const String&,int)",
+						"r": "Upp::String Bpoint(const Upp::String& file, int line)",
+						"s": "",
+						"u": "BPOINT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e09b9f556d011ed66552c9347d478da13c8bde94"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "TryBreak",
+						"t": "bool (const char *)",
+						"i": "Gdb::TryBreak(const char*)",
+						"r": "bool TryBreak(const char *text)",
+						"s": "",
+						"u": "TRYBREAK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98c4fc915e3277c77e4eb30f8c3523da675f2568"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "SetBreakpoint",
+						"t": "bool (const String &, int, const String &)",
+						"i": "Gdb::SetBreakpoint(const String&,int,const String&)",
+						"r": "bool SetBreakpoint(const Upp::String& filename, int line, const Upp::String& bp)",
+						"s": "",
+						"u": "SETBREAKPOINT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "693f0591cc8d97de8ebd068e3c353f5a7f3c0f9a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetDisas",
+						"t": "void (const String &)",
+						"i": "Gdb::SetDisas(const String&)",
+						"r": "void SetDisas(const Upp::String& text)",
+						"s": "",
+						"u": "SETDISAS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "862279046822548c77ffa34e02bbd27d4ede63f0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SyncDisas",
+						"t": "void (bool)",
+						"i": "Gdb::SyncDisas(bool)",
+						"r": "void SyncDisas(bool fr)",
+						"s": "",
+						"u": "SYNCDISAS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b81eb2b93302fef9e4674ed2049a18032a16f4a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ParsePos",
+						"t": "bool (const String &, String &, int &, adr_t &)",
+						"i": "ParsePos(const String&,String&,int&,adr_t&)",
+						"r": "bool ParsePos(const Upp::String& s, Upp::String& fn, int& line, adr_t& adr)",
+						"s": "",
+						"u": "PARSEPOS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96aea9b3ac93b42acba15861df51009c47153b43"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CheckEnd",
+						"t": "void (const char *)",
+						"i": "Gdb::CheckEnd(const char*)",
+						"r": "void CheckEnd(const char *s)",
+						"s": "",
+						"u": "CHECKEND",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3edba7f534df51551c9d03883c4208fbfbefdb44"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Cmdp",
+						"t": "String (const char *, bool, bool)",
+						"i": "Gdb::Cmdp(const char*,bool,bool)",
+						"r": "Upp::String Cmdp(const char *cmdline, bool fr = false, bool setframe = true)",
+						"s": "",
+						"u": "CMDP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "785374dc58b7c07327c3900997d69f59159df372"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "IsProcessExitedNormally",
+						"t": "bool (const String &) const",
+						"i": "Gdb::IsProcessExitedNormally(const String&)const",
+						"r": "bool IsProcessExitedNormally(const Upp::String& cmd_output) const",
+						"s": "",
+						"u": "ISPROCESSEXITEDNORMALLY",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "915949b13abc3b8c55e50a8867f9e66f96813eb0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ObtainThreadsInfo",
+						"t": "String ()",
+						"i": "Gdb::ObtainThreadsInfo()",
+						"r": "Upp::String ObtainThreadsInfo()",
+						"s": "",
+						"u": "OBTAINTHREADSINFO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b1c0d8575157d220e68ed89cbcdaf6762b4af58"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ShowException",
+						"t": "void ()",
+						"i": "Gdb::ShowException()",
+						"r": "void ShowException()",
+						"s": "",
+						"u": "SHOWEXCEPTION",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "270330613b26f3124660ef135fd258cadf37a4fd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DoRun",
+						"t": "String ()",
+						"i": "Gdb::DoRun()",
+						"r": "Upp::String DoRun()",
+						"s": "",
+						"u": "DORUN",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6a1c52e36673a5b1ee69cbc0d52c9a4973e765e9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "RunTo",
+						"t": "bool ()",
+						"i": "Gdb::RunTo()",
+						"r": "bool RunTo()",
+						"s": "",
+						"u": "RUNTO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e4ff77dcd42e80ee4cdf71c62f1fa154b5a0cce"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BreakRunning",
+						"t": "void ()",
+						"i": "Gdb::BreakRunning()",
+						"r": "void BreakRunning()",
+						"s": "",
+						"u": "BREAKRUNNING",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2cb1005ae15cc4e3c81a1b8ad9d3a8365730d61a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Run",
+						"t": "void ()",
+						"i": "Gdb::Run()",
+						"r": "void Run()",
+						"s": "",
+						"u": "RUN",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b47ec4a91f83b1167e5c2512dca82b2f35c7404a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Step",
+						"t": "void (const char *)",
+						"i": "Gdb::Step(const char*)",
+						"r": "void Step(const char *cmd)",
+						"s": "",
+						"u": "STEP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "532ec7ccab6d0d00efcfca83da65dd5b6dff8845"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DisasCursor",
+						"t": "void ()",
+						"i": "Gdb::DisasCursor()",
+						"r": "void DisasCursor()",
+						"s": "",
+						"u": "DISASCURSOR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "06c138b69f4254e8b6a1a6a07e002f293d6ecc63"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DisasFocus",
+						"t": "void ()",
+						"i": "Gdb::DisasFocus()",
+						"r": "void DisasFocus()",
+						"s": "",
+						"u": "DISASFOCUS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f604924b4e77f9f744f653b110ce83a6ccbc80c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DropFrames",
+						"t": "void ()",
+						"i": "Gdb::DropFrames()",
+						"r": "void DropFrames()",
+						"s": "",
+						"u": "DROPFRAMES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "35dfc285a21458c176b222dcb461cf53e4fa4d18"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LoadFrames",
+						"t": "void ()",
+						"i": "Gdb::LoadFrames()",
+						"r": "void LoadFrames()",
+						"s": "",
+						"u": "LOADFRAMES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1a7c3943a6beb4a163f6a7af2337a64e303a8c2c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SwitchFrame",
+						"t": "void ()",
+						"i": "Gdb::SwitchFrame()",
+						"r": "void SwitchFrame()",
+						"s": "",
+						"u": "SWITCHFRAME",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c66ed8cd4fa69de279cb711d49516cfc5851dfb2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FrameUpDown",
+						"t": "void (int)",
+						"i": "Gdb::FrameUpDown(int)",
+						"r": "void FrameUpDown(int dir)",
+						"s": "",
+						"u": "FRAMEUPDOWN",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d4f7820322aa3da7812e5f1b3e55264220e98f8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SwitchThread",
+						"t": "void ()",
+						"i": "Gdb::SwitchThread()",
+						"r": "void SwitchThread()",
+						"s": "",
+						"u": "SWITCHTHREAD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ad6bc0191f9e34d0e994ae06a2ca0070465c1a2b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ClearCtrls",
+						"t": "void ()",
+						"i": "Gdb::ClearCtrls()",
+						"r": "void ClearCtrls()",
+						"s": "",
+						"u": "CLEARCTRLS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c66f123eb583f71c364ea495340ac5298d1602bf"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Key",
+						"t": "bool (dword, int)",
+						"i": "Gdb::Key(dword,int)",
+						"r": "bool Key(Upp::dword key, int count)",
+						"s": "",
+						"u": "KEY",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54d18c959ac3d7554ebbd077d8f56917e9bff3e0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Create",
+						"t": "bool (Host &, const String &, const String &, bool)",
+						"i": "Gdb::Create(Host&,const String&,const String&,bool)",
+						"r": "bool Create(Host& host, const Upp::String& exefile, const Upp::String& cmdline, bool console)",
+						"s": "",
+						"u": "CREATE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a07d32e6714e600053b3e8c9a9c8112f5bdddc6f"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~Gdb",
+						"t": "void () noexcept",
+						"i": "Gdb::~()",
+						"r": "~Gdb()",
+						"s": "",
+						"u": "~GDB",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6c867d19b0baf9c5de4317e2a266fde1e402d6db"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Periodic",
+						"t": "void ()",
+						"i": "Gdb::Periodic()",
+						"r": "void Periodic()",
+						"s": "",
+						"u": "PERIODIC",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb10e1802ffa44b77217c2aafca941b9e4140114"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SerializeSession",
+						"t": "void (Stream &)",
+						"i": "Gdb::SerializeSession(Stream&)",
+						"r": "void SerializeSession(Upp::Stream& s)",
+						"s": "",
+						"u": "SERIALIZESESSION",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "508a5b7296787c9d690a549fe5d609c6c59064d5"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Gdb",
+						"t": "void ()",
+						"i": "Gdb::Gdb()",
+						"r": "Gdb()",
+						"s": "",
+						"u": "GDB",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c12792d7be78f7fd230a028e173c70e5be19af9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GdbCreate",
+						"t": "One<Debugger> (Host &, const String &, const String &, bool)",
+						"i": "GdbCreate(Host&,const String&,const String&,bool)",
+						"r": "One<Debugger> GdbCreate(Host& host, const Upp::String& exefile, const Upp::String& cmdline, bool console)",
+						"s": "",
+						"u": "GDBCREATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d21355377410d6c6919cf8fbb110c418035471f2"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "GdbUtils.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Create",
+						"t": "One<IGdbUtils> ()",
+						"i": "Upp::GdbUtilsFactory::Create()",
+						"r": "One<IGdbUtils> Create()",
+						"s": "Upp",
+						"u": "CREATE",
+						"q": "Upp::GdbUtilsFactory",
+						"w": "UPP::GDBUTILSFACTORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9ad94a08a5bff1425eb6391c03f837de3d9a7ca1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "BreakRunning",
+						"t": "String (int)",
+						"i": "Upp::GdbPosixUtils::BreakRunning(int)",
+						"r": "Upp::String BreakRunning(int pid)",
+						"s": "Upp",
+						"u": "BREAKRUNNING",
+						"q": "Upp::GdbPosixUtils",
+						"w": "UPP::GDBPOSIXUTILS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9dbc866680e4fddbd44a8a3a02ef34054e700cc1"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Pdb.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "KEYGROUPNAME",
+						"t": "",
+						"i": "KEYGROUPNAME",
+						"r": "KEYGROUPNAME",
+						"s": "",
+						"u": "KEYGROUPNAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee3ec18c1b4c0fb92a6060bc00fdabfbe47b38bf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "KEYNAMESPACE",
+						"t": "",
+						"i": "KEYNAMESPACE",
+						"r": "KEYNAMESPACE",
+						"s": "",
+						"u": "KEYNAMESPACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed29cd8fd088fdd83281eed361c091aee1fa4b75"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "KEYFILE",
+						"t": "",
+						"i": "KEYFILE",
+						"r": "KEYFILE",
+						"s": "",
+						"u": "KEYFILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "408487be1f4a5318741dac07d751d75f42ae88e8"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "GdbMem.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "MemoryGoto",
+						"t": "void ()",
+						"i": "Gdb::MemoryGoto()",
+						"r": "void MemoryGoto()",
+						"s": "",
+						"u": "MEMORYGOTO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "070d9ee201c62468f4e2e625168944e2388e20aa"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "MemoryLoad",
+						"t": "void (const String &, int, bool)",
+						"i": "Gdb::MemoryLoad(const String&,int,bool)",
+						"r": "void MemoryLoad(const Upp::String& adr, int count, bool showerror)",
+						"s": "",
+						"u": "MEMORYLOAD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "076f6723872c21990e93d8a7d0d2a022548bfbfd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Memory",
+						"t": "void ()",
+						"i": "Gdb::Memory()",
+						"r": "void Memory()",
+						"s": "",
+						"u": "MEMORY",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f6beebe4bd80723d2c212298e75a180e63ee178"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "MemoryMenu",
+						"t": "void (Bar &, const String &)",
+						"i": "Gdb::MemoryMenu(Bar&,const String&)",
+						"r": "void MemoryMenu(Upp::Bar& bar, const Upp::String& s)",
+						"s": "",
+						"u": "MEMORYMENU",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e8931e37dab2cc4b7289b514ccf3948705b1163f"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Debug.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Mem.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Sym.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Exp.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "PrettyUpp.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "PrettyStd.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Pretty.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Visualise.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Data.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Tree.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Stack.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Code.cpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Pdb.lay",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "app.tpp/all.i",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "app.tpp/PDBExpressions_en-us.tppi",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "Debuggers.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__Debuggers__",
+						"t": "",
+						"i": "__Debuggers__",
+						"r": "__Debuggers__",
+						"s": "",
+						"u": "__DEBUGGERS__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f66f446738cf4ffc73bc30dbaf133dba6bf1a9c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DR_LOG",
+						"t": "",
+						"i": "DR_LOG",
+						"r": "DR_LOG",
+						"s": "",
+						"u": "DR_LOG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "567a6ef29a796866c03fa6c219b40103846c6456"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IMAGECLASS",
+						"t": "",
+						"i": "IMAGECLASS",
+						"r": "IMAGECLASS",
+						"s": "",
+						"u": "IMAGECLASS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "294e238c04e4548d9d615e6b73be7b2b6161360a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IMAGEFILE",
+						"t": "",
+						"i": "IMAGEFILE",
+						"r": "IMAGEFILE",
+						"s": "",
+						"u": "IMAGEFILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7b22c0ed24e4da585250b6e8e2dcca2821349e1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LAYOUTFILE",
+						"t": "",
+						"i": "LAYOUTFILE",
+						"r": "LAYOUTFILE",
+						"s": "",
+						"u": "LAYOUTFILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "56d8dfff3cebeffde3024822044179f005dc61ef"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "adr_t",
+						"t": "adr_t",
+						"i": "adr_t",
+						"r": "typedef Upp::uint64 adr_t",
+						"s": "",
+						"u": "ADR_T",
+						"q": "",
+						"w": "",
+						"y": "Upp::uint64",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eaf64a745a049a4486f5f6810849b20239788db2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CreateDebugTTY",
+						"t": "String ()",
+						"i": "CreateDebugTTY()",
+						"r": "Upp::String CreateDebugTTY()",
+						"s": "",
+						"u": "CREATEDEBUGTTY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dcd85377e1e445e9166ebd41023b12fd3421da61"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "KillDebugTTY",
+						"t": "void ()",
+						"i": "KillDebugTTY()",
+						"r": "void KillDebugTTY()",
+						"s": "",
+						"u": "KILLDEBUGTTY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "69efd599668d9e6a70cf7e8ac0e9ed43fd888cfd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "TTYQuit",
+						"t": "bool ()",
+						"i": "TTYQuit()",
+						"r": "bool TTYQuit()",
+						"s": "",
+						"u": "TTYQUIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9fec5c1088c4d65050188efb39d873b4ccd7e806"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GdbCommand",
+						"t": "String (bool)",
+						"i": "GdbCommand(bool)",
+						"r": "Upp::String GdbCommand(bool console)",
+						"s": "",
+						"u": "GDBCOMMAND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b091e06eec823ca32fe0b45962c4f360d9c92bc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CharFilterReSlash",
+						"t": "int (int)",
+						"i": "CharFilterReSlash(int)",
+						"r": "int CharFilterReSlash(int c)",
+						"s": "",
+						"u": "CHARFILTERRESLASH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a3c35fb14c282f7d4aa7e2df5e88d63d64a8c1da"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DbgDisas",
+						"t": "DbgDisas",
+						"i": "DbgDisas",
+						"r": "DbgDisas : public Upp::Ctrl",
+						"s": "",
+						"u": "DBGDISAS",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "Upp::Ctrl",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c1c14c4df4e62e2e866bb5cb6b3a1fa6450fe10"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Paint",
+						"t": "void (Draw &)",
+						"i": "DbgDisas::Paint(Draw&)",
+						"r": "void Paint(Upp::Draw& w)",
+						"s": "",
+						"u": "PAINT",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c9be88c349374579412e6279affd8f2a6600e2f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Layout",
+						"t": "void ()",
+						"i": "DbgDisas::Layout()",
+						"r": "void Layout()",
+						"s": "",
+						"u": "LAYOUT",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87fb29386f1073e97787ea82a9d9eee940ba4258"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "LeftDown",
+						"t": "void (Point, dword)",
+						"i": "DbgDisas::LeftDown(Point,dword)",
+						"r": "void LeftDown(Upp::Point p, Upp::dword)",
+						"s": "",
+						"u": "LEFTDOWN",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "012b7356e80d59caba053df2e46ae8a006f00502"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "MouseWheel",
+						"t": "void (Point, int, dword)",
+						"i": "DbgDisas::MouseWheel(Point,int,dword)",
+						"r": "void MouseWheel(Upp::Point, int zdelta, Upp::dword)",
+						"s": "",
+						"u": "MOUSEWHEEL",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8bf7c34296d7d107b9d9aa3c160b101a295c03f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Key",
+						"t": "bool (dword, int)",
+						"i": "DbgDisas::Key(dword,int)",
+						"r": "bool Key(Upp::dword key, int)",
+						"s": "",
+						"u": "KEY",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d14db4a703d94e17f74b0ebb0144277d15b4f4ba"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GotFocus",
+						"t": "void ()",
+						"i": "DbgDisas::GotFocus()",
+						"r": "void GotFocus()",
+						"s": "",
+						"u": "GOTFOCUS",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "346a199f3c1330be54ff66aa5d6d51198535fd49"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "LostFocus",
+						"t": "void ()",
+						"i": "DbgDisas::LostFocus()",
+						"r": "void LostFocus()",
+						"s": "",
+						"u": "LOSTFOCUS",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4aac74ab321e3055f46b678e141f4f809819576e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "addr",
+						"t": "Index<adr_t>",
+						"i": "DbgDisas::addr",
+						"r": "Index<adr_t> addr",
+						"s": "",
+						"u": "ADDR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60f8f1f0f916e309661c711993488ca162c5b885"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Inst",
+						"t": "DbgDisas::Inst",
+						"i": "DbgDisas::Inst",
+						"r": "Inst : Moveable<Inst>",
+						"s": "",
+						"u": "INST",
+						"q": "DbgDisas::Inst",
+						"w": "DBGDISAS::INST",
+						"y": "Upp::Moveable",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "52170d46efb27377b78897030c00e307051af579"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bytes",
+						"t": "String",
+						"i": "DbgDisas::Inst::bytes",
+						"r": "Upp::String bytes",
+						"s": "",
+						"u": "BYTES",
+						"q": "DbgDisas::Inst",
+						"w": "DBGDISAS::INST",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f709f98c43166da0854a5cbf6db337db0070c6ee"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "code",
+						"t": "String",
+						"i": "DbgDisas::Inst::code",
+						"r": "Upp::String code",
+						"s": "",
+						"u": "CODE",
+						"q": "DbgDisas::Inst",
+						"w": "DBGDISAS::INST",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1bde8c74a8940f960cdbb29b3b1a88751d409972"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "args",
+						"t": "String",
+						"i": "DbgDisas::Inst::args",
+						"r": "Upp::String args",
+						"s": "",
+						"u": "ARGS",
+						"q": "DbgDisas::Inst",
+						"w": "DBGDISAS::INST",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02c63ac06b420d193a9aae2b655b3437e68ec6db"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sb",
+						"t": "ScrollBar",
+						"i": "DbgDisas::sb",
+						"r": "Upp::ScrollBar sb",
+						"s": "",
+						"u": "SB",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e96d4ab27a9f23bb406bba3b4e126ee09e377b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "inst",
+						"t": "Vector<Inst>",
+						"i": "DbgDisas::inst",
+						"r": "Vector<Inst> inst",
+						"s": "",
+						"u": "INST",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6fd953ed312f17259030a9d604594be134e842b2"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "taddr",
+						"t": "Index<adr_t>",
+						"i": "DbgDisas::taddr",
+						"r": "Index<adr_t> taddr",
+						"s": "",
+						"u": "TADDR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e9c1605ff74fad273b23b6e7e1ae41165fa046f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "codecx",
+						"t": "int",
+						"i": "DbgDisas::codecx",
+						"r": "int codecx",
+						"s": "",
+						"u": "CODECX",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb097ddad9a22333b28a1b51e6a087224ddc9568"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "low",
+						"t": "adr_t",
+						"i": "DbgDisas::low",
+						"r": "adr_t low",
+						"s": "",
+						"u": "LOW",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dbee5f2dffbf3c6a2461f86394179534fb0586da"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "high",
+						"t": "adr_t",
+						"i": "DbgDisas::high",
+						"r": "adr_t high",
+						"s": "",
+						"u": "HIGH",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f4abc9db9574d233ee74ffb41818aa423395fa1"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cursor",
+						"t": "int",
+						"i": "DbgDisas::cursor",
+						"r": "int cursor",
+						"s": "",
+						"u": "CURSOR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f2e7204231cd330215420b8a9baa88798803f01"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip",
+						"t": "int",
+						"i": "DbgDisas::ip",
+						"r": "int ip",
+						"s": "",
+						"u": "IP",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4cae0fc11d4e325de6bb3de78e65248f2726b6a4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ipimg",
+						"t": "Image",
+						"i": "DbgDisas::ipimg",
+						"r": "Upp::Image ipimg",
+						"s": "",
+						"u": "IPIMG",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd334614c16f3b007cc0ff44ff0f58c55a70605f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "mode64",
+						"t": "bool",
+						"i": "DbgDisas::mode64",
+						"r": "bool mode64",
+						"s": "",
+						"u": "MODE64",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b2c33b380f98a96abbe945b90611f10a2b445a02"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "opfont",
+						"t": "Font",
+						"i": "DbgDisas::opfont",
+						"r": "Upp::Font opfont",
+						"s": "",
+						"u": "OPFONT",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d81cec64fbf35e957e55363006b955455d9e5f2e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GetBox",
+						"t": "Size () const",
+						"i": "DbgDisas::GetBox()const",
+						"r": "Upp::Size GetBox() const",
+						"s": "",
+						"u": "GETBOX",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b38d92c26970765f59d7c6080c43bd60f580311b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Scroll",
+						"t": "void ()",
+						"i": "DbgDisas::Scroll()",
+						"r": "void Scroll()",
+						"s": "",
+						"u": "SCROLL",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6a10a9e723143b59fddf8373e5fa8b234932550c"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CLASSNAME",
+						"t": "DbgDisas::CLASSNAME",
+						"i": "DbgDisas::CLASSNAME",
+						"r": "typedef DbgDisas CLASSNAME",
+						"s": "",
+						"u": "CLASSNAME",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "DbgDisas",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ff6fc582c1a3fb1d2a432e253ffee3e01248f0fa"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "WhenCursor",
+						"t": "Event<>",
+						"i": "DbgDisas::WhenCursor",
+						"r": "Event<> WhenCursor",
+						"s": "",
+						"u": "WHENCURSOR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a391eea1ccecb4c8ce488f98eb1ac42891faad88"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "WhenFocus",
+						"t": "Event<>",
+						"i": "DbgDisas::WhenFocus",
+						"r": "Event<> WhenFocus",
+						"s": "",
+						"u": "WHENFOCUS",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9fd5df8b2f6005280d8b34ae0f5223f49a9ef20d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Clear",
+						"t": "void ()",
+						"i": "DbgDisas::Clear()",
+						"r": "void Clear()",
+						"s": "",
+						"u": "CLEAR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8bb8467aae51f1575cb6b40449b45b5879f5b4d3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Add",
+						"t": "void (adr_t, const String &, const String &, const String &)",
+						"i": "DbgDisas::Add(adr_t,const String&,const String&,const String&)",
+						"r": "void Add(adr_t adr, const Upp::String& code, const Upp::String& args, const Upp::String& bytes = Null)",
+						"s": "",
+						"u": "ADD",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f38a69392f9a582db35c5b041dec51aba4c7c0eb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "AddT",
+						"t": "void (adr_t)",
+						"i": "DbgDisas::AddT(adr_t)",
+						"r": "void AddT(adr_t tadr)",
+						"s": "",
+						"u": "ADDT",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c7a292bac4e7e90273b3f88d57b28b630c9afa57"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "WriteClipboard",
+						"t": "void ()",
+						"i": "DbgDisas::WriteClipboard()",
+						"r": "void WriteClipboard()",
+						"s": "",
+						"u": "WRITECLIPBOARD",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b74c5a9efec7d1ff5a682eab030f56cebf000e1a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Set",
+						"t": "void (const String &)",
+						"i": "DbgDisas::Set(const String&)",
+						"r": "void Set(const Upp::String& s)",
+						"s": "",
+						"u": "SET",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6eca01200496559931adf0a7d072c7f0d7a37708"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "InRange",
+						"t": "bool (adr_t)",
+						"i": "DbgDisas::InRange(adr_t)",
+						"r": "bool InRange(adr_t adr)",
+						"s": "",
+						"u": "INRANGE",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ef79952f915283dde12d33e2c5d42b86c272f4e8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetCursor",
+						"t": "void (adr_t)",
+						"i": "DbgDisas::SetCursor(adr_t)",
+						"r": "void SetCursor(adr_t adr)",
+						"s": "",
+						"u": "SETCURSOR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b15925899f4f58a6e5730a29e3844b17dd2168f9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetCursor",
+						"t": "adr_t () const",
+						"i": "DbgDisas::GetCursor()const",
+						"r": "adr_t GetCursor() const",
+						"s": "",
+						"u": "GETCURSOR",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "240ebf10435731a6d06ce1899960d1a0905c738b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetIp",
+						"t": "void (adr_t, const Image &)",
+						"i": "DbgDisas::SetIp(adr_t,const Image&)",
+						"r": "void SetIp(adr_t adr, const Upp::Image& img)",
+						"s": "",
+						"u": "SETIP",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0716e22fea1b191a2e910a1314d04f7ef6b42e04"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Mode64",
+						"t": "void (bool)",
+						"i": "DbgDisas::Mode64(bool)",
+						"r": "void Mode64(bool b)",
+						"s": "",
+						"u": "MODE64",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87ec078d130b3bb585243f1f20460ae086f40dfa"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DbgDisas",
+						"t": "void ()",
+						"i": "DbgDisas::DbgDisas()",
+						"r": "DbgDisas()",
+						"s": "",
+						"u": "DBGDISAS",
+						"q": "DbgDisas",
+						"w": "DBGDISAS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "affa3c3925340c5dc852205ddab41716459b3fee"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Dbg",
+						"t": "Dbg",
+						"i": "Dbg",
+						"r": "Dbg",
+						"s": "",
+						"u": "DBG",
+						"q": "Dbg",
+						"w": "DBG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7648e8a4040837d7fd1ce82d461eebadb811f073"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Stop",
+						"t": "void ()",
+						"i": "Dbg::Stop()",
+						"r": "void Stop()",
+						"s": "",
+						"u": "STOP",
+						"q": "Dbg",
+						"w": "DBG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bf6fdfd9014695a384261bc1386ef9edb58a8d8f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "IsFinished",
+						"t": "bool ()",
+						"i": "Dbg::IsFinished()",
+						"r": "bool IsFinished()",
+						"s": "",
+						"u": "ISFINISHED",
+						"q": "Dbg",
+						"w": "DBG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "390d37238eb655d7550c5fb536b9c657109cdf2f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Result",
+						"t": "bool (String &, const String &)",
+						"i": "Dbg::Result(String&,const String&)",
+						"r": "bool Result(Upp::String& result, const Upp::String& s)",
+						"s": "",
+						"u": "RESULT",
+						"q": "Dbg",
+						"w": "DBG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73f50f8945bbda0040e14506a27cfb1552015334"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CLASSNAME",
+						"t": "Dbg::CLASSNAME",
+						"i": "Dbg::CLASSNAME",
+						"r": "typedef Dbg CLASSNAME",
+						"s": "",
+						"u": "CLASSNAME",
+						"q": "Dbg",
+						"w": "DBG",
+						"y": "Dbg",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "efa57d51c70bd439e8568baacdad93160574774b"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Dbg",
+						"t": "void ()",
+						"i": "Dbg::Dbg()",
+						"r": "Dbg()",
+						"s": "",
+						"u": "DBG",
+						"q": "Dbg",
+						"w": "DBG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1525b2b327a8351652224e1ee90d125250fe9617"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "RedDisplay",
+						"t": "RedDisplay",
+						"i": "RedDisplay",
+						"r": "RedDisplay : public Upp::Display",
+						"s": "",
+						"u": "REDDISPLAY",
+						"q": "RedDisplay",
+						"w": "REDDISPLAY",
+						"y": "Upp::Display",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6355e42bee18be9b471c907d9b6b5c80467bac9c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Paint",
+						"t": "void (Draw &, const Rect &, const Value &, Color, Color, dword) const",
+						"i": "RedDisplay::Paint(Draw&,const Rect&,const Value&,Color,Color,dword)const",
+						"r": "void Paint(Upp::Draw& w, const Upp::Rect& r, const Upp::Value& q, Upp::Color ink, Upp::Color paper, Upp::dword s) const",
+						"s": "",
+						"u": "PAINT",
+						"q": "RedDisplay",
+						"w": "REDDISPLAY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d451be76290b6df5e7591b273be9828038b5e59"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FindTag",
+						"t": "const char *(const char *, const char *)",
+						"i": "FindTag(const char*,const char*)",
+						"r": "const char *FindTag(const char *txt, const char *tag)",
+						"s": "",
+						"u": "FINDTAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "35202b5bd3306df0fe39ddc8f51b46b024415b93"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AfterTag",
+						"t": "const char *(const char *, const char *)",
+						"i": "AfterTag(const char*,const char*)",
+						"r": "const char *AfterTag(const char *txt, const char *tag)",
+						"s": "",
+						"u": "AFTERTAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "86765441437d9e02b6c42ceb85f7650dd339fb07"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AfterHeading",
+						"t": "const char *(const char *, const char *)",
+						"i": "AfterHeading(const char*,const char*)",
+						"r": "const char *AfterHeading(const char *txt, const char *heading)",
+						"s": "",
+						"u": "AFTERHEADING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "048eb425dc5f21b8ce40c4dd26b4ffba813943bb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DataMap",
+						"t": "VectorMap<String, String> (const ArrayCtrl &)",
+						"i": "DataMap(const ArrayCtrl&)",
+						"r": "VectorMap<String, String> DataMap(const Upp::ArrayCtrl& data)",
+						"s": "",
+						"u": "DATAMAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2a230672a9ed7dda3e663cea4cc4ec4845fc426"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "MarkChanged",
+						"t": "void (const VectorMap<String, String> &, ArrayCtrl &)",
+						"i": "MarkChanged(const VectorMap&,ArrayCtrl&)",
+						"r": "void MarkChanged(const VectorMap<String, String>& m, Upp::ArrayCtrl& data)",
+						"s": "",
+						"u": "MARKCHANGED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4a4c2ecfa183ca41fb80805e29204f2869a76601"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GDB_PROMPT",
+						"t": "",
+						"i": "GDB_PROMPT",
+						"r": "GDB_PROMPT",
+						"s": "",
+						"u": "GDB_PROMPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f4dac188e974f52357d25fcaea8e7139363bffd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "KEYGROUPNAME",
+						"t": "",
+						"i": "KEYGROUPNAME",
+						"r": "KEYGROUPNAME",
+						"s": "",
+						"u": "KEYGROUPNAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee3ec18c1b4c0fb92a6060bc00fdabfbe47b38bf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "KEYNAMESPACE",
+						"t": "",
+						"i": "KEYNAMESPACE",
+						"r": "KEYNAMESPACE",
+						"s": "",
+						"u": "KEYNAMESPACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed29cd8fd088fdd83281eed361c091aee1fa4b75"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "KEYFILE",
+						"t": "",
+						"i": "KEYFILE",
+						"r": "KEYFILE",
+						"s": "",
+						"u": "KEYFILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "408487be1f4a5318741dac07d751d75f42ae88e8"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "GdbUtils.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_ide_Debuggers_GdbUtils_h_",
+						"t": "",
+						"i": "_ide_Debuggers_GdbUtils_h_",
+						"r": "_ide_Debuggers_GdbUtils_h_",
+						"s": "",
+						"u": "_IDE_DEBUGGERS_GDBUTILS_H_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d225c3907dd16163248bc63421a398955db584c3"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "IGdbUtils",
+						"t": "Upp::IGdbUtils",
+						"i": "Upp::IGdbUtils",
+						"r": "IGdbUtils",
+						"s": "Upp",
+						"u": "IGDBUTILS",
+						"q": "Upp::IGdbUtils",
+						"w": "UPP::IGDBUTILS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "55da4089673d11f3d77ac4f5604250b68cffa3d5"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~IGdbUtils",
+						"t": "void () noexcept",
+						"i": "Upp::IGdbUtils::~()=default",
+						"r": "~IGdbUtils()",
+						"s": "Upp",
+						"u": "~IGDBUTILS",
+						"q": "Upp::IGdbUtils",
+						"w": "UPP::IGDBUTILS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2755f94841459bee44c765f8bb1d09cc1d62e1ff"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "BreakRunning",
+						"t": "String (int)",
+						"i": "Upp::IGdbUtils::BreakRunning(int)",
+						"r": "Upp::String BreakRunning(int pid)",
+						"s": "Upp",
+						"u": "BREAKRUNNING",
+						"q": "Upp::IGdbUtils",
+						"w": "UPP::IGDBUTILS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ccaca157eb0eb79cedab215338496cb4c8ac4f00"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GdbUtilsFactory",
+						"t": "Upp::GdbUtilsFactory",
+						"i": "Upp::GdbUtilsFactory",
+						"r": "GdbUtilsFactory final",
+						"s": "Upp",
+						"u": "GDBUTILSFACTORY",
+						"q": "Upp::GdbUtilsFactory",
+						"w": "UPP::GDBUTILSFACTORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13cb56f2f9fbab6a05bdb1bb906e6776b71bff9d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Create",
+						"t": "One<IGdbUtils> ()",
+						"i": "Upp::GdbUtilsFactory::Create()",
+						"r": "One<IGdbUtils> Create()",
+						"s": "Upp",
+						"u": "CREATE",
+						"q": "Upp::GdbUtilsFactory",
+						"w": "UPP::GDBUTILSFACTORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0307f112bde347840e11bcd34b4562ab2ee8eed4"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GdbPosixUtils",
+						"t": "Upp::GdbPosixUtils",
+						"i": "Upp::GdbPosixUtils",
+						"r": "GdbPosixUtils final : public Upp::IGdbUtils",
+						"s": "Upp",
+						"u": "GDBPOSIXUTILS",
+						"q": "Upp::GdbPosixUtils",
+						"w": "UPP::GDBPOSIXUTILS",
+						"y": "Upp::IGdbUtils",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dfe8e847af0b4d7822be67c169e8e0f37e238161"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "BreakRunning",
+						"t": "String (int)",
+						"i": "Upp::GdbPosixUtils::BreakRunning(int)",
+						"r": "Upp::String BreakRunning(int pid)",
+						"s": "Upp",
+						"u": "BREAKRUNNING",
+						"q": "Upp::GdbPosixUtils",
+						"w": "UPP::GDBPOSIXUTILS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d0c469e1b9ce3605dfba38417af6ab5408e16df"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Debuggers.iml",
+			"value": {
+				"items": [
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Thread",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Thread()",
+						"r": "static Upp::Image Thread()",
+						"s": "",
+						"u": "THREAD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "128e35c283edb36c77689fa06edfcd77aae50aa9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Thread__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Thread__UHD()",
+						"r": "static Upp::Image Thread__UHD()",
+						"s": "",
+						"u": "THREAD__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6234b61403df5885c42662f1fbb7a31283c165cb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ErrImg",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::ErrImg()",
+						"r": "static Upp::Image ErrImg()",
+						"s": "",
+						"u": "ERRIMG",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bb547e7fd5635275daa998a2e4d9c6852cbfe30c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ErrImg__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::ErrImg__UHD()",
+						"r": "static Upp::Image ErrImg__UHD()",
+						"s": "",
+						"u": "ERRIMG__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "061e0d8a404c71a07a26e3bf7dc6f4062c5a8d0e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Img",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Img()",
+						"r": "static Upp::Image Img()",
+						"s": "",
+						"u": "IMG",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1a93d52be0003ffc8a21215f4121b35dca8c5dc1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Img__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Img__UHD()",
+						"r": "static Upp::Image Img__UHD()",
+						"s": "",
+						"u": "IMG__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30158aa47ec8379d629f4d50f293e06895d6e9ee"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "IpLinePtr",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::IpLinePtr()",
+						"r": "static Upp::Image IpLinePtr()",
+						"s": "",
+						"u": "IPLINEPTR",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eebbb0dd19de62df1ac111caf614757cba784ced"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "IpLinePtr__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::IpLinePtr__UHD()",
+						"r": "static Upp::Image IpLinePtr__UHD()",
+						"s": "",
+						"u": "IPLINEPTR__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e0fe342151965b5667cd6cf5fa1c2abd67a289bd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "SetIp",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::SetIp()",
+						"r": "static Upp::Image SetIp()",
+						"s": "",
+						"u": "SETIP",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fbe3de7cff755a4e04211f5c617bef5fb6f7cb16"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "SetIp__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::SetIp__UHD()",
+						"r": "static Upp::Image SetIp__UHD()",
+						"s": "",
+						"u": "SETIP__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9ce7cbdab4c6ab98446cf8e27b48d06e8ef54ff"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "FrameLinePtr",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::FrameLinePtr()",
+						"r": "static Upp::Image FrameLinePtr()",
+						"s": "",
+						"u": "FRAMELINEPTR",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "83fa4dd061deb9ab1c15d4c85a3b5e899d7165fe"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "FrameLinePtr__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::FrameLinePtr__UHD()",
+						"r": "static Upp::Image FrameLinePtr__UHD()",
+						"s": "",
+						"u": "FRAMELINEPTR__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dacb164857eb1167c5a0982557906700a062e225"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "DisasPtr",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::DisasPtr()",
+						"r": "static Upp::Image DisasPtr()",
+						"s": "",
+						"u": "DISASPTR",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "166111bf2bf705dd5366a5b5bb174ff00a9bbf1b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StopDebug",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StopDebug()",
+						"r": "static Upp::Image StopDebug()",
+						"s": "",
+						"u": "STOPDEBUG",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d356525301600418740abed5d17738367f2cb517"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StopDebug__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StopDebug__UHD()",
+						"r": "static Upp::Image StopDebug__UHD()",
+						"s": "",
+						"u": "STOPDEBUG__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1dcd12c1f608813dfbb61eebb9139ced80ae1266"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepInto",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepInto()",
+						"r": "static Upp::Image StepInto()",
+						"s": "",
+						"u": "STEPINTO",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54fae363135bd8a89b67506d83b70ac82414ffc3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepInto__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepInto__UHD()",
+						"r": "static Upp::Image StepInto__UHD()",
+						"s": "",
+						"u": "STEPINTO__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "24ef6d9434a726e23908c0ff328abad5c0347fcb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepInto__DARK",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepInto__DARK()",
+						"r": "static Upp::Image StepInto__DARK()",
+						"s": "",
+						"u": "STEPINTO__DARK",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "291ffcb7c83920dd4b4ca1cccdb1429c3dc7cdb3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepOver",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepOver()",
+						"r": "static Upp::Image StepOver()",
+						"s": "",
+						"u": "STEPOVER",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8d5dfe67600eabf817e1aa6adad16fe8652cb834"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepOver__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepOver__UHD()",
+						"r": "static Upp::Image StepOver__UHD()",
+						"s": "",
+						"u": "STEPOVER__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7bf5f1856d1a1cb195ae14b9501260cc4a2310de"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepOver__DARK",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepOver__DARK()",
+						"r": "static Upp::Image StepOver__DARK()",
+						"s": "",
+						"u": "STEPOVER__DARK",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f5aad286d5af076538a8e4c3e104ebf63206403"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepOut",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepOut()",
+						"r": "static Upp::Image StepOut()",
+						"s": "",
+						"u": "STEPOUT",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3098b1fca402573b43756fb5d3e78a690e9bd12"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepOut__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepOut__UHD()",
+						"r": "static Upp::Image StepOut__UHD()",
+						"s": "",
+						"u": "STEPOUT__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9325d6342d6faa1c5be4baf079e983973e4e2d0f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "StepOut__DARK",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::StepOut__DARK()",
+						"r": "static Upp::Image StepOut__DARK()",
+						"s": "",
+						"u": "STEPOUT__DARK",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d34370e9069d3c9af09788f00bfcad88c5e07831"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "RunTo",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::RunTo()",
+						"r": "static Upp::Image RunTo()",
+						"s": "",
+						"u": "RUNTO",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "959d239aab26fd425f91a1dc4c46877f5caaac95"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "RunTo__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::RunTo__UHD()",
+						"r": "static Upp::Image RunTo__UHD()",
+						"s": "",
+						"u": "RUNTO__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "725865890d1285418819b0ef0fd6615d80090e42"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "RunTo__DARK",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::RunTo__DARK()",
+						"r": "static Upp::Image RunTo__DARK()",
+						"s": "",
+						"u": "RUNTO__DARK",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4b51d20b56fe789e47517a48d9270eabde7ea8b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Run",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Run()",
+						"r": "static Upp::Image Run()",
+						"s": "",
+						"u": "RUN",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e48bcc8c6833879e4ea11d18e3da6ff5037e51ae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Run__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Run__UHD()",
+						"r": "static Upp::Image Run__UHD()",
+						"s": "",
+						"u": "RUN__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a28aa7a7c148f493d1e92c63243476d6a3ba3c8f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Run__DARK",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Run__DARK()",
+						"r": "static Upp::Image Run__DARK()",
+						"s": "",
+						"u": "RUN__DARK",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40267ac467fecffdfb2aa90258c37ab7716364e9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Stop",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Stop()",
+						"r": "static Upp::Image Stop()",
+						"s": "",
+						"u": "STOP",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6fc76e6f065e9a19e0b908d2c1d51f2b3a63dc93"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Stop__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::Stop__UHD()",
+						"r": "static Upp::Image Stop__UHD()",
+						"s": "",
+						"u": "STOP__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4337daa4a4d4f7691b1062db552455d654636cab"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ExplorerBack",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::ExplorerBack()",
+						"r": "static Upp::Image ExplorerBack()",
+						"s": "",
+						"u": "EXPLORERBACK",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5d4b0a534c2d6e08630ea5026647687e706061f2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ExplorerBack__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::ExplorerBack__UHD()",
+						"r": "static Upp::Image ExplorerBack__UHD()",
+						"s": "",
+						"u": "EXPLORERBACK__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b25196341e37b06ea8b3568be79753f5b612b46"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ExplorerFw",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::ExplorerFw()",
+						"r": "static Upp::Image ExplorerFw()",
+						"s": "",
+						"u": "EXPLORERFW",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "946074563f8a5a11b50dbebbf6e4a903e1e4ac40"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ExplorerFw__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::ExplorerFw__UHD()",
+						"r": "static Upp::Image ExplorerFw__UHD()",
+						"s": "",
+						"u": "EXPLORERFW__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "196bc8c51be66dfd9ea63819e952874aed677980"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "FrameUp",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::FrameUp()",
+						"r": "static Upp::Image FrameUp()",
+						"s": "",
+						"u": "FRAMEUP",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "26b1fbda90304ae21b459e8ce5999117e26c3fd3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "FrameUp__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::FrameUp__UHD()",
+						"r": "static Upp::Image FrameUp__UHD()",
+						"s": "",
+						"u": "FRAMEUP__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a1b73be50ef718a31a8808fea4c54557b964fd62"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "FrameDown",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::FrameDown()",
+						"r": "static Upp::Image FrameDown()",
+						"s": "",
+						"u": "FRAMEDOWN",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c5bc683b5286f387648ac60570fe3f77ae850eb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "FrameDown__UHD",
+						"t": "Upp::Image ()",
+						"i": "DbgImg::FrameDown__UHD()",
+						"r": "static Upp::Image FrameDown__UHD()",
+						"s": "",
+						"u": "FRAMEDOWN__UHD",
+						"q": "DbgImg",
+						"w": "DBGIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "55e1891989109e59fb83d36568b2f1485113d445"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Gdb.lay",
+			"value": {
+				"items": [
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "QuickwatchLayout__layid",
+						"t": "QuickwatchLayout__layid",
+						"i": "QuickwatchLayout__layid",
+						"r": "QuickwatchLayout__layid",
+						"s": "",
+						"u": "QUICKWATCHLAYOUT__LAYID",
+						"q": "QuickwatchLayout__layid",
+						"w": "QUICKWATCHLAYOUT__LAYID",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46634f04bb7cc562a554cf14fafc64f41e380d86"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "InitLayout",
+						"t": "void (Upp::Ctrl &, L &, D &, QuickwatchLayout__layid &)",
+						"i": "InitLayout(Upp::Ctrl&,L&,D&,QuickwatchLayout__layid&)",
+						"r": "template <class L, class D> void InitLayout(Upp::Ctrl& parent, L& layout, D& uts, QuickwatchLayout__layid&)",
+						"s": "",
+						"u": "INITLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77676d104df47783be831b6b9e138f6ca017f204"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "WithQuickwatchLayout",
+						"t": "",
+						"i": "WithQuickwatchLayout",
+						"r": "template <class T> WithQuickwatchLayout : public T, public QuickwatchLayout__layid",
+						"s": "",
+						"u": "WITHQUICKWATCHLAYOUT",
+						"q": "WithQuickwatchLayout",
+						"w": "WITHQUICKWATCHLAYOUT",
+						"y": "QuickwatchLayout__layid",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77676d104df47783be831b6b9e138f6ca017f204"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithQuickwatchLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithQuickwatchLayout",
+						"w": "WITHQUICKWATCHLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46634f04bb7cc562a554cf14fafc64f41e380d86"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_QuickwatchLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "SetLayout_QuickwatchLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_QuickwatchLayout(T& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_QUICKWATCHLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77676d104df47783be831b6b9e138f6ca017f204"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_QuickwatchLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_QuickwatchLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_QuickwatchLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_QUICKWATCHLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77676d104df47783be831b6b9e138f6ca017f204"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "expression",
+						"t": "Upp::WithDropChoice<Upp::EditString>",
+						"i": "WithQuickwatchLayout::expression",
+						"r": "WithDropChoice<Upp::EditString> expression",
+						"s": "",
+						"u": "EXPRESSION",
+						"q": "WithQuickwatchLayout",
+						"w": "WITHQUICKWATCHLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "value",
+						"t": "Upp::LineEdit",
+						"i": "WithQuickwatchLayout::value",
+						"r": "Upp::LineEdit value",
+						"s": "",
+						"u": "VALUE",
+						"q": "WithQuickwatchLayout",
+						"w": "WITHQUICKWATCHLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ok",
+						"t": "Upp::Button",
+						"i": "WithQuickwatchLayout::ok",
+						"r": "Upp::Button ok",
+						"s": "",
+						"u": "OK",
+						"q": "WithQuickwatchLayout",
+						"w": "WITHQUICKWATCHLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cancel",
+						"t": "Upp::Button",
+						"i": "WithQuickwatchLayout::cancel",
+						"r": "Upp::Button cancel",
+						"s": "",
+						"u": "CANCEL",
+						"q": "WithQuickwatchLayout",
+						"w": "WITHQUICKWATCHLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "InitLayout",
+						"t": "void (Upp::Ctrl &, L &, D &, GotoMemoryLayout__layid &)",
+						"i": "InitLayout(Upp::Ctrl&,L&,D&,GotoMemoryLayout__layid&)",
+						"r": "template <class L, class D> void InitLayout(Upp::Ctrl& parent, L& layout, D& uts, GotoMemoryLayout__layid&)",
+						"s": "",
+						"u": "INITLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4c5fb73577346eafd5ef2700524ef9e1889645f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithGotoMemoryLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithGotoMemoryLayout",
+						"w": "WITHGOTOMEMORYLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e5851b82bd9b9bfbdfb193ac34d17f5f801ff7a"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "WithGotoMemoryLayout",
+						"t": "",
+						"i": "WithGotoMemoryLayout",
+						"r": "template <class T> WithGotoMemoryLayout : public T, public GotoMemoryLayout__layid",
+						"s": "",
+						"u": "WITHGOTOMEMORYLAYOUT",
+						"q": "WithGotoMemoryLayout",
+						"w": "WITHGOTOMEMORYLAYOUT",
+						"y": "GotoMemoryLayout__layid",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4c5fb73577346eafd5ef2700524ef9e1889645f"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_GotoMemoryLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "SetLayout_GotoMemoryLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_GotoMemoryLayout(T& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_GOTOMEMORYLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4c5fb73577346eafd5ef2700524ef9e1889645f"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_GotoMemoryLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_GotoMemoryLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_GotoMemoryLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_GOTOMEMORYLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4c5fb73577346eafd5ef2700524ef9e1889645f"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GotoMemoryLayout__layid",
+						"t": "GotoMemoryLayout__layid",
+						"i": "GotoMemoryLayout__layid",
+						"r": "GotoMemoryLayout__layid",
+						"s": "",
+						"u": "GOTOMEMORYLAYOUT__LAYID",
+						"q": "GotoMemoryLayout__layid",
+						"w": "GOTOMEMORYLAYOUT__LAYID",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e5851b82bd9b9bfbdfb193ac34d17f5f801ff7a"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dv___0",
+						"t": "Upp::Label",
+						"i": "WithGotoMemoryLayout::dv___0",
+						"r": "Upp::Label dv___0",
+						"s": "",
+						"u": "DV___0",
+						"q": "WithGotoMemoryLayout",
+						"w": "WITHGOTOMEMORYLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "adr",
+						"t": "Upp::EditString",
+						"i": "WithGotoMemoryLayout::adr",
+						"r": "Upp::EditString adr",
+						"s": "",
+						"u": "ADR",
+						"q": "WithGotoMemoryLayout",
+						"w": "WITHGOTOMEMORYLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dv___2",
+						"t": "Upp::Label",
+						"i": "WithGotoMemoryLayout::dv___2",
+						"r": "Upp::Label dv___2",
+						"s": "",
+						"u": "DV___2",
+						"q": "WithGotoMemoryLayout",
+						"w": "WITHGOTOMEMORYLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "count",
+						"t": "Upp::WithDropChoice<Upp::EditInt>",
+						"i": "WithGotoMemoryLayout::count",
+						"r": "WithDropChoice<Upp::EditInt> count",
+						"s": "",
+						"u": "COUNT",
+						"q": "WithGotoMemoryLayout",
+						"w": "WITHGOTOMEMORYLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ok",
+						"t": "Upp::Button",
+						"i": "WithGotoMemoryLayout::ok",
+						"r": "Upp::Button ok",
+						"s": "",
+						"u": "OK",
+						"q": "WithGotoMemoryLayout",
+						"w": "WITHGOTOMEMORYLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cancel",
+						"t": "Upp::Button",
+						"i": "WithGotoMemoryLayout::cancel",
+						"r": "Upp::Button cancel",
+						"s": "",
+						"u": "CANCEL",
+						"q": "WithGotoMemoryLayout",
+						"w": "WITHGOTOMEMORYLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Gdb.h",
+			"value": {
+				"items": [
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Gdb",
+						"t": "Gdb",
+						"i": "Gdb",
+						"r": "Gdb : public Debugger, public Upp::ParentCtrl",
+						"s": "",
+						"u": "GDB",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "Debugger;Upp::ParentCtrl",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3efc5daf109f96f4806e1f1e5b4dccbb5f559cbc"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CLASSNAME",
+						"t": "Gdb::CLASSNAME",
+						"i": "Gdb::CLASSNAME",
+						"r": "typedef Gdb CLASSNAME",
+						"s": "",
+						"u": "CLASSNAME",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "Gdb",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b43f9c55c35dde11b6b45aae025c61bf9ea6918c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "DebugBar",
+						"t": "void (Bar &)",
+						"i": "Gdb::DebugBar(Bar&)",
+						"r": "void DebugBar(Upp::Bar& bar)",
+						"s": "",
+						"u": "DEBUGBAR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5022198d7540a5fb2f99f18e87345b811d9a475c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "SetBreakpoint",
+						"t": "bool (const String &, int, const String &)",
+						"i": "Gdb::SetBreakpoint(const String&,int,const String&)",
+						"r": "bool SetBreakpoint(const Upp::String& filename, int line, const Upp::String& bp)",
+						"s": "",
+						"u": "SETBREAKPOINT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c46e0049f53c28c7769fcc13b2f3ccd4e84189d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "RunTo",
+						"t": "bool ()",
+						"i": "Gdb::RunTo()",
+						"r": "bool RunTo()",
+						"s": "",
+						"u": "RUNTO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af6d1bf37500c18a8fc14aa76dbf81746e87a488"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Run",
+						"t": "void ()",
+						"i": "Gdb::Run()",
+						"r": "void Run()",
+						"s": "",
+						"u": "RUN",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b234bb3aafc3f843bdaf00e1d7e1afccbab3352"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Key",
+						"t": "bool (dword, int)",
+						"i": "Gdb::Key(dword,int)",
+						"r": "bool Key(Upp::dword key, int count)",
+						"s": "",
+						"u": "KEY",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5d9e23598a815cfdedea342ec82a637fcdbe4c30"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Stop",
+						"t": "void ()",
+						"i": "Gdb::Stop()",
+						"r": "void Stop()",
+						"s": "",
+						"u": "STOP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28213483738fa1af4175114f9bba5dc5a91cc2a2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "IsFinished",
+						"t": "bool ()",
+						"i": "Gdb::IsFinished()",
+						"r": "bool IsFinished()",
+						"s": "",
+						"u": "ISFINISHED",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47f148ed0d391d18b4b0b5f59b53d14a00e37a59"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Tip",
+						"t": "bool (const String &, CodeEditor::MouseTip &)",
+						"i": "Gdb::Tip(const String&,CodeEditor::MouseTip&)",
+						"r": "bool Tip(const Upp::String& exp, Upp::CodeEditor::MouseTip& mt)",
+						"s": "",
+						"u": "TIP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8db2bdd02f62d6d9ea9bd1946ee166ccfab937ab"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ShowException",
+						"t": "void ()",
+						"i": "Gdb::ShowException()",
+						"r": "void ShowException()",
+						"s": "",
+						"u": "SHOWEXCEPTION",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d768f38a2c648e04d055e00d6a940da162a90f65"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DoRun",
+						"t": "String ()",
+						"i": "Gdb::DoRun()",
+						"r": "Upp::String DoRun()",
+						"s": "",
+						"u": "DORUN",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e7f317ff8a15e2a4ebfd1c421a5f1ac3029757c7"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Result",
+						"t": "bool (String &, const String &)",
+						"i": "Gdb::Result(String&,const String&)",
+						"r": "bool Result(Upp::String& result, const Upp::String& s)",
+						"s": "",
+						"u": "RESULT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e241016ebc33e38c0d2b9b2f97f73fcf2a2e53b7"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "AddReg",
+						"t": "void (const char *, Label *)",
+						"i": "Gdb::AddReg(const char*,Label*)",
+						"r": "void AddReg(const char *reg, Upp::Label *lbl)",
+						"s": "",
+						"u": "ADDREG",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29fb1ec3a351623bedc33360a781d8eaa9afca14"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Lock",
+						"t": "void ()",
+						"i": "Gdb::Lock()",
+						"r": "void Lock()",
+						"s": "",
+						"u": "LOCK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eeeaab99fd3292dde45d14353b503cae400b724c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Unlock",
+						"t": "void ()",
+						"i": "Gdb::Unlock()",
+						"r": "void Unlock()",
+						"s": "",
+						"u": "UNLOCK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2360c8a1f096596bab567540cba6d9edbf0d250a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SyncFrameButtons",
+						"t": "void ()",
+						"i": "Gdb::SyncFrameButtons()",
+						"r": "void SyncFrameButtons()",
+						"s": "",
+						"u": "SYNCFRAMEBUTTONS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d30f7a870a65474dd00143ff29b67292ef57e48a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Cmd",
+						"t": "String (const char *, bool)",
+						"i": "Gdb::Cmd(const char*,bool)",
+						"r": "Upp::String Cmd(const char *command, bool start = false)",
+						"s": "",
+						"u": "CMD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27a340c7e8473b566bbbf3ff8c389992fe4850fd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FastCmd",
+						"t": "String (const char *)",
+						"i": "Gdb::FastCmd(const char*)",
+						"r": "Upp::String FastCmd(const char *command)",
+						"s": "",
+						"u": "FASTCMD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b9cf74aea09fb35e7ec9c68155689037ca21a627"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IsProcessExitedNormally",
+						"t": "bool (const String &) const",
+						"i": "Gdb::IsProcessExitedNormally(const String&)const",
+						"r": "bool IsProcessExitedNormally(const Upp::String& cmd_output) const",
+						"s": "",
+						"u": "ISPROCESSEXITEDNORMALLY",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8e07939bc9e0a6f2f8cd4cfb962782abd2537d0e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ObtainThreadsInfo",
+						"t": "String ()",
+						"i": "Gdb::ObtainThreadsInfo()",
+						"r": "Upp::String ObtainThreadsInfo()",
+						"s": "",
+						"u": "OBTAINTHREADSINFO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "751641bcabc36ef7efd0ff28e170b96315ace7c1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "TryBreak",
+						"t": "bool (const char *)",
+						"i": "Gdb::TryBreak(const char*)",
+						"r": "bool TryBreak(const char *command)",
+						"s": "",
+						"u": "TRYBREAK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "19e54dea00af93c975f3e5bc847d51e112543eea"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CheckEnd",
+						"t": "void (const char *)",
+						"i": "Gdb::CheckEnd(const char*)",
+						"r": "void CheckEnd(const char *result)",
+						"s": "",
+						"u": "CHECKEND",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4190a24f9e57abc080d32f7860f6c104b825b43d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Step",
+						"t": "void (const char *)",
+						"i": "Gdb::Step(const char*)",
+						"r": "void Step(const char *cmd)",
+						"s": "",
+						"u": "STEP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "751d9dd569681d2a018f3b0e5a40ddd88bf222cc"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Cmdp",
+						"t": "String (const char *, bool, bool)",
+						"i": "Gdb::Cmdp(const char*,bool,bool)",
+						"r": "Upp::String Cmdp(const char *cmdline, bool fr = false, bool setframe = true)",
+						"s": "",
+						"u": "CMDP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a2869972114bfba7d8ff1c01b959710d61a7a651"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DoRunTo",
+						"t": "void ()",
+						"i": "Gdb::DoRunTo()",
+						"r": "void DoRunTo()",
+						"s": "",
+						"u": "DORUNTO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68414662d85c96c924344c4e82ee9e467ccd91c3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetDisas",
+						"t": "void (const String &)",
+						"i": "Gdb::SetDisas(const String&)",
+						"r": "void SetDisas(const Upp::String& text)",
+						"s": "",
+						"u": "SETDISAS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9246c8a134fafa72906b11e7abe863324a2673cf"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SyncDisas",
+						"t": "void (bool)",
+						"i": "Gdb::SyncDisas(bool)",
+						"r": "void SyncDisas(bool fr)",
+						"s": "",
+						"u": "SYNCDISAS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f61112c211c4a1847e3546e7312ce19df5dbc7b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DisasCursor",
+						"t": "void ()",
+						"i": "Gdb::DisasCursor()",
+						"r": "void DisasCursor()",
+						"s": "",
+						"u": "DISASCURSOR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d5712c890f9d0c1557ffd77947553e45f18ce7a3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DisasFocus",
+						"t": "void ()",
+						"i": "Gdb::DisasFocus()",
+						"r": "void DisasFocus()",
+						"s": "",
+						"u": "DISASFOCUS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7f3f218dd8bebc8e86361ea214e44a6346a8de2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DropFrames",
+						"t": "void ()",
+						"i": "Gdb::DropFrames()",
+						"r": "void DropFrames()",
+						"s": "",
+						"u": "DROPFRAMES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07b8bdedcdf95929244654fc128dc76ae0ec2169"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LoadFrames",
+						"t": "void ()",
+						"i": "Gdb::LoadFrames()",
+						"r": "void LoadFrames()",
+						"s": "",
+						"u": "LOADFRAMES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22867be96ecaa9d957f3e89c6e9fc9690963d350"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SwitchFrame",
+						"t": "void ()",
+						"i": "Gdb::SwitchFrame()",
+						"r": "void SwitchFrame()",
+						"s": "",
+						"u": "SWITCHFRAME",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d57e528a31e62d01f605b6cf5347d45055a30284"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FrameUpDown",
+						"t": "void (int)",
+						"i": "Gdb::FrameUpDown(int)",
+						"r": "void FrameUpDown(int dir)",
+						"s": "",
+						"u": "FRAMEUPDOWN",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "223c93847bbf22f6744e66dc8c9348c95ba4927d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SwitchThread",
+						"t": "void ()",
+						"i": "Gdb::SwitchThread()",
+						"r": "void SwitchThread()",
+						"s": "",
+						"u": "SWITCHTHREAD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7ab8137e42d30aa79be88f175128accea0676e0d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ClearCtrls",
+						"t": "void ()",
+						"i": "Gdb::ClearCtrls()",
+						"r": "void ClearCtrls()",
+						"s": "",
+						"u": "CLEARCTRLS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8be7c311643ce566627eaec3096f0c15b5bfc1d9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "ReadGdbValues",
+						"t": "void (CParser &, VectorMap<String, String> &)",
+						"i": "Gdb::ReadGdbValues(CParser&,VectorMap&)",
+						"r": "static void ReadGdbValues(Upp::CParser& p, VectorMap<String, String>& val)",
+						"s": "",
+						"u": "READGDBVALUES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "79701b25271b8c6730d76dae3825504f7e877291"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "ReadGdbValues",
+						"t": "void (const String &, VectorMap<String, String> &)",
+						"i": "Gdb::ReadGdbValues(const String&,VectorMap&)",
+						"r": "static void ReadGdbValues(const Upp::String& h, VectorMap<String, String>& val)",
+						"s": "",
+						"u": "READGDBVALUES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8505118a35672f0d086b7be4a2655b18ca192d5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Print0",
+						"t": "String (const String &)",
+						"i": "Gdb::Print0(const String&)",
+						"r": "Upp::String Print0(const Upp::String& exp)",
+						"s": "",
+						"u": "PRINT0",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "568a09bd11c77433d6f57ff528628179958f02c1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Print",
+						"t": "String (const String &)",
+						"i": "Gdb::Print(const String&)",
+						"r": "Upp::String Print(const Upp::String& exp)",
+						"s": "",
+						"u": "PRINT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32d27a59b32819ee5f16569687322b678256f367"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Locals",
+						"t": "void ()",
+						"i": "Gdb::Locals()",
+						"r": "void Locals()",
+						"s": "",
+						"u": "LOCALS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "085215988b3a20dce289af5f1ba36efa0596e8f2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Watches",
+						"t": "void ()",
+						"i": "Gdb::Watches()",
+						"r": "void Watches()",
+						"s": "",
+						"u": "WATCHES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "700a406d8df3cdbcaf4f5960385645058557b5b1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "TryAuto",
+						"t": "void (Index<String> &, const String &)",
+						"i": "Gdb::TryAuto(Index&,const String&)",
+						"r": "void TryAuto(Index<String>& tested, const Upp::String& exp)",
+						"s": "",
+						"u": "TRYAUTO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36654c12a867ee5df6d273841c52cecb75039d4c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Autos",
+						"t": "void ()",
+						"i": "Gdb::Autos()",
+						"r": "void Autos()",
+						"s": "",
+						"u": "AUTOS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a3ff9f33e2535a5314f93caa7bccbc51be05d33f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ObtainData",
+						"t": "void ()",
+						"i": "Gdb::ObtainData()",
+						"r": "void ObtainData()",
+						"s": "",
+						"u": "OBTAINDATA",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6fb1459c2ea1126f176153448838f82ee61124db"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Self",
+						"t": "void ()",
+						"i": "Gdb::Self()",
+						"r": "void Self()",
+						"s": "",
+						"u": "SELF",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b650073ef8932196f128818f0145c1e63dea656"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Cpu",
+						"t": "void ()",
+						"i": "Gdb::Cpu()",
+						"r": "void Cpu()",
+						"s": "",
+						"u": "CPU",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "448b914662bf793a905025925f33a2593dd274c3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ClearWatches",
+						"t": "void ()",
+						"i": "Gdb::ClearWatches()",
+						"r": "void ClearWatches()",
+						"s": "",
+						"u": "CLEARWATCHES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30e2924317c362864f129343a4862d47eb7d5a85"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "QuickWatch",
+						"t": "void ()",
+						"i": "Gdb::QuickWatch()",
+						"r": "void QuickWatch()",
+						"s": "",
+						"u": "QUICKWATCH",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af7d83c2be9ec3b599a540e49c7fd63668a7700a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetTab",
+						"t": "void (int)",
+						"i": "Gdb::SetTab(int)",
+						"r": "void SetTab(int q)",
+						"s": "",
+						"u": "SETTAB",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0ed79f702536ee10b5a34520f2f0df36d6e2f7d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetTree",
+						"t": "void (ArrayCtrl *)",
+						"i": "Gdb::SetTree(ArrayCtrl*)",
+						"r": "void SetTree(Upp::ArrayCtrl *a)",
+						"s": "",
+						"u": "SETTREE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f5b3eef328c72b7e0bd5ad73bb6025a08f3f94fd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "OnTreeBar",
+						"t": "void (Bar &)",
+						"i": "Gdb::OnTreeBar(Bar&)",
+						"r": "void OnTreeBar(Upp::Bar& bar)",
+						"s": "",
+						"u": "ONTREEBAR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c472e729075722af8a672d15c123fa45fa50e3a9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "WatchMenu",
+						"t": "void (Bar &)",
+						"i": "Gdb::WatchMenu(Bar&)",
+						"r": "void WatchMenu(Upp::Bar& bar)",
+						"s": "",
+						"u": "WATCHMENU",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab80e32b027e17a7a3e52ffe2cf408a2b7c67429"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "OnTreeExpand",
+						"t": "void (int)",
+						"i": "Gdb::OnTreeExpand(int)",
+						"r": "void OnTreeExpand(int node)",
+						"s": "",
+						"u": "ONTREEEXPAND",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4c267e713903cdeaa8a06ae67db202d36ece628a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "MemoryGoto",
+						"t": "void ()",
+						"i": "Gdb::MemoryGoto()",
+						"r": "void MemoryGoto()",
+						"s": "",
+						"u": "MEMORYGOTO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1d067292688c4c6c21dbf8e6a09243148a4a01b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "MemoryLoad",
+						"t": "void (const String &, int, bool)",
+						"i": "Gdb::MemoryLoad(const String&,int,bool)",
+						"r": "void MemoryLoad(const Upp::String& adr, int count, bool showerror)",
+						"s": "",
+						"u": "MEMORYLOAD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa1eff4fe97b55eef48e18ad26fd1bf9b902d857"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Memory",
+						"t": "void ()",
+						"i": "Gdb::Memory()",
+						"r": "void Memory()",
+						"s": "",
+						"u": "MEMORY",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f6c4745242491b95ca59658b663759838a38974"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "MemoryMenu",
+						"t": "void (Bar &, const String &)",
+						"i": "Gdb::MemoryMenu(Bar&,const String&)",
+						"r": "void MemoryMenu(Upp::Bar& bar, const Upp::String& exp)",
+						"s": "",
+						"u": "MEMORYMENU",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "948e747e4c875a34b4bbdc86093bae448ad64a90"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "OnValueCopyToClipboard",
+						"t": "void (const Value &)",
+						"i": "Gdb::OnValueCopyToClipboard(const Value&)",
+						"r": "void OnValueCopyToClipboard(const Upp::Value& val)",
+						"s": "",
+						"u": "ONVALUECOPYTOCLIPBOARD",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34eb080ddcb54980dc698f0151da8de95182a799"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ObtainValueFromTreeCursor",
+						"t": "Value (int) const",
+						"i": "Gdb::ObtainValueFromTreeCursor(int)const",
+						"r": "Upp::Value ObtainValueFromTreeCursor(int cursor) const",
+						"s": "",
+						"u": "OBTAINVALUEFROMTREECURSOR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a0024ba9ec386b306d1fec4caa84dc8a3011460f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CopyStack",
+						"t": "void ()",
+						"i": "Gdb::CopyStack()",
+						"r": "void CopyStack()",
+						"s": "",
+						"u": "COPYSTACK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2892059ebd1b1c643865559b63186769656ae763"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CopyStackAll",
+						"t": "void ()",
+						"i": "Gdb::CopyStackAll()",
+						"r": "void CopyStackAll()",
+						"s": "",
+						"u": "COPYSTACKALL",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd08e837a86961bc4690ff450945d5f6e76a681c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CopyDisas",
+						"t": "void ()",
+						"i": "Gdb::CopyDisas()",
+						"r": "void CopyDisas()",
+						"s": "",
+						"u": "COPYDISAS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "78a92a3351bc040694af0833adf6b9c6cb1d8fe1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BreakRunning",
+						"t": "void ()",
+						"i": "Gdb::BreakRunning()",
+						"r": "void BreakRunning()",
+						"s": "",
+						"u": "BREAKRUNNING",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bb2208e28de4f5b09af1a1e32609d550790e6e86"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Create",
+						"t": "bool (Host &, const String &, const String &, bool)",
+						"i": "Gdb::Create(Host&,const String&,const String&,bool)",
+						"r": "bool Create(Host& host, const Upp::String& exefile, const Upp::String& cmdline, bool console)",
+						"s": "",
+						"u": "CREATE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "318b5664ea78c5d98e1098dc42c9ee8a26ccdf9d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "periodic",
+						"t": "TimeCallback",
+						"i": "Gdb::periodic",
+						"r": "Upp::TimeCallback periodic",
+						"s": "",
+						"u": "PERIODIC",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d5f504c6c1b55fa144f0771835a607c55ea91ccb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Periodic",
+						"t": "void ()",
+						"i": "Gdb::Periodic()",
+						"r": "void Periodic()",
+						"s": "",
+						"u": "PERIODIC",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "153ef135f8e2fe53e8f3d48f9acd304816e379cb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SerializeSession",
+						"t": "void (Stream &)",
+						"i": "Gdb::SerializeSession(Stream&)",
+						"r": "void SerializeSession(Upp::Stream& s)",
+						"s": "",
+						"u": "SERIALIZESESSION",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92842941229fcf80137a9231b7fe9245844c9ee1"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~Gdb",
+						"t": "void () noexcept",
+						"i": "Gdb::~()",
+						"r": "~Gdb()",
+						"s": "",
+						"u": "~GDB",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "51caac511545e1ccc3535fbeb038000ea757ba0a"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Gdb",
+						"t": "void ()",
+						"i": "Gdb::Gdb()",
+						"r": "Gdb()",
+						"s": "",
+						"u": "GDB",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "134a047ff3ada11ffb4708e81752ba1b9a488ed8"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dbg",
+						"t": "LocalProcess",
+						"i": "Gdb::dbg",
+						"r": "Upp::LocalProcess dbg",
+						"s": "",
+						"u": "DBG",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "66bf081a45f2d153f4d61aa0223ad1f432d52c45"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "regname",
+						"t": "Vector<String>",
+						"i": "Gdb::regname",
+						"r": "Vector<String> regname",
+						"s": "",
+						"u": "REGNAME",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9596102c95898827fb3486df1b589838a9fc2b2f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "reglbl",
+						"t": "Vector<Label *>",
+						"i": "Gdb::reglbl",
+						"r": "Vector<Label *> reglbl",
+						"s": "",
+						"u": "REGLBL",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb6cffd85d41eda2f02c780b2a9db64504997dc4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "disas",
+						"t": "DbgDisas",
+						"i": "Gdb::disas",
+						"r": "DbgDisas disas",
+						"s": "",
+						"u": "DISAS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "20bc182b699c946e4a48e075568c14271eef38cb"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nodebuginfo",
+						"t": "bool",
+						"i": "Gdb::nodebuginfo",
+						"r": "bool nodebuginfo",
+						"s": "",
+						"u": "NODEBUGINFO",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aa26ac438059b05cb4ef3e6a0fc931dea0076de3"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nodebuginfo_bg",
+						"t": "StaticRect",
+						"i": "Gdb::nodebuginfo_bg",
+						"r": "Upp::StaticRect nodebuginfo_bg",
+						"s": "",
+						"u": "NODEBUGINFO_BG",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fb69236c8269201a553e0b125ef7da13a0a2962"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nodebuginfo_text",
+						"t": "StaticText",
+						"i": "Gdb::nodebuginfo_text",
+						"r": "Upp::StaticText nodebuginfo_text",
+						"s": "",
+						"u": "NODEBUGINFO_TEXT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "37d6e7b2ff29454a4368adb1a91d75ca9e32d60c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "watchedit",
+						"t": "EditString",
+						"i": "Gdb::watchedit",
+						"r": "Upp::EditString watchedit",
+						"s": "",
+						"u": "WATCHEDIT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a7c7a95f4c40a23022b56afdf768153a43e1e029"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "threads",
+						"t": "DropList",
+						"i": "Gdb::threads",
+						"r": "Upp::DropList threads",
+						"s": "",
+						"u": "THREADS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16ac9c2f9c2ecfaa5a11fd4931cd9fd67de894ac"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "frame",
+						"t": "DropList",
+						"i": "Gdb::frame",
+						"r": "Upp::DropList frame",
+						"s": "",
+						"u": "FRAME",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b6e0e5f41a4badd64b8069776dcbd5496f05b39"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "frame_up",
+						"t": "Button",
+						"i": "Gdb::frame_up",
+						"r": "Upp::Button frame_up",
+						"s": "",
+						"u": "FRAME_UP",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c6f3fc68bf7e81f09363c634952a19d0eb4e8198"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "frame_down",
+						"t": "Button",
+						"i": "Gdb::frame_down",
+						"r": "Upp::Button frame_down",
+						"s": "",
+						"u": "FRAME_DOWN",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b5e3a90fecf3b22c264151a67469e3082baf036e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "tab",
+						"t": "TabCtrl",
+						"i": "Gdb::tab",
+						"r": "Upp::TabCtrl tab",
+						"s": "",
+						"u": "TAB",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "612c399acd60fc560df63d14f4a8e325bd766a7c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "locals",
+						"t": "ArrayCtrl",
+						"i": "Gdb::locals",
+						"r": "Upp::ArrayCtrl locals",
+						"s": "",
+						"u": "LOCALS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c57ca13304c33c7c5cc5ed95f487bed3efedaff4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "watches",
+						"t": "ArrayCtrl",
+						"i": "Gdb::watches",
+						"r": "Upp::ArrayCtrl watches",
+						"s": "",
+						"u": "WATCHES",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a78cde2507ebd4d20cf9cb1e4d8e7fa295aa99a"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "autos",
+						"t": "ArrayCtrl",
+						"i": "Gdb::autos",
+						"r": "Upp::ArrayCtrl autos",
+						"s": "",
+						"u": "AUTOS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9ecb89acf6f3250fa3e9b7ca1c1699fd80d3575"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "self",
+						"t": "ArrayCtrl",
+						"i": "Gdb::self",
+						"r": "Upp::ArrayCtrl self",
+						"s": "",
+						"u": "SELF",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aec6ded3f5f09f041641f4bbc39928e9dedbae5a"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cpu",
+						"t": "ColumnList",
+						"i": "Gdb::cpu",
+						"r": "Upp::ColumnList cpu",
+						"s": "",
+						"u": "CPU",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "67633e589b52f275f0d12d3f6ee8578fbec9eedf"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dlock",
+						"t": "Label",
+						"i": "Gdb::dlock",
+						"r": "Upp::Label dlock",
+						"s": "",
+						"u": "DLOCK",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e0c49d23f3ae3b0535b8d26db9e8f7841098ad84"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "pane",
+						"t": "StaticRect",
+						"i": "Gdb::pane",
+						"r": "Upp::StaticRect pane",
+						"s": "",
+						"u": "PANE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8bd8b0ee4e0a05c2a2cf76d40f53f0d007c3c31f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "split",
+						"t": "Splitter",
+						"i": "Gdb::split",
+						"r": "Upp::Splitter split",
+						"s": "",
+						"u": "SPLIT",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f93556e961cd8e7628ee9dbced5fc900354339b3"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "tree",
+						"t": "TreeCtrl",
+						"i": "Gdb::tree",
+						"r": "Upp::TreeCtrl tree",
+						"s": "",
+						"u": "TREE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "21fd20870d8e16360dd191e6c933e8245bd555bc"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GdbHexView",
+						"t": "Gdb::GdbHexView",
+						"i": "Gdb::GdbHexView",
+						"r": "GdbHexView : Upp::HexView",
+						"s": "",
+						"u": "GDBHEXVIEW",
+						"q": "Gdb::GdbHexView",
+						"w": "GDB::GDBHEXVIEW",
+						"y": "Upp::HexView",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8deff2a772985a51bca4d1a0a942c2f56c38d35b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "start",
+						"t": "uint64",
+						"i": "Gdb::GdbHexView::start",
+						"r": "Upp::uint64 start",
+						"s": "",
+						"u": "START",
+						"q": "Gdb::GdbHexView",
+						"w": "GDB::GDBHEXVIEW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c4c8cd7194b5602b2cf00ddb8ba7e5e8fd78e083"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "Vector<byte>",
+						"i": "Gdb::GdbHexView::data",
+						"r": "Vector<byte> data",
+						"s": "",
+						"u": "DATA",
+						"q": "Gdb::GdbHexView",
+						"w": "GDB::GDBHEXVIEW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b35fe08e29741804c5d7dd248da02538c8d07f2a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Byte",
+						"t": "int (int64)",
+						"i": "Gdb::GdbHexView::Byte(int64)",
+						"r": "int Byte(Upp::int64 i)",
+						"s": "",
+						"u": "BYTE",
+						"q": "Gdb::GdbHexView",
+						"w": "GDB::GDBHEXVIEW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bbd651030a42ed3c0f73883bc6b0ef15e6db1ad9"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "memory",
+						"t": "struct GdbHexView",
+						"i": "Gdb::memory",
+						"r": "Gdb::GdbHexView memory",
+						"s": "",
+						"u": "MEMORY",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5ab5391b6146df991cc5f9b2348a82591485fc90"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "expression_cache",
+						"t": "VectorMap<String, String>",
+						"i": "Gdb::expression_cache",
+						"r": "VectorMap<String, String> expression_cache",
+						"s": "",
+						"u": "EXPRESSION_CACHE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "12f52a9fc8e554dae487d0ddb370a3f242bef980"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "quickwatch",
+						"t": "WithQuickwatchLayout<TopWindow>",
+						"i": "Gdb::quickwatch",
+						"r": "WithQuickwatchLayout<TopWindow> quickwatch",
+						"s": "",
+						"u": "QUICKWATCH",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c24e239c17fd3f69e93044b8f833cbbd9e83f7dc"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "file",
+						"t": "String",
+						"i": "Gdb::file",
+						"r": "Upp::String file",
+						"s": "",
+						"u": "FILE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98f98da3b71758910c3b886509ee65061e3f122f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "line",
+						"t": "int",
+						"i": "Gdb::line",
+						"r": "int line",
+						"s": "",
+						"u": "LINE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5acc3237c55779d6c328a1a3bc32519f8c1ecf7b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "addr",
+						"t": "adr_t",
+						"i": "Gdb::addr",
+						"r": "adr_t addr",
+						"s": "",
+						"u": "ADDR",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "557ca850277f2b9f204379cc90dd1351966d19c8"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "log",
+						"t": "FileOut",
+						"i": "Gdb::log",
+						"r": "Upp::FileOut log",
+						"s": "",
+						"u": "LOG",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "129a683405352e8e5fce6ab38c9c66130d6e9514"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "autoline",
+						"t": "String",
+						"i": "Gdb::autoline",
+						"r": "Upp::String autoline",
+						"s": "",
+						"u": "AUTOLINE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca61173c2ef4792b5d1d34ba9a92b78e2e388cdf"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "firstrun",
+						"t": "bool",
+						"i": "Gdb::firstrun",
+						"r": "bool firstrun",
+						"s": "",
+						"u": "FIRSTRUN",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "598cbdc1c93cb6078ad6734565d968654182270f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "running_interrupted",
+						"t": "bool",
+						"i": "Gdb::running_interrupted",
+						"r": "bool running_interrupted",
+						"s": "",
+						"u": "RUNNING_INTERRUPTED",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d63bc51d90f3ca50bee8634469f952da58eb070"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "pid",
+						"t": "int",
+						"i": "Gdb::pid",
+						"r": "int pid",
+						"s": "",
+						"u": "PID",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "083e78f97c0179e6f45174ebf471f63b12d186e8"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bp_filename",
+						"t": "String",
+						"i": "Gdb::bp_filename",
+						"r": "Upp::String bp_filename",
+						"s": "",
+						"u": "BP_FILENAME",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca03c6c26563352e585492ae96e3557c6dd023c6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bp_line",
+						"t": "int",
+						"i": "Gdb::bp_line",
+						"r": "int bp_line",
+						"s": "",
+						"u": "BP_LINE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c4879995f0d09ec2c16132521885e802e787f33"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bp_val",
+						"t": "String",
+						"i": "Gdb::bp_val",
+						"r": "Upp::String bp_val",
+						"s": "",
+						"u": "BP_VAL",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9384033a8a43d33bbbfbb8efed89431c32545f16"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "exception",
+						"t": "String",
+						"i": "Gdb::exception",
+						"r": "Upp::String exception",
+						"s": "",
+						"u": "EXCEPTION",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3127a96813d87fbf352376e044507574072ea641"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "max_stack_trace_size",
+						"t": "const int",
+						"i": "Gdb::max_stack_trace_size",
+						"r": "const int max_stack_trace_size",
+						"s": "",
+						"u": "MAX_STACK_TRACE_SIZE",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10c0a3ff8a7fe9a6918933f824e15a8b2d917cc0"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "gdb_utils",
+						"t": "One<IGdbUtils>",
+						"i": "Gdb::gdb_utils",
+						"r": "One<IGdbUtils> gdb_utils",
+						"s": "",
+						"u": "GDB_UTILS",
+						"q": "Gdb",
+						"w": "GDB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c569e8f34b2b57b550cd60f1276e260a221c976a"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Pdb.key",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_STOP",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_STOP()",
+						"r": "Upp::KeyInfo& AK_STOP()",
+						"s": "PdbKeys",
+						"u": "AK_STOP",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "58325659fa9fa234e17a2fd817569a9813d1c1f0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_STEPINTO",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_STEPINTO()",
+						"r": "Upp::KeyInfo& AK_STEPINTO()",
+						"s": "PdbKeys",
+						"u": "AK_STEPINTO",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87f15545317e15fc81804096de761da533f94fe1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_STEPOVER",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_STEPOVER()",
+						"r": "Upp::KeyInfo& AK_STEPOVER()",
+						"s": "PdbKeys",
+						"u": "AK_STEPOVER",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "028f424afe248fa89328384035824f8688478ca3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_STEPOUT",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_STEPOUT()",
+						"r": "Upp::KeyInfo& AK_STEPOUT()",
+						"s": "PdbKeys",
+						"u": "AK_STEPOUT",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "76319758851438176c596075c8df61c7e86c1da7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_RUNTO",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_RUNTO()",
+						"r": "Upp::KeyInfo& AK_RUNTO()",
+						"s": "PdbKeys",
+						"u": "AK_RUNTO",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e003c9b3675ddd2ad276f3d5aae80a8fae661fec"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_RUN",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_RUN()",
+						"r": "Upp::KeyInfo& AK_RUN()",
+						"s": "PdbKeys",
+						"u": "AK_RUN",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5de26038c6730e0593cc797b01493c4b6804227c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_BREAK",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_BREAK()",
+						"r": "Upp::KeyInfo& AK_BREAK()",
+						"s": "PdbKeys",
+						"u": "AK_BREAK",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7aacf78fc116076e8a19a8ec1c562f56e7012c78"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_SETIP",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_SETIP()",
+						"r": "Upp::KeyInfo& AK_SETIP()",
+						"s": "PdbKeys",
+						"u": "AK_SETIP",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "17bdc0a8af0cfe68df2637c56d3b1213d86a0547"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_AUTOS",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_AUTOS()",
+						"r": "Upp::KeyInfo& AK_AUTOS()",
+						"s": "PdbKeys",
+						"u": "AK_AUTOS",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6523fa388b2092fd84d7a2a8a190e5e5fa4283b2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_LOCALS",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_LOCALS()",
+						"r": "Upp::KeyInfo& AK_LOCALS()",
+						"s": "PdbKeys",
+						"u": "AK_LOCALS",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40671857323115c0cb5aa84e0f2ffbc7c46dbe8a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_WATCHES",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_WATCHES()",
+						"r": "Upp::KeyInfo& AK_WATCHES()",
+						"s": "PdbKeys",
+						"u": "AK_WATCHES",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd5624236d464fb8a7ff3815b60e0ea4c0661a1e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_THISS",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_THISS()",
+						"r": "Upp::KeyInfo& AK_THISS()",
+						"s": "PdbKeys",
+						"u": "AK_THISS",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f7c399cec8b80860b175d92e6a3e428dedd9bce"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_CPU",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_CPU()",
+						"r": "Upp::KeyInfo& AK_CPU()",
+						"s": "PdbKeys",
+						"u": "AK_CPU",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8e69c08f63934eb7f0f7db72367fdc9da3bdd4ec"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_ADDWATCH",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_ADDWATCH()",
+						"r": "Upp::KeyInfo& AK_ADDWATCH()",
+						"s": "PdbKeys",
+						"u": "AK_ADDWATCH",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4037ead2fc64e17e29cf173924450066d05eae74"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_CLEARWATCHES",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_CLEARWATCHES()",
+						"r": "Upp::KeyInfo& AK_CLEARWATCHES()",
+						"s": "PdbKeys",
+						"u": "AK_CLEARWATCHES",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0fd08af4d53336a2d4cc7a474c0617c6f1ee1c85"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_MEMORY",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_MEMORY()",
+						"r": "Upp::KeyInfo& AK_MEMORY()",
+						"s": "PdbKeys",
+						"u": "AK_MEMORY",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "faa782c3611afee2582af995bdbb31c1d30cabd2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AK_BTS",
+						"t": "KeyInfo &()",
+						"i": "PdbKeys::AK_BTS()",
+						"r": "Upp::KeyInfo& AK_BTS()",
+						"s": "PdbKeys",
+						"u": "AK_BTS",
+						"q": "PdbKeys",
+						"w": "PDBKEYS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "664bd248333ba8e82a8f9a8568bf254eecc17395"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Pdb.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "cvconst.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

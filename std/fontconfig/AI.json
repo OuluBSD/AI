@@ -1,0 +1,202 @@
+{
+	"saved_hash": "49b3ee69bb1a552c0cd63598cda9ec11195d126d",
+	"files": [
+		{
+			"key": "fontconfig/fcfreetype.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FCFREETYPE_H_",
+						"t": "",
+						"i": "_FCFREETYPE_H_",
+						"r": "_FCFREETYPE_H_",
+						"s": "",
+						"u": "_FCFREETYPE_H_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c051c873a2108106f2c4d56802bd2725ccf2d7c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FcFreeTypeCharIndex",
+						"t": "FT_UInt (FT_Face, FcChar32)",
+						"i": "FcFreeTypeCharIndex(FT_Face,FcChar32)",
+						"r": "FT_UInt FcFreeTypeCharIndex(FT_Face face, FcChar32 ucs4)",
+						"s": "",
+						"u": "FCFREETYPECHARINDEX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "679c6d60e4b624d14166451b834a94087209502d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FcFreeTypeCharSetAndSpacing",
+						"t": "FcCharSet *(FT_Face, FcBlanks *, int *)",
+						"i": "FcFreeTypeCharSetAndSpacing(FT_Face,FcBlanks*,int*)",
+						"r": "FcCharSet *FcFreeTypeCharSetAndSpacing(FT_Face face, FcBlanks *blanks, int *spacing)",
+						"s": "",
+						"u": "FCFREETYPECHARSETANDSPACING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b4410d586040d93044d61341c9907ae5625d9a5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FcFreeTypeCharSet",
+						"t": "FcCharSet *(FT_Face, FcBlanks *)",
+						"i": "FcFreeTypeCharSet(FT_Face,FcBlanks*)",
+						"r": "FcCharSet *FcFreeTypeCharSet(FT_Face face, FcBlanks *blanks)",
+						"s": "",
+						"u": "FCFREETYPECHARSET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1952d498bc369e894250865faf99860758b11bc2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FcPatternGetFTFace",
+						"t": "FcResult (const FcPattern *, const char *, int, FT_Face *)",
+						"i": "FcPatternGetFTFace(const FcPattern*,const char*,int,FT_Face*)",
+						"r": "FcResult FcPatternGetFTFace(const FcPattern *p, const char *object, int n, FT_Face *f)",
+						"s": "",
+						"u": "FCPATTERNGETFTFACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "964f837e1b44f782de30a3ce4ea69aded9be81d1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FcPatternAddFTFace",
+						"t": "FcBool (FcPattern *, const char *, const FT_Face)",
+						"i": "FcPatternAddFTFace(FcPattern*,const char*,const FT_Face)",
+						"r": "FcBool FcPatternAddFTFace(FcPattern *p, const char *object, const FT_Face f)",
+						"s": "",
+						"u": "FCPATTERNADDFTFACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c8c93c0f6f56a01e0ffc94f76ec39d07b923fdff"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FcFreeTypeQueryFace",
+						"t": "FcPattern *(const FT_Face, const FcChar8 *, unsigned int, FcBlanks *)",
+						"i": "FcFreeTypeQueryFace(const FT_Face,const FcChar8*,unsigned int,FcBlanks*)",
+						"r": "FcPattern *FcFreeTypeQueryFace(const FT_Face face, const FcChar8 *file, unsigned int id, FcBlanks *blanks)",
+						"s": "",
+						"u": "FCFREETYPEQUERYFACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a90a1a7c998b00b37bc546ff9b6794374a9c56e5"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fontconfig/fontconfig.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

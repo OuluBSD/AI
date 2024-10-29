@@ -1,0 +1,116 @@
+{
+	"saved_hash": "6fba585fc91703b3d9b2deb9d7a43cab64b723c2",
+	"files": [
+		{
+			"key": "iptables/internal.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPTABLES_INTERNAL_H",
+						"t": "",
+						"i": "IPTABLES_INTERNAL_H",
+						"r": "IPTABLES_INTERNAL_H",
+						"s": "",
+						"u": "IPTABLES_INTERNAL_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c28dd97ac01083cb5c7b8db89d3f6efc8ade94c9"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "program_name",
+						"t": "const char *",
+						"i": "program_name",
+						"r": "const char *program_name",
+						"s": "",
+						"u": "PROGRAM_NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9e8d92c907f32ea1152241b2968dd95ab7ce3214"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "program_version",
+						"t": "const char *",
+						"i": "program_version",
+						"r": "const char *program_version",
+						"s": "",
+						"u": "PROGRAM_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87e95474db05450d1e4875fbf0b02593e0ea7890"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "line",
+						"t": "int",
+						"i": "line",
+						"r": "int line",
+						"s": "",
+						"u": "LINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f40e377dfa29b9617a16d2e045a8696ac55f7b79"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

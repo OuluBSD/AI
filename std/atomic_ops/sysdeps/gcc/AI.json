@@ -1,0 +1,6591 @@
+{
+	"saved_hash": "2ad5c71ac8994f09ac7ba087e5c286c2ab6d7241",
+	"files": [
+		{
+			"key": "atomic_ops/sysdeps/gcc/x86.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_GCC_ATOMIC_TEST_AND_SET",
+						"t": "",
+						"i": "AO_GCC_ATOMIC_TEST_AND_SET",
+						"r": "AO_GCC_ATOMIC_TEST_AND_SET",
+						"s": "",
+						"u": "AO_GCC_ATOMIC_TEST_AND_SET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4ab999b3c297ca5d27db12916d43255216d27571"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/generic.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_GCC_ATOMIC_TEST_AND_SET",
+						"t": "",
+						"i": "AO_GCC_ATOMIC_TEST_AND_SET",
+						"r": "AO_GCC_ATOMIC_TEST_AND_SET",
+						"s": "",
+						"u": "AO_GCC_ATOMIC_TEST_AND_SET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4ab999b3c297ca5d27db12916d43255216d27571"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_GCC_HAVE_char_SYNC_CAS",
+						"t": "",
+						"i": "AO_GCC_HAVE_char_SYNC_CAS",
+						"r": "AO_GCC_HAVE_char_SYNC_CAS",
+						"s": "",
+						"u": "AO_GCC_HAVE_CHAR_SYNC_CAS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f9f3b5414238ef6917eef2cbc5a48b49eb975fd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_GCC_HAVE_short_SYNC_CAS",
+						"t": "",
+						"i": "AO_GCC_HAVE_short_SYNC_CAS",
+						"r": "AO_GCC_HAVE_short_SYNC_CAS",
+						"s": "",
+						"u": "AO_GCC_HAVE_SHORT_SYNC_CAS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd959e34ae0161b3eb4e96b65b6af390e41efb97"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_GCC_HAVE_int_SYNC_CAS",
+						"t": "",
+						"i": "AO_GCC_HAVE_int_SYNC_CAS",
+						"r": "AO_GCC_HAVE_int_SYNC_CAS",
+						"s": "",
+						"u": "AO_GCC_HAVE_INT_SYNC_CAS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7472a1600431e02bbc198dd40f6e1f387c597a41"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_GCC_HAVE_SYNC_CAS",
+						"t": "",
+						"i": "AO_GCC_HAVE_SYNC_CAS",
+						"r": "AO_GCC_HAVE_SYNC_CAS",
+						"s": "",
+						"u": "AO_GCC_HAVE_SYNC_CAS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ab2717d113e2eb724d89ffa9f5a789a375447c5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_compiler_barrier",
+						"t": "",
+						"i": "AO_compiler_barrier",
+						"r": "AO_compiler_barrier",
+						"s": "",
+						"u": "AO_COMPILER_BARRIER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2f17a0a4d9ca9eb21a401c36c583180ba5e0833"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_nop_read",
+						"t": "void ()",
+						"i": "AO_nop_read()",
+						"r": "static void AO_nop_read()",
+						"s": "",
+						"u": "AO_NOP_READ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8264b9d985cdac289cf55ed697b4ad36b1377a1f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_nop_read",
+						"t": "",
+						"i": "AO_HAVE_nop_read",
+						"r": "AO_HAVE_nop_read",
+						"s": "",
+						"u": "AO_HAVE_NOP_READ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7298a4396bf6e784bac79b8fd5f6dbb0b5638aa1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_nop_write",
+						"t": "void ()",
+						"i": "AO_nop_write()",
+						"r": "static void AO_nop_write()",
+						"s": "",
+						"u": "AO_NOP_WRITE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c4a8b96427f1d721debb768f066b649ce22165cd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_nop_write",
+						"t": "",
+						"i": "AO_HAVE_nop_write",
+						"r": "AO_HAVE_nop_write",
+						"s": "",
+						"u": "AO_HAVE_NOP_WRITE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "993fa1da3f0da90103a9c76994b9235f5925cdcf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_nop_full",
+						"t": "void ()",
+						"i": "AO_nop_full()",
+						"r": "static void AO_nop_full()",
+						"s": "",
+						"u": "AO_NOP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d41dc27e50bb1d2efda0fc11b3ddd6b2412fa59a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_nop_full",
+						"t": "",
+						"i": "AO_HAVE_nop_full",
+						"r": "AO_HAVE_nop_full",
+						"s": "",
+						"u": "AO_HAVE_NOP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08b4be2ff41d69aaee560699bfe21f8066cf9bae"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_CLEAR",
+						"t": "",
+						"i": "AO_CLEAR",
+						"r": "AO_CLEAR",
+						"s": "",
+						"u": "AO_CLEAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc9c785a86751f93a5459575e928ddab1ba210c0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_CLEAR",
+						"t": "",
+						"i": "AO_HAVE_CLEAR",
+						"r": "AO_HAVE_CLEAR",
+						"s": "",
+						"u": "AO_HAVE_CLEAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a76f31e96444b2052106ea2f71f4d3c26b1265d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_test_and_set",
+						"t": "AO_BYTE_TS_val (volatile unsigned char *)",
+						"i": "AO_test_and_set(volatile unsigned char*)",
+						"r": "static AO_BYTE_TS_val AO_test_and_set(volatile unsigned char *addr)",
+						"s": "",
+						"u": "AO_TEST_AND_SET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af50f62dbeaf67d69a6f5fd149d0a7bf7a2c8560"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_test_and_set",
+						"t": "",
+						"i": "AO_HAVE_test_and_set",
+						"r": "AO_HAVE_test_and_set",
+						"s": "",
+						"u": "AO_HAVE_TEST_AND_SET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "038d9e3dca434551a620f5433990cb0d012c9d19"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_test_and_set_acquire",
+						"t": "AO_BYTE_TS_val (volatile unsigned char *)",
+						"i": "AO_test_and_set_acquire(volatile unsigned char*)",
+						"r": "static AO_BYTE_TS_val AO_test_and_set_acquire(volatile unsigned char *addr)",
+						"s": "",
+						"u": "AO_TEST_AND_SET_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b352ae86696af2b9dde7ae114e8a3a27e1902a5f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_test_and_set_acquire",
+						"t": "",
+						"i": "AO_HAVE_test_and_set_acquire",
+						"r": "AO_HAVE_test_and_set_acquire",
+						"s": "",
+						"u": "AO_HAVE_TEST_AND_SET_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "50220d9a61af887849f027cc4b609b5b2cb98bf1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_test_and_set_release",
+						"t": "AO_BYTE_TS_val (volatile unsigned char *)",
+						"i": "AO_test_and_set_release(volatile unsigned char*)",
+						"r": "static AO_BYTE_TS_val AO_test_and_set_release(volatile unsigned char *addr)",
+						"s": "",
+						"u": "AO_TEST_AND_SET_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6c5bd17cf27d16379f9784b676ca07743cb305df"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_test_and_set_release",
+						"t": "",
+						"i": "AO_HAVE_test_and_set_release",
+						"r": "AO_HAVE_test_and_set_release",
+						"s": "",
+						"u": "AO_HAVE_TEST_AND_SET_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "89be462fe898a2c6a98482a1013a0f645ba06ca5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_test_and_set_full",
+						"t": "AO_BYTE_TS_val (volatile unsigned char *)",
+						"i": "AO_test_and_set_full(volatile unsigned char*)",
+						"r": "static AO_BYTE_TS_val AO_test_and_set_full(volatile unsigned char *addr)",
+						"s": "",
+						"u": "AO_TEST_AND_SET_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "515071a9247cd8e28d0afbc497ce6a82fa543db1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_test_and_set_full",
+						"t": "",
+						"i": "AO_HAVE_test_and_set_full",
+						"r": "AO_HAVE_test_and_set_full",
+						"s": "",
+						"u": "AO_HAVE_TEST_AND_SET_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df7d13c5837ca99d11f7221b1e0d1b6fdb1963e8"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/generic-small.h",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_load",
+						"t": "unsigned char (const volatile unsigned char *)",
+						"i": "AO_char_load(const volatile unsigned char*)",
+						"r": "static unsigned char AO_char_load(const volatile unsigned char *addr)",
+						"s": "",
+						"u": "AO_CHAR_LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2056b663a30a0f3c6b3c50fc1f3bdcec563590ef"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_load",
+						"t": "",
+						"i": "AO_HAVE_char_load",
+						"r": "AO_HAVE_char_load",
+						"s": "",
+						"u": "AO_HAVE_CHAR_LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8c28473660a665f4ff229e099818bfaa46e30417"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_load_acquire",
+						"t": "unsigned char (const volatile unsigned char *)",
+						"i": "AO_char_load_acquire(const volatile unsigned char*)",
+						"r": "static unsigned char AO_char_load_acquire(const volatile unsigned char *addr)",
+						"s": "",
+						"u": "AO_CHAR_LOAD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e91e377bfa12ed9da218f6a1bc6fb8fc2430630"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_load_acquire",
+						"t": "",
+						"i": "AO_HAVE_char_load_acquire",
+						"r": "AO_HAVE_char_load_acquire",
+						"s": "",
+						"u": "AO_HAVE_CHAR_LOAD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "099e1ba4d32b4510a82853faca6ef15812d615a0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_store",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_store(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_store(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ce48d6908cd2f28ff6f5dd830884fce5323c995e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_store",
+						"t": "",
+						"i": "AO_HAVE_char_store",
+						"r": "AO_HAVE_char_store",
+						"s": "",
+						"u": "AO_HAVE_CHAR_STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1712708cc6ec6862e524e0af1825b1b4a3982d7b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_store_release",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_store_release(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_store_release(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_STORE_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82b28ce841dc5ebc7e64d3c12b56038b7e6bb103"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_store_release",
+						"t": "",
+						"i": "AO_HAVE_char_store_release",
+						"r": "AO_HAVE_char_store_release",
+						"s": "",
+						"u": "AO_HAVE_CHAR_STORE_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e91e1810570664f4d6ddf296e8cef27280a390b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_fetch_compare_and_swap",
+						"t": "unsigned char (volatile unsigned char *, unsigned char, unsigned char)",
+						"i": "AO_char_fetch_compare_and_swap(volatile unsigned char*,unsigned char,unsigned char)",
+						"r": "static unsigned char AO_char_fetch_compare_and_swap(volatile unsigned char *addr, unsigned char old_val, unsigned char new_val)",
+						"s": "",
+						"u": "AO_CHAR_FETCH_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9264e5cf15d58687785eb1579958ad0d815f4634"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_fetch_compare_and_swap",
+						"t": "",
+						"i": "AO_HAVE_char_fetch_compare_and_swap",
+						"r": "AO_HAVE_char_fetch_compare_and_swap",
+						"s": "",
+						"u": "AO_HAVE_CHAR_FETCH_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c6eef123a45952757259861c159de3e7868cc4fe"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_fetch_compare_and_swap_acquire",
+						"t": "unsigned char (volatile unsigned char *, unsigned char, unsigned char)",
+						"i": "AO_char_fetch_compare_and_swap_acquire(volatile unsigned char*,unsigned char,unsigned char)",
+						"r": "static unsigned char AO_char_fetch_compare_and_swap_acquire(volatile unsigned char *addr, unsigned char old_val, unsigned char new_val)",
+						"s": "",
+						"u": "AO_CHAR_FETCH_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cfeb7b197fc7f00efd0c8cb565885e7980a9ca80"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_fetch_compare_and_swap_acquire",
+						"t": "",
+						"i": "AO_HAVE_char_fetch_compare_and_swap_acquire",
+						"r": "AO_HAVE_char_fetch_compare_and_swap_acquire",
+						"s": "",
+						"u": "AO_HAVE_CHAR_FETCH_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e641be343852dce19571b7c08b6db3ff0aad3659"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_fetch_compare_and_swap_release",
+						"t": "unsigned char (volatile unsigned char *, unsigned char, unsigned char)",
+						"i": "AO_char_fetch_compare_and_swap_release(volatile unsigned char*,unsigned char,unsigned char)",
+						"r": "static unsigned char AO_char_fetch_compare_and_swap_release(volatile unsigned char *addr, unsigned char old_val, unsigned char new_val)",
+						"s": "",
+						"u": "AO_CHAR_FETCH_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "51373d7cea8e475247dfc477b4a92125f8188008"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_fetch_compare_and_swap_release",
+						"t": "",
+						"i": "AO_HAVE_char_fetch_compare_and_swap_release",
+						"r": "AO_HAVE_char_fetch_compare_and_swap_release",
+						"s": "",
+						"u": "AO_HAVE_CHAR_FETCH_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96cf6740887ef51f5264c1575fd7c34a6afb3f80"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_fetch_compare_and_swap_full",
+						"t": "unsigned char (volatile unsigned char *, unsigned char, unsigned char)",
+						"i": "AO_char_fetch_compare_and_swap_full(volatile unsigned char*,unsigned char,unsigned char)",
+						"r": "static unsigned char AO_char_fetch_compare_and_swap_full(volatile unsigned char *addr, unsigned char old_val, unsigned char new_val)",
+						"s": "",
+						"u": "AO_CHAR_FETCH_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f6517a47a3af34ba3cad0a2e85c26ba657985a92"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_fetch_compare_and_swap_full",
+						"t": "",
+						"i": "AO_HAVE_char_fetch_compare_and_swap_full",
+						"r": "AO_HAVE_char_fetch_compare_and_swap_full",
+						"s": "",
+						"u": "AO_HAVE_CHAR_FETCH_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5a6e03f853ccefb46e82b21025fb510d0bd7c50a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_compare_and_swap",
+						"t": "int (volatile unsigned char *, unsigned char, unsigned char)",
+						"i": "AO_char_compare_and_swap(volatile unsigned char*,unsigned char,unsigned char)",
+						"r": "static int AO_char_compare_and_swap(volatile unsigned char *addr, unsigned char old_val, unsigned char new_val)",
+						"s": "",
+						"u": "AO_CHAR_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1be1b749e7c2bb762f2ef3a6ea33ec28eb31748b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_compare_and_swap",
+						"t": "",
+						"i": "AO_HAVE_char_compare_and_swap",
+						"r": "AO_HAVE_char_compare_and_swap",
+						"s": "",
+						"u": "AO_HAVE_CHAR_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d608368dc127d4e1cfdffc5e2f477f5cf8c5b026"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_compare_and_swap_acquire",
+						"t": "int (volatile unsigned char *, unsigned char, unsigned char)",
+						"i": "AO_char_compare_and_swap_acquire(volatile unsigned char*,unsigned char,unsigned char)",
+						"r": "static int AO_char_compare_and_swap_acquire(volatile unsigned char *addr, unsigned char old_val, unsigned char new_val)",
+						"s": "",
+						"u": "AO_CHAR_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8c21a045da13a2ba0044d9bc52748483dee6ceec"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_compare_and_swap_acquire",
+						"t": "",
+						"i": "AO_HAVE_char_compare_and_swap_acquire",
+						"r": "AO_HAVE_char_compare_and_swap_acquire",
+						"s": "",
+						"u": "AO_HAVE_CHAR_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "924c60e49e5002446075a7fa0b8020e790262f00"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_compare_and_swap_release",
+						"t": "int (volatile unsigned char *, unsigned char, unsigned char)",
+						"i": "AO_char_compare_and_swap_release(volatile unsigned char*,unsigned char,unsigned char)",
+						"r": "static int AO_char_compare_and_swap_release(volatile unsigned char *addr, unsigned char old_val, unsigned char new_val)",
+						"s": "",
+						"u": "AO_CHAR_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c2d084356716d4946ba6e963a300ac8c7aeaaf2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_compare_and_swap_release",
+						"t": "",
+						"i": "AO_HAVE_char_compare_and_swap_release",
+						"r": "AO_HAVE_char_compare_and_swap_release",
+						"s": "",
+						"u": "AO_HAVE_CHAR_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41440db5eecf185e5a239c69401d0a8bba1d8f99"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_compare_and_swap_full",
+						"t": "int (volatile unsigned char *, unsigned char, unsigned char)",
+						"i": "AO_char_compare_and_swap_full(volatile unsigned char*,unsigned char,unsigned char)",
+						"r": "static int AO_char_compare_and_swap_full(volatile unsigned char *addr, unsigned char old_val, unsigned char new_val)",
+						"s": "",
+						"u": "AO_CHAR_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0fd56485db99fd312ff86b999d175801ebdd7df3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_compare_and_swap_full",
+						"t": "",
+						"i": "AO_HAVE_char_compare_and_swap_full",
+						"r": "AO_HAVE_char_compare_and_swap_full",
+						"s": "",
+						"u": "AO_HAVE_CHAR_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07c35992c16fb4aa01f7fc815d17eea21913166c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_load",
+						"t": "unsigned short (const volatile unsigned short *)",
+						"i": "AO_short_load(const volatile unsigned short*)",
+						"r": "static unsigned short AO_short_load(const volatile unsigned short *addr)",
+						"s": "",
+						"u": "AO_SHORT_LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71bcdb071e6c46d480f3f7eeaa74cd4cf6a35208"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_load",
+						"t": "",
+						"i": "AO_HAVE_short_load",
+						"r": "AO_HAVE_short_load",
+						"s": "",
+						"u": "AO_HAVE_SHORT_LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1f67912589994ca6fbf4c8d6e6423b6d0b7eedc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_load_acquire",
+						"t": "unsigned short (const volatile unsigned short *)",
+						"i": "AO_short_load_acquire(const volatile unsigned short*)",
+						"r": "static unsigned short AO_short_load_acquire(const volatile unsigned short *addr)",
+						"s": "",
+						"u": "AO_SHORT_LOAD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de9d032aa80ebfe4f16985b4e0f0359bded67b0f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_load_acquire",
+						"t": "",
+						"i": "AO_HAVE_short_load_acquire",
+						"r": "AO_HAVE_short_load_acquire",
+						"s": "",
+						"u": "AO_HAVE_SHORT_LOAD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "988bda239dc053466a1e3a2e81cf68b00265489e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_store",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_store(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_store(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92bf1edc96330f444502222c761fababc599b480"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_store",
+						"t": "",
+						"i": "AO_HAVE_short_store",
+						"r": "AO_HAVE_short_store",
+						"s": "",
+						"u": "AO_HAVE_SHORT_STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5ab53c948df1da1fb45b97b639bf65c2b24f2f1c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_store_release",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_store_release(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_store_release(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_STORE_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e468f362b1d480a11f0f47cd0870d35db36021f8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_store_release",
+						"t": "",
+						"i": "AO_HAVE_short_store_release",
+						"r": "AO_HAVE_short_store_release",
+						"s": "",
+						"u": "AO_HAVE_SHORT_STORE_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "296d04056a6779cd1001aee6b388eaf6eb562055"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_fetch_compare_and_swap",
+						"t": "unsigned short (volatile unsigned short *, unsigned short, unsigned short)",
+						"i": "AO_short_fetch_compare_and_swap(volatile unsigned short*,unsigned short,unsigned short)",
+						"r": "static unsigned short AO_short_fetch_compare_and_swap(volatile unsigned short *addr, unsigned short old_val, unsigned short new_val)",
+						"s": "",
+						"u": "AO_SHORT_FETCH_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7a9f2e19a6746fba77c814e5580701e21692fdb7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_fetch_compare_and_swap",
+						"t": "",
+						"i": "AO_HAVE_short_fetch_compare_and_swap",
+						"r": "AO_HAVE_short_fetch_compare_and_swap",
+						"s": "",
+						"u": "AO_HAVE_SHORT_FETCH_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "983b5a85588f5ae1202531d5ec23e60a663c3abd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_fetch_compare_and_swap_acquire",
+						"t": "unsigned short (volatile unsigned short *, unsigned short, unsigned short)",
+						"i": "AO_short_fetch_compare_and_swap_acquire(volatile unsigned short*,unsigned short,unsigned short)",
+						"r": "static unsigned short AO_short_fetch_compare_and_swap_acquire(volatile unsigned short *addr, unsigned short old_val, unsigned short new_val)",
+						"s": "",
+						"u": "AO_SHORT_FETCH_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7846ae9100dac8b62df144562c990807c74788c3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_fetch_compare_and_swap_acquire",
+						"t": "",
+						"i": "AO_HAVE_short_fetch_compare_and_swap_acquire",
+						"r": "AO_HAVE_short_fetch_compare_and_swap_acquire",
+						"s": "",
+						"u": "AO_HAVE_SHORT_FETCH_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4cc36eb091cc27224b4f27b5717442922a20bcc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_fetch_compare_and_swap_release",
+						"t": "unsigned short (volatile unsigned short *, unsigned short, unsigned short)",
+						"i": "AO_short_fetch_compare_and_swap_release(volatile unsigned short*,unsigned short,unsigned short)",
+						"r": "static unsigned short AO_short_fetch_compare_and_swap_release(volatile unsigned short *addr, unsigned short old_val, unsigned short new_val)",
+						"s": "",
+						"u": "AO_SHORT_FETCH_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed782a935e43a00483098a6fc33ee560f3d44b51"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_fetch_compare_and_swap_release",
+						"t": "",
+						"i": "AO_HAVE_short_fetch_compare_and_swap_release",
+						"r": "AO_HAVE_short_fetch_compare_and_swap_release",
+						"s": "",
+						"u": "AO_HAVE_SHORT_FETCH_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8346f4303f8c39d1b85aa285683661e8c7e9e212"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_fetch_compare_and_swap_full",
+						"t": "unsigned short (volatile unsigned short *, unsigned short, unsigned short)",
+						"i": "AO_short_fetch_compare_and_swap_full(volatile unsigned short*,unsigned short,unsigned short)",
+						"r": "static unsigned short AO_short_fetch_compare_and_swap_full(volatile unsigned short *addr, unsigned short old_val, unsigned short new_val)",
+						"s": "",
+						"u": "AO_SHORT_FETCH_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8aa8e1653f58d6d3ea73539ab3f816857f6c6413"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_fetch_compare_and_swap_full",
+						"t": "",
+						"i": "AO_HAVE_short_fetch_compare_and_swap_full",
+						"r": "AO_HAVE_short_fetch_compare_and_swap_full",
+						"s": "",
+						"u": "AO_HAVE_SHORT_FETCH_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "344b01c7ebac572c89ea0d3c669d97cf06e137ed"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_compare_and_swap",
+						"t": "int (volatile unsigned short *, unsigned short, unsigned short)",
+						"i": "AO_short_compare_and_swap(volatile unsigned short*,unsigned short,unsigned short)",
+						"r": "static int AO_short_compare_and_swap(volatile unsigned short *addr, unsigned short old_val, unsigned short new_val)",
+						"s": "",
+						"u": "AO_SHORT_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46281c1a312b3cde7718aba5864629044c004af7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_compare_and_swap",
+						"t": "",
+						"i": "AO_HAVE_short_compare_and_swap",
+						"r": "AO_HAVE_short_compare_and_swap",
+						"s": "",
+						"u": "AO_HAVE_SHORT_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "01218d6f833500945aad2e38c14199f1bdf74f33"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_compare_and_swap_acquire",
+						"t": "int (volatile unsigned short *, unsigned short, unsigned short)",
+						"i": "AO_short_compare_and_swap_acquire(volatile unsigned short*,unsigned short,unsigned short)",
+						"r": "static int AO_short_compare_and_swap_acquire(volatile unsigned short *addr, unsigned short old_val, unsigned short new_val)",
+						"s": "",
+						"u": "AO_SHORT_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b0ba7a2deb21778a0fd72bcc11ab17f52266eacf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_compare_and_swap_acquire",
+						"t": "",
+						"i": "AO_HAVE_short_compare_and_swap_acquire",
+						"r": "AO_HAVE_short_compare_and_swap_acquire",
+						"s": "",
+						"u": "AO_HAVE_SHORT_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd616f601c31d16083f9ceb70a95769f110a879d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_compare_and_swap_release",
+						"t": "int (volatile unsigned short *, unsigned short, unsigned short)",
+						"i": "AO_short_compare_and_swap_release(volatile unsigned short*,unsigned short,unsigned short)",
+						"r": "static int AO_short_compare_and_swap_release(volatile unsigned short *addr, unsigned short old_val, unsigned short new_val)",
+						"s": "",
+						"u": "AO_SHORT_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aa9397811263eb5cfe60ef14d35754a8b2bbc093"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "AO_HAVE_short_compare_and_swap_release",
+						"t": "",
+						"i": "AO_HAVE_short_compare_and_swap_release",
+						"r": "AO_HAVE_short_compare_and_swap_release",
+						"s": "",
+						"u": "AO_HAVE_SHORT_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47f2ebbf8c057816ffec0b52ffb31f22331d6980"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_compare_and_swap_full",
+						"t": "int (volatile unsigned short *, unsigned short, unsigned short)",
+						"i": "AO_short_compare_and_swap_full(volatile unsigned short*,unsigned short,unsigned short)",
+						"r": "static int AO_short_compare_and_swap_full(volatile unsigned short *addr, unsigned short old_val, unsigned short new_val)",
+						"s": "",
+						"u": "AO_SHORT_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3090918e4fdc6ec803afb19d93c61fa9c27608a0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_compare_and_swap_full",
+						"t": "",
+						"i": "AO_HAVE_short_compare_and_swap_full",
+						"r": "AO_HAVE_short_compare_and_swap_full",
+						"s": "",
+						"u": "AO_HAVE_SHORT_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b67a96a487a66767f9b4a8577ed17fb6d837b040"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_load",
+						"t": "unsigned int (const volatile unsigned int *)",
+						"i": "AO_int_load(const volatile unsigned int*)",
+						"r": "static unsigned int AO_int_load(const volatile unsigned int *addr)",
+						"s": "",
+						"u": "AO_INT_LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29cef0262a569ffbb111fc14c41cfb1aa64101df"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_load",
+						"t": "",
+						"i": "AO_HAVE_int_load",
+						"r": "AO_HAVE_int_load",
+						"s": "",
+						"u": "AO_HAVE_INT_LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ebd201a3540be8118812f5a2c459919c4b1b170"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_load_acquire",
+						"t": "unsigned int (const volatile unsigned int *)",
+						"i": "AO_int_load_acquire(const volatile unsigned int*)",
+						"r": "static unsigned int AO_int_load_acquire(const volatile unsigned int *addr)",
+						"s": "",
+						"u": "AO_INT_LOAD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3db28268bc7694bb977253dd516fe083cecba074"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_load_acquire",
+						"t": "",
+						"i": "AO_HAVE_int_load_acquire",
+						"r": "AO_HAVE_int_load_acquire",
+						"s": "",
+						"u": "AO_HAVE_INT_LOAD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1846217a8135ed4d9d14db88a2741e64fd26122"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_store",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_store(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_store(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "329d417d99f8e13ff48c31bc50e93592721d78ba"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_store",
+						"t": "",
+						"i": "AO_HAVE_int_store",
+						"r": "AO_HAVE_int_store",
+						"s": "",
+						"u": "AO_HAVE_INT_STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e84e8fac1a08608879a0eb93d84debdd015827c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_store_release",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_store_release(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_store_release(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_STORE_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "406e7e6fa43aede60514cd6d23d15692dee5d824"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_store_release",
+						"t": "",
+						"i": "AO_HAVE_int_store_release",
+						"r": "AO_HAVE_int_store_release",
+						"s": "",
+						"u": "AO_HAVE_INT_STORE_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3493ffc941f8ae9b99b5614fd552487cd5a09197"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_fetch_compare_and_swap",
+						"t": "unsigned int (volatile unsigned int *, unsigned int, unsigned int)",
+						"i": "AO_int_fetch_compare_and_swap(volatile unsigned int*,unsigned int,unsigned int)",
+						"r": "static unsigned int AO_int_fetch_compare_and_swap(volatile unsigned int *addr, unsigned int old_val, unsigned int new_val)",
+						"s": "",
+						"u": "AO_INT_FETCH_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "077e8af396ed3db63ba90c0000ca1975067193fb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_fetch_compare_and_swap",
+						"t": "",
+						"i": "AO_HAVE_int_fetch_compare_and_swap",
+						"r": "AO_HAVE_int_fetch_compare_and_swap",
+						"s": "",
+						"u": "AO_HAVE_INT_FETCH_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d0324efa6a36218bfb41ec7b2c4a2139dde64460"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_fetch_compare_and_swap_acquire",
+						"t": "unsigned int (volatile unsigned int *, unsigned int, unsigned int)",
+						"i": "AO_int_fetch_compare_and_swap_acquire(volatile unsigned int*,unsigned int,unsigned int)",
+						"r": "static unsigned int AO_int_fetch_compare_and_swap_acquire(volatile unsigned int *addr, unsigned int old_val, unsigned int new_val)",
+						"s": "",
+						"u": "AO_INT_FETCH_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba40384a38981690f7c9e24544123fd0e6a415a5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_fetch_compare_and_swap_acquire",
+						"t": "",
+						"i": "AO_HAVE_int_fetch_compare_and_swap_acquire",
+						"r": "AO_HAVE_int_fetch_compare_and_swap_acquire",
+						"s": "",
+						"u": "AO_HAVE_INT_FETCH_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8e1d17b1d680a9f20595a15068262c398642351"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_fetch_compare_and_swap_release",
+						"t": "unsigned int (volatile unsigned int *, unsigned int, unsigned int)",
+						"i": "AO_int_fetch_compare_and_swap_release(volatile unsigned int*,unsigned int,unsigned int)",
+						"r": "static unsigned int AO_int_fetch_compare_and_swap_release(volatile unsigned int *addr, unsigned int old_val, unsigned int new_val)",
+						"s": "",
+						"u": "AO_INT_FETCH_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "18e057fa15c61dba4091f8722ffc13096919d7bd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_fetch_compare_and_swap_release",
+						"t": "",
+						"i": "AO_HAVE_int_fetch_compare_and_swap_release",
+						"r": "AO_HAVE_int_fetch_compare_and_swap_release",
+						"s": "",
+						"u": "AO_HAVE_INT_FETCH_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cad7934615fe04d916d912b2d0c7acb0494c8ca7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_fetch_compare_and_swap_full",
+						"t": "unsigned int (volatile unsigned int *, unsigned int, unsigned int)",
+						"i": "AO_int_fetch_compare_and_swap_full(volatile unsigned int*,unsigned int,unsigned int)",
+						"r": "static unsigned int AO_int_fetch_compare_and_swap_full(volatile unsigned int *addr, unsigned int old_val, unsigned int new_val)",
+						"s": "",
+						"u": "AO_INT_FETCH_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9150e4f241589117fa125cdd159629c00c66d433"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_fetch_compare_and_swap_full",
+						"t": "",
+						"i": "AO_HAVE_int_fetch_compare_and_swap_full",
+						"r": "AO_HAVE_int_fetch_compare_and_swap_full",
+						"s": "",
+						"u": "AO_HAVE_INT_FETCH_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "028241296254955907f610c934550f6ad3bf131a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_compare_and_swap",
+						"t": "int (volatile unsigned int *, unsigned int, unsigned int)",
+						"i": "AO_int_compare_and_swap(volatile unsigned int*,unsigned int,unsigned int)",
+						"r": "static int AO_int_compare_and_swap(volatile unsigned int *addr, unsigned int old_val, unsigned int new_val)",
+						"s": "",
+						"u": "AO_INT_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ce3bb0f9e5580df3839df4a7bc84d5058c0da9c6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_compare_and_swap",
+						"t": "",
+						"i": "AO_HAVE_int_compare_and_swap",
+						"r": "AO_HAVE_int_compare_and_swap",
+						"s": "",
+						"u": "AO_HAVE_INT_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b07182b3bd7914c8366edd16190b7e05da1793b6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_compare_and_swap_acquire",
+						"t": "int (volatile unsigned int *, unsigned int, unsigned int)",
+						"i": "AO_int_compare_and_swap_acquire(volatile unsigned int*,unsigned int,unsigned int)",
+						"r": "static int AO_int_compare_and_swap_acquire(volatile unsigned int *addr, unsigned int old_val, unsigned int new_val)",
+						"s": "",
+						"u": "AO_INT_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8810f96ccc36274150ad410613b61b01a96a14d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_compare_and_swap_acquire",
+						"t": "",
+						"i": "AO_HAVE_int_compare_and_swap_acquire",
+						"r": "AO_HAVE_int_compare_and_swap_acquire",
+						"s": "",
+						"u": "AO_HAVE_INT_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10f2935dfe718309892d1a106f54ef3ca1cf31be"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_compare_and_swap_release",
+						"t": "int (volatile unsigned int *, unsigned int, unsigned int)",
+						"i": "AO_int_compare_and_swap_release(volatile unsigned int*,unsigned int,unsigned int)",
+						"r": "static int AO_int_compare_and_swap_release(volatile unsigned int *addr, unsigned int old_val, unsigned int new_val)",
+						"s": "",
+						"u": "AO_INT_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de414e7c432b34a64097c654fd2c1bdb24245dfa"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_compare_and_swap_release",
+						"t": "",
+						"i": "AO_HAVE_int_compare_and_swap_release",
+						"r": "AO_HAVE_int_compare_and_swap_release",
+						"s": "",
+						"u": "AO_HAVE_INT_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7ee43027d5a2b2a21fc314620e34c4522916c49"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_compare_and_swap_full",
+						"t": "int (volatile unsigned int *, unsigned int, unsigned int)",
+						"i": "AO_int_compare_and_swap_full(volatile unsigned int*,unsigned int,unsigned int)",
+						"r": "static int AO_int_compare_and_swap_full(volatile unsigned int *addr, unsigned int old_val, unsigned int new_val)",
+						"s": "",
+						"u": "AO_INT_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f5872cba986995b34fb566ad612d11df70bac8c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_compare_and_swap_full",
+						"t": "",
+						"i": "AO_HAVE_int_compare_and_swap_full",
+						"r": "AO_HAVE_int_compare_and_swap_full",
+						"s": "",
+						"u": "AO_HAVE_INT_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14e2d9326fceb9ec2cc6c537662289baa76752a4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_load",
+						"t": "size_t (const volatile size_t *)",
+						"i": "AO_load(const volatile size_t*)",
+						"r": "static size_t AO_load(const volatile size_t *addr)",
+						"s": "",
+						"u": "AO_LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6c8f55032957057eb0861e344def5a35387b7642"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_load",
+						"t": "",
+						"i": "AO_HAVE_load",
+						"r": "AO_HAVE_load",
+						"s": "",
+						"u": "AO_HAVE_LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd703e385434ef4a3bdf9726345a0fdb3d87f7bc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_load_acquire",
+						"t": "size_t (const volatile size_t *)",
+						"i": "AO_load_acquire(const volatile size_t*)",
+						"r": "static size_t AO_load_acquire(const volatile size_t *addr)",
+						"s": "",
+						"u": "AO_LOAD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d98b1aa83390c851cbba8848a5016b8131ea9e4a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_load_acquire",
+						"t": "",
+						"i": "AO_HAVE_load_acquire",
+						"r": "AO_HAVE_load_acquire",
+						"s": "",
+						"u": "AO_HAVE_LOAD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2961b1ce658347ed3c590af2907f91d7e36e8def"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_store",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_store(volatile size_t*,size_t)",
+						"r": "static void AO_store(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7718343d61245cc0f33d6c4dc80be339a79fcb6a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_store",
+						"t": "",
+						"i": "AO_HAVE_store",
+						"r": "AO_HAVE_store",
+						"s": "",
+						"u": "AO_HAVE_STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3937f12c30da75a1d026b18aed4c130c91a63345"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_store_release",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_store_release(volatile size_t*,size_t)",
+						"r": "static void AO_store_release(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_STORE_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2845f84b1f7bf10667e236ca416cf176a82f7211"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_store_release",
+						"t": "",
+						"i": "AO_HAVE_store_release",
+						"r": "AO_HAVE_store_release",
+						"s": "",
+						"u": "AO_HAVE_STORE_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2983456a166d824039e62d0161787a0a6bb28867"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_fetch_compare_and_swap",
+						"t": "size_t (volatile size_t *, size_t, size_t)",
+						"i": "AO_fetch_compare_and_swap(volatile size_t*,size_t,size_t)",
+						"r": "static size_t AO_fetch_compare_and_swap(volatile size_t *addr, size_t old_val, size_t new_val)",
+						"s": "",
+						"u": "AO_FETCH_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08d08fae233803a99918f0f97f88703c1eea2206"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_fetch_compare_and_swap",
+						"t": "",
+						"i": "AO_HAVE_fetch_compare_and_swap",
+						"r": "AO_HAVE_fetch_compare_and_swap",
+						"s": "",
+						"u": "AO_HAVE_FETCH_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e03a6e6f66f567b3e584a9d8224453cf49fa7a5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_fetch_compare_and_swap_acquire",
+						"t": "size_t (volatile size_t *, size_t, size_t)",
+						"i": "AO_fetch_compare_and_swap_acquire(volatile size_t*,size_t,size_t)",
+						"r": "static size_t AO_fetch_compare_and_swap_acquire(volatile size_t *addr, size_t old_val, size_t new_val)",
+						"s": "",
+						"u": "AO_FETCH_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1bd6cefc02320ff0d5d7882145e965df85c95414"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_fetch_compare_and_swap_acquire",
+						"t": "",
+						"i": "AO_HAVE_fetch_compare_and_swap_acquire",
+						"r": "AO_HAVE_fetch_compare_and_swap_acquire",
+						"s": "",
+						"u": "AO_HAVE_FETCH_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6fd4d52b080b92f6c2cea1fa51a839ee66106cbf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_fetch_compare_and_swap_release",
+						"t": "size_t (volatile size_t *, size_t, size_t)",
+						"i": "AO_fetch_compare_and_swap_release(volatile size_t*,size_t,size_t)",
+						"r": "static size_t AO_fetch_compare_and_swap_release(volatile size_t *addr, size_t old_val, size_t new_val)",
+						"s": "",
+						"u": "AO_FETCH_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "016837050b83164fbefd6b80c6e906a8468737b0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_fetch_compare_and_swap_release",
+						"t": "",
+						"i": "AO_HAVE_fetch_compare_and_swap_release",
+						"r": "AO_HAVE_fetch_compare_and_swap_release",
+						"s": "",
+						"u": "AO_HAVE_FETCH_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2163ea69965f59f9e0ac331fc331fea191ec3f0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_fetch_compare_and_swap_full",
+						"t": "size_t (volatile size_t *, size_t, size_t)",
+						"i": "AO_fetch_compare_and_swap_full(volatile size_t*,size_t,size_t)",
+						"r": "static size_t AO_fetch_compare_and_swap_full(volatile size_t *addr, size_t old_val, size_t new_val)",
+						"s": "",
+						"u": "AO_FETCH_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3022aa9f06a643b89a837ce867d0bdbfccd35de6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_fetch_compare_and_swap_full",
+						"t": "",
+						"i": "AO_HAVE_fetch_compare_and_swap_full",
+						"r": "AO_HAVE_fetch_compare_and_swap_full",
+						"s": "",
+						"u": "AO_HAVE_FETCH_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "358c4f277b43f1e2fcf53527dad1ab7d22465dee"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_compare_and_swap",
+						"t": "int (volatile size_t *, size_t, size_t)",
+						"i": "AO_compare_and_swap(volatile size_t*,size_t,size_t)",
+						"r": "static int AO_compare_and_swap(volatile size_t *addr, size_t old_val, size_t new_val)",
+						"s": "",
+						"u": "AO_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d2e22ac17193fdb126d40c3e984e2ac2e9e563b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_compare_and_swap",
+						"t": "",
+						"i": "AO_HAVE_compare_and_swap",
+						"r": "AO_HAVE_compare_and_swap",
+						"s": "",
+						"u": "AO_HAVE_COMPARE_AND_SWAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c055b40d49dab54e68bf338546479721fc24660f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_compare_and_swap_acquire",
+						"t": "int (volatile size_t *, size_t, size_t)",
+						"i": "AO_compare_and_swap_acquire(volatile size_t*,size_t,size_t)",
+						"r": "static int AO_compare_and_swap_acquire(volatile size_t *addr, size_t old_val, size_t new_val)",
+						"s": "",
+						"u": "AO_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "faa8bb31d3595d17e41acc8031dab3a4b1d7e82d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_compare_and_swap_acquire",
+						"t": "",
+						"i": "AO_HAVE_compare_and_swap_acquire",
+						"r": "AO_HAVE_compare_and_swap_acquire",
+						"s": "",
+						"u": "AO_HAVE_COMPARE_AND_SWAP_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d774cd64d64cac75d5f1cd2c9c71e4e526453f38"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_compare_and_swap_release",
+						"t": "int (volatile size_t *, size_t, size_t)",
+						"i": "AO_compare_and_swap_release(volatile size_t*,size_t,size_t)",
+						"r": "static int AO_compare_and_swap_release(volatile size_t *addr, size_t old_val, size_t new_val)",
+						"s": "",
+						"u": "AO_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5d42ef92d81384f0d6952bd9aa9b1425d1eb3f1e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_compare_and_swap_release",
+						"t": "",
+						"i": "AO_HAVE_compare_and_swap_release",
+						"r": "AO_HAVE_compare_and_swap_release",
+						"s": "",
+						"u": "AO_HAVE_COMPARE_AND_SWAP_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3395a273989408044684438a7441cfa69ca28de7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_compare_and_swap_full",
+						"t": "int (volatile size_t *, size_t, size_t)",
+						"i": "AO_compare_and_swap_full(volatile size_t*,size_t,size_t)",
+						"r": "static int AO_compare_and_swap_full(volatile size_t *addr, size_t old_val, size_t new_val)",
+						"s": "",
+						"u": "AO_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2e114c372fbba1643c2fcb09c8c9349a89090c4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_compare_and_swap_full",
+						"t": "",
+						"i": "AO_HAVE_compare_and_swap_full",
+						"r": "AO_HAVE_compare_and_swap_full",
+						"s": "",
+						"u": "AO_HAVE_COMPARE_AND_SWAP_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9839c03848773a18572f25e52408a3a7cc8aeae5"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/generic-arithm.h",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_fetch_and_add",
+						"t": "unsigned char (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_fetch_and_add(volatile unsigned char*,unsigned char)",
+						"r": "static unsigned char AO_char_fetch_and_add(volatile unsigned char *addr, unsigned char incr)",
+						"s": "",
+						"u": "AO_CHAR_FETCH_AND_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4632267586d03c602ec12a8b20f293ab60f56d4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_fetch_and_add",
+						"t": "",
+						"i": "AO_HAVE_char_fetch_and_add",
+						"r": "AO_HAVE_char_fetch_and_add",
+						"s": "",
+						"u": "AO_HAVE_CHAR_FETCH_AND_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "081777affa427a36a2aabf952c4263f50e890d28"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_and",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_and(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_and(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bfb8328ba42f232b40886dcb22721b081269a916"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_and",
+						"t": "",
+						"i": "AO_HAVE_char_and",
+						"r": "AO_HAVE_char_and",
+						"s": "",
+						"u": "AO_HAVE_CHAR_AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "693165917d3519d04f11bdf480d3b031688c75ab"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_or",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_or(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_or(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a341cbdd22f50a0893097aaa51292e1f11541093"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_or",
+						"t": "",
+						"i": "AO_HAVE_char_or",
+						"r": "AO_HAVE_char_or",
+						"s": "",
+						"u": "AO_HAVE_CHAR_OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7ba89088a27052aee987b110eea48ad50c5ba94"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_xor",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_xor(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_xor(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_XOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "339d385dda5e87ce3c3f3305eb3f4dfba45a9c94"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_xor",
+						"t": "",
+						"i": "AO_HAVE_char_xor",
+						"r": "AO_HAVE_char_xor",
+						"s": "",
+						"u": "AO_HAVE_CHAR_XOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f074d741aaaf56c55343df0864526cb806dfdd37"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_fetch_and_add",
+						"t": "unsigned short (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_fetch_and_add(volatile unsigned short*,unsigned short)",
+						"r": "static unsigned short AO_short_fetch_and_add(volatile unsigned short *addr, unsigned short incr)",
+						"s": "",
+						"u": "AO_SHORT_FETCH_AND_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "885ced5439dce25a9f114c7a65ce08212d28a3b1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_fetch_and_add",
+						"t": "",
+						"i": "AO_HAVE_short_fetch_and_add",
+						"r": "AO_HAVE_short_fetch_and_add",
+						"s": "",
+						"u": "AO_HAVE_SHORT_FETCH_AND_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3fff860934ed00356d7012b39c15c610596a6b6e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_and",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_and(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_and(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fac6fa7844ffda1c4a66ac5ed2ccfd825ddce5f2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_and",
+						"t": "",
+						"i": "AO_HAVE_short_and",
+						"r": "AO_HAVE_short_and",
+						"s": "",
+						"u": "AO_HAVE_SHORT_AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0011b95d379eed4be8bd60939edcc4ca690989a2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_or",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_or(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_or(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba7b3eb9908da0519f53818fbd3edbe9e2e1d105"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_or",
+						"t": "",
+						"i": "AO_HAVE_short_or",
+						"r": "AO_HAVE_short_or",
+						"s": "",
+						"u": "AO_HAVE_SHORT_OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d6e8a9aa3139e54f9cc2b1d077cb7625ba09689a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_xor",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_xor(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_xor(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_XOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e5578e4fc0b148ee8391dc69a3fc6beb158b6fa5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_xor",
+						"t": "",
+						"i": "AO_HAVE_short_xor",
+						"r": "AO_HAVE_short_xor",
+						"s": "",
+						"u": "AO_HAVE_SHORT_XOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93668eba3f00eaf0c36126a2718bd70c0acc4af3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_fetch_and_add",
+						"t": "unsigned int (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_fetch_and_add(volatile unsigned int*,unsigned int)",
+						"r": "static unsigned int AO_int_fetch_and_add(volatile unsigned int *addr, unsigned int incr)",
+						"s": "",
+						"u": "AO_INT_FETCH_AND_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b1ab1eccd09cf2aca063f722b2ffeeab6d7df3b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_fetch_and_add",
+						"t": "",
+						"i": "AO_HAVE_int_fetch_and_add",
+						"r": "AO_HAVE_int_fetch_and_add",
+						"s": "",
+						"u": "AO_HAVE_INT_FETCH_AND_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e17de739fa8ac83b7fee61ef7f8f55e328fe0059"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_and",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_and(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_and(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d61a0c278c371dce881f336f50f7cc2e3b2b8a1f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_and",
+						"t": "",
+						"i": "AO_HAVE_int_and",
+						"r": "AO_HAVE_int_and",
+						"s": "",
+						"u": "AO_HAVE_INT_AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f557b17cd302fa1069408b95365bdfaff685e262"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_or",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_or(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_or(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "62e3fb5a974483ad68f655cf6dc05a6cfdc2ae61"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_or",
+						"t": "",
+						"i": "AO_HAVE_int_or",
+						"r": "AO_HAVE_int_or",
+						"s": "",
+						"u": "AO_HAVE_INT_OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "543a48077d577ad69f5d13e2e8abea30f27effb5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_xor",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_xor(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_xor(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_XOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b340abdb9535b7f1a4f3cc1445e0b61e0a0df2c1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_xor",
+						"t": "",
+						"i": "AO_HAVE_int_xor",
+						"r": "AO_HAVE_int_xor",
+						"s": "",
+						"u": "AO_HAVE_INT_XOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aa3187a5eaaddc3a19df94e2f0ba286d2cfd9c74"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_fetch_and_add",
+						"t": "size_t (volatile size_t *, size_t)",
+						"i": "AO_fetch_and_add(volatile size_t*,size_t)",
+						"r": "static size_t AO_fetch_and_add(volatile size_t *addr, size_t incr)",
+						"s": "",
+						"u": "AO_FETCH_AND_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c5b367a243fdfcac311682910b8e86c22f44fd3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_fetch_and_add",
+						"t": "",
+						"i": "AO_HAVE_fetch_and_add",
+						"r": "AO_HAVE_fetch_and_add",
+						"s": "",
+						"u": "AO_HAVE_FETCH_AND_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d043f4859b6c1c7b3950b978559a10345faa6631"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_and",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_and(volatile size_t*,size_t)",
+						"r": "static void AO_and(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d79284a5179fc627e18d3041e97f86a5eee6a69c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_and",
+						"t": "",
+						"i": "AO_HAVE_and",
+						"r": "AO_HAVE_and",
+						"s": "",
+						"u": "AO_HAVE_AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49248469ab91de3b3b4b62a49340a8f57e20bc9c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_or",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_or(volatile size_t*,size_t)",
+						"r": "static void AO_or(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c86a8c30fcd3c9135526e541134a867ed35a5761"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_or",
+						"t": "",
+						"i": "AO_HAVE_or",
+						"r": "AO_HAVE_or",
+						"s": "",
+						"u": "AO_HAVE_OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1e614751bc053cc0f5a745a9d69a5e15b4b367d0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_xor",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_xor(volatile size_t*,size_t)",
+						"r": "static void AO_xor(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_XOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "17fe9daebb3f39515bcaf048282682bdbe30d072"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_xor",
+						"t": "",
+						"i": "AO_HAVE_xor",
+						"r": "AO_HAVE_xor",
+						"s": "",
+						"u": "AO_HAVE_XOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aa3127dd1dd1ddd991393ec5cd1f1a4d64d6872c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_fetch_and_add_acquire",
+						"t": "unsigned char (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_fetch_and_add_acquire(volatile unsigned char*,unsigned char)",
+						"r": "static unsigned char AO_char_fetch_and_add_acquire(volatile unsigned char *addr, unsigned char incr)",
+						"s": "",
+						"u": "AO_CHAR_FETCH_AND_ADD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c2a1e0e0def4b8e2df6c51897e56da85d1d3e92"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_fetch_and_add_acquire",
+						"t": "",
+						"i": "AO_HAVE_char_fetch_and_add_acquire",
+						"r": "AO_HAVE_char_fetch_and_add_acquire",
+						"s": "",
+						"u": "AO_HAVE_CHAR_FETCH_AND_ADD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b2a08546afa2e2e7f8cb131014e8c21b437c5051"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_and_acquire",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_and_acquire(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_and_acquire(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_AND_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8f90653c657223ad9d03eb9e9f5ad8aa6777dc3e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_and_acquire",
+						"t": "",
+						"i": "AO_HAVE_char_and_acquire",
+						"r": "AO_HAVE_char_and_acquire",
+						"s": "",
+						"u": "AO_HAVE_CHAR_AND_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b1f71b9f5c0d69ef80d812625d69470d00bd35b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_or_acquire",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_or_acquire(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_or_acquire(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_OR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ef56d68e609bfc9e5848d71d55add9798f0034a2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_or_acquire",
+						"t": "",
+						"i": "AO_HAVE_char_or_acquire",
+						"r": "AO_HAVE_char_or_acquire",
+						"s": "",
+						"u": "AO_HAVE_CHAR_OR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4bf4651d887da479c83f794365fc8883d974e429"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_xor_acquire",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_xor_acquire(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_xor_acquire(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_XOR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f9ade8ffb83b212d760311b695846636ab9e9da"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_xor_acquire",
+						"t": "",
+						"i": "AO_HAVE_char_xor_acquire",
+						"r": "AO_HAVE_char_xor_acquire",
+						"s": "",
+						"u": "AO_HAVE_CHAR_XOR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "42c452c2240c54010b16748ce5ae178a03aa5051"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_fetch_and_add_acquire",
+						"t": "unsigned short (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_fetch_and_add_acquire(volatile unsigned short*,unsigned short)",
+						"r": "static unsigned short AO_short_fetch_and_add_acquire(volatile unsigned short *addr, unsigned short incr)",
+						"s": "",
+						"u": "AO_SHORT_FETCH_AND_ADD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6c73247ef3c084e7773dd9548c7a5b8e2e61f042"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_fetch_and_add_acquire",
+						"t": "",
+						"i": "AO_HAVE_short_fetch_and_add_acquire",
+						"r": "AO_HAVE_short_fetch_and_add_acquire",
+						"s": "",
+						"u": "AO_HAVE_SHORT_FETCH_AND_ADD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "83ec9806c82104a298712f3f65d32cf62e3802dc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_and_acquire",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_and_acquire(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_and_acquire(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_AND_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dcd5aa2148e1fab553d27a1361d36422ba35c1ac"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_and_acquire",
+						"t": "",
+						"i": "AO_HAVE_short_and_acquire",
+						"r": "AO_HAVE_short_and_acquire",
+						"s": "",
+						"u": "AO_HAVE_SHORT_AND_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c986377b3cab7b48cad52c81e14aa086c509bd0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_or_acquire",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_or_acquire(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_or_acquire(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_OR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d6ed28aaf3fd73d0c625217adb91385e4cdb59a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_or_acquire",
+						"t": "",
+						"i": "AO_HAVE_short_or_acquire",
+						"r": "AO_HAVE_short_or_acquire",
+						"s": "",
+						"u": "AO_HAVE_SHORT_OR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ceb1a4b498c72146c753230ee45b68a6a08ad872"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_xor_acquire",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_xor_acquire(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_xor_acquire(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_XOR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b7e74be873e607250fb0effb3130944f75c9315"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_xor_acquire",
+						"t": "",
+						"i": "AO_HAVE_short_xor_acquire",
+						"r": "AO_HAVE_short_xor_acquire",
+						"s": "",
+						"u": "AO_HAVE_SHORT_XOR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60445dad171c7853bb3a7c96a50a1060b1002c54"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_fetch_and_add_acquire",
+						"t": "unsigned int (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_fetch_and_add_acquire(volatile unsigned int*,unsigned int)",
+						"r": "static unsigned int AO_int_fetch_and_add_acquire(volatile unsigned int *addr, unsigned int incr)",
+						"s": "",
+						"u": "AO_INT_FETCH_AND_ADD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ffefdaad9ab58509a3eb042981b7d62686246a2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_fetch_and_add_acquire",
+						"t": "",
+						"i": "AO_HAVE_int_fetch_and_add_acquire",
+						"r": "AO_HAVE_int_fetch_and_add_acquire",
+						"s": "",
+						"u": "AO_HAVE_INT_FETCH_AND_ADD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d9b3a53f6337d632ec00e599a6283213c038cb2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_and_acquire",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_and_acquire(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_and_acquire(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_AND_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0c3bd5a3e56ecaa185165da4e108f0ae5cdf4a63"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_and_acquire",
+						"t": "",
+						"i": "AO_HAVE_int_and_acquire",
+						"r": "AO_HAVE_int_and_acquire",
+						"s": "",
+						"u": "AO_HAVE_INT_AND_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fe78882a8e61a3c104423d56f39ba6d2de8b6da"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_or_acquire",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_or_acquire(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_or_acquire(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_OR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "676186ff3ea4d3c259f7d9341c92439cb019022f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_or_acquire",
+						"t": "",
+						"i": "AO_HAVE_int_or_acquire",
+						"r": "AO_HAVE_int_or_acquire",
+						"s": "",
+						"u": "AO_HAVE_INT_OR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e1364ce9133a0738df116917128e8209f0a134a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_xor_acquire",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_xor_acquire(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_xor_acquire(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_XOR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4a1a4e34d99e2c726ddbe11033c9481d59685f25"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_xor_acquire",
+						"t": "",
+						"i": "AO_HAVE_int_xor_acquire",
+						"r": "AO_HAVE_int_xor_acquire",
+						"s": "",
+						"u": "AO_HAVE_INT_XOR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9259541eec71fd2208973858d196be79b1de0dd5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_fetch_and_add_acquire",
+						"t": "size_t (volatile size_t *, size_t)",
+						"i": "AO_fetch_and_add_acquire(volatile size_t*,size_t)",
+						"r": "static size_t AO_fetch_and_add_acquire(volatile size_t *addr, size_t incr)",
+						"s": "",
+						"u": "AO_FETCH_AND_ADD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "691be3a38b99c592a22d7d8b51324439334b9cf9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_fetch_and_add_acquire",
+						"t": "",
+						"i": "AO_HAVE_fetch_and_add_acquire",
+						"r": "AO_HAVE_fetch_and_add_acquire",
+						"s": "",
+						"u": "AO_HAVE_FETCH_AND_ADD_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cd37f6823fcb66223f6d36689f0b2aad91bd9d20"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_and_acquire",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_and_acquire(volatile size_t*,size_t)",
+						"r": "static void AO_and_acquire(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_AND_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dff508277b3b95e4b3169556102e8755d5ae2177"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_and_acquire",
+						"t": "",
+						"i": "AO_HAVE_and_acquire",
+						"r": "AO_HAVE_and_acquire",
+						"s": "",
+						"u": "AO_HAVE_AND_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3adcfdb83a89d8fced57165d9efa701a4a45df16"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_or_acquire",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_or_acquire(volatile size_t*,size_t)",
+						"r": "static void AO_or_acquire(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_OR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "609bbb2cfb9f489df82ed073cfb0f1267d6b46f5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_or_acquire",
+						"t": "",
+						"i": "AO_HAVE_or_acquire",
+						"r": "AO_HAVE_or_acquire",
+						"s": "",
+						"u": "AO_HAVE_OR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7392b787ce84839b0845fdaafcee517d45751b8f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_xor_acquire",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_xor_acquire(volatile size_t*,size_t)",
+						"r": "static void AO_xor_acquire(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_XOR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cadb6fe53e09ca9dbed6832a18f80f3efa6cf184"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_xor_acquire",
+						"t": "",
+						"i": "AO_HAVE_xor_acquire",
+						"r": "AO_HAVE_xor_acquire",
+						"s": "",
+						"u": "AO_HAVE_XOR_ACQUIRE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c88b7b2cf6d99f29045b3dfccc4d524bd097271"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_fetch_and_add_release",
+						"t": "unsigned char (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_fetch_and_add_release(volatile unsigned char*,unsigned char)",
+						"r": "static unsigned char AO_char_fetch_and_add_release(volatile unsigned char *addr, unsigned char incr)",
+						"s": "",
+						"u": "AO_CHAR_FETCH_AND_ADD_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4d4330553cfa4d6602eb091490ef82ec38870c1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_fetch_and_add_release",
+						"t": "",
+						"i": "AO_HAVE_char_fetch_and_add_release",
+						"r": "AO_HAVE_char_fetch_and_add_release",
+						"s": "",
+						"u": "AO_HAVE_CHAR_FETCH_AND_ADD_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d5310a6bacd2b0548130a6a3cf7de10ceae0a99"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_and_release",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_and_release(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_and_release(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_AND_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dbe5c3977016bc19d1bacbf9ab270b3326c5efe8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_and_release",
+						"t": "",
+						"i": "AO_HAVE_char_and_release",
+						"r": "AO_HAVE_char_and_release",
+						"s": "",
+						"u": "AO_HAVE_CHAR_AND_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0c0868e2b1548b5b7915874ee32cdc3cf9758d9c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_or_release",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_or_release(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_or_release(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_OR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c17badd679baeae969e2a4f27f28c0bc1f22392e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_or_release",
+						"t": "",
+						"i": "AO_HAVE_char_or_release",
+						"r": "AO_HAVE_char_or_release",
+						"s": "",
+						"u": "AO_HAVE_CHAR_OR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f0b6acac6b4c60d6e716b46b0e3f9bfd3d6a0d4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_xor_release",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_xor_release(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_xor_release(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_XOR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64b2c4142f9b8ac048fc599d2829967ea2a7d6e3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_xor_release",
+						"t": "",
+						"i": "AO_HAVE_char_xor_release",
+						"r": "AO_HAVE_char_xor_release",
+						"s": "",
+						"u": "AO_HAVE_CHAR_XOR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8ecc53d74477dfd9e362477d4b31dede1a9a1b69"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_fetch_and_add_release",
+						"t": "unsigned short (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_fetch_and_add_release(volatile unsigned short*,unsigned short)",
+						"r": "static unsigned short AO_short_fetch_and_add_release(volatile unsigned short *addr, unsigned short incr)",
+						"s": "",
+						"u": "AO_SHORT_FETCH_AND_ADD_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0119a9fe172c8eceef69842ada8374e9e24474b2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_fetch_and_add_release",
+						"t": "",
+						"i": "AO_HAVE_short_fetch_and_add_release",
+						"r": "AO_HAVE_short_fetch_and_add_release",
+						"s": "",
+						"u": "AO_HAVE_SHORT_FETCH_AND_ADD_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "97f1596e494d573cb37efc0a94ab989b99249edb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_and_release",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_and_release(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_and_release(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_AND_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f62d599e0cc8461c640026e397e5ab3d298756ec"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_and_release",
+						"t": "",
+						"i": "AO_HAVE_short_and_release",
+						"r": "AO_HAVE_short_and_release",
+						"s": "",
+						"u": "AO_HAVE_SHORT_AND_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "00ffafa37249ca6aa54b76e90afeb7cddd92f06a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_or_release",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_or_release(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_or_release(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_OR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4fc314693770ed952b8e2578b64bebb544543c83"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_or_release",
+						"t": "",
+						"i": "AO_HAVE_short_or_release",
+						"r": "AO_HAVE_short_or_release",
+						"s": "",
+						"u": "AO_HAVE_SHORT_OR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ff300e4f77eec96fa14b37a1954ee7e5c239bd7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_xor_release",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_xor_release(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_xor_release(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_XOR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "002f03712fd835aceeda7ed17e31980d536736aa"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_xor_release",
+						"t": "",
+						"i": "AO_HAVE_short_xor_release",
+						"r": "AO_HAVE_short_xor_release",
+						"s": "",
+						"u": "AO_HAVE_SHORT_XOR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32440b447b969ece20d69a85e6d2cd3c3d450f6d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_fetch_and_add_release",
+						"t": "unsigned int (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_fetch_and_add_release(volatile unsigned int*,unsigned int)",
+						"r": "static unsigned int AO_int_fetch_and_add_release(volatile unsigned int *addr, unsigned int incr)",
+						"s": "",
+						"u": "AO_INT_FETCH_AND_ADD_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3c64433d5771266494a0a3d098181464c9c9a544"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_fetch_and_add_release",
+						"t": "",
+						"i": "AO_HAVE_int_fetch_and_add_release",
+						"r": "AO_HAVE_int_fetch_and_add_release",
+						"s": "",
+						"u": "AO_HAVE_INT_FETCH_AND_ADD_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d56846067c1684d77a5adadcfc9ecf76a8ff19ac"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_and_release",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_and_release(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_and_release(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_AND_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "55d14baf1e3bf3260a29fda969a6f743b20f12db"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_and_release",
+						"t": "",
+						"i": "AO_HAVE_int_and_release",
+						"r": "AO_HAVE_int_and_release",
+						"s": "",
+						"u": "AO_HAVE_INT_AND_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bf431832fb9ca65f817550da68725f7458e00040"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_or_release",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_or_release(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_or_release(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_OR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af48bc817dfc43ee989007ef6d8badc499e0ebbd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_or_release",
+						"t": "",
+						"i": "AO_HAVE_int_or_release",
+						"r": "AO_HAVE_int_or_release",
+						"s": "",
+						"u": "AO_HAVE_INT_OR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec751b604ca66443fa8de84a937a7cc0a5b2cf08"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_xor_release",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_xor_release(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_xor_release(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_XOR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "781f5a151bac8cc3152e6888a15853dc46dc9e3f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_xor_release",
+						"t": "",
+						"i": "AO_HAVE_int_xor_release",
+						"r": "AO_HAVE_int_xor_release",
+						"s": "",
+						"u": "AO_HAVE_INT_XOR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36996839d4fb9ee6b3fbc298d68dfbfc0472fe00"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_fetch_and_add_release",
+						"t": "size_t (volatile size_t *, size_t)",
+						"i": "AO_fetch_and_add_release(volatile size_t*,size_t)",
+						"r": "static size_t AO_fetch_and_add_release(volatile size_t *addr, size_t incr)",
+						"s": "",
+						"u": "AO_FETCH_AND_ADD_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fdf5a0db898645290ef56e04afb71d91b064842a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_fetch_and_add_release",
+						"t": "",
+						"i": "AO_HAVE_fetch_and_add_release",
+						"r": "AO_HAVE_fetch_and_add_release",
+						"s": "",
+						"u": "AO_HAVE_FETCH_AND_ADD_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c2efbea496444a88eb11143cf14620e5c05885d6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_and_release",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_and_release(volatile size_t*,size_t)",
+						"r": "static void AO_and_release(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_AND_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c281d6e173fe481d8d6f8f52ac27a313b36af435"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_and_release",
+						"t": "",
+						"i": "AO_HAVE_and_release",
+						"r": "AO_HAVE_and_release",
+						"s": "",
+						"u": "AO_HAVE_AND_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ca2f90000c9948a405126f21acebf241f27abea"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_or_release",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_or_release(volatile size_t*,size_t)",
+						"r": "static void AO_or_release(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_OR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa5535ac5f36fb7e95ba4c2b7a13cf130b6bd0a5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_or_release",
+						"t": "",
+						"i": "AO_HAVE_or_release",
+						"r": "AO_HAVE_or_release",
+						"s": "",
+						"u": "AO_HAVE_OR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a45ce3f05d29e48b50be36c7ce1165a1effe93b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_xor_release",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_xor_release(volatile size_t*,size_t)",
+						"r": "static void AO_xor_release(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_XOR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8aaaea638a0767dd41f9ed3623c14b4391b06029"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_xor_release",
+						"t": "",
+						"i": "AO_HAVE_xor_release",
+						"r": "AO_HAVE_xor_release",
+						"s": "",
+						"u": "AO_HAVE_XOR_RELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0cc2476b1767f7cf6b92b22095f529bea2c8af8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_fetch_and_add_full",
+						"t": "unsigned char (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_fetch_and_add_full(volatile unsigned char*,unsigned char)",
+						"r": "static unsigned char AO_char_fetch_and_add_full(volatile unsigned char *addr, unsigned char incr)",
+						"s": "",
+						"u": "AO_CHAR_FETCH_AND_ADD_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f430bd8f97532257800edb739b48f37ad77bbbe"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_fetch_and_add_full",
+						"t": "",
+						"i": "AO_HAVE_char_fetch_and_add_full",
+						"r": "AO_HAVE_char_fetch_and_add_full",
+						"s": "",
+						"u": "AO_HAVE_CHAR_FETCH_AND_ADD_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4993fdc409722c19e0e6afc70c3eb463cda186a4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_and_full",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_and_full(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_and_full(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_AND_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1726506a914ab92318b5c87931de6d41013a4a38"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_and_full",
+						"t": "",
+						"i": "AO_HAVE_char_and_full",
+						"r": "AO_HAVE_char_and_full",
+						"s": "",
+						"u": "AO_HAVE_CHAR_AND_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4db8a6ef4bd8237f80cc5485e77a2a51226c9c48"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_or_full",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_or_full(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_or_full(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_OR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8f4b561528c31b0489a88ae3dfd4f8d4c04a864d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_or_full",
+						"t": "",
+						"i": "AO_HAVE_char_or_full",
+						"r": "AO_HAVE_char_or_full",
+						"s": "",
+						"u": "AO_HAVE_CHAR_OR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0a85018b3b16b7cab7311e462e66346e809b1605"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_char_xor_full",
+						"t": "void (volatile unsigned char *, unsigned char)",
+						"i": "AO_char_xor_full(volatile unsigned char*,unsigned char)",
+						"r": "static void AO_char_xor_full(volatile unsigned char *addr, unsigned char value)",
+						"s": "",
+						"u": "AO_CHAR_XOR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe0445e88a695664d39ea2597a8c9f32b38c5079"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_char_xor_full",
+						"t": "",
+						"i": "AO_HAVE_char_xor_full",
+						"r": "AO_HAVE_char_xor_full",
+						"s": "",
+						"u": "AO_HAVE_CHAR_XOR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f96d667b2eb9ae876da11c5f4fa658a05024b45"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_fetch_and_add_full",
+						"t": "unsigned short (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_fetch_and_add_full(volatile unsigned short*,unsigned short)",
+						"r": "static unsigned short AO_short_fetch_and_add_full(volatile unsigned short *addr, unsigned short incr)",
+						"s": "",
+						"u": "AO_SHORT_FETCH_AND_ADD_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "01d1ae7d676b6cac7f96fdb845887b899898ed9d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_fetch_and_add_full",
+						"t": "",
+						"i": "AO_HAVE_short_fetch_and_add_full",
+						"r": "AO_HAVE_short_fetch_and_add_full",
+						"s": "",
+						"u": "AO_HAVE_SHORT_FETCH_AND_ADD_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a65012d5fc23594581bee33d04f122d8ff0c8963"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_and_full",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_and_full(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_and_full(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_AND_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b3701448cf0648f1ba7bd36e0d0d4afb040e09a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_and_full",
+						"t": "",
+						"i": "AO_HAVE_short_and_full",
+						"r": "AO_HAVE_short_and_full",
+						"s": "",
+						"u": "AO_HAVE_SHORT_AND_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d92fd508e6106c847af11d0f9095106404636b2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_or_full",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_or_full(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_or_full(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_OR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "034842758ced653996d34c33a7a47be00e9fafb3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_or_full",
+						"t": "",
+						"i": "AO_HAVE_short_or_full",
+						"r": "AO_HAVE_short_or_full",
+						"s": "",
+						"u": "AO_HAVE_SHORT_OR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be4a2b5cc123603f0961debb2df079553f8182a3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_short_xor_full",
+						"t": "void (volatile unsigned short *, unsigned short)",
+						"i": "AO_short_xor_full(volatile unsigned short*,unsigned short)",
+						"r": "static void AO_short_xor_full(volatile unsigned short *addr, unsigned short value)",
+						"s": "",
+						"u": "AO_SHORT_XOR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f6ad49b4ff5b6adee037e1b368ebdeb89a7bdc2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_short_xor_full",
+						"t": "",
+						"i": "AO_HAVE_short_xor_full",
+						"r": "AO_HAVE_short_xor_full",
+						"s": "",
+						"u": "AO_HAVE_SHORT_XOR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ac907ad9731d81728e52c971a40176c57d4c681"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_fetch_and_add_full",
+						"t": "unsigned int (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_fetch_and_add_full(volatile unsigned int*,unsigned int)",
+						"r": "static unsigned int AO_int_fetch_and_add_full(volatile unsigned int *addr, unsigned int incr)",
+						"s": "",
+						"u": "AO_INT_FETCH_AND_ADD_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "628702a061237cf95bfbbd86439eab330877cb72"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_fetch_and_add_full",
+						"t": "",
+						"i": "AO_HAVE_int_fetch_and_add_full",
+						"r": "AO_HAVE_int_fetch_and_add_full",
+						"s": "",
+						"u": "AO_HAVE_INT_FETCH_AND_ADD_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81d25c0db6050d22b87e63927d00612d4fd81a11"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_and_full",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_and_full(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_and_full(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_AND_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7dae2c053e3cc79d0d90aa26a7f05b0e928541e1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_and_full",
+						"t": "",
+						"i": "AO_HAVE_int_and_full",
+						"r": "AO_HAVE_int_and_full",
+						"s": "",
+						"u": "AO_HAVE_INT_AND_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eefdf6900763dc8b829e7963ab65086f7211178e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_or_full",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_or_full(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_or_full(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_OR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "59d54a8d0c41c1245bdda0773b5279b8864a5b9e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_or_full",
+						"t": "",
+						"i": "AO_HAVE_int_or_full",
+						"r": "AO_HAVE_int_or_full",
+						"s": "",
+						"u": "AO_HAVE_INT_OR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "929f5fa4270420bc6f37441f1af8ee7c268e28fc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_int_xor_full",
+						"t": "void (volatile unsigned int *, unsigned int)",
+						"i": "AO_int_xor_full(volatile unsigned int*,unsigned int)",
+						"r": "static void AO_int_xor_full(volatile unsigned int *addr, unsigned int value)",
+						"s": "",
+						"u": "AO_INT_XOR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a0bb37c608ceac5a9b5b919d41b8642d7cfbfb50"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_int_xor_full",
+						"t": "",
+						"i": "AO_HAVE_int_xor_full",
+						"r": "AO_HAVE_int_xor_full",
+						"s": "",
+						"u": "AO_HAVE_INT_XOR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "74ef9dceff5ddec6b525141fc207318acfd65612"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_fetch_and_add_full",
+						"t": "size_t (volatile size_t *, size_t)",
+						"i": "AO_fetch_and_add_full(volatile size_t*,size_t)",
+						"r": "static size_t AO_fetch_and_add_full(volatile size_t *addr, size_t incr)",
+						"s": "",
+						"u": "AO_FETCH_AND_ADD_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d09322b79dc81177437778e99b7c0fb225768989"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_fetch_and_add_full",
+						"t": "",
+						"i": "AO_HAVE_fetch_and_add_full",
+						"r": "AO_HAVE_fetch_and_add_full",
+						"s": "",
+						"u": "AO_HAVE_FETCH_AND_ADD_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92e5533d97c94e0ed3623c06702e5352fc62a81e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_and_full",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_and_full(volatile size_t*,size_t)",
+						"r": "static void AO_and_full(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_AND_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "036ec134708787709dacf849c2012a3e3e32f0b3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_and_full",
+						"t": "",
+						"i": "AO_HAVE_and_full",
+						"r": "AO_HAVE_and_full",
+						"s": "",
+						"u": "AO_HAVE_AND_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0a8c0c57f0058bd6187dd60a8f1ccbac811f660f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_or_full",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_or_full(volatile size_t*,size_t)",
+						"r": "static void AO_or_full(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_OR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b6be6e33da7d751d392e0e490c13363c0243863"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_or_full",
+						"t": "",
+						"i": "AO_HAVE_or_full",
+						"r": "AO_HAVE_or_full",
+						"s": "",
+						"u": "AO_HAVE_OR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "828011ab2dd9a270539d811808307d1d7cb7f187"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "AO_xor_full",
+						"t": "void (volatile size_t *, size_t)",
+						"i": "AO_xor_full(volatile size_t*,size_t)",
+						"r": "static void AO_xor_full(volatile size_t *addr, size_t value)",
+						"s": "",
+						"u": "AO_XOR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "012304d0092388a4e3759edfb9710958a2f313f9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "AO_HAVE_xor_full",
+						"t": "",
+						"i": "AO_HAVE_xor_full",
+						"r": "AO_HAVE_xor_full",
+						"s": "",
+						"u": "AO_HAVE_XOR_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dad113f0fa169d8df62c9854558e874c78328b7b"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/ia64.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/hppa.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/alpha.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/s390.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/sparc.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/m68k.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/powerpc.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/aarch64.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/arm.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/cris.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/mips.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/sh.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/avr32.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/e2k.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/hexagon.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/riscv.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "atomic_ops/sysdeps/gcc/tile.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

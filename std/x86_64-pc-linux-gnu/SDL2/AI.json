@@ -1,0 +1,5312 @@
+{
+	"saved_hash": "5ce1a1ff99f67ef91345e0e4c128c72b93199df7",
+	"files": [
+		{
+			"key": "x86_64-pc-linux-gnu/SDL2/SDL_config.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_config_h_",
+						"t": "",
+						"i": "SDL_config_h_",
+						"r": "SDL_config_h_",
+						"s": "",
+						"u": "SDL_CONFIG_H_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36d7a92321da288df524fe9514fd531ce5fabb13"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SIZEOF_VOIDP",
+						"t": "",
+						"i": "SIZEOF_VOIDP",
+						"r": "SIZEOF_VOIDP",
+						"s": "",
+						"u": "SIZEOF_VOIDP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "139fb3e753cc44d0c155f8f70c5e82a2dd783826"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_GCC_ATOMICS",
+						"t": "",
+						"i": "HAVE_GCC_ATOMICS",
+						"r": "HAVE_GCC_ATOMICS",
+						"s": "",
+						"u": "HAVE_GCC_ATOMICS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8ef7efb0f93e5e596393e041ed900dc945533aa6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LIBC",
+						"t": "",
+						"i": "HAVE_LIBC",
+						"r": "HAVE_LIBC",
+						"s": "",
+						"u": "HAVE_LIBC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07ba3758ccf972ec11aad91be8205245d82a1356"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "STDC_HEADERS",
+						"t": "",
+						"i": "STDC_HEADERS",
+						"r": "STDC_HEADERS",
+						"s": "",
+						"u": "STDC_HEADERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c122318a122df321030a1db67b56d42cb115b932"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ALLOCA_H",
+						"t": "",
+						"i": "HAVE_ALLOCA_H",
+						"r": "HAVE_ALLOCA_H",
+						"s": "",
+						"u": "HAVE_ALLOCA_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cbb086a6a497a6245f3dcc5b5ce03940da4adbbb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_CTYPE_H",
+						"t": "",
+						"i": "HAVE_CTYPE_H",
+						"r": "HAVE_CTYPE_H",
+						"s": "",
+						"u": "HAVE_CTYPE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ae6150d3aa4e6d9acbb308ec315802f18acb58fd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FLOAT_H",
+						"t": "",
+						"i": "HAVE_FLOAT_H",
+						"r": "HAVE_FLOAT_H",
+						"s": "",
+						"u": "HAVE_FLOAT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b7dc9b7b32265dd6df335bd8a7a1b7324fe97886"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ICONV_H",
+						"t": "",
+						"i": "HAVE_ICONV_H",
+						"r": "HAVE_ICONV_H",
+						"s": "",
+						"u": "HAVE_ICONV_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6c5a6a5031728ffbc42641e6fec346f45a270a8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_INTTYPES_H",
+						"t": "",
+						"i": "HAVE_INTTYPES_H",
+						"r": "HAVE_INTTYPES_H",
+						"s": "",
+						"u": "HAVE_INTTYPES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c60ed207c7bb2f8d9dfe8f3f9e8bccfb7c1c253d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LIMITS_H",
+						"t": "",
+						"i": "HAVE_LIMITS_H",
+						"r": "HAVE_LIMITS_H",
+						"s": "",
+						"u": "HAVE_LIMITS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94c0bb3a4e8d9602e41393b0bdbea986cfeb2369"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MALLOC_H",
+						"t": "",
+						"i": "HAVE_MALLOC_H",
+						"r": "HAVE_MALLOC_H",
+						"s": "",
+						"u": "HAVE_MALLOC_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e296a664863358d49d9afeddfb4b011f1620c46"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_MATH_H",
+						"t": "",
+						"i": "HAVE_MATH_H",
+						"r": "HAVE_MATH_H",
+						"s": "",
+						"u": "HAVE_MATH_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6a550f7d3fa80f2bfa4e6352292f4dc7ae20d84d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MEMORY_H",
+						"t": "",
+						"i": "HAVE_MEMORY_H",
+						"r": "HAVE_MEMORY_H",
+						"s": "",
+						"u": "HAVE_MEMORY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af7be2b1aba16425688414b08fbe03540c0c9225"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SIGNAL_H",
+						"t": "",
+						"i": "HAVE_SIGNAL_H",
+						"r": "HAVE_SIGNAL_H",
+						"s": "",
+						"u": "HAVE_SIGNAL_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8cda708774e8ad259a6e3a18e69897cee7b8b61e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STDARG_H",
+						"t": "",
+						"i": "HAVE_STDARG_H",
+						"r": "HAVE_STDARG_H",
+						"s": "",
+						"u": "HAVE_STDARG_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7ea17d982682a634061fad70e596d9a86272173c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STDDEF_H",
+						"t": "",
+						"i": "HAVE_STDDEF_H",
+						"r": "HAVE_STDDEF_H",
+						"s": "",
+						"u": "HAVE_STDDEF_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b6ee40dc49e6d35f7ac79914ebf5e2da53463e03"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_STDINT_H",
+						"t": "",
+						"i": "HAVE_STDINT_H",
+						"r": "HAVE_STDINT_H",
+						"s": "",
+						"u": "HAVE_STDINT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2e2861973821e7ea23821c76763750c2d39db915"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STDIO_H",
+						"t": "",
+						"i": "HAVE_STDIO_H",
+						"r": "HAVE_STDIO_H",
+						"s": "",
+						"u": "HAVE_STDIO_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4c3aae7d1eb85a2f70464d76e2f63c2620268b6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STDLIB_H",
+						"t": "",
+						"i": "HAVE_STDLIB_H",
+						"r": "HAVE_STDLIB_H",
+						"s": "",
+						"u": "HAVE_STDLIB_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f303e48e340e761c834e1033e6e28c233a09767"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRINGS_H",
+						"t": "",
+						"i": "HAVE_STRINGS_H",
+						"r": "HAVE_STRINGS_H",
+						"s": "",
+						"u": "HAVE_STRINGS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb6b5ff8c5bac5802f87cec265c97e53110c111d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRING_H",
+						"t": "",
+						"i": "HAVE_STRING_H",
+						"r": "HAVE_STRING_H",
+						"s": "",
+						"u": "HAVE_STRING_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "728e731f4548e5d79bbea9efd3d7366885ffed42"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SYS_TYPES_H",
+						"t": "",
+						"i": "HAVE_SYS_TYPES_H",
+						"r": "HAVE_SYS_TYPES_H",
+						"s": "",
+						"u": "HAVE_SYS_TYPES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ae7847a13c02d68f2ee42a03cb7e1ba997e354ee"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_WCHAR_H",
+						"t": "",
+						"i": "HAVE_WCHAR_H",
+						"r": "HAVE_WCHAR_H",
+						"s": "",
+						"u": "HAVE_WCHAR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04a37c20bfc170dcd8669289f5d6768df1857903"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_LINUX_INPUT_H",
+						"t": "",
+						"i": "HAVE_LINUX_INPUT_H",
+						"r": "HAVE_LINUX_INPUT_H",
+						"s": "",
+						"u": "HAVE_LINUX_INPUT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "01bef7d62edcc21048087cdd8dc6031f36b82bf6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_DLOPEN",
+						"t": "",
+						"i": "HAVE_DLOPEN",
+						"r": "HAVE_DLOPEN",
+						"s": "",
+						"u": "HAVE_DLOPEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0391849fe5fa04d26b662f7ba2a6cbafdce9918e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MALLOC",
+						"t": "",
+						"i": "HAVE_MALLOC",
+						"r": "HAVE_MALLOC",
+						"s": "",
+						"u": "HAVE_MALLOC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7693a058f6a1cc1df34d213d5c791c1aa85dad0f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_CALLOC",
+						"t": "",
+						"i": "HAVE_CALLOC",
+						"r": "HAVE_CALLOC",
+						"s": "",
+						"u": "HAVE_CALLOC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d29dc3f68a917eb315cf93d46cc1698f189f612e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_REALLOC",
+						"t": "",
+						"i": "HAVE_REALLOC",
+						"r": "HAVE_REALLOC",
+						"s": "",
+						"u": "HAVE_REALLOC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "852cdff283ac40f01f5d65e9076f345d3d097515"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FREE",
+						"t": "",
+						"i": "HAVE_FREE",
+						"r": "HAVE_FREE",
+						"s": "",
+						"u": "HAVE_FREE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "314a031d1d7cb45074afa1ae3df87596c2af340e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ALLOCA",
+						"t": "",
+						"i": "HAVE_ALLOCA",
+						"r": "HAVE_ALLOCA",
+						"s": "",
+						"u": "HAVE_ALLOCA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4d926a52b00ca71f552856ae33d3267e8983498"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_GETENV",
+						"t": "",
+						"i": "HAVE_GETENV",
+						"r": "HAVE_GETENV",
+						"s": "",
+						"u": "HAVE_GETENV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b0af05d7066ed306ada9c6bf07458d39ad908ee"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_SETENV",
+						"t": "",
+						"i": "HAVE_SETENV",
+						"r": "HAVE_SETENV",
+						"s": "",
+						"u": "HAVE_SETENV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77e4771db547d9dd98bf9c3ed39fe4151c5d60d5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_PUTENV",
+						"t": "",
+						"i": "HAVE_PUTENV",
+						"r": "HAVE_PUTENV",
+						"s": "",
+						"u": "HAVE_PUTENV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30de222ade679c50c934b834d46d0998806f7557"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_UNSETENV",
+						"t": "",
+						"i": "HAVE_UNSETENV",
+						"r": "HAVE_UNSETENV",
+						"s": "",
+						"u": "HAVE_UNSETENV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a2e40c115d068353b193495360b4707af3b50411"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_QSORT",
+						"t": "",
+						"i": "HAVE_QSORT",
+						"r": "HAVE_QSORT",
+						"s": "",
+						"u": "HAVE_QSORT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab5add54b47c0ec933066a42fc736e890d172fe1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_BSEARCH",
+						"t": "",
+						"i": "HAVE_BSEARCH",
+						"r": "HAVE_BSEARCH",
+						"s": "",
+						"u": "HAVE_BSEARCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fae0daa039f2c37c7216fabf9bbfb5870612741"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ABS",
+						"t": "",
+						"i": "HAVE_ABS",
+						"r": "HAVE_ABS",
+						"s": "",
+						"u": "HAVE_ABS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c72506ce494cf5193571decd67ac3ec601d20352"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_BCOPY",
+						"t": "",
+						"i": "HAVE_BCOPY",
+						"r": "HAVE_BCOPY",
+						"s": "",
+						"u": "HAVE_BCOPY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1286d2288f42118a35113881af6157b2e97753f5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MEMSET",
+						"t": "",
+						"i": "HAVE_MEMSET",
+						"r": "HAVE_MEMSET",
+						"s": "",
+						"u": "HAVE_MEMSET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cde24c1fff844483f283511a485e1f65a621359e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MEMCPY",
+						"t": "",
+						"i": "HAVE_MEMCPY",
+						"r": "HAVE_MEMCPY",
+						"s": "",
+						"u": "HAVE_MEMCPY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed066e05c4742db004b0e9e1a71dcde482f49e99"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MEMMOVE",
+						"t": "",
+						"i": "HAVE_MEMMOVE",
+						"r": "HAVE_MEMMOVE",
+						"s": "",
+						"u": "HAVE_MEMMOVE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3aab10c3fe7535134e631b3dadad02a1e914abce"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MEMCMP",
+						"t": "",
+						"i": "HAVE_MEMCMP",
+						"r": "HAVE_MEMCMP",
+						"s": "",
+						"u": "HAVE_MEMCMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b3fd50038a3d37a9080ccc8719703b2ec94e98e6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_WCSLEN",
+						"t": "",
+						"i": "HAVE_WCSLEN",
+						"r": "HAVE_WCSLEN",
+						"s": "",
+						"u": "HAVE_WCSLEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "345c35f33b271bfbc9795fdb7d0fdda284622fe7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_WCSLCPY",
+						"t": "",
+						"i": "HAVE_WCSLCPY",
+						"r": "HAVE_WCSLCPY",
+						"s": "",
+						"u": "HAVE_WCSLCPY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d1cb92fe7c1a431df0537d48df5766cbb6272e3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_WCSLCAT",
+						"t": "",
+						"i": "HAVE_WCSLCAT",
+						"r": "HAVE_WCSLCAT",
+						"s": "",
+						"u": "HAVE_WCSLCAT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a79d8066a6d24d04dc60b99680b454b369d9b9e1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_WCSDUP",
+						"t": "",
+						"i": "HAVE_WCSDUP",
+						"r": "HAVE_WCSDUP",
+						"s": "",
+						"u": "HAVE_WCSDUP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e70a29d1a7ea58672bd15717e7ccfab37c969c4a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_WCSSTR",
+						"t": "",
+						"i": "HAVE_WCSSTR",
+						"r": "HAVE_WCSSTR",
+						"s": "",
+						"u": "HAVE_WCSSTR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3010ff60e50c9363a2daa9efb87e85c74e4d2f7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_WCSCMP",
+						"t": "",
+						"i": "HAVE_WCSCMP",
+						"r": "HAVE_WCSCMP",
+						"s": "",
+						"u": "HAVE_WCSCMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f4ea1ae909001accabc2c700df2c84ae7dfffdb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_WCSNCMP",
+						"t": "",
+						"i": "HAVE_WCSNCMP",
+						"r": "HAVE_WCSNCMP",
+						"s": "",
+						"u": "HAVE_WCSNCMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "50939c92f8b8982ee149fc6d7bd60d4763cf8622"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_WCSCASECMP",
+						"t": "",
+						"i": "HAVE_WCSCASECMP",
+						"r": "HAVE_WCSCASECMP",
+						"s": "",
+						"u": "HAVE_WCSCASECMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "66f4338e229c782ec620eabebff038667ff20f20"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_WCSNCASECMP",
+						"t": "",
+						"i": "HAVE_WCSNCASECMP",
+						"r": "HAVE_WCSNCASECMP",
+						"s": "",
+						"u": "HAVE_WCSNCASECMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1dc76233af1fe6445ae753dd5bb019bd3f517529"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRLEN",
+						"t": "",
+						"i": "HAVE_STRLEN",
+						"r": "HAVE_STRLEN",
+						"s": "",
+						"u": "HAVE_STRLEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0dd944b4f48e3886c0d0aecc630883112b1db91e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRLCPY",
+						"t": "",
+						"i": "HAVE_STRLCPY",
+						"r": "HAVE_STRLCPY",
+						"s": "",
+						"u": "HAVE_STRLCPY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1dcd97dbdae36db238162444ab22d59976b22125"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRLCAT",
+						"t": "",
+						"i": "HAVE_STRLCAT",
+						"r": "HAVE_STRLCAT",
+						"s": "",
+						"u": "HAVE_STRLCAT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32dfe76d297b4e22841c46642b665fa75379e86d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_INDEX",
+						"t": "",
+						"i": "HAVE_INDEX",
+						"r": "HAVE_INDEX",
+						"s": "",
+						"u": "HAVE_INDEX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f38b3c2644dd23716bc42d10e1237c523551fd8b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_RINDEX",
+						"t": "",
+						"i": "HAVE_RINDEX",
+						"r": "HAVE_RINDEX",
+						"s": "",
+						"u": "HAVE_RINDEX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10f4fd2fda612cad62df4b70f7fb8be73f2ed36f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRCHR",
+						"t": "",
+						"i": "HAVE_STRCHR",
+						"r": "HAVE_STRCHR",
+						"s": "",
+						"u": "HAVE_STRCHR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46a45ce02af267d8c3feb93f8488f8a0a999db4f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRRCHR",
+						"t": "",
+						"i": "HAVE_STRRCHR",
+						"r": "HAVE_STRRCHR",
+						"s": "",
+						"u": "HAVE_STRRCHR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "25146852fb9badc814b45a57d86f11c7c3d9f614"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_STRSTR",
+						"t": "",
+						"i": "HAVE_STRSTR",
+						"r": "HAVE_STRSTR",
+						"s": "",
+						"u": "HAVE_STRSTR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4040be2feba29cf0846a762defdacee3cf02cf2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRTOK_R",
+						"t": "",
+						"i": "HAVE_STRTOK_R",
+						"r": "HAVE_STRTOK_R",
+						"s": "",
+						"u": "HAVE_STRTOK_R",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b789358d4deae08c780574ad557203272efc23ea"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRTOL",
+						"t": "",
+						"i": "HAVE_STRTOL",
+						"r": "HAVE_STRTOL",
+						"s": "",
+						"u": "HAVE_STRTOL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bc98f2d23de46414d925ba363e1ca5885264c23c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRTOUL",
+						"t": "",
+						"i": "HAVE_STRTOUL",
+						"r": "HAVE_STRTOUL",
+						"s": "",
+						"u": "HAVE_STRTOUL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "00bc6a6ac05472a2153e62878559fb499cb929f3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRTOLL",
+						"t": "",
+						"i": "HAVE_STRTOLL",
+						"r": "HAVE_STRTOLL",
+						"s": "",
+						"u": "HAVE_STRTOLL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "78d7fd5c1384ddc65c3909215a1bea045693d41e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRTOULL",
+						"t": "",
+						"i": "HAVE_STRTOULL",
+						"r": "HAVE_STRTOULL",
+						"s": "",
+						"u": "HAVE_STRTOULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f877435e5e102ac0b16954d5ff1fa2cc6f07b76f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRTOD",
+						"t": "",
+						"i": "HAVE_STRTOD",
+						"r": "HAVE_STRTOD",
+						"s": "",
+						"u": "HAVE_STRTOD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "83d5b8cf8328b50118301ff06553fced4bdab622"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ATOI",
+						"t": "",
+						"i": "HAVE_ATOI",
+						"r": "HAVE_ATOI",
+						"s": "",
+						"u": "HAVE_ATOI",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8b033c5cc9b3aeac215ecb7e1133cbecdbfb021"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ATOF",
+						"t": "",
+						"i": "HAVE_ATOF",
+						"r": "HAVE_ATOF",
+						"s": "",
+						"u": "HAVE_ATOF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "342db987ca62b69bd63c4494ee33b1458af3d42d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRCMP",
+						"t": "",
+						"i": "HAVE_STRCMP",
+						"r": "HAVE_STRCMP",
+						"s": "",
+						"u": "HAVE_STRCMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e578f49b77abf3dd8bd361cc9324ad78a35992b5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRNCMP",
+						"t": "",
+						"i": "HAVE_STRNCMP",
+						"r": "HAVE_STRNCMP",
+						"s": "",
+						"u": "HAVE_STRNCMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e4952a96d4e71b5de3e4cc65e09847ea0c2d135"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRCASECMP",
+						"t": "",
+						"i": "HAVE_STRCASECMP",
+						"r": "HAVE_STRCASECMP",
+						"s": "",
+						"u": "HAVE_STRCASECMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c4691f9d7d256761b177b9244dec7e181ef9069c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_STRNCASECMP",
+						"t": "",
+						"i": "HAVE_STRNCASECMP",
+						"r": "HAVE_STRNCASECMP",
+						"s": "",
+						"u": "HAVE_STRNCASECMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "908b2866304f5df0112330760e3e52de0a96174e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_STRCASESTR",
+						"t": "",
+						"i": "HAVE_STRCASESTR",
+						"r": "HAVE_STRCASESTR",
+						"s": "",
+						"u": "HAVE_STRCASESTR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca26a7c59d8ade002d49f5bd07443f68e7c2c45d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SSCANF",
+						"t": "",
+						"i": "HAVE_SSCANF",
+						"r": "HAVE_SSCANF",
+						"s": "",
+						"u": "HAVE_SSCANF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba7760909759ab3dfd01de37aec82d5ce2f2b0a5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_VSSCANF",
+						"t": "",
+						"i": "HAVE_VSSCANF",
+						"r": "HAVE_VSSCANF",
+						"s": "",
+						"u": "HAVE_VSSCANF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f30cacddcc890e6b84cbd0db0d72aefece91892"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_VSNPRINTF",
+						"t": "",
+						"i": "HAVE_VSNPRINTF",
+						"r": "HAVE_VSNPRINTF",
+						"s": "",
+						"u": "HAVE_VSNPRINTF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c4ee55738f4d999f5f070be5c888b16a77996d4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_M_PI",
+						"t": "",
+						"i": "HAVE_M_PI",
+						"r": "HAVE_M_PI",
+						"s": "",
+						"u": "HAVE_M_PI",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "260a961eedd186ede1b83da155eaf8d178a50798"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ACOS",
+						"t": "",
+						"i": "HAVE_ACOS",
+						"r": "HAVE_ACOS",
+						"s": "",
+						"u": "HAVE_ACOS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bbc9001b0dfe49acc2c97e9d2a9629b3810ef62c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_ACOSF",
+						"t": "",
+						"i": "HAVE_ACOSF",
+						"r": "HAVE_ACOSF",
+						"s": "",
+						"u": "HAVE_ACOSF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02e97f00af8d12b9846bc87c05d18f3de28d20e4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ASIN",
+						"t": "",
+						"i": "HAVE_ASIN",
+						"r": "HAVE_ASIN",
+						"s": "",
+						"u": "HAVE_ASIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c92698daffc590e6dc9a1007ba2dccbe9b0ccfde"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ASINF",
+						"t": "",
+						"i": "HAVE_ASINF",
+						"r": "HAVE_ASINF",
+						"s": "",
+						"u": "HAVE_ASINF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c111852625f987e39f10eb1011872c81f85c53b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ATAN",
+						"t": "",
+						"i": "HAVE_ATAN",
+						"r": "HAVE_ATAN",
+						"s": "",
+						"u": "HAVE_ATAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d9d22b462c388781ee688f68a5afb4c6a3e53f6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ATANF",
+						"t": "",
+						"i": "HAVE_ATANF",
+						"r": "HAVE_ATANF",
+						"s": "",
+						"u": "HAVE_ATANF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "67e0804a2eb9aee3ed36e43528b632de1fbbfdb3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ATAN2",
+						"t": "",
+						"i": "HAVE_ATAN2",
+						"r": "HAVE_ATAN2",
+						"s": "",
+						"u": "HAVE_ATAN2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "278b6ec971e1ae3b964c9db811d9e2308fcff54d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_ATAN2F",
+						"t": "",
+						"i": "HAVE_ATAN2F",
+						"r": "HAVE_ATAN2F",
+						"s": "",
+						"u": "HAVE_ATAN2F",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e474a7b23e05c17dfeb3c35ccd90e6763c000667"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_CEIL",
+						"t": "",
+						"i": "HAVE_CEIL",
+						"r": "HAVE_CEIL",
+						"s": "",
+						"u": "HAVE_CEIL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d48824be46da4a8bc688c00936ebe8e0ee69422"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_CEILF",
+						"t": "",
+						"i": "HAVE_CEILF",
+						"r": "HAVE_CEILF",
+						"s": "",
+						"u": "HAVE_CEILF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2cd450ff511f13a1e9128efcf52a21ee32989cbf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_COPYSIGN",
+						"t": "",
+						"i": "HAVE_COPYSIGN",
+						"r": "HAVE_COPYSIGN",
+						"s": "",
+						"u": "HAVE_COPYSIGN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f059019a85e342edf07137563fb170cb4760ee4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_COPYSIGNF",
+						"t": "",
+						"i": "HAVE_COPYSIGNF",
+						"r": "HAVE_COPYSIGNF",
+						"s": "",
+						"u": "HAVE_COPYSIGNF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14f580455adb2fb13026a899bead534361f847c8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_COS",
+						"t": "",
+						"i": "HAVE_COS",
+						"r": "HAVE_COS",
+						"s": "",
+						"u": "HAVE_COS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe719447a3fe7a24fa2074e34eb873127bdf4133"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_COSF",
+						"t": "",
+						"i": "HAVE_COSF",
+						"r": "HAVE_COSF",
+						"s": "",
+						"u": "HAVE_COSF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46dc07bfdac88f9f03cde8d609b5f1688fac551f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_EXP",
+						"t": "",
+						"i": "HAVE_EXP",
+						"r": "HAVE_EXP",
+						"s": "",
+						"u": "HAVE_EXP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3b412ae25d776a26148c8c0d28c89ef2957f477"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_EXPF",
+						"t": "",
+						"i": "HAVE_EXPF",
+						"r": "HAVE_EXPF",
+						"s": "",
+						"u": "HAVE_EXPF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8a3a2a2e199c316d3640d39be03ad9e2487c798"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FABS",
+						"t": "",
+						"i": "HAVE_FABS",
+						"r": "HAVE_FABS",
+						"s": "",
+						"u": "HAVE_FABS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40b8d76dd616abe92e487174517f522ccf6ec7f9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FABSF",
+						"t": "",
+						"i": "HAVE_FABSF",
+						"r": "HAVE_FABSF",
+						"s": "",
+						"u": "HAVE_FABSF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ecea36fe01cefed281fab5a08ba828a4542baa6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FLOOR",
+						"t": "",
+						"i": "HAVE_FLOOR",
+						"r": "HAVE_FLOOR",
+						"s": "",
+						"u": "HAVE_FLOOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e37c35f3c7c7270fd7f58bb8b3330f22e6cc144b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FLOORF",
+						"t": "",
+						"i": "HAVE_FLOORF",
+						"r": "HAVE_FLOORF",
+						"s": "",
+						"u": "HAVE_FLOORF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e314cfdad4322f790475cf148ceb379d73b9a06"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FMOD",
+						"t": "",
+						"i": "HAVE_FMOD",
+						"r": "HAVE_FMOD",
+						"s": "",
+						"u": "HAVE_FMOD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "297f6781e7618a0a27d5f425067834cad03f4ffb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FMODF",
+						"t": "",
+						"i": "HAVE_FMODF",
+						"r": "HAVE_FMODF",
+						"s": "",
+						"u": "HAVE_FMODF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22e7a3fb23a5ea9a27edf0584f3bab410e9cda2a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LOG",
+						"t": "",
+						"i": "HAVE_LOG",
+						"r": "HAVE_LOG",
+						"s": "",
+						"u": "HAVE_LOG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6948725cc5acbc08ee324e016284f9f333b74ebf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LOGF",
+						"t": "",
+						"i": "HAVE_LOGF",
+						"r": "HAVE_LOGF",
+						"s": "",
+						"u": "HAVE_LOGF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c0e11f9eb5794b30fb3a875920c51deaf41e531c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LOG10",
+						"t": "",
+						"i": "HAVE_LOG10",
+						"r": "HAVE_LOG10",
+						"s": "",
+						"u": "HAVE_LOG10",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61ff23a08a9a7a1f378a68133fc834665fca3bbe"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LOG10F",
+						"t": "",
+						"i": "HAVE_LOG10F",
+						"r": "HAVE_LOG10F",
+						"s": "",
+						"u": "HAVE_LOG10F",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b9c5ec9bc73ebc9999bdb2f3ade24ef975b2454"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LROUND",
+						"t": "",
+						"i": "HAVE_LROUND",
+						"r": "HAVE_LROUND",
+						"s": "",
+						"u": "HAVE_LROUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abcb2197ef363f7f111f2b64d4cdbabebe9ca7dd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LROUNDF",
+						"t": "",
+						"i": "HAVE_LROUNDF",
+						"r": "HAVE_LROUNDF",
+						"s": "",
+						"u": "HAVE_LROUNDF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7844242146ccb1caa3b3b6ab04db3575b4f96d06"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_POW",
+						"t": "",
+						"i": "HAVE_POW",
+						"r": "HAVE_POW",
+						"s": "",
+						"u": "HAVE_POW",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b468ab2b67f41d259c7a634a41fa16a3426697f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_POWF",
+						"t": "",
+						"i": "HAVE_POWF",
+						"r": "HAVE_POWF",
+						"s": "",
+						"u": "HAVE_POWF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abfec8b81e733e5e132a993ef8aeace14d73a133"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ROUND",
+						"t": "",
+						"i": "HAVE_ROUND",
+						"r": "HAVE_ROUND",
+						"s": "",
+						"u": "HAVE_ROUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cdcd16150d5436066672676ce1de1cb575464a83"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ROUNDF",
+						"t": "",
+						"i": "HAVE_ROUNDF",
+						"r": "HAVE_ROUNDF",
+						"s": "",
+						"u": "HAVE_ROUNDF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0edd812b0c7127f3b11ae32aa39d78527a97898a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SCALBN",
+						"t": "",
+						"i": "HAVE_SCALBN",
+						"r": "HAVE_SCALBN",
+						"s": "",
+						"u": "HAVE_SCALBN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2196fa4239718309344736cae44c71de4bd3de16"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SCALBNF",
+						"t": "",
+						"i": "HAVE_SCALBNF",
+						"r": "HAVE_SCALBNF",
+						"s": "",
+						"u": "HAVE_SCALBNF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c5dc11feaf592f97f6e944ff92a959bf26978f81"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SIN",
+						"t": "",
+						"i": "HAVE_SIN",
+						"r": "HAVE_SIN",
+						"s": "",
+						"u": "HAVE_SIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a776edae873ee9736e29c05f0823dcb4342f2129"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SINF",
+						"t": "",
+						"i": "HAVE_SINF",
+						"r": "HAVE_SINF",
+						"s": "",
+						"u": "HAVE_SINF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71ef66e779d761508b4d951a79eb4d59a8ae0923"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SQRT",
+						"t": "",
+						"i": "HAVE_SQRT",
+						"r": "HAVE_SQRT",
+						"s": "",
+						"u": "HAVE_SQRT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d9728af3b1f3ab59ebb5fae4c1e6075aa2aa55d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SQRTF",
+						"t": "",
+						"i": "HAVE_SQRTF",
+						"r": "HAVE_SQRTF",
+						"s": "",
+						"u": "HAVE_SQRTF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bbaa2dbc8b325d91b489708f5a4178bec000db07"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_TAN",
+						"t": "",
+						"i": "HAVE_TAN",
+						"r": "HAVE_TAN",
+						"s": "",
+						"u": "HAVE_TAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "38820b16768fd727de40290d71c564a3bb356ccb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_TANF",
+						"t": "",
+						"i": "HAVE_TANF",
+						"r": "HAVE_TANF",
+						"s": "",
+						"u": "HAVE_TANF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b5e5d30340f7c2d1465dd19b35c43dd3e777d224"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_TRUNC",
+						"t": "",
+						"i": "HAVE_TRUNC",
+						"r": "HAVE_TRUNC",
+						"s": "",
+						"u": "HAVE_TRUNC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d13a41173da8a314f64a0bbd707085681ad3de5d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_TRUNCF",
+						"t": "",
+						"i": "HAVE_TRUNCF",
+						"r": "HAVE_TRUNCF",
+						"s": "",
+						"u": "HAVE_TRUNCF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "299af99d1aef2587cefb01c8a2f1a40dedf289d1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FOPEN64",
+						"t": "",
+						"i": "HAVE_FOPEN64",
+						"r": "HAVE_FOPEN64",
+						"s": "",
+						"u": "HAVE_FOPEN64",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f50d9d84ffd6728593133ae14309b5bbe2ee8039"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FSEEKO",
+						"t": "",
+						"i": "HAVE_FSEEKO",
+						"r": "HAVE_FSEEKO",
+						"s": "",
+						"u": "HAVE_FSEEKO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf663f5c9efdb0926fb354b927f2da4bd7407c49"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_FSEEKO64",
+						"t": "",
+						"i": "HAVE_FSEEKO64",
+						"r": "HAVE_FSEEKO64",
+						"s": "",
+						"u": "HAVE_FSEEKO64",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7ca828698f499a5c019307f5a415ddecfaeb3512"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MEMFD_CREATE",
+						"t": "",
+						"i": "HAVE_MEMFD_CREATE",
+						"r": "HAVE_MEMFD_CREATE",
+						"s": "",
+						"u": "HAVE_MEMFD_CREATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c8b0a4d8ef5a26390b1abb3d819981aa4be2bbf6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_POSIX_FALLOCATE",
+						"t": "",
+						"i": "HAVE_POSIX_FALLOCATE",
+						"r": "HAVE_POSIX_FALLOCATE",
+						"s": "",
+						"u": "HAVE_POSIX_FALLOCATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "398ee3b98b4e5c8457a3ca437133c777c37a843c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SIGACTION",
+						"t": "",
+						"i": "HAVE_SIGACTION",
+						"r": "HAVE_SIGACTION",
+						"s": "",
+						"u": "HAVE_SIGACTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ebef8894cc6accbdd75bc1870787142161204ba9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SA_SIGACTION",
+						"t": "",
+						"i": "HAVE_SA_SIGACTION",
+						"r": "HAVE_SA_SIGACTION",
+						"s": "",
+						"u": "HAVE_SA_SIGACTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27fd4009214e02ef0027731a05fea80af36f9250"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SETJMP",
+						"t": "",
+						"i": "HAVE_SETJMP",
+						"r": "HAVE_SETJMP",
+						"s": "",
+						"u": "HAVE_SETJMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe1e16fba2375d7d219ef6c0712360eb4ccdc768"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_NANOSLEEP",
+						"t": "",
+						"i": "HAVE_NANOSLEEP",
+						"r": "HAVE_NANOSLEEP",
+						"s": "",
+						"u": "HAVE_NANOSLEEP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fbbc05614cdd65b272f9724b2bfb4b1b2f5b01e9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SYSCONF",
+						"t": "",
+						"i": "HAVE_SYSCONF",
+						"r": "HAVE_SYSCONF",
+						"s": "",
+						"u": "HAVE_SYSCONF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c0d3fb1e350240564eff7d40b3a2e718b30e9ae0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_CLOCK_GETTIME",
+						"t": "",
+						"i": "HAVE_CLOCK_GETTIME",
+						"r": "HAVE_CLOCK_GETTIME",
+						"s": "",
+						"u": "HAVE_CLOCK_GETTIME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "efea1f907c915332013e909f5dfecefcbd7088c0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_MPROTECT",
+						"t": "",
+						"i": "HAVE_MPROTECT",
+						"r": "HAVE_MPROTECT",
+						"s": "",
+						"u": "HAVE_MPROTECT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29c35ae53e0c51afa4bcb19b8d794d8342237da8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_ICONV",
+						"t": "",
+						"i": "HAVE_ICONV",
+						"r": "HAVE_ICONV",
+						"s": "",
+						"u": "HAVE_ICONV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8e08820f9db5bc748f9245a1168796c044be5d5d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_PTHREAD_SETNAME_NP",
+						"t": "",
+						"i": "HAVE_PTHREAD_SETNAME_NP",
+						"r": "HAVE_PTHREAD_SETNAME_NP",
+						"s": "",
+						"u": "HAVE_PTHREAD_SETNAME_NP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0da6f2a300eefa7bfb2b0b5aeb064cf6167b95b5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SEM_TIMEDWAIT",
+						"t": "",
+						"i": "HAVE_SEM_TIMEDWAIT",
+						"r": "HAVE_SEM_TIMEDWAIT",
+						"s": "",
+						"u": "HAVE_SEM_TIMEDWAIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8f8678d8d5bb3135dc53e04097bca038d773df95"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "HAVE_GETAUXVAL",
+						"t": "",
+						"i": "HAVE_GETAUXVAL",
+						"r": "HAVE_GETAUXVAL",
+						"s": "",
+						"u": "HAVE_GETAUXVAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a6246e2a957ad4f386ee9582c95d75e29d8171c3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_POLL",
+						"t": "",
+						"i": "HAVE_POLL",
+						"r": "HAVE_POLL",
+						"s": "",
+						"u": "HAVE_POLL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b1706659e910df8081eb34fbb86624def061dc30"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE__EXIT",
+						"t": "",
+						"i": "HAVE__EXIT",
+						"r": "HAVE__EXIT",
+						"s": "",
+						"u": "HAVE__EXIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7b02e9da467220c809182ac9e992eba73ad00ea"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_DBUS_DBUS_H",
+						"t": "",
+						"i": "HAVE_DBUS_DBUS_H",
+						"r": "HAVE_DBUS_DBUS_H",
+						"s": "",
+						"u": "HAVE_DBUS_DBUS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "11aff092c4c60a8c302d0be70dd1c832676b8dab"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_FCITX",
+						"t": "",
+						"i": "HAVE_FCITX",
+						"r": "HAVE_FCITX",
+						"s": "",
+						"u": "HAVE_FCITX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9e94abb4940b156147e845ba9bdd87239a38ad8b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_SYS_INOTIFY_H",
+						"t": "",
+						"i": "HAVE_SYS_INOTIFY_H",
+						"r": "HAVE_SYS_INOTIFY_H",
+						"s": "",
+						"u": "HAVE_SYS_INOTIFY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "67c7fa8344a07f2eb3f953a23b831c925fdb3bac"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_INOTIFY_INIT",
+						"t": "",
+						"i": "HAVE_INOTIFY_INIT",
+						"r": "HAVE_INOTIFY_INIT",
+						"s": "",
+						"u": "HAVE_INOTIFY_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7f8d0508418dc34f0e3984dd1b2ea3707416a787"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_INOTIFY_INIT1",
+						"t": "",
+						"i": "HAVE_INOTIFY_INIT1",
+						"r": "HAVE_INOTIFY_INIT1",
+						"s": "",
+						"u": "HAVE_INOTIFY_INIT1",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "720d89874ac23737951de91fe09fe6a95ba6f633"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_INOTIFY",
+						"t": "",
+						"i": "HAVE_INOTIFY",
+						"r": "HAVE_INOTIFY",
+						"s": "",
+						"u": "HAVE_INOTIFY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca7a2ed205125b2dffc4373c0595d79ab6568b70"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_O_CLOEXEC",
+						"t": "",
+						"i": "HAVE_O_CLOEXEC",
+						"r": "HAVE_O_CLOEXEC",
+						"s": "",
+						"u": "HAVE_O_CLOEXEC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f244c7f03e1b6f77be6c74e65646411a806d162"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_IMMINTRIN_H",
+						"t": "",
+						"i": "HAVE_IMMINTRIN_H",
+						"r": "HAVE_IMMINTRIN_H",
+						"s": "",
+						"u": "HAVE_IMMINTRIN_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1f4c195242e735fb8bf9065b9ffa3e7562166d2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LIBUDEV_H",
+						"t": "",
+						"i": "HAVE_LIBUDEV_H",
+						"r": "HAVE_LIBUDEV_H",
+						"s": "",
+						"u": "HAVE_LIBUDEV_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "548031effa5f60caec824e51ec10802b9c224694"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LIBSAMPLERATE_H",
+						"t": "",
+						"i": "HAVE_LIBSAMPLERATE_H",
+						"r": "HAVE_LIBSAMPLERATE_H",
+						"s": "",
+						"u": "HAVE_LIBSAMPLERATE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca6ba784eb11ab0ea1cf6dc2e8bc5b6ea0b91086"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HAVE_LIBDECOR_H",
+						"t": "",
+						"i": "HAVE_LIBDECOR_H",
+						"r": "HAVE_LIBDECOR_H",
+						"s": "",
+						"u": "HAVE_LIBDECOR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0448b84b5990058f37ff630b850919c987f73185"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_AUDIO_DRIVER_ALSA",
+						"t": "",
+						"i": "SDL_AUDIO_DRIVER_ALSA",
+						"r": "SDL_AUDIO_DRIVER_ALSA",
+						"s": "",
+						"u": "SDL_AUDIO_DRIVER_ALSA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6650d128369a02b1043724f53ee61e4366c71903"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_AUDIO_DRIVER_DISK",
+						"t": "",
+						"i": "SDL_AUDIO_DRIVER_DISK",
+						"r": "SDL_AUDIO_DRIVER_DISK",
+						"s": "",
+						"u": "SDL_AUDIO_DRIVER_DISK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f90c0a86d0a07473a7c18f521295d90275dc03ed"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "SDL_AUDIO_DRIVER_DUMMY",
+						"t": "",
+						"i": "SDL_AUDIO_DRIVER_DUMMY",
+						"r": "SDL_AUDIO_DRIVER_DUMMY",
+						"s": "",
+						"u": "SDL_AUDIO_DRIVER_DUMMY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2da00f885994df7f9782289b2b84bab4ed5dcb45"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_AUDIO_DRIVER_JACK",
+						"t": "",
+						"i": "SDL_AUDIO_DRIVER_JACK",
+						"r": "SDL_AUDIO_DRIVER_JACK",
+						"s": "",
+						"u": "SDL_AUDIO_DRIVER_JACK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "11f70b8e996387299b625ed4f16952e6c8374850"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_AUDIO_DRIVER_PULSEAUDIO",
+						"t": "",
+						"i": "SDL_AUDIO_DRIVER_PULSEAUDIO",
+						"r": "SDL_AUDIO_DRIVER_PULSEAUDIO",
+						"s": "",
+						"u": "SDL_AUDIO_DRIVER_PULSEAUDIO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "adba067d8dff36d65a50b265f104d1527ba7eb63"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_INPUT_LINUXEV",
+						"t": "",
+						"i": "SDL_INPUT_LINUXEV",
+						"r": "SDL_INPUT_LINUXEV",
+						"s": "",
+						"u": "SDL_INPUT_LINUXEV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1797a1230751f3da12101d1e079684560067ca5e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_INPUT_LINUXKD",
+						"t": "",
+						"i": "SDL_INPUT_LINUXKD",
+						"r": "SDL_INPUT_LINUXKD",
+						"s": "",
+						"u": "SDL_INPUT_LINUXKD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0483e7b6fa8a79df94ca99fc3043969b1a4ed67"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_JOYSTICK_LINUX",
+						"t": "",
+						"i": "SDL_JOYSTICK_LINUX",
+						"r": "SDL_JOYSTICK_LINUX",
+						"s": "",
+						"u": "SDL_JOYSTICK_LINUX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "626592e1bb62ab188e2c76f9398c33c3ffc4c5d3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_JOYSTICK_HIDAPI",
+						"t": "",
+						"i": "SDL_JOYSTICK_HIDAPI",
+						"r": "SDL_JOYSTICK_HIDAPI",
+						"s": "",
+						"u": "SDL_JOYSTICK_HIDAPI",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ebe7d536238d71a7a1c5a82ab267b34606dd6c3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_JOYSTICK_VIRTUAL",
+						"t": "",
+						"i": "SDL_JOYSTICK_VIRTUAL",
+						"r": "SDL_JOYSTICK_VIRTUAL",
+						"s": "",
+						"u": "SDL_JOYSTICK_VIRTUAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "67d8bd690d7b0120f58e9ba0a18486e1638e1d62"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_HAPTIC_LINUX",
+						"t": "",
+						"i": "SDL_HAPTIC_LINUX",
+						"r": "SDL_HAPTIC_LINUX",
+						"s": "",
+						"u": "SDL_HAPTIC_LINUX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e1c030dbf44d6b39828bb3998ab457dd55091748"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_UDEV_DYNAMIC",
+						"t": "",
+						"i": "SDL_UDEV_DYNAMIC",
+						"r": "SDL_UDEV_DYNAMIC",
+						"s": "",
+						"u": "SDL_UDEV_DYNAMIC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "daf69885385fb7513b2cb9f9763446854cf41ab4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_SENSOR_DUMMY",
+						"t": "",
+						"i": "SDL_SENSOR_DUMMY",
+						"r": "SDL_SENSOR_DUMMY",
+						"s": "",
+						"u": "SDL_SENSOR_DUMMY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3003ccdbe2024ceb9f1123e27a2833c15d93054e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_LOADSO_DLOPEN",
+						"t": "",
+						"i": "SDL_LOADSO_DLOPEN",
+						"r": "SDL_LOADSO_DLOPEN",
+						"s": "",
+						"u": "SDL_LOADSO_DLOPEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c7b20222fcf67ea48c130e4c2c3754c802624a86"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_THREAD_PTHREAD",
+						"t": "",
+						"i": "SDL_THREAD_PTHREAD",
+						"r": "SDL_THREAD_PTHREAD",
+						"s": "",
+						"u": "SDL_THREAD_PTHREAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d0d1bbd13ebe5df8fe0afde02cc54ba42228682"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_THREAD_PTHREAD_RECURSIVE_MUTEX",
+						"t": "",
+						"i": "SDL_THREAD_PTHREAD_RECURSIVE_MUTEX",
+						"r": "SDL_THREAD_PTHREAD_RECURSIVE_MUTEX",
+						"s": "",
+						"u": "SDL_THREAD_PTHREAD_RECURSIVE_MUTEX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13e795a2d29cf127d85695a08a2f613481ef3374"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_TIMER_UNIX",
+						"t": "",
+						"i": "SDL_TIMER_UNIX",
+						"r": "SDL_TIMER_UNIX",
+						"s": "",
+						"u": "SDL_TIMER_UNIX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d661635385859ad676f05c98c5c2840966ce774c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_DUMMY",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_DUMMY",
+						"r": "SDL_VIDEO_DRIVER_DUMMY",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_DUMMY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a622958eb9c141dfc9ee820c21b8d1fa4269445"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_OFFSCREEN",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_OFFSCREEN",
+						"r": "SDL_VIDEO_DRIVER_OFFSCREEN",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_OFFSCREEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7afe83110b1d540ace29491a71c981f716ef47db"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_WAYLAND",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_WAYLAND",
+						"r": "SDL_VIDEO_DRIVER_WAYLAND",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_WAYLAND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1831410bcf9ad2c8275c81f03a1d4cae7a16dd9d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_WAYLAND_QT_TOUCH",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_WAYLAND_QT_TOUCH",
+						"r": "SDL_VIDEO_DRIVER_WAYLAND_QT_TOUCH",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_WAYLAND_QT_TOUCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "06f88079bb880fd1168cc98dd98b34394776ac75"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11",
+						"r": "SDL_VIDEO_DRIVER_X11",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f55a0d790c68b138e27362c91fa1a4b1053d0372"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_XCURSOR",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_XCURSOR",
+						"r": "SDL_VIDEO_DRIVER_X11_XCURSOR",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_XCURSOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0f784cff30b9cea8d29b63dee350bceb583e21c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_XDBE",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_XDBE",
+						"r": "SDL_VIDEO_DRIVER_X11_XDBE",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_XDBE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9964998380d4f936979b9c9d614f419868ccbdcc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_XINPUT2",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_XINPUT2",
+						"r": "SDL_VIDEO_DRIVER_X11_XINPUT2",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_XINPUT2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "886527882c226da877db7878078a88a234cb4300"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_XINPUT2_SUPPORTS_MULTITOUCH",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_XINPUT2_SUPPORTS_MULTITOUCH",
+						"r": "SDL_VIDEO_DRIVER_X11_XINPUT2_SUPPORTS_MULTITOUCH",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_XINPUT2_SUPPORTS_MULTITOUCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c394df81452f5b6a083354e9a1c4f6f73935a27a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_XFIXES",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_XFIXES",
+						"r": "SDL_VIDEO_DRIVER_X11_XFIXES",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_XFIXES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5db6fee64d31dcb9dd32db38027e870c164f290b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_XRANDR",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_XRANDR",
+						"r": "SDL_VIDEO_DRIVER_X11_XRANDR",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_XRANDR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82add6a50492a0e56b45373b1b1bd4ea64e5cabd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_XSHAPE",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_XSHAPE",
+						"r": "SDL_VIDEO_DRIVER_X11_XSHAPE",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_XSHAPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a5169761335a36a7adb0521a1dd80d1846747cff"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_SUPPORTS_GENERIC_EVENTS",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_SUPPORTS_GENERIC_EVENTS",
+						"r": "SDL_VIDEO_DRIVER_X11_SUPPORTS_GENERIC_EVENTS",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_SUPPORTS_GENERIC_EVENTS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f8152269daa41f1f18548446dde9d7b262f99f0d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_DRIVER_X11_HAS_XKBKEYCODETOKEYSYM",
+						"t": "",
+						"i": "SDL_VIDEO_DRIVER_X11_HAS_XKBKEYCODETOKEYSYM",
+						"r": "SDL_VIDEO_DRIVER_X11_HAS_XKBKEYCODETOKEYSYM",
+						"s": "",
+						"u": "SDL_VIDEO_DRIVER_X11_HAS_XKBKEYCODETOKEYSYM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "449f6cc6ffdf3e8c499321641474e152dec4db15"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_RENDER_OGL",
+						"t": "",
+						"i": "SDL_VIDEO_RENDER_OGL",
+						"r": "SDL_VIDEO_RENDER_OGL",
+						"s": "",
+						"u": "SDL_VIDEO_RENDER_OGL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7dd0519128fcb440262cfaf64a2e9521d1bf8d3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_RENDER_OGL_ES",
+						"t": "",
+						"i": "SDL_VIDEO_RENDER_OGL_ES",
+						"r": "SDL_VIDEO_RENDER_OGL_ES",
+						"s": "",
+						"u": "SDL_VIDEO_RENDER_OGL_ES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5403b3345a48ea7d9c4aeaf7da8f28f221d5c49d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_RENDER_OGL_ES2",
+						"t": "",
+						"i": "SDL_VIDEO_RENDER_OGL_ES2",
+						"r": "SDL_VIDEO_RENDER_OGL_ES2",
+						"s": "",
+						"u": "SDL_VIDEO_RENDER_OGL_ES2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7beaa6a063ba1ae2c17c772a56e8211330ddc613"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "SDL_VIDEO_OPENGL",
+						"t": "",
+						"i": "SDL_VIDEO_OPENGL",
+						"r": "SDL_VIDEO_OPENGL",
+						"s": "",
+						"u": "SDL_VIDEO_OPENGL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "104f0d74031d976d57f1be0f044dfc2ca5556fb3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_OPENGL_ES",
+						"t": "",
+						"i": "SDL_VIDEO_OPENGL_ES",
+						"r": "SDL_VIDEO_OPENGL_ES",
+						"s": "",
+						"u": "SDL_VIDEO_OPENGL_ES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b1e451862777a9669333a1314eebd5fe79682701"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "SDL_VIDEO_OPENGL_ES2",
+						"t": "",
+						"i": "SDL_VIDEO_OPENGL_ES2",
+						"r": "SDL_VIDEO_OPENGL_ES2",
+						"s": "",
+						"u": "SDL_VIDEO_OPENGL_ES2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "65dae253e8c13fdbb353186dc13959f91a1408ee"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_OPENGL_GLX",
+						"t": "",
+						"i": "SDL_VIDEO_OPENGL_GLX",
+						"r": "SDL_VIDEO_OPENGL_GLX",
+						"s": "",
+						"u": "SDL_VIDEO_OPENGL_GLX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e8f6e84f8961e3875d6ea41e2f5d40bae8c8b64"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_VIDEO_OPENGL_EGL",
+						"t": "",
+						"i": "SDL_VIDEO_OPENGL_EGL",
+						"r": "SDL_VIDEO_OPENGL_EGL",
+						"s": "",
+						"u": "SDL_VIDEO_OPENGL_EGL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c2ba5084682bfc057284516b0380aeee80c9f607"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "SDL_POWER_LINUX",
+						"t": "",
+						"i": "SDL_POWER_LINUX",
+						"r": "SDL_POWER_LINUX",
+						"s": "",
+						"u": "SDL_POWER_LINUX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e61016ed85cef8bdf45f4e10dec93c5a8d4de483"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_FILESYSTEM_UNIX",
+						"t": "",
+						"i": "SDL_FILESYSTEM_UNIX",
+						"r": "SDL_FILESYSTEM_UNIX",
+						"s": "",
+						"u": "SDL_FILESYSTEM_UNIX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c28bc75cdc8e2b419e52b243839c52b90012470"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DYNAPI_NEEDS_DLOPEN",
+						"t": "",
+						"i": "DYNAPI_NEEDS_DLOPEN",
+						"r": "DYNAPI_NEEDS_DLOPEN",
+						"s": "",
+						"u": "DYNAPI_NEEDS_DLOPEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0bf5fe266ceed1fc710161f5c80159cc8d5d9ecb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_USE_IME",
+						"t": "",
+						"i": "SDL_USE_IME",
+						"r": "SDL_USE_IME",
+						"s": "",
+						"u": "SDL_USE_IME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ce2dcfb23a7fb56025effb8b737a1c458cee29f6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_HAVE_LIBDECOR_GET_MIN_MAX",
+						"t": "",
+						"i": "SDL_HAVE_LIBDECOR_GET_MIN_MAX",
+						"r": "SDL_HAVE_LIBDECOR_GET_MIN_MAX",
+						"s": "",
+						"u": "SDL_HAVE_LIBDECOR_GET_MIN_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a27d728394bb7b6b5a5a584fdf63002e42f8b126"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "x86_64-pc-linux-gnu/SDL2/SDL_platform.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_platform_h_",
+						"t": "",
+						"i": "SDL_platform_h_",
+						"r": "SDL_platform_h_",
+						"s": "",
+						"u": "SDL_PLATFORM_H_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f99f948af2ca500c05db8987ae124ae2797f67dc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__LINUX__",
+						"t": "",
+						"i": "__LINUX__",
+						"r": "__LINUX__",
+						"s": "",
+						"u": "__LINUX__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b0e721fa6d50a98b494c8ca87d5b3f6892555b3"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "x86_64-pc-linux-gnu/SDL2/begin_code.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_begin_code_h",
+						"t": "",
+						"i": "SDL_begin_code_h",
+						"r": "SDL_begin_code_h",
+						"s": "",
+						"u": "SDL_BEGIN_CODE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "968df468f7771b26215ecb7b49369db6d241aa48"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_DEPRECATED",
+						"t": "",
+						"i": "SDL_DEPRECATED",
+						"r": "SDL_DEPRECATED",
+						"s": "",
+						"u": "SDL_DEPRECATED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41163217ebd3e8e2ba6f8616e10ff16764446cee"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_UNUSED",
+						"t": "",
+						"i": "SDL_UNUSED",
+						"r": "SDL_UNUSED",
+						"s": "",
+						"u": "SDL_UNUSED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e679fcc38586c000560a7588d6f7e81e0432e4ef"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DECLSPEC",
+						"t": "",
+						"i": "DECLSPEC",
+						"r": "DECLSPEC",
+						"s": "",
+						"u": "DECLSPEC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8e53a456fb0574fdc36c173ad70bfee4fa7a5bf2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDLCALL",
+						"t": "",
+						"i": "SDLCALL",
+						"r": "SDLCALL",
+						"s": "",
+						"u": "SDLCALL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fb5c08a768b82819de2c36bfd81048c5a928ef3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_INLINE",
+						"t": "",
+						"i": "SDL_INLINE",
+						"r": "SDL_INLINE",
+						"s": "",
+						"u": "SDL_INLINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13e02c78c1a2a42449a47b76947910e658bda432"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_FORCE_INLINE",
+						"t": "",
+						"i": "SDL_FORCE_INLINE",
+						"r": "SDL_FORCE_INLINE",
+						"s": "",
+						"u": "SDL_FORCE_INLINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "44c8684df003ebaede40e8a2b1a672bf683695c8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_NORETURN",
+						"t": "",
+						"i": "SDL_NORETURN",
+						"r": "SDL_NORETURN",
+						"s": "",
+						"u": "SDL_NORETURN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "007cccda6c7425ac152ac3bb9b870ab01019fe1a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SDL_FALLTHROUGH",
+						"t": "",
+						"i": "SDL_FALLTHROUGH",
+						"r": "SDL_FALLTHROUGH",
+						"s": "",
+						"u": "SDL_FALLTHROUGH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32431ffbfcb84fcea4efe84f85f4e40ee3fd48a3"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "x86_64-pc-linux-gnu/SDL2/close_code.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

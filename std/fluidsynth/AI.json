@@ -1,0 +1,9536 @@
+{
+	"saved_hash": "8b832ed08b101a8d9081d2110fc4270968431632",
+	"files": [
+		{
+			"key": "fluidsynth/types.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_TYPES_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_TYPES_H",
+						"r": "_FLUIDSYNTH_TYPES_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_TYPES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a7fcf0529cc7dc99df5a8081e5fbd0ba91d8966e"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_hashtable_t",
+						"t": "_fluid_hashtable_t",
+						"i": "_fluid_hashtable_t",
+						"r": "_fluid_hashtable_t",
+						"s": "",
+						"u": "_FLUID_HASHTABLE_T",
+						"q": "_fluid_hashtable_t",
+						"w": "_FLUID_HASHTABLE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "449da93379a6f69774b63623f9e60d025e0e9039"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_settings_t",
+						"t": "fluid_settings_t",
+						"i": "fluid_settings_t",
+						"r": "typedef _fluid_hashtable_t fluid_settings_t",
+						"s": "",
+						"u": "FLUID_SETTINGS_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_hashtable_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9ad5b46e0d2b81ee76db841fba42d75f2e58a12f"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_synth_t",
+						"t": "_fluid_synth_t",
+						"i": "_fluid_synth_t",
+						"r": "_fluid_synth_t",
+						"s": "",
+						"u": "_FLUID_SYNTH_T",
+						"q": "_fluid_synth_t",
+						"w": "_FLUID_SYNTH_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb61bc07d2a528c667e9b1528258e246e927988a"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_synth_t",
+						"t": "fluid_synth_t",
+						"i": "fluid_synth_t",
+						"r": "typedef _fluid_synth_t fluid_synth_t",
+						"s": "",
+						"u": "FLUID_SYNTH_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_synth_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dc96779eee791e4d7fcb1134eec5875ff2e153e5"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_voice_t",
+						"t": "_fluid_voice_t",
+						"i": "_fluid_voice_t",
+						"r": "_fluid_voice_t",
+						"s": "",
+						"u": "_FLUID_VOICE_T",
+						"q": "_fluid_voice_t",
+						"w": "_FLUID_VOICE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77a1e089ec7ef03a76ba30771ad8e89df85d1072"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_voice_t",
+						"t": "fluid_voice_t",
+						"i": "fluid_voice_t",
+						"r": "typedef _fluid_voice_t fluid_voice_t",
+						"s": "",
+						"u": "FLUID_VOICE_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_voice_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a4213da4f55e9dcf7cfa8a134f27606dee34e939"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_sfloader_t",
+						"t": "_fluid_sfloader_t",
+						"i": "_fluid_sfloader_t",
+						"r": "_fluid_sfloader_t",
+						"s": "",
+						"u": "_FLUID_SFLOADER_T",
+						"q": "_fluid_sfloader_t",
+						"w": "_FLUID_SFLOADER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "52552ab5ac5d8eb6233363f3121411e560b6151c"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfloader_t",
+						"t": "fluid_sfloader_t",
+						"i": "fluid_sfloader_t",
+						"r": "typedef _fluid_sfloader_t fluid_sfloader_t",
+						"s": "",
+						"u": "FLUID_SFLOADER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_sfloader_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1cfda6a3f7ae832ed179831ca58acb6243a249f5"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_sfont_t",
+						"t": "_fluid_sfont_t",
+						"i": "_fluid_sfont_t",
+						"r": "_fluid_sfont_t",
+						"s": "",
+						"u": "_FLUID_SFONT_T",
+						"q": "_fluid_sfont_t",
+						"w": "_FLUID_SFONT_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b75f3259e2d415351f366f7e16d146a2786d545b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfont_t",
+						"t": "fluid_sfont_t",
+						"i": "fluid_sfont_t",
+						"r": "typedef _fluid_sfont_t fluid_sfont_t",
+						"s": "",
+						"u": "FLUID_SFONT_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_sfont_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d102a31fe824af1303b6aefd1f56188947261eaa"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_preset_t",
+						"t": "_fluid_preset_t",
+						"i": "_fluid_preset_t",
+						"r": "_fluid_preset_t",
+						"s": "",
+						"u": "_FLUID_PRESET_T",
+						"q": "_fluid_preset_t",
+						"w": "_FLUID_PRESET_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b38fb5e245bd0210909a3e538442a373700c0286"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_preset_t",
+						"t": "fluid_preset_t",
+						"i": "fluid_preset_t",
+						"r": "typedef _fluid_preset_t fluid_preset_t",
+						"s": "",
+						"u": "FLUID_PRESET_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_preset_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "edeaa740279761d62f0a2b387e26a013d8045bb9"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_sample_t",
+						"t": "_fluid_sample_t",
+						"i": "_fluid_sample_t",
+						"r": "_fluid_sample_t",
+						"s": "",
+						"u": "_FLUID_SAMPLE_T",
+						"q": "_fluid_sample_t",
+						"w": "_FLUID_SAMPLE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32a3b744ee953741b2a5ae41a1022ce82a4ff6cd"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sample_t",
+						"t": "fluid_sample_t",
+						"i": "fluid_sample_t",
+						"r": "typedef _fluid_sample_t fluid_sample_t",
+						"s": "",
+						"u": "FLUID_SAMPLE_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_sample_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "51453d0e6125828f30db23e596f25e1626c85bb1"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_mod_t",
+						"t": "_fluid_mod_t",
+						"i": "_fluid_mod_t",
+						"r": "_fluid_mod_t",
+						"s": "",
+						"u": "_FLUID_MOD_T",
+						"q": "_fluid_mod_t",
+						"w": "_FLUID_MOD_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "846b49880619e3d3d2646fdb52d8660874865bd9"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_mod_t",
+						"t": "fluid_mod_t",
+						"i": "fluid_mod_t",
+						"r": "typedef _fluid_mod_t fluid_mod_t",
+						"s": "",
+						"u": "FLUID_MOD_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_mod_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9161885cf7437867fb5cd8bbab19456e68470661"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_audio_driver_t",
+						"t": "_fluid_audio_driver_t",
+						"i": "_fluid_audio_driver_t",
+						"r": "_fluid_audio_driver_t",
+						"s": "",
+						"u": "_FLUID_AUDIO_DRIVER_T",
+						"q": "_fluid_audio_driver_t",
+						"w": "_FLUID_AUDIO_DRIVER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cd3562ed4b6b54543591cd860ed574dfd0f353ab"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_audio_driver_t",
+						"t": "fluid_audio_driver_t",
+						"i": "fluid_audio_driver_t",
+						"r": "typedef _fluid_audio_driver_t fluid_audio_driver_t",
+						"s": "",
+						"u": "FLUID_AUDIO_DRIVER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_audio_driver_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "795163b9552b60a4d3acf59f3687d7f27455639c"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_file_renderer_t",
+						"t": "_fluid_file_renderer_t",
+						"i": "_fluid_file_renderer_t",
+						"r": "_fluid_file_renderer_t",
+						"s": "",
+						"u": "_FLUID_FILE_RENDERER_T",
+						"q": "_fluid_file_renderer_t",
+						"w": "_FLUID_FILE_RENDERER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49f941fc9f774289ee0729bc7e3133e518ab932f"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_file_renderer_t",
+						"t": "fluid_file_renderer_t",
+						"i": "fluid_file_renderer_t",
+						"r": "typedef _fluid_file_renderer_t fluid_file_renderer_t",
+						"s": "",
+						"u": "FLUID_FILE_RENDERER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_file_renderer_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "215ef8f091305867642c7efc495e8df8815475a9"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_player_t",
+						"t": "_fluid_player_t",
+						"i": "_fluid_player_t",
+						"r": "_fluid_player_t",
+						"s": "",
+						"u": "_FLUID_PLAYER_T",
+						"q": "_fluid_player_t",
+						"w": "_FLUID_PLAYER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d23baafc575ac878c779184057d2d26d358bab09"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_player_t",
+						"t": "fluid_player_t",
+						"i": "fluid_player_t",
+						"r": "typedef _fluid_player_t fluid_player_t",
+						"s": "",
+						"u": "FLUID_PLAYER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_player_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9396e6c3e92efdb26d68d249ea689117719a8a7c"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_midi_event_t",
+						"t": "_fluid_midi_event_t",
+						"i": "_fluid_midi_event_t",
+						"r": "_fluid_midi_event_t",
+						"s": "",
+						"u": "_FLUID_MIDI_EVENT_T",
+						"q": "_fluid_midi_event_t",
+						"w": "_FLUID_MIDI_EVENT_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9e880800a4992692dfa10098b15aaaf5cb148196"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_midi_event_t",
+						"t": "fluid_midi_event_t",
+						"i": "fluid_midi_event_t",
+						"r": "typedef _fluid_midi_event_t fluid_midi_event_t",
+						"s": "",
+						"u": "FLUID_MIDI_EVENT_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_midi_event_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2beb35e9faea59946f71e36aa6a0613642be3d1f"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_midi_driver_t",
+						"t": "_fluid_midi_driver_t",
+						"i": "_fluid_midi_driver_t",
+						"r": "_fluid_midi_driver_t",
+						"s": "",
+						"u": "_FLUID_MIDI_DRIVER_T",
+						"q": "_fluid_midi_driver_t",
+						"w": "_FLUID_MIDI_DRIVER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d0f32e4192ae5837c290357972e511316b2de353"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_midi_driver_t",
+						"t": "fluid_midi_driver_t",
+						"i": "fluid_midi_driver_t",
+						"r": "typedef _fluid_midi_driver_t fluid_midi_driver_t",
+						"s": "",
+						"u": "FLUID_MIDI_DRIVER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_midi_driver_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "91f7dc0fba52866f48d3ef51b7ba6b70af71c739"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_midi_router_t",
+						"t": "_fluid_midi_router_t",
+						"i": "_fluid_midi_router_t",
+						"r": "_fluid_midi_router_t",
+						"s": "",
+						"u": "_FLUID_MIDI_ROUTER_T",
+						"q": "_fluid_midi_router_t",
+						"w": "_FLUID_MIDI_ROUTER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c72fc6a22adcff87c916bb3dca9053ab2ad18c81"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_midi_router_t",
+						"t": "fluid_midi_router_t",
+						"i": "fluid_midi_router_t",
+						"r": "typedef _fluid_midi_router_t fluid_midi_router_t",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_midi_router_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8451ac6f945ab8bfcaa0761c9222476d779e5fcc"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_midi_router_rule_t",
+						"t": "_fluid_midi_router_rule_t",
+						"i": "_fluid_midi_router_rule_t",
+						"r": "_fluid_midi_router_rule_t",
+						"s": "",
+						"u": "_FLUID_MIDI_ROUTER_RULE_T",
+						"q": "_fluid_midi_router_rule_t",
+						"w": "_FLUID_MIDI_ROUTER_RULE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4ccf408db160be800893972bf55cbb893da0bf11"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_midi_router_rule_t",
+						"t": "fluid_midi_router_rule_t",
+						"i": "fluid_midi_router_rule_t",
+						"r": "typedef _fluid_midi_router_rule_t fluid_midi_router_rule_t",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_midi_router_rule_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b860b0299a474edcd26b054d6a3e2ab4df93f8c3"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_cmd_hash_t",
+						"t": "fluid_cmd_hash_t",
+						"i": "fluid_cmd_hash_t",
+						"r": "typedef _fluid_hashtable_t fluid_cmd_hash_t",
+						"s": "",
+						"u": "FLUID_CMD_HASH_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_hashtable_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10bf31a020bd503afb3681a97b8d1ae876699099"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_shell_t",
+						"t": "_fluid_shell_t",
+						"i": "_fluid_shell_t",
+						"r": "_fluid_shell_t",
+						"s": "",
+						"u": "_FLUID_SHELL_T",
+						"q": "_fluid_shell_t",
+						"w": "_FLUID_SHELL_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41d2556fd7fad54a4fbdd8b2d753dc2b95dc434a"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_shell_t",
+						"t": "fluid_shell_t",
+						"i": "fluid_shell_t",
+						"r": "typedef _fluid_shell_t fluid_shell_t",
+						"s": "",
+						"u": "FLUID_SHELL_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_shell_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "80a09d0f2cafaf7a72387c3118e85938ee4f5e6f"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_server_t",
+						"t": "_fluid_server_t",
+						"i": "_fluid_server_t",
+						"r": "_fluid_server_t",
+						"s": "",
+						"u": "_FLUID_SERVER_T",
+						"q": "_fluid_server_t",
+						"w": "_FLUID_SERVER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60320c0991e8a7f37c5ce67db4fe3da82ad00fbd"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_server_t",
+						"t": "fluid_server_t",
+						"i": "fluid_server_t",
+						"r": "typedef _fluid_server_t fluid_server_t",
+						"s": "",
+						"u": "FLUID_SERVER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_server_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bb20fdfbe519d860442a9ce1cecd6cf6c7976160"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_event_t",
+						"t": "_fluid_event_t",
+						"i": "_fluid_event_t",
+						"r": "_fluid_event_t",
+						"s": "",
+						"u": "_FLUID_EVENT_T",
+						"q": "_fluid_event_t",
+						"w": "_FLUID_EVENT_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7bccbb11debb721878f4c748893e212ddd14610c"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_event_t",
+						"t": "fluid_event_t",
+						"i": "fluid_event_t",
+						"r": "typedef _fluid_event_t fluid_event_t",
+						"s": "",
+						"u": "FLUID_EVENT_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_event_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ad6e05721595d0fe616896f6dd670a1b6c7cccf"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_sequencer_t",
+						"t": "_fluid_sequencer_t",
+						"i": "_fluid_sequencer_t",
+						"r": "_fluid_sequencer_t",
+						"s": "",
+						"u": "_FLUID_SEQUENCER_T",
+						"q": "_fluid_sequencer_t",
+						"w": "_FLUID_SEQUENCER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4664ffaa0c506c5ae281325a7f122603fe8d01e"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sequencer_t",
+						"t": "fluid_sequencer_t",
+						"i": "fluid_sequencer_t",
+						"r": "typedef _fluid_sequencer_t fluid_sequencer_t",
+						"s": "",
+						"u": "FLUID_SEQUENCER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_sequencer_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "233ce1bd0a1abd1c913fb2207e32c0239c6786ad"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_ramsfont_t",
+						"t": "_fluid_ramsfont_t",
+						"i": "_fluid_ramsfont_t",
+						"r": "_fluid_ramsfont_t",
+						"s": "",
+						"u": "_FLUID_RAMSFONT_T",
+						"q": "_fluid_ramsfont_t",
+						"w": "_FLUID_RAMSFONT_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "79e080c52833d12520b4306bf1c990212507db23"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_ramsfont_t",
+						"t": "fluid_ramsfont_t",
+						"i": "fluid_ramsfont_t",
+						"r": "typedef _fluid_ramsfont_t fluid_ramsfont_t",
+						"s": "",
+						"u": "FLUID_RAMSFONT_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_ramsfont_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "69aaa6c57d2173a475dcc457de5aba7bedc866e5"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_rampreset_t",
+						"t": "_fluid_rampreset_t",
+						"i": "_fluid_rampreset_t",
+						"r": "_fluid_rampreset_t",
+						"s": "",
+						"u": "_FLUID_RAMPRESET_T",
+						"q": "_fluid_rampreset_t",
+						"w": "_FLUID_RAMPRESET_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "217e752f82693fe858dfd07e0ed91805573f4495"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_rampreset_t",
+						"t": "fluid_rampreset_t",
+						"i": "fluid_rampreset_t",
+						"r": "typedef _fluid_rampreset_t fluid_rampreset_t",
+						"s": "",
+						"u": "FLUID_RAMPRESET_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_rampreset_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b92785f03c7a9212d68f166a6b47b5cd394b7e6"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_cmd_handler_t",
+						"t": "_fluid_cmd_handler_t",
+						"i": "_fluid_cmd_handler_t",
+						"r": "_fluid_cmd_handler_t",
+						"s": "",
+						"u": "_FLUID_CMD_HANDLER_T",
+						"q": "_fluid_cmd_handler_t",
+						"w": "_FLUID_CMD_HANDLER_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e8141b69426f8c6747aa1c3b32c39ea5c521af73"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_cmd_handler_t",
+						"t": "fluid_cmd_handler_t",
+						"i": "fluid_cmd_handler_t",
+						"r": "typedef _fluid_cmd_handler_t fluid_cmd_handler_t",
+						"s": "",
+						"u": "FLUID_CMD_HANDLER_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_cmd_handler_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b83078d532af4701f028596f058aa56ddb69568"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_ladspa_fx_t",
+						"t": "_fluid_ladspa_fx_t",
+						"i": "_fluid_ladspa_fx_t",
+						"r": "_fluid_ladspa_fx_t",
+						"s": "",
+						"u": "_FLUID_LADSPA_FX_T",
+						"q": "_fluid_ladspa_fx_t",
+						"w": "_FLUID_LADSPA_FX_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c6ead6041bde4953563fd482f71884ddf292387"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_ladspa_fx_t",
+						"t": "fluid_ladspa_fx_t",
+						"i": "fluid_ladspa_fx_t",
+						"r": "typedef _fluid_ladspa_fx_t fluid_ladspa_fx_t",
+						"s": "",
+						"u": "FLUID_LADSPA_FX_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_ladspa_fx_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d07273ca8b9ed11bf8cca5840f00c41b8dd0862"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_fluid_file_callbacks_t",
+						"t": "_fluid_file_callbacks_t",
+						"i": "_fluid_file_callbacks_t",
+						"r": "_fluid_file_callbacks_t",
+						"s": "",
+						"u": "_FLUID_FILE_CALLBACKS_T",
+						"q": "_fluid_file_callbacks_t",
+						"w": "_FLUID_FILE_CALLBACKS_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0772fd97e659e90ec63c861e42e4eb9962924cb4"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_file_callbacks_t",
+						"t": "fluid_file_callbacks_t",
+						"i": "fluid_file_callbacks_t",
+						"r": "typedef _fluid_file_callbacks_t fluid_file_callbacks_t",
+						"s": "",
+						"u": "FLUID_FILE_CALLBACKS_T",
+						"q": "",
+						"w": "",
+						"y": "_fluid_file_callbacks_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87e58850676144d52f3486d1b2e96adb2a0ae88f"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_istream_t",
+						"t": "fluid_istream_t",
+						"i": "fluid_istream_t",
+						"r": "typedef int fluid_istream_t",
+						"s": "",
+						"u": "FLUID_ISTREAM_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4462ff8c48c8ec9dc378fab7ac5834d60c19accb"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_ostream_t",
+						"t": "fluid_ostream_t",
+						"i": "fluid_ostream_t",
+						"r": "typedef int fluid_ostream_t",
+						"s": "",
+						"u": "FLUID_OSTREAM_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "23ed2080b994c29f64624ecfde923bb7b7f88087"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_seq_id_t",
+						"t": "fluid_seq_id_t",
+						"i": "fluid_seq_id_t",
+						"r": "typedef short fluid_seq_id_t",
+						"s": "",
+						"u": "FLUID_SEQ_ID_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1268edfa97903f8136780f49db116ddfd4cbdde8"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_long_long_t",
+						"t": "fluid_long_long_t",
+						"i": "fluid_long_long_t",
+						"r": "typedef long long fluid_long_long_t",
+						"s": "",
+						"u": "FLUID_LONG_LONG_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a27e54300840a764146b5466c036d251c683bd8"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/settings.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_SETTINGS_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_SETTINGS_H",
+						"r": "_FLUIDSYNTH_SETTINGS_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_SETTINGS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "24136e1173b8951ca3e0d1fd098fbaead143d06d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_HINT_BOUNDED_BELOW",
+						"t": "",
+						"i": "FLUID_HINT_BOUNDED_BELOW",
+						"r": "FLUID_HINT_BOUNDED_BELOW",
+						"s": "",
+						"u": "FLUID_HINT_BOUNDED_BELOW",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "718cab168e29ba9f9a587a2be943dee68d4a7d15"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_HINT_BOUNDED_ABOVE",
+						"t": "",
+						"i": "FLUID_HINT_BOUNDED_ABOVE",
+						"r": "FLUID_HINT_BOUNDED_ABOVE",
+						"s": "",
+						"u": "FLUID_HINT_BOUNDED_ABOVE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8d425569eb0ae5d142b545e22c8a304585c875ca"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_HINT_TOGGLED",
+						"t": "",
+						"i": "FLUID_HINT_TOGGLED",
+						"r": "FLUID_HINT_TOGGLED",
+						"s": "",
+						"u": "FLUID_HINT_TOGGLED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ecf5243f0b43df9eec557f1dd22df18e694a6cbb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_HINT_OPTIONLIST",
+						"t": "",
+						"i": "FLUID_HINT_OPTIONLIST",
+						"r": "FLUID_HINT_OPTIONLIST",
+						"s": "",
+						"u": "FLUID_HINT_OPTIONLIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8ae7be9222899f5d914adbf6340b939e3a8521ad"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_types_enum",
+						"t": "fluid_types_enum",
+						"i": "fluid_types_enum",
+						"r": "enum fluid_types_enum",
+						"s": "",
+						"u": "FLUID_TYPES_ENUM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "248ac8d538221a5767be7810e44168a08d263460"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_NO_TYPE",
+						"t": "fluid_types_enum",
+						"i": "FLUID_NO_TYPE",
+						"r": "FLUID_NO_TYPE",
+						"s": "",
+						"u": "FLUID_NO_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "51f03b20ed6cd0082e469699c288f8456e53d0c6"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_NUM_TYPE",
+						"t": "fluid_types_enum",
+						"i": "FLUID_NUM_TYPE",
+						"r": "FLUID_NUM_TYPE",
+						"s": "",
+						"u": "FLUID_NUM_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9dc3d130fbe3496be61dcd5969b09edfc46110af"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_INT_TYPE",
+						"t": "fluid_types_enum",
+						"i": "FLUID_INT_TYPE",
+						"r": "FLUID_INT_TYPE",
+						"s": "",
+						"u": "FLUID_INT_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02747575a0f32be9a2a4748a53400cae0f15dbe4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_STR_TYPE",
+						"t": "fluid_types_enum",
+						"i": "FLUID_STR_TYPE",
+						"r": "FLUID_STR_TYPE",
+						"s": "",
+						"u": "FLUID_STR_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "06bff9b93ad7d7f09a0d5206d6ff566394b66ca8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SET_TYPE",
+						"t": "fluid_types_enum",
+						"i": "FLUID_SET_TYPE",
+						"r": "FLUID_SET_TYPE",
+						"s": "",
+						"u": "FLUID_SET_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e1e05f065eb09ddf76d3d536e0d7afe1a817e40e"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_settings_foreach_option_t",
+						"t": "fluid_settings_foreach_option_t",
+						"i": "fluid_settings_foreach_option_t",
+						"r": "typedef void (*fluid_settings_foreach_option_t)(void *, const char *, const char *)",
+						"s": "",
+						"u": "FLUID_SETTINGS_FOREACH_OPTION_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30fb43c4ce0d9a3cd489d009cddbe51e8ab28211"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "void *",
+						"i": "data",
+						"r": "void *data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73c9c70f6a71dfc2218ddc96195221d6e45058da"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "const char *",
+						"i": "name",
+						"r": "const char *name",
+						"s": "",
+						"u": "NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eba6381b96b8d6c585c8dc2677e4f183ad99dc08"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "option",
+						"t": "const char *",
+						"i": "option",
+						"r": "const char *option",
+						"s": "",
+						"u": "OPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cddc7a81e3aff63d175039c0f12180d065d4394f"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_settings_foreach_t",
+						"t": "fluid_settings_foreach_t",
+						"i": "fluid_settings_foreach_t",
+						"r": "typedef void (*fluid_settings_foreach_t)(void *, const char *, int)",
+						"s": "",
+						"u": "FLUID_SETTINGS_FOREACH_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ff9b2f3bb62b5a40035988bb7fc1b843d8206ba5"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "void *",
+						"i": "data",
+						"r": "void *data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73c9c70f6a71dfc2218ddc96195221d6e45058da"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "const char *",
+						"i": "name",
+						"r": "const char *name",
+						"s": "",
+						"u": "NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eba6381b96b8d6c585c8dc2677e4f183ad99dc08"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "int",
+						"i": "type",
+						"r": "int type",
+						"s": "",
+						"u": "TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d40adbbc2957c203f8db9f7f19b7f695fcf08f3"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/synth.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_SYNTH_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_SYNTH_H",
+						"r": "_FLUIDSYNTH_SYNTH_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_SYNTH_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d8279d6cd108f8fde4769c602c63d68b929adda"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_chorus_mod",
+						"t": "fluid_chorus_mod",
+						"i": "fluid_chorus_mod",
+						"r": "enum fluid_chorus_mod",
+						"s": "",
+						"u": "FLUID_CHORUS_MOD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8e47dcf2536454287d12c095af7b7dca3cde62a3"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHORUS_MOD_SINE",
+						"t": "fluid_chorus_mod",
+						"i": "FLUID_CHORUS_MOD_SINE",
+						"r": "FLUID_CHORUS_MOD_SINE",
+						"s": "",
+						"u": "FLUID_CHORUS_MOD_SINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aadc354cdac2c468205b01a714feab0240e10040"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHORUS_MOD_TRIANGLE",
+						"t": "fluid_chorus_mod",
+						"i": "FLUID_CHORUS_MOD_TRIANGLE",
+						"r": "FLUID_CHORUS_MOD_TRIANGLE",
+						"s": "",
+						"u": "FLUID_CHORUS_MOD_TRIANGLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4acec7e90ab0694007a5f5468bf54e6c9c92da6e"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_interp",
+						"t": "fluid_interp",
+						"i": "fluid_interp",
+						"r": "enum fluid_interp",
+						"s": "",
+						"u": "FLUID_INTERP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c417b9808fe90e5e60ad099724c31fc7e6ed2ed7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_INTERP_NONE",
+						"t": "fluid_interp",
+						"i": "FLUID_INTERP_NONE",
+						"r": "FLUID_INTERP_NONE",
+						"s": "",
+						"u": "FLUID_INTERP_NONE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c048d1ecf12b6c05d34becc7b0bd0515e89fd9b5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_INTERP_LINEAR",
+						"t": "fluid_interp",
+						"i": "FLUID_INTERP_LINEAR",
+						"r": "FLUID_INTERP_LINEAR",
+						"s": "",
+						"u": "FLUID_INTERP_LINEAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "671c3e8bf1bbb6b5ba1ecb3e057e55d9249a955d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_INTERP_4THORDER",
+						"t": "fluid_interp",
+						"i": "FLUID_INTERP_4THORDER",
+						"r": "FLUID_INTERP_4THORDER",
+						"s": "",
+						"u": "FLUID_INTERP_4THORDER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4c430516d848244803684916045d1cf40880948"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_INTERP_7THORDER",
+						"t": "fluid_interp",
+						"i": "FLUID_INTERP_7THORDER",
+						"r": "FLUID_INTERP_7THORDER",
+						"s": "",
+						"u": "FLUID_INTERP_7THORDER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d0a7a78d9a8499dd3fe94dcd69c771e5ddb9da8f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_INTERP_DEFAULT",
+						"t": "fluid_interp",
+						"i": "FLUID_INTERP_DEFAULT",
+						"r": "FLUID_INTERP_DEFAULT",
+						"s": "",
+						"u": "FLUID_INTERP_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "327da2feb016e278efc1fea6d27660d1ce3e3ee5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_INTERP_HIGHEST",
+						"t": "fluid_interp",
+						"i": "FLUID_INTERP_HIGHEST",
+						"r": "FLUID_INTERP_HIGHEST",
+						"s": "",
+						"u": "FLUID_INTERP_HIGHEST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ef328b6f82567347b2164ba3b93e3ced0fb62df"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_synth_add_mod",
+						"t": "fluid_synth_add_mod",
+						"i": "fluid_synth_add_mod",
+						"r": "enum fluid_synth_add_mod",
+						"s": "",
+						"u": "FLUID_SYNTH_ADD_MOD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de55e7ea0b15c9b160f4c063a2ee3a4e172b0b9d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SYNTH_OVERWRITE",
+						"t": "fluid_synth_add_mod",
+						"i": "FLUID_SYNTH_OVERWRITE",
+						"r": "FLUID_SYNTH_OVERWRITE",
+						"s": "",
+						"u": "FLUID_SYNTH_OVERWRITE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cce3fd0d4d4762d15906cd5b53dbeac739463766"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SYNTH_ADD",
+						"t": "fluid_synth_add_mod",
+						"i": "FLUID_SYNTH_ADD",
+						"r": "FLUID_SYNTH_ADD",
+						"s": "",
+						"u": "FLUID_SYNTH_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "395d086f3c0ef332ef76411391f6e9f039a5ac8e"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_iir_filter_type",
+						"t": "fluid_iir_filter_type",
+						"i": "fluid_iir_filter_type",
+						"r": "enum fluid_iir_filter_type",
+						"s": "",
+						"u": "FLUID_IIR_FILTER_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a4bd7656b094c858f3dcd80e5a8f645e71b61d4e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_IIR_DISABLED",
+						"t": "fluid_iir_filter_type",
+						"i": "FLUID_IIR_DISABLED",
+						"r": "FLUID_IIR_DISABLED",
+						"s": "",
+						"u": "FLUID_IIR_DISABLED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6769aacce46fd271074685512e49848e30054392"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_IIR_LOWPASS",
+						"t": "fluid_iir_filter_type",
+						"i": "FLUID_IIR_LOWPASS",
+						"r": "FLUID_IIR_LOWPASS",
+						"s": "",
+						"u": "FLUID_IIR_LOWPASS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7d1e45852cdc34cb197adc09ef46dc3b95d4cba"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_IIR_HIGHPASS",
+						"t": "fluid_iir_filter_type",
+						"i": "FLUID_IIR_HIGHPASS",
+						"r": "FLUID_IIR_HIGHPASS",
+						"s": "",
+						"u": "FLUID_IIR_HIGHPASS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b2cf9fa34f8fa0d3b5e7a2768a6ac0c2d3bbf41e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_IIR_LAST",
+						"t": "fluid_iir_filter_type",
+						"i": "FLUID_IIR_LAST",
+						"r": "FLUID_IIR_LAST",
+						"s": "",
+						"u": "FLUID_IIR_LAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c148df9ce3530ae6269a3ea6b1a69b7856a1f19"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_iir_filter_flags",
+						"t": "fluid_iir_filter_flags",
+						"i": "fluid_iir_filter_flags",
+						"r": "enum fluid_iir_filter_flags",
+						"s": "",
+						"u": "FLUID_IIR_FILTER_FLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0200761747c10121f52825a02e2a4bfa8127394a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_IIR_Q_LINEAR",
+						"t": "fluid_iir_filter_flags",
+						"i": "FLUID_IIR_Q_LINEAR",
+						"r": "FLUID_IIR_Q_LINEAR",
+						"s": "",
+						"u": "FLUID_IIR_Q_LINEAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "edce2b554ea802b6e9607348487d668c72b9d2d2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_IIR_Q_ZERO_OFF",
+						"t": "fluid_iir_filter_flags",
+						"i": "FLUID_IIR_Q_ZERO_OFF",
+						"r": "FLUID_IIR_Q_ZERO_OFF",
+						"s": "",
+						"u": "FLUID_IIR_Q_ZERO_OFF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "032b207c862ba2f5abe6f357aa86cdcc0b528e2d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_IIR_NO_GAIN_AMP",
+						"t": "fluid_iir_filter_flags",
+						"i": "FLUID_IIR_NO_GAIN_AMP",
+						"r": "FLUID_IIR_NO_GAIN_AMP",
+						"s": "",
+						"u": "FLUID_IIR_NO_GAIN_AMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "666123962449d780d70809e66d29b3359f608c15"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_midi_channel_type",
+						"t": "fluid_midi_channel_type",
+						"i": "fluid_midi_channel_type",
+						"r": "enum fluid_midi_channel_type",
+						"s": "",
+						"u": "FLUID_MIDI_CHANNEL_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5150c24f593820bd2ed3e1c0d1b13e2f4dcf98e6"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CHANNEL_TYPE_MELODIC",
+						"t": "fluid_midi_channel_type",
+						"i": "CHANNEL_TYPE_MELODIC",
+						"r": "CHANNEL_TYPE_MELODIC",
+						"s": "",
+						"u": "CHANNEL_TYPE_MELODIC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "683f6a1865a86b28aac0ea9b57f2f38763599290"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CHANNEL_TYPE_DRUM",
+						"t": "fluid_midi_channel_type",
+						"i": "CHANNEL_TYPE_DRUM",
+						"r": "CHANNEL_TYPE_DRUM",
+						"s": "",
+						"u": "CHANNEL_TYPE_DRUM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "448021ce4721154dfe4274ea61c7f744c38558f7"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_channel_mode_flags",
+						"t": "fluid_channel_mode_flags",
+						"i": "fluid_channel_mode_flags",
+						"r": "enum fluid_channel_mode_flags",
+						"s": "",
+						"u": "FLUID_CHANNEL_MODE_FLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "847bb1d4f221e0c46942d5a957eec230b0a02fea"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_POLY_OFF",
+						"t": "fluid_channel_mode_flags",
+						"i": "FLUID_CHANNEL_POLY_OFF",
+						"r": "FLUID_CHANNEL_POLY_OFF",
+						"s": "",
+						"u": "FLUID_CHANNEL_POLY_OFF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd7377701901664dea9101c6f8775e4103b0cd2a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_OMNI_OFF",
+						"t": "fluid_channel_mode_flags",
+						"i": "FLUID_CHANNEL_OMNI_OFF",
+						"r": "FLUID_CHANNEL_OMNI_OFF",
+						"s": "",
+						"u": "FLUID_CHANNEL_OMNI_OFF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b3e5da7a1f45d28befc19e515d5010c090d243ca"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_basic_channel_modes",
+						"t": "fluid_basic_channel_modes",
+						"i": "fluid_basic_channel_modes",
+						"r": "enum fluid_basic_channel_modes",
+						"s": "",
+						"u": "FLUID_BASIC_CHANNEL_MODES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96b4f64d8ad2560e5572db0afc819e14ec530771"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_MODE_MASK",
+						"t": "fluid_basic_channel_modes",
+						"i": "FLUID_CHANNEL_MODE_MASK",
+						"r": "FLUID_CHANNEL_MODE_MASK",
+						"s": "",
+						"u": "FLUID_CHANNEL_MODE_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "077f6c2301a323fcac5ae046cfa52aab5dbd0794"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_MODE_OMNION_POLY",
+						"t": "fluid_basic_channel_modes",
+						"i": "FLUID_CHANNEL_MODE_OMNION_POLY",
+						"r": "FLUID_CHANNEL_MODE_OMNION_POLY",
+						"s": "",
+						"u": "FLUID_CHANNEL_MODE_OMNION_POLY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d6b20b10844e8b901cf0c8d5c4e891d942cf8e0"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_MODE_OMNION_MONO",
+						"t": "fluid_basic_channel_modes",
+						"i": "FLUID_CHANNEL_MODE_OMNION_MONO",
+						"r": "FLUID_CHANNEL_MODE_OMNION_MONO",
+						"s": "",
+						"u": "FLUID_CHANNEL_MODE_OMNION_MONO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e114f28af00ce3b43e64f88b86980f6edade5f12"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_MODE_OMNIOFF_POLY",
+						"t": "fluid_basic_channel_modes",
+						"i": "FLUID_CHANNEL_MODE_OMNIOFF_POLY",
+						"r": "FLUID_CHANNEL_MODE_OMNIOFF_POLY",
+						"s": "",
+						"u": "FLUID_CHANNEL_MODE_OMNIOFF_POLY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b772b3bbaf06488b6536cbee1c3d92838d4e18d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_MODE_OMNIOFF_MONO",
+						"t": "fluid_basic_channel_modes",
+						"i": "FLUID_CHANNEL_MODE_OMNIOFF_MONO",
+						"r": "FLUID_CHANNEL_MODE_OMNIOFF_MONO",
+						"s": "",
+						"u": "FLUID_CHANNEL_MODE_OMNIOFF_MONO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22c9a30ef1f5df9df5a8b20e3bf2caed553f9ae9"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_MODE_LAST",
+						"t": "fluid_basic_channel_modes",
+						"i": "FLUID_CHANNEL_MODE_LAST",
+						"r": "FLUID_CHANNEL_MODE_LAST",
+						"s": "",
+						"u": "FLUID_CHANNEL_MODE_LAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36ea28854681300a659abf9ff893faf8c4e4b4b6"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_channel_legato_mode",
+						"t": "fluid_channel_legato_mode",
+						"i": "fluid_channel_legato_mode",
+						"r": "enum fluid_channel_legato_mode",
+						"s": "",
+						"u": "FLUID_CHANNEL_LEGATO_MODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f63d74714a1401fb36146beb27f321f189fd167f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_LEGATO_MODE_RETRIGGER",
+						"t": "fluid_channel_legato_mode",
+						"i": "FLUID_CHANNEL_LEGATO_MODE_RETRIGGER",
+						"r": "FLUID_CHANNEL_LEGATO_MODE_RETRIGGER",
+						"s": "",
+						"u": "FLUID_CHANNEL_LEGATO_MODE_RETRIGGER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "59b16f28f1bef571642f647fb3f6ab15ed95ca7c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_LEGATO_MODE_MULTI_RETRIGGER",
+						"t": "fluid_channel_legato_mode",
+						"i": "FLUID_CHANNEL_LEGATO_MODE_MULTI_RETRIGGER",
+						"r": "FLUID_CHANNEL_LEGATO_MODE_MULTI_RETRIGGER",
+						"s": "",
+						"u": "FLUID_CHANNEL_LEGATO_MODE_MULTI_RETRIGGER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29fd95821de46b004ec5d2454f1ae0ff56701a71"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_LEGATO_MODE_LAST",
+						"t": "fluid_channel_legato_mode",
+						"i": "FLUID_CHANNEL_LEGATO_MODE_LAST",
+						"r": "FLUID_CHANNEL_LEGATO_MODE_LAST",
+						"s": "",
+						"u": "FLUID_CHANNEL_LEGATO_MODE_LAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b90d6f8b1dc4e82ffa497f41d4d571ae451ab73"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_channel_portamento_mode",
+						"t": "fluid_channel_portamento_mode",
+						"i": "fluid_channel_portamento_mode",
+						"r": "enum fluid_channel_portamento_mode",
+						"s": "",
+						"u": "FLUID_CHANNEL_PORTAMENTO_MODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8244741f7c06705dd9abfdf3c53c3bbda452fb60"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_PORTAMENTO_MODE_EACH_NOTE",
+						"t": "fluid_channel_portamento_mode",
+						"i": "FLUID_CHANNEL_PORTAMENTO_MODE_EACH_NOTE",
+						"r": "FLUID_CHANNEL_PORTAMENTO_MODE_EACH_NOTE",
+						"s": "",
+						"u": "FLUID_CHANNEL_PORTAMENTO_MODE_EACH_NOTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "798fbabc7ab75fc4dc256a6d716ba2a6584c02c2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_PORTAMENTO_MODE_LEGATO_ONLY",
+						"t": "fluid_channel_portamento_mode",
+						"i": "FLUID_CHANNEL_PORTAMENTO_MODE_LEGATO_ONLY",
+						"r": "FLUID_CHANNEL_PORTAMENTO_MODE_LEGATO_ONLY",
+						"s": "",
+						"u": "FLUID_CHANNEL_PORTAMENTO_MODE_LEGATO_ONLY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a7e48be133da0c6c30b11ba251d6499d92a57153"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_PORTAMENTO_MODE_STACCATO_ONLY",
+						"t": "fluid_channel_portamento_mode",
+						"i": "FLUID_CHANNEL_PORTAMENTO_MODE_STACCATO_ONLY",
+						"r": "FLUID_CHANNEL_PORTAMENTO_MODE_STACCATO_ONLY",
+						"s": "",
+						"u": "FLUID_CHANNEL_PORTAMENTO_MODE_STACCATO_ONLY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d17c4f4adaac55fb5b9e2e3236b3a96b018fda99"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_PORTAMENTO_MODE_LAST",
+						"t": "fluid_channel_portamento_mode",
+						"i": "FLUID_CHANNEL_PORTAMENTO_MODE_LAST",
+						"r": "FLUID_CHANNEL_PORTAMENTO_MODE_LAST",
+						"s": "",
+						"u": "FLUID_CHANNEL_PORTAMENTO_MODE_LAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b6311c6a93d63060733de4960c491c922885bc02"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_channel_breath_flags",
+						"t": "fluid_channel_breath_flags",
+						"i": "fluid_channel_breath_flags",
+						"r": "enum fluid_channel_breath_flags",
+						"s": "",
+						"u": "FLUID_CHANNEL_BREATH_FLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c84ba2b7d6e0afd43eab9fabf02965e362888118"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_BREATH_POLY",
+						"t": "fluid_channel_breath_flags",
+						"i": "FLUID_CHANNEL_BREATH_POLY",
+						"r": "FLUID_CHANNEL_BREATH_POLY",
+						"s": "",
+						"u": "FLUID_CHANNEL_BREATH_POLY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dee1175b7145734826325c7a783af298510d99fc"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_BREATH_MONO",
+						"t": "fluid_channel_breath_flags",
+						"i": "FLUID_CHANNEL_BREATH_MONO",
+						"r": "FLUID_CHANNEL_BREATH_MONO",
+						"s": "",
+						"u": "FLUID_CHANNEL_BREATH_MONO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "243a612988fb4ca82e92da33299c1d2c4502e367"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_CHANNEL_BREATH_SYNC",
+						"t": "fluid_channel_breath_flags",
+						"i": "FLUID_CHANNEL_BREATH_SYNC",
+						"r": "FLUID_CHANNEL_BREATH_SYNC",
+						"s": "",
+						"u": "FLUID_CHANNEL_BREATH_SYNC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f7c1df9e0e0c7c07eb444605658d0f2b3680886"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/shell.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_SHELL_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_SHELL_H",
+						"r": "_FLUIDSYNTH_SHELL_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_SHELL_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca5ae80d8ca839f3a33fe3d48229ae5871af627f"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/sfont.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_SFONT_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_SFONT_H",
+						"r": "_FLUIDSYNTH_SFONT_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_SFONT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "26b4cfd1238ae0a7d54f53d8e3f9d9b8b840c3af"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at /usr/include/fluidsynth/sfont.h:80:1)",
+						"t": "(unnamed enum at /usr/include/fluidsynth/sfont.h:80:1)",
+						"i": "(unnamed at/usr/include/fluidsynth/sfont.)",
+						"r": "enum",
+						"s": "",
+						"u": "(UNNAMED ENUM AT /USR/INCLUDE/FLUIDSYNTH/SFONT.H:80:1)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1e9c03a4fa1af533adcf985db6bfc275d367bbc0"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PRESET_SELECTED",
+						"t": "(unnamed enum at /usr/include/fluidsynth/sfont.h:80:1)",
+						"i": "FLUID_PRESET_SELECTED",
+						"r": "FLUID_PRESET_SELECTED",
+						"s": "",
+						"u": "FLUID_PRESET_SELECTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ef45098db8ce255eda966e9e0de5325cfebfc224"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PRESET_UNSELECTED",
+						"t": "(unnamed enum at /usr/include/fluidsynth/sfont.h:80:1)",
+						"i": "FLUID_PRESET_UNSELECTED",
+						"r": "FLUID_PRESET_UNSELECTED",
+						"s": "",
+						"u": "FLUID_PRESET_UNSELECTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a90e9951f7cae49f3925da9c475d5aca153f124"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SAMPLE_DONE",
+						"t": "(unnamed enum at /usr/include/fluidsynth/sfont.h:80:1)",
+						"i": "FLUID_SAMPLE_DONE",
+						"r": "FLUID_SAMPLE_DONE",
+						"s": "",
+						"u": "FLUID_SAMPLE_DONE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ef9f1525cee1310dc62b7e6216f509e795ded92e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PRESET_PIN",
+						"t": "(unnamed enum at /usr/include/fluidsynth/sfont.h:80:1)",
+						"i": "FLUID_PRESET_PIN",
+						"r": "FLUID_PRESET_PIN",
+						"s": "",
+						"u": "FLUID_PRESET_PIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49ad0cc3d9b2691dd23986947636f19f372894b6"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PRESET_UNPIN",
+						"t": "(unnamed enum at /usr/include/fluidsynth/sfont.h:80:1)",
+						"i": "FLUID_PRESET_UNPIN",
+						"r": "FLUID_PRESET_UNPIN",
+						"s": "",
+						"u": "FLUID_PRESET_UNPIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7965aa4689235eabc2fccfe4436613f84f8b0c35"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sample_type",
+						"t": "fluid_sample_type",
+						"i": "fluid_sample_type",
+						"r": "enum fluid_sample_type",
+						"s": "",
+						"u": "FLUID_SAMPLE_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "33d05c4ecb2bcff5275675fc1e9fb2b7a5318880"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SAMPLETYPE_MONO",
+						"t": "fluid_sample_type",
+						"i": "FLUID_SAMPLETYPE_MONO",
+						"r": "FLUID_SAMPLETYPE_MONO",
+						"s": "",
+						"u": "FLUID_SAMPLETYPE_MONO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b9dd6677934e8a44c15f5fd5f49ed1072d9d6464"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SAMPLETYPE_RIGHT",
+						"t": "fluid_sample_type",
+						"i": "FLUID_SAMPLETYPE_RIGHT",
+						"r": "FLUID_SAMPLETYPE_RIGHT",
+						"s": "",
+						"u": "FLUID_SAMPLETYPE_RIGHT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4770ffa07e195bd9bbd5b033533ccb5546340af2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SAMPLETYPE_LEFT",
+						"t": "fluid_sample_type",
+						"i": "FLUID_SAMPLETYPE_LEFT",
+						"r": "FLUID_SAMPLETYPE_LEFT",
+						"s": "",
+						"u": "FLUID_SAMPLETYPE_LEFT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "841a9e4af86486c173f9f9f8c863142a6744c6ad"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SAMPLETYPE_LINKED",
+						"t": "fluid_sample_type",
+						"i": "FLUID_SAMPLETYPE_LINKED",
+						"r": "FLUID_SAMPLETYPE_LINKED",
+						"s": "",
+						"u": "FLUID_SAMPLETYPE_LINKED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ceee69ceb72cbb950eb9364ed0f52dfc86cc9c83"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SAMPLETYPE_OGG_VORBIS",
+						"t": "fluid_sample_type",
+						"i": "FLUID_SAMPLETYPE_OGG_VORBIS",
+						"r": "FLUID_SAMPLETYPE_OGG_VORBIS",
+						"s": "",
+						"u": "FLUID_SAMPLETYPE_OGG_VORBIS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7788a862c515ca23133c91c0961b96ece6fe68c9"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SAMPLETYPE_ROM",
+						"t": "fluid_sample_type",
+						"i": "FLUID_SAMPLETYPE_ROM",
+						"r": "FLUID_SAMPLETYPE_ROM",
+						"s": "",
+						"u": "FLUID_SAMPLETYPE_ROM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2375ebc0c3696667021e377b1611d2ed1a96537d"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfloader_load_t",
+						"t": "fluid_sfloader_load_t",
+						"i": "fluid_sfloader_load_t",
+						"r": "typedef fluid_sfont_t *(*fluid_sfloader_load_t)(fluid_sfloader_t *, const char *)",
+						"s": "",
+						"u": "FLUID_SFLOADER_LOAD_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "79029566bd4417a4976d358c9b7616e5b5e5b905"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "loader",
+						"t": "fluid_sfloader_t *",
+						"i": "loader",
+						"r": "fluid_sfloader_t *loader",
+						"s": "",
+						"u": "LOADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "444153606b57993d4afb71e9f60248d2a53c0c30"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "filename",
+						"t": "const char *",
+						"i": "filename",
+						"r": "const char *filename",
+						"s": "",
+						"u": "FILENAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b2959b94a997e2ab368583f541e3d04a9f0497c"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfloader_free_t",
+						"t": "fluid_sfloader_free_t",
+						"i": "fluid_sfloader_free_t",
+						"r": "typedef void (*fluid_sfloader_free_t)(fluid_sfloader_t *)",
+						"s": "",
+						"u": "FLUID_SFLOADER_FREE_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a3c4018132d3c6926866de4d044f2736cc5dbc2f"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "loader",
+						"t": "fluid_sfloader_t *",
+						"i": "loader",
+						"r": "fluid_sfloader_t *loader",
+						"s": "",
+						"u": "LOADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "444153606b57993d4afb71e9f60248d2a53c0c30"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfloader_callback_open_t",
+						"t": "fluid_sfloader_callback_open_t",
+						"i": "fluid_sfloader_callback_open_t",
+						"r": "typedef void *(*fluid_sfloader_callback_open_t)(const char *)",
+						"s": "",
+						"u": "FLUID_SFLOADER_CALLBACK_OPEN_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7912d85cd3e2f166f72b2cd660e5532954435d32"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "filename",
+						"t": "const char *",
+						"i": "filename",
+						"r": "const char *filename",
+						"s": "",
+						"u": "FILENAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b2959b94a997e2ab368583f541e3d04a9f0497c"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfloader_callback_read_t",
+						"t": "fluid_sfloader_callback_read_t",
+						"i": "fluid_sfloader_callback_read_t",
+						"r": "typedef int (*fluid_sfloader_callback_read_t)(void *, fluid_long_long_t, void *)",
+						"s": "",
+						"u": "FLUID_SFLOADER_CALLBACK_READ_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "057c2feb58a525d5317908503e26e92c60506a75"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "buf",
+						"t": "void *",
+						"i": "buf",
+						"r": "void *buf",
+						"s": "",
+						"u": "BUF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fc9b760adf3b732340144a8f82adeae1b2e411b0"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "count",
+						"t": "fluid_long_long_t",
+						"i": "count",
+						"r": "fluid_long_long_t count",
+						"s": "",
+						"u": "COUNT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd24a8d53719d4bc3809c20be08868ca37f48dbc"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "handle",
+						"t": "void *",
+						"i": "handle",
+						"r": "void *handle",
+						"s": "",
+						"u": "HANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1841be2f8edd5ca14dcbd07a099a3dff74a36be"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfloader_callback_seek_t",
+						"t": "fluid_sfloader_callback_seek_t",
+						"i": "fluid_sfloader_callback_seek_t",
+						"r": "typedef int (*fluid_sfloader_callback_seek_t)(void *, fluid_long_long_t, int)",
+						"s": "",
+						"u": "FLUID_SFLOADER_CALLBACK_SEEK_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1575840b33f0efd8bdf99358271e4f237e5465eb"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "handle",
+						"t": "void *",
+						"i": "handle",
+						"r": "void *handle",
+						"s": "",
+						"u": "HANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1841be2f8edd5ca14dcbd07a099a3dff74a36be"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "offset",
+						"t": "fluid_long_long_t",
+						"i": "offset",
+						"r": "fluid_long_long_t offset",
+						"s": "",
+						"u": "OFFSET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ace5856ec82ef142f3df7854745533b81834d530"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "origin",
+						"t": "int",
+						"i": "origin",
+						"r": "int origin",
+						"s": "",
+						"u": "ORIGIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41376cab39d7954dcea8cd195afa87444d27cb3a"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfloader_callback_close_t",
+						"t": "fluid_sfloader_callback_close_t",
+						"i": "fluid_sfloader_callback_close_t",
+						"r": "typedef int (*fluid_sfloader_callback_close_t)(void *)",
+						"s": "",
+						"u": "FLUID_SFLOADER_CALLBACK_CLOSE_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bcb0576dc297a5b96df40bda3ce9f54b740be5c6"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "handle",
+						"t": "void *",
+						"i": "handle",
+						"r": "void *handle",
+						"s": "",
+						"u": "HANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1841be2f8edd5ca14dcbd07a099a3dff74a36be"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfloader_callback_tell_t",
+						"t": "fluid_sfloader_callback_tell_t",
+						"i": "fluid_sfloader_callback_tell_t",
+						"r": "typedef fluid_long_long_t (*fluid_sfloader_callback_tell_t)(void *)",
+						"s": "",
+						"u": "FLUID_SFLOADER_CALLBACK_TELL_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "23ec3a25d590783aab370beed4029d29e1eb4dc9"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "handle",
+						"t": "void *",
+						"i": "handle",
+						"r": "void *handle",
+						"s": "",
+						"u": "HANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1841be2f8edd5ca14dcbd07a099a3dff74a36be"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfont_get_name_t",
+						"t": "fluid_sfont_get_name_t",
+						"i": "fluid_sfont_get_name_t",
+						"r": "typedef const char *(*fluid_sfont_get_name_t)(fluid_sfont_t *)",
+						"s": "",
+						"u": "FLUID_SFONT_GET_NAME_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "52882dce6a112376a39f0ba31aa87481d3735c80"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sfont",
+						"t": "fluid_sfont_t *",
+						"i": "sfont",
+						"r": "fluid_sfont_t *sfont",
+						"s": "",
+						"u": "SFONT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eff0908968607d94e84a205830a004f2e84cbc54"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfont_get_preset_t",
+						"t": "fluid_sfont_get_preset_t",
+						"i": "fluid_sfont_get_preset_t",
+						"r": "typedef fluid_preset_t *(*fluid_sfont_get_preset_t)(fluid_sfont_t *, int, int)",
+						"s": "",
+						"u": "FLUID_SFONT_GET_PRESET_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0677c9559628d73adcb644241a116b54959762cd"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sfont",
+						"t": "fluid_sfont_t *",
+						"i": "sfont",
+						"r": "fluid_sfont_t *sfont",
+						"s": "",
+						"u": "SFONT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eff0908968607d94e84a205830a004f2e84cbc54"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bank",
+						"t": "int",
+						"i": "bank",
+						"r": "int bank",
+						"s": "",
+						"u": "BANK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4746bb0dca1ed9bbac2a89e9922b6be763eb7b08"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "prenum",
+						"t": "int",
+						"i": "prenum",
+						"r": "int prenum",
+						"s": "",
+						"u": "PRENUM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c2a59d5b9eba8d6bed56ff7a055fffa57a47be6"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfont_iteration_start_t",
+						"t": "fluid_sfont_iteration_start_t",
+						"i": "fluid_sfont_iteration_start_t",
+						"r": "typedef void (*fluid_sfont_iteration_start_t)(fluid_sfont_t *)",
+						"s": "",
+						"u": "FLUID_SFONT_ITERATION_START_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6a2ef912679de50033250063074c91eff0a41e4a"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sfont",
+						"t": "fluid_sfont_t *",
+						"i": "sfont",
+						"r": "fluid_sfont_t *sfont",
+						"s": "",
+						"u": "SFONT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eff0908968607d94e84a205830a004f2e84cbc54"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfont_iteration_next_t",
+						"t": "fluid_sfont_iteration_next_t",
+						"i": "fluid_sfont_iteration_next_t",
+						"r": "typedef fluid_preset_t *(*fluid_sfont_iteration_next_t)(fluid_sfont_t *)",
+						"s": "",
+						"u": "FLUID_SFONT_ITERATION_NEXT_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41c1d4cacdb41ae4fc7ef3b40a112d161553fcbb"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sfont",
+						"t": "fluid_sfont_t *",
+						"i": "sfont",
+						"r": "fluid_sfont_t *sfont",
+						"s": "",
+						"u": "SFONT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eff0908968607d94e84a205830a004f2e84cbc54"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_sfont_free_t",
+						"t": "fluid_sfont_free_t",
+						"i": "fluid_sfont_free_t",
+						"r": "typedef int (*fluid_sfont_free_t)(fluid_sfont_t *)",
+						"s": "",
+						"u": "FLUID_SFONT_FREE_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5174e43b1e3e45f0939ebfad0dabf463dc505aad"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sfont",
+						"t": "fluid_sfont_t *",
+						"i": "sfont",
+						"r": "fluid_sfont_t *sfont",
+						"s": "",
+						"u": "SFONT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eff0908968607d94e84a205830a004f2e84cbc54"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_preset_get_name_t",
+						"t": "fluid_preset_get_name_t",
+						"i": "fluid_preset_get_name_t",
+						"r": "typedef const char *(*fluid_preset_get_name_t)(fluid_preset_t *)",
+						"s": "",
+						"u": "FLUID_PRESET_GET_NAME_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bc79ac04a9da5b11b5632121ce9361b32b3a1220"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "preset",
+						"t": "fluid_preset_t *",
+						"i": "preset",
+						"r": "fluid_preset_t *preset",
+						"s": "",
+						"u": "PRESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "db6da96bae715576ceca57fa1690128a64d704a3"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_preset_get_banknum_t",
+						"t": "fluid_preset_get_banknum_t",
+						"i": "fluid_preset_get_banknum_t",
+						"r": "typedef int (*fluid_preset_get_banknum_t)(fluid_preset_t *)",
+						"s": "",
+						"u": "FLUID_PRESET_GET_BANKNUM_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a674f4c5f266b7f460f5b29acc3edff923cd1de"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "preset",
+						"t": "fluid_preset_t *",
+						"i": "preset",
+						"r": "fluid_preset_t *preset",
+						"s": "",
+						"u": "PRESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "db6da96bae715576ceca57fa1690128a64d704a3"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_preset_get_num_t",
+						"t": "fluid_preset_get_num_t",
+						"i": "fluid_preset_get_num_t",
+						"r": "typedef int (*fluid_preset_get_num_t)(fluid_preset_t *)",
+						"s": "",
+						"u": "FLUID_PRESET_GET_NUM_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcf10913fd5b2f4b3f43c71387dcbd4d0e4be4d0"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "preset",
+						"t": "fluid_preset_t *",
+						"i": "preset",
+						"r": "fluid_preset_t *preset",
+						"s": "",
+						"u": "PRESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "db6da96bae715576ceca57fa1690128a64d704a3"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_preset_noteon_t",
+						"t": "fluid_preset_noteon_t",
+						"i": "fluid_preset_noteon_t",
+						"r": "typedef int (*fluid_preset_noteon_t)(fluid_preset_t *, fluid_synth_t *, int, int, int)",
+						"s": "",
+						"u": "FLUID_PRESET_NOTEON_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47f8d2e6dcea5178fc190ba3185519e311ec414c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "preset",
+						"t": "fluid_preset_t *",
+						"i": "preset",
+						"r": "fluid_preset_t *preset",
+						"s": "",
+						"u": "PRESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "db6da96bae715576ceca57fa1690128a64d704a3"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "synth",
+						"t": "fluid_synth_t *",
+						"i": "synth",
+						"r": "fluid_synth_t *synth",
+						"s": "",
+						"u": "SYNTH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c5bcc460df4b9559663b765c226a1bb7b968aa61"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "chan",
+						"t": "int",
+						"i": "chan",
+						"r": "int chan",
+						"s": "",
+						"u": "CHAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd254868c41a570126f9eea867fd41cd57ca421a"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "key",
+						"t": "int",
+						"i": "key",
+						"r": "int key",
+						"s": "",
+						"u": "KEY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "18c29225a9eac369627b47658a175ecb1f1c53fe"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "vel",
+						"t": "int",
+						"i": "vel",
+						"r": "int vel",
+						"s": "",
+						"u": "VEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61044458c6a7d0501da1b8e64b535465d8fd1d8b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_preset_free_t",
+						"t": "fluid_preset_free_t",
+						"i": "fluid_preset_free_t",
+						"r": "typedef void (*fluid_preset_free_t)(fluid_preset_t *)",
+						"s": "",
+						"u": "FLUID_PRESET_FREE_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bc53a2e06bb1e34aca414a82807f1debc9feb456"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "preset",
+						"t": "fluid_preset_t *",
+						"i": "preset",
+						"r": "fluid_preset_t *preset",
+						"s": "",
+						"u": "PRESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "db6da96bae715576ceca57fa1690128a64d704a3"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/audio.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_AUDIO_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_AUDIO_H",
+						"r": "_FLUIDSYNTH_AUDIO_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_AUDIO_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4c8e21bde91ec1f5a5ed9778314403c1f19e80d5"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_audio_func_t",
+						"t": "fluid_audio_func_t",
+						"i": "fluid_audio_func_t",
+						"r": "typedef int (*fluid_audio_func_t)(void *, int, int, float **, int, float **)",
+						"s": "",
+						"u": "FLUID_AUDIO_FUNC_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2af10d1c5f3fa51bb03ba223cb60f981b6606cc0"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "void *",
+						"i": "data",
+						"r": "void *data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73c9c70f6a71dfc2218ddc96195221d6e45058da"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "len",
+						"t": "int",
+						"i": "len",
+						"r": "int len",
+						"s": "",
+						"u": "LEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f964dc33ce64074300091f15fdacb7fe127dc28c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nfx",
+						"t": "int",
+						"i": "nfx",
+						"r": "int nfx",
+						"s": "",
+						"u": "NFX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f6f7dc2b7b646d5f27404997ee7767d1bae3027"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fx",
+						"t": "float *[]",
+						"i": "fx",
+						"r": "float *fx[]",
+						"s": "",
+						"u": "FX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a375cefdd8feb3f1763bce4921e8d2c9b480bba"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nout",
+						"t": "int",
+						"i": "nout",
+						"r": "int nout",
+						"s": "",
+						"u": "NOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "befe2aa503fc35daca1a0a88b14a6a30e6cf1010"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "out",
+						"t": "float *[]",
+						"i": "out",
+						"r": "float *out[]",
+						"s": "",
+						"u": "OUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "97691cf7ed67dbe9351e353ca2cd1dc1a1d26e9b"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/event.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_EVENT_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_EVENT_H",
+						"r": "_FLUIDSYNTH_EVENT_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_EVENT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d95e2e65274c0e813be11c774f83071e4b01a62"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_seq_event_type",
+						"t": "fluid_seq_event_type",
+						"i": "fluid_seq_event_type",
+						"r": "enum fluid_seq_event_type",
+						"s": "",
+						"u": "FLUID_SEQ_EVENT_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "517b4f0e86349fad74a86c4c08046ee35c729bb7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_NOTE",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_NOTE",
+						"r": "FLUID_SEQ_NOTE",
+						"s": "",
+						"u": "FLUID_SEQ_NOTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8f74de515680600d94c0050a7b93e9d41a15e29b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_NOTEON",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_NOTEON",
+						"r": "FLUID_SEQ_NOTEON",
+						"s": "",
+						"u": "FLUID_SEQ_NOTEON",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "18be2e63df5dd6faeed2d3254ffc3bc717f364e1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_NOTEOFF",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_NOTEOFF",
+						"r": "FLUID_SEQ_NOTEOFF",
+						"s": "",
+						"u": "FLUID_SEQ_NOTEOFF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61d65e66f565452ea847f352546a7aa437ff8dce"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_ALLSOUNDSOFF",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_ALLSOUNDSOFF",
+						"r": "FLUID_SEQ_ALLSOUNDSOFF",
+						"s": "",
+						"u": "FLUID_SEQ_ALLSOUNDSOFF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7439f09d639503594cad0d29232fc98a65d130b0"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_ALLNOTESOFF",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_ALLNOTESOFF",
+						"r": "FLUID_SEQ_ALLNOTESOFF",
+						"s": "",
+						"u": "FLUID_SEQ_ALLNOTESOFF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92c7ed2ce38f813e3aced00cd5b576e228b56e22"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_BANKSELECT",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_BANKSELECT",
+						"r": "FLUID_SEQ_BANKSELECT",
+						"s": "",
+						"u": "FLUID_SEQ_BANKSELECT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30a0b86a5f838450654e0f2fdb3f6a4dfcd446d4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_PROGRAMCHANGE",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_PROGRAMCHANGE",
+						"r": "FLUID_SEQ_PROGRAMCHANGE",
+						"s": "",
+						"u": "FLUID_SEQ_PROGRAMCHANGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9805247a8be8389e0e828ebb3cd743840f5b8e99"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_PROGRAMSELECT",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_PROGRAMSELECT",
+						"r": "FLUID_SEQ_PROGRAMSELECT",
+						"s": "",
+						"u": "FLUID_SEQ_PROGRAMSELECT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d19f4f780562768f264d4e77c8f918a4cac6c180"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_PITCHBEND",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_PITCHBEND",
+						"r": "FLUID_SEQ_PITCHBEND",
+						"s": "",
+						"u": "FLUID_SEQ_PITCHBEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a5dc645a2dab7df5ee10e380e0fd54077361c6d4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_PITCHWHEELSENS",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_PITCHWHEELSENS",
+						"r": "FLUID_SEQ_PITCHWHEELSENS",
+						"s": "",
+						"u": "FLUID_SEQ_PITCHWHEELSENS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b4f5a06d91869f78ee6ed0aadf19e42c2884c0e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_MODULATION",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_MODULATION",
+						"r": "FLUID_SEQ_MODULATION",
+						"s": "",
+						"u": "FLUID_SEQ_MODULATION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e544f95f27bee4c90646c88527d1d14b299f563"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_SUSTAIN",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_SUSTAIN",
+						"r": "FLUID_SEQ_SUSTAIN",
+						"s": "",
+						"u": "FLUID_SEQ_SUSTAIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f75f93db5ff62ab431c8798cf417685a6497b29"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_CONTROLCHANGE",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_CONTROLCHANGE",
+						"r": "FLUID_SEQ_CONTROLCHANGE",
+						"s": "",
+						"u": "FLUID_SEQ_CONTROLCHANGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3768172ee3cab7391108fe3accc8182ae07239b8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_PAN",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_PAN",
+						"r": "FLUID_SEQ_PAN",
+						"s": "",
+						"u": "FLUID_SEQ_PAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ef6bab1ec92c8ca370bf635c114f41871d19bae7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_VOLUME",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_VOLUME",
+						"r": "FLUID_SEQ_VOLUME",
+						"s": "",
+						"u": "FLUID_SEQ_VOLUME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "33dbe3c3eec1be8e2f76a3f186f8e39fc1789353"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_REVERBSEND",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_REVERBSEND",
+						"r": "FLUID_SEQ_REVERBSEND",
+						"s": "",
+						"u": "FLUID_SEQ_REVERBSEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "024d214fb0597868ff3796d5919afe0c698de130"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_CHORUSSEND",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_CHORUSSEND",
+						"r": "FLUID_SEQ_CHORUSSEND",
+						"s": "",
+						"u": "FLUID_SEQ_CHORUSSEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c5ea214aff268230dd6f9a6f5af2e93d1026e5a3"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_TIMER",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_TIMER",
+						"r": "FLUID_SEQ_TIMER",
+						"s": "",
+						"u": "FLUID_SEQ_TIMER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "18f06010cadf137bafef20734341bf9e4b7a48a8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_CHANNELPRESSURE",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_CHANNELPRESSURE",
+						"r": "FLUID_SEQ_CHANNELPRESSURE",
+						"s": "",
+						"u": "FLUID_SEQ_CHANNELPRESSURE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45843efb3626287516362868628ccac5e8b2a49d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_KEYPRESSURE",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_KEYPRESSURE",
+						"r": "FLUID_SEQ_KEYPRESSURE",
+						"s": "",
+						"u": "FLUID_SEQ_KEYPRESSURE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96e14c3eac0de036537b9d4d311326438d961f1b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_SYSTEMRESET",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_SYSTEMRESET",
+						"r": "FLUID_SEQ_SYSTEMRESET",
+						"s": "",
+						"u": "FLUID_SEQ_SYSTEMRESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "55b77c3a2ece67caeb8412324ea72de7087bc16d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_UNREGISTERING",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_UNREGISTERING",
+						"r": "FLUID_SEQ_UNREGISTERING",
+						"s": "",
+						"u": "FLUID_SEQ_UNREGISTERING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be0fe9183bcf1a2c5156be8afa88eb9d2f95783f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_SCALE",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_SCALE",
+						"r": "FLUID_SEQ_SCALE",
+						"s": "",
+						"u": "FLUID_SEQ_SCALE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1697beb985525fb3eafdceef8965bcf9f64af94"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_SEQ_LASTEVENT",
+						"t": "fluid_seq_event_type",
+						"i": "FLUID_SEQ_LASTEVENT",
+						"r": "FLUID_SEQ_LASTEVENT",
+						"s": "",
+						"u": "FLUID_SEQ_LASTEVENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c6265c41b8deba99efb993aa0a6a5fdffa75978d"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/midi.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_MIDI_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_MIDI_H",
+						"r": "_FLUIDSYNTH_MIDI_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_MIDI_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a73d66dac1d56387e3592a6d417d81d3f9605a3d"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "handle_midi_event_func_t",
+						"t": "handle_midi_event_func_t",
+						"i": "handle_midi_event_func_t",
+						"r": "typedef int (*handle_midi_event_func_t)(void *, fluid_midi_event_t *)",
+						"s": "",
+						"u": "HANDLE_MIDI_EVENT_FUNC_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9ea707efa68ade113f043345573805ddf398022c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "void *",
+						"i": "data",
+						"r": "void *data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73c9c70f6a71dfc2218ddc96195221d6e45058da"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "event",
+						"t": "fluid_midi_event_t *",
+						"i": "event",
+						"r": "fluid_midi_event_t *event",
+						"s": "",
+						"u": "EVENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "315f051c1da662cb57df1fa3a0ab4991bf3836bf"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "handle_midi_tick_func_t",
+						"t": "handle_midi_tick_func_t",
+						"i": "handle_midi_tick_func_t",
+						"r": "typedef int (*handle_midi_tick_func_t)(void *, int)",
+						"s": "",
+						"u": "HANDLE_MIDI_TICK_FUNC_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5417aa2a4879d8c799f35fc07d95797da8a33200"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "void *",
+						"i": "data",
+						"r": "void *data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73c9c70f6a71dfc2218ddc96195221d6e45058da"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "tick",
+						"t": "int",
+						"i": "tick",
+						"r": "int tick",
+						"s": "",
+						"u": "TICK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3aa33dd23412bc24026582e6efdd3331810d9725"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_midi_router_rule_type",
+						"t": "fluid_midi_router_rule_type",
+						"i": "fluid_midi_router_rule_type",
+						"r": "enum",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3c268858b3b93ffe6c3b7f235c6583cceaad1265"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MIDI_ROUTER_RULE_NOTE",
+						"t": "fluid_midi_router_rule_type",
+						"i": "FLUID_MIDI_ROUTER_RULE_NOTE",
+						"r": "FLUID_MIDI_ROUTER_RULE_NOTE",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_NOTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "acb8501575aa2a5aa69403f0a299877ebc68f12a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MIDI_ROUTER_RULE_CC",
+						"t": "fluid_midi_router_rule_type",
+						"i": "FLUID_MIDI_ROUTER_RULE_CC",
+						"r": "FLUID_MIDI_ROUTER_RULE_CC",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_CC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d747976d88c21f347a7fa14f5ef2a5e0f5e3fa90"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MIDI_ROUTER_RULE_PROG_CHANGE",
+						"t": "fluid_midi_router_rule_type",
+						"i": "FLUID_MIDI_ROUTER_RULE_PROG_CHANGE",
+						"r": "FLUID_MIDI_ROUTER_RULE_PROG_CHANGE",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_PROG_CHANGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "24c6adeb57e28f05c5dfdaacb39b1093d7d97302"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MIDI_ROUTER_RULE_PITCH_BEND",
+						"t": "fluid_midi_router_rule_type",
+						"i": "FLUID_MIDI_ROUTER_RULE_PITCH_BEND",
+						"r": "FLUID_MIDI_ROUTER_RULE_PITCH_BEND",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_PITCH_BEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a32f9aba4f1cc5e36eb334f5b237a7a93317ea8d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MIDI_ROUTER_RULE_CHANNEL_PRESSURE",
+						"t": "fluid_midi_router_rule_type",
+						"i": "FLUID_MIDI_ROUTER_RULE_CHANNEL_PRESSURE",
+						"r": "FLUID_MIDI_ROUTER_RULE_CHANNEL_PRESSURE",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_CHANNEL_PRESSURE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4754b3e7485d3e501ecff510e72f1d02a3047ea"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MIDI_ROUTER_RULE_KEY_PRESSURE",
+						"t": "fluid_midi_router_rule_type",
+						"i": "FLUID_MIDI_ROUTER_RULE_KEY_PRESSURE",
+						"r": "FLUID_MIDI_ROUTER_RULE_KEY_PRESSURE",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_KEY_PRESSURE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13cc8f55d970756380b27ec84c880c2d2ae6b76a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MIDI_ROUTER_RULE_COUNT",
+						"t": "fluid_midi_router_rule_type",
+						"i": "FLUID_MIDI_ROUTER_RULE_COUNT",
+						"r": "FLUID_MIDI_ROUTER_RULE_COUNT",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_COUNT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab2de96841effb2cf9ab5ba949fd16a88a205e36"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_midi_router_rule_type",
+						"t": "fluid_midi_router_rule_type",
+						"i": "fluid_midi_router_rule_type",
+						"r": "typedef enum fluid_midi_router_rule_type fluid_midi_router_rule_type",
+						"s": "",
+						"u": "FLUID_MIDI_ROUTER_RULE_TYPE",
+						"q": "",
+						"w": "",
+						"y": "fluid_midi_router_rule_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4289fee1ac3837f9a352d3994d8cd9c68c79d02e"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_player_status",
+						"t": "fluid_player_status",
+						"i": "fluid_player_status",
+						"r": "enum fluid_player_status",
+						"s": "",
+						"u": "FLUID_PLAYER_STATUS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "055ff51cbffe3ba9d1c6586586b7aa9b4419cc9e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PLAYER_READY",
+						"t": "fluid_player_status",
+						"i": "FLUID_PLAYER_READY",
+						"r": "FLUID_PLAYER_READY",
+						"s": "",
+						"u": "FLUID_PLAYER_READY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0882f3777bf30a46be353fa095fb7baa69d62a95"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PLAYER_PLAYING",
+						"t": "fluid_player_status",
+						"i": "FLUID_PLAYER_PLAYING",
+						"r": "FLUID_PLAYER_PLAYING",
+						"s": "",
+						"u": "FLUID_PLAYER_PLAYING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dcbc8cf529797c168c35c28cbdc614aafcb2c02e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PLAYER_STOPPING",
+						"t": "fluid_player_status",
+						"i": "FLUID_PLAYER_STOPPING",
+						"r": "FLUID_PLAYER_STOPPING",
+						"s": "",
+						"u": "FLUID_PLAYER_STOPPING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "485d106105692831bc424b5c01d3cfad548d8fbc"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PLAYER_DONE",
+						"t": "fluid_player_status",
+						"i": "FLUID_PLAYER_DONE",
+						"r": "FLUID_PLAYER_DONE",
+						"s": "",
+						"u": "FLUID_PLAYER_DONE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "544663473224477873306fe895bf56ade7107451"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_player_set_tempo_type",
+						"t": "fluid_player_set_tempo_type",
+						"i": "fluid_player_set_tempo_type",
+						"r": "enum fluid_player_set_tempo_type",
+						"s": "",
+						"u": "FLUID_PLAYER_SET_TEMPO_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b61d0962e52e51cba2fc9a5d1accc90181c066df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PLAYER_TEMPO_INTERNAL",
+						"t": "fluid_player_set_tempo_type",
+						"i": "FLUID_PLAYER_TEMPO_INTERNAL",
+						"r": "FLUID_PLAYER_TEMPO_INTERNAL",
+						"s": "",
+						"u": "FLUID_PLAYER_TEMPO_INTERNAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5a56d423353661af36564447a0bf7bd00aa8ccd4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PLAYER_TEMPO_EXTERNAL_BPM",
+						"t": "fluid_player_set_tempo_type",
+						"i": "FLUID_PLAYER_TEMPO_EXTERNAL_BPM",
+						"r": "FLUID_PLAYER_TEMPO_EXTERNAL_BPM",
+						"s": "",
+						"u": "FLUID_PLAYER_TEMPO_EXTERNAL_BPM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1a6522a9d3ace7c0797f04959739a0156c937b9c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PLAYER_TEMPO_EXTERNAL_MIDI",
+						"t": "fluid_player_set_tempo_type",
+						"i": "FLUID_PLAYER_TEMPO_EXTERNAL_MIDI",
+						"r": "FLUID_PLAYER_TEMPO_EXTERNAL_MIDI",
+						"s": "",
+						"u": "FLUID_PLAYER_TEMPO_EXTERNAL_MIDI",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a4ca71ec0769f1845cc28b05793fbb8f01df9b9b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PLAYER_TEMPO_NBR",
+						"t": "fluid_player_set_tempo_type",
+						"i": "FLUID_PLAYER_TEMPO_NBR",
+						"r": "FLUID_PLAYER_TEMPO_NBR",
+						"s": "",
+						"u": "FLUID_PLAYER_TEMPO_NBR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f8c54a248a238581a4fa0acb3e40e958ce692d80"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/seq.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_SEQ_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_SEQ_H",
+						"r": "_FLUIDSYNTH_SEQ_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_SEQ_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c740b9b2e8036ebb1697fc14de321ec179d9d90"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_event_callback_t",
+						"t": "fluid_event_callback_t",
+						"i": "fluid_event_callback_t",
+						"r": "typedef void (*fluid_event_callback_t)(unsigned int, fluid_event_t *, fluid_sequencer_t *, void *)",
+						"s": "",
+						"u": "FLUID_EVENT_CALLBACK_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "38609a3709e607d57ad773419b7656e73268e375"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time",
+						"t": "unsigned int",
+						"i": "time",
+						"r": "unsigned int time",
+						"s": "",
+						"u": "TIME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b235270696df8179efaf73309aef9fa625337106"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "event",
+						"t": "fluid_event_t *",
+						"i": "event",
+						"r": "fluid_event_t *event",
+						"s": "",
+						"u": "EVENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "74e97c0c25b37f8f2b23faac36995d1dd04b2c1e"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "seq",
+						"t": "fluid_sequencer_t *",
+						"i": "seq",
+						"r": "fluid_sequencer_t *seq",
+						"s": "",
+						"u": "SEQ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "85fa3a98957d1f57db2f01b0749c2b2ff5bdfc07"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "void *",
+						"i": "data",
+						"r": "void *data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73c9c70f6a71dfc2218ddc96195221d6e45058da"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/seqbind.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_SEQBIND_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_SEQBIND_H",
+						"r": "_FLUIDSYNTH_SEQBIND_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_SEQBIND_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2eb91ec12ebc9ba3912ee884aef373eaead3ca8f"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/log.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_LOG_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_LOG_H",
+						"r": "_FLUIDSYNTH_LOG_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_LOG_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f60dc0c89315afc6752807db1d24e0eac440fd28"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_log_level",
+						"t": "fluid_log_level",
+						"i": "fluid_log_level",
+						"r": "enum fluid_log_level",
+						"s": "",
+						"u": "FLUID_LOG_LEVEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6fd942169b54346557eef00511fc0570b374af3e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_PANIC",
+						"t": "fluid_log_level",
+						"i": "FLUID_PANIC",
+						"r": "FLUID_PANIC",
+						"s": "",
+						"u": "FLUID_PANIC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b22b33546be9fd90267a7c28fb4ba2fd5072d5e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_ERR",
+						"t": "fluid_log_level",
+						"i": "FLUID_ERR",
+						"r": "FLUID_ERR",
+						"s": "",
+						"u": "FLUID_ERR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b26422a57d430f59d2e934c46903e47bea71330"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_WARN",
+						"t": "fluid_log_level",
+						"i": "FLUID_WARN",
+						"r": "FLUID_WARN",
+						"s": "",
+						"u": "FLUID_WARN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "72bd4719d96a82e2672d95f22957223ff9a7d12c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_INFO",
+						"t": "fluid_log_level",
+						"i": "FLUID_INFO",
+						"r": "FLUID_INFO",
+						"s": "",
+						"u": "FLUID_INFO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5cce7dca347ea1d8091be62eecd5080c1c329e65"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_DBG",
+						"t": "fluid_log_level",
+						"i": "FLUID_DBG",
+						"r": "FLUID_DBG",
+						"s": "",
+						"u": "FLUID_DBG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5d51ee0ebaef42e1214c4f6dc5fcfe37fbbcffa8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LAST_LOG_LEVEL",
+						"t": "fluid_log_level",
+						"i": "LAST_LOG_LEVEL",
+						"r": "LAST_LOG_LEVEL",
+						"s": "",
+						"u": "LAST_LOG_LEVEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e578c4d98bc9f48c725b7bce6c7fb81cbe942602"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_log_function_t",
+						"t": "fluid_log_function_t",
+						"i": "fluid_log_function_t",
+						"r": "typedef void (*fluid_log_function_t)(int, const char *, void *)",
+						"s": "",
+						"u": "FLUID_LOG_FUNCTION_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "185617811e9eefa9dd8557657b30781fc88cf5fc"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "level",
+						"t": "int",
+						"i": "level",
+						"r": "int level",
+						"s": "",
+						"u": "LEVEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "95f3bcd954d0159f7265882ef2c41a1fcb54bb02"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "message",
+						"t": "const char *",
+						"i": "message",
+						"r": "const char *message",
+						"s": "",
+						"u": "MESSAGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ade7a818364da537da39dbe1b11f4d4ae838e8e7"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "void *",
+						"i": "data",
+						"r": "void *data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73c9c70f6a71dfc2218ddc96195221d6e45058da"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/misc.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_MISC_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_MISC_H",
+						"r": "_FLUIDSYNTH_MISC_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_MISC_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "09e52a6c23b525bc912ee86d45490e7a4bd4a474"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_OK",
+						"t": "",
+						"i": "FLUID_OK",
+						"r": "FLUID_OK",
+						"s": "",
+						"u": "FLUID_OK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4696968b472a06011075a852a28334c99bfcc0dc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_FAILED",
+						"t": "",
+						"i": "FLUID_FAILED",
+						"r": "FLUID_FAILED",
+						"s": "",
+						"u": "FLUID_FAILED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "59f88aae84da24b26996dd9bd556d098c750657a"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/mod.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_MOD_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_MOD_H",
+						"r": "_FLUIDSYNTH_MOD_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_MOD_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "385554205e2d3fab3d54557e8b13592149c2032d"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_mod_flags",
+						"t": "fluid_mod_flags",
+						"i": "fluid_mod_flags",
+						"r": "enum fluid_mod_flags",
+						"s": "",
+						"u": "FLUID_MOD_FLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d47c8e4aebcec226693e9827d3f3723b223ba471"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_POSITIVE",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_POSITIVE",
+						"r": "FLUID_MOD_POSITIVE",
+						"s": "",
+						"u": "FLUID_MOD_POSITIVE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ba670a5c657339eb49188a21c7327eaaa75f7ce"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_NEGATIVE",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_NEGATIVE",
+						"r": "FLUID_MOD_NEGATIVE",
+						"s": "",
+						"u": "FLUID_MOD_NEGATIVE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "25b86209b60f1c8ac54a352ddbe6141466a0e6d7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_UNIPOLAR",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_UNIPOLAR",
+						"r": "FLUID_MOD_UNIPOLAR",
+						"s": "",
+						"u": "FLUID_MOD_UNIPOLAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6db164d5f527c6643969c663343b56cef8a655c5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_BIPOLAR",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_BIPOLAR",
+						"r": "FLUID_MOD_BIPOLAR",
+						"s": "",
+						"u": "FLUID_MOD_BIPOLAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2dfc753aef466efabd735974ed6c7242054e803b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_LINEAR",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_LINEAR",
+						"r": "FLUID_MOD_LINEAR",
+						"s": "",
+						"u": "FLUID_MOD_LINEAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6ae2c9ad1098c03be39392aef770f9abe7786e9"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_CONCAVE",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_CONCAVE",
+						"r": "FLUID_MOD_CONCAVE",
+						"s": "",
+						"u": "FLUID_MOD_CONCAVE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f2acb69e9e90cbed3f66cdd32f9c2986f965494"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_CONVEX",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_CONVEX",
+						"r": "FLUID_MOD_CONVEX",
+						"s": "",
+						"u": "FLUID_MOD_CONVEX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81a4284299865996a8a13c3f9784459dafe5a3d5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_SWITCH",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_SWITCH",
+						"r": "FLUID_MOD_SWITCH",
+						"s": "",
+						"u": "FLUID_MOD_SWITCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "215bc09f962d074da0a5be1ccdb66e3a69036e4b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_GC",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_GC",
+						"r": "FLUID_MOD_GC",
+						"s": "",
+						"u": "FLUID_MOD_GC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "06376be2b9fd6c75280ca26e044b6f7841d00171"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_CC",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_CC",
+						"r": "FLUID_MOD_CC",
+						"s": "",
+						"u": "FLUID_MOD_CC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32f706c433dbec66f584e182ad9b1afc84a63881"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_SIN",
+						"t": "fluid_mod_flags",
+						"i": "FLUID_MOD_SIN",
+						"r": "FLUID_MOD_SIN",
+						"s": "",
+						"u": "FLUID_MOD_SIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d27c8834a3347b7a2293c8d4c262554477a56051"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_mod_src",
+						"t": "fluid_mod_src",
+						"i": "fluid_mod_src",
+						"r": "enum fluid_mod_src",
+						"s": "",
+						"u": "FLUID_MOD_SRC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ffb31890a9a22cd55e54101d7a9ef253dd661ef7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_NONE",
+						"t": "fluid_mod_src",
+						"i": "FLUID_MOD_NONE",
+						"r": "FLUID_MOD_NONE",
+						"s": "",
+						"u": "FLUID_MOD_NONE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8ed928d203fcbd8f1df9c408d1bf6dbc5512fb12"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_VELOCITY",
+						"t": "fluid_mod_src",
+						"i": "FLUID_MOD_VELOCITY",
+						"r": "FLUID_MOD_VELOCITY",
+						"s": "",
+						"u": "FLUID_MOD_VELOCITY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "74d9bf7b41fe8e2078f5b98687e3f53f2c6a7108"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_KEY",
+						"t": "fluid_mod_src",
+						"i": "FLUID_MOD_KEY",
+						"r": "FLUID_MOD_KEY",
+						"s": "",
+						"u": "FLUID_MOD_KEY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "559043f81234c54bbc6beb2f8df6474b672f03dd"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_KEYPRESSURE",
+						"t": "fluid_mod_src",
+						"i": "FLUID_MOD_KEYPRESSURE",
+						"r": "FLUID_MOD_KEYPRESSURE",
+						"s": "",
+						"u": "FLUID_MOD_KEYPRESSURE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c1940e459152519a0b45902d41284ea54b8c4ff2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_CHANNELPRESSURE",
+						"t": "fluid_mod_src",
+						"i": "FLUID_MOD_CHANNELPRESSURE",
+						"r": "FLUID_MOD_CHANNELPRESSURE",
+						"s": "",
+						"u": "FLUID_MOD_CHANNELPRESSURE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a370a659e33c78a1fc864136eddc057b82558747"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_PITCHWHEEL",
+						"t": "fluid_mod_src",
+						"i": "FLUID_MOD_PITCHWHEEL",
+						"r": "FLUID_MOD_PITCHWHEEL",
+						"s": "",
+						"u": "FLUID_MOD_PITCHWHEEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d401f78783da571dd1b35f281bcfd53fbfd109a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_MOD_PITCHWHEELSENS",
+						"t": "fluid_mod_src",
+						"i": "FLUID_MOD_PITCHWHEELSENS",
+						"r": "FLUID_MOD_PITCHWHEELSENS",
+						"s": "",
+						"u": "FLUID_MOD_PITCHWHEELSENS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ea95b5adb14494403b9eafe9ef35fbaa27f22cf"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/gen.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_GEN_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_GEN_H",
+						"r": "_FLUIDSYNTH_GEN_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_GEN_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1dffe99b68d89df5bab51da5673257c8887c8ef"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_gen_type",
+						"t": "fluid_gen_type",
+						"i": "fluid_gen_type",
+						"r": "enum fluid_gen_type",
+						"s": "",
+						"u": "FLUID_GEN_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d4c7a2ea7e896f7b5f53f8c9ee29a7cadebf1a2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_STARTADDROFS",
+						"t": "fluid_gen_type",
+						"i": "GEN_STARTADDROFS",
+						"r": "GEN_STARTADDROFS",
+						"s": "",
+						"u": "GEN_STARTADDROFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ffd626876ab631ee1df754757581e4418eacfec3"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_ENDADDROFS",
+						"t": "fluid_gen_type",
+						"i": "GEN_ENDADDROFS",
+						"r": "GEN_ENDADDROFS",
+						"s": "",
+						"u": "GEN_ENDADDROFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8e86b4c5eaf6f77ab073e3bf5f1ff396206e6d1f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_STARTLOOPADDROFS",
+						"t": "fluid_gen_type",
+						"i": "GEN_STARTLOOPADDROFS",
+						"r": "GEN_STARTLOOPADDROFS",
+						"s": "",
+						"u": "GEN_STARTLOOPADDROFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4c42439acf8d780ff4d739a9963b890e1cdaf576"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_ENDLOOPADDROFS",
+						"t": "fluid_gen_type",
+						"i": "GEN_ENDLOOPADDROFS",
+						"r": "GEN_ENDLOOPADDROFS",
+						"s": "",
+						"u": "GEN_ENDLOOPADDROFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1179b1439fb87ba3514b3618fb5b8c8f89d01173"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_STARTADDRCOARSEOFS",
+						"t": "fluid_gen_type",
+						"i": "GEN_STARTADDRCOARSEOFS",
+						"r": "GEN_STARTADDRCOARSEOFS",
+						"s": "",
+						"u": "GEN_STARTADDRCOARSEOFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eddf0b8f3d9ab023802b7a8208bc4f477c511cf6"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODLFOTOPITCH",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODLFOTOPITCH",
+						"r": "GEN_MODLFOTOPITCH",
+						"s": "",
+						"u": "GEN_MODLFOTOPITCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6f05cd648241e45b1f871b55037c119969d139d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VIBLFOTOPITCH",
+						"t": "fluid_gen_type",
+						"i": "GEN_VIBLFOTOPITCH",
+						"r": "GEN_VIBLFOTOPITCH",
+						"s": "",
+						"u": "GEN_VIBLFOTOPITCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b47172166cfba5182999f79a5f704016b064bd9"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODENVTOPITCH",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODENVTOPITCH",
+						"r": "GEN_MODENVTOPITCH",
+						"s": "",
+						"u": "GEN_MODENVTOPITCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b54c37b649d2b69eee8a782cc5698659782309f4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_FILTERFC",
+						"t": "fluid_gen_type",
+						"i": "GEN_FILTERFC",
+						"r": "GEN_FILTERFC",
+						"s": "",
+						"u": "GEN_FILTERFC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f2fa2a803aa3793752539da4f90b43c731041563"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_FILTERQ",
+						"t": "fluid_gen_type",
+						"i": "GEN_FILTERQ",
+						"r": "GEN_FILTERQ",
+						"s": "",
+						"u": "GEN_FILTERQ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee827a994003d3c31cfec454f3513b1b2c9beb9b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODLFOTOFILTERFC",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODLFOTOFILTERFC",
+						"r": "GEN_MODLFOTOFILTERFC",
+						"s": "",
+						"u": "GEN_MODLFOTOFILTERFC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fff73b2896c2d4020ff7494225d19409e5148186"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODENVTOFILTERFC",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODENVTOFILTERFC",
+						"r": "GEN_MODENVTOFILTERFC",
+						"s": "",
+						"u": "GEN_MODENVTOFILTERFC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb3056372657061e00262317e547416c32abef24"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_ENDADDRCOARSEOFS",
+						"t": "fluid_gen_type",
+						"i": "GEN_ENDADDRCOARSEOFS",
+						"r": "GEN_ENDADDRCOARSEOFS",
+						"s": "",
+						"u": "GEN_ENDADDRCOARSEOFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d71e67d58c0a7ceeba7cb6176db26e5bcc24802"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODLFOTOVOL",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODLFOTOVOL",
+						"r": "GEN_MODLFOTOVOL",
+						"s": "",
+						"u": "GEN_MODLFOTOVOL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "184a4fbbf38b2006aef5c679b62ede133d51300b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_UNUSED1",
+						"t": "fluid_gen_type",
+						"i": "GEN_UNUSED1",
+						"r": "GEN_UNUSED1",
+						"s": "",
+						"u": "GEN_UNUSED1",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d1aa7c25fe4d22982c418bc647214a8d0b100b4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_CHORUSSEND",
+						"t": "fluid_gen_type",
+						"i": "GEN_CHORUSSEND",
+						"r": "GEN_CHORUSSEND",
+						"s": "",
+						"u": "GEN_CHORUSSEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fc3688e27b3bdd92b2b71a5dbe3c3983e37f73ed"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_REVERBSEND",
+						"t": "fluid_gen_type",
+						"i": "GEN_REVERBSEND",
+						"r": "GEN_REVERBSEND",
+						"s": "",
+						"u": "GEN_REVERBSEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "05b7fa453620ae973ad6d654ec482e66cd178633"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_PAN",
+						"t": "fluid_gen_type",
+						"i": "GEN_PAN",
+						"r": "GEN_PAN",
+						"s": "",
+						"u": "GEN_PAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "24ce744fa56350d5ebd08e201a3c697b93e4feab"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_UNUSED2",
+						"t": "fluid_gen_type",
+						"i": "GEN_UNUSED2",
+						"r": "GEN_UNUSED2",
+						"s": "",
+						"u": "GEN_UNUSED2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1655392da5439c0faf4f82ce4310a320001c7f5c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_UNUSED3",
+						"t": "fluid_gen_type",
+						"i": "GEN_UNUSED3",
+						"r": "GEN_UNUSED3",
+						"s": "",
+						"u": "GEN_UNUSED3",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa46fe26e2b63d752a6a772c742f3ac46a5135a5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_UNUSED4",
+						"t": "fluid_gen_type",
+						"i": "GEN_UNUSED4",
+						"r": "GEN_UNUSED4",
+						"s": "",
+						"u": "GEN_UNUSED4",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "da55243d55be3d2ffb4220517684fae7760d6b24"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODLFODELAY",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODLFODELAY",
+						"r": "GEN_MODLFODELAY",
+						"s": "",
+						"u": "GEN_MODLFODELAY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "904796eaa9f70367036625e845646557c83cdeb8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODLFOFREQ",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODLFOFREQ",
+						"r": "GEN_MODLFOFREQ",
+						"s": "",
+						"u": "GEN_MODLFOFREQ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "736b3ac5daf3afc7fac0136cb89139b4ec6b7f84"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VIBLFODELAY",
+						"t": "fluid_gen_type",
+						"i": "GEN_VIBLFODELAY",
+						"r": "GEN_VIBLFODELAY",
+						"s": "",
+						"u": "GEN_VIBLFODELAY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d530a7ebbc06a7c53706cf657b4db5f3d43107ed"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VIBLFOFREQ",
+						"t": "fluid_gen_type",
+						"i": "GEN_VIBLFOFREQ",
+						"r": "GEN_VIBLFOFREQ",
+						"s": "",
+						"u": "GEN_VIBLFOFREQ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d0c399b23801b0657da3e98f699059302406658"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODENVDELAY",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODENVDELAY",
+						"r": "GEN_MODENVDELAY",
+						"s": "",
+						"u": "GEN_MODENVDELAY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a95720c326643b5ca5842a00060e70bd1343f785"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODENVATTACK",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODENVATTACK",
+						"r": "GEN_MODENVATTACK",
+						"s": "",
+						"u": "GEN_MODENVATTACK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f5282e775a76e4cb947f3c380f8f047ab159190"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODENVHOLD",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODENVHOLD",
+						"r": "GEN_MODENVHOLD",
+						"s": "",
+						"u": "GEN_MODENVHOLD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0c091806b02197156798bca78811f5ad5333291b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODENVDECAY",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODENVDECAY",
+						"r": "GEN_MODENVDECAY",
+						"s": "",
+						"u": "GEN_MODENVDECAY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c3ed184c50a21a3b71b559c65e8cd9ddc8893759"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODENVSUSTAIN",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODENVSUSTAIN",
+						"r": "GEN_MODENVSUSTAIN",
+						"s": "",
+						"u": "GEN_MODENVSUSTAIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ecd5a9c800badc163c68507aa0c12335f351bdbd"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_MODENVRELEASE",
+						"t": "fluid_gen_type",
+						"i": "GEN_MODENVRELEASE",
+						"r": "GEN_MODENVRELEASE",
+						"s": "",
+						"u": "GEN_MODENVRELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "01251860c940517940ce77c78d7a72bc3ce00736"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_KEYTOMODENVHOLD",
+						"t": "fluid_gen_type",
+						"i": "GEN_KEYTOMODENVHOLD",
+						"r": "GEN_KEYTOMODENVHOLD",
+						"s": "",
+						"u": "GEN_KEYTOMODENVHOLD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d56d17b88980ebe46ba58137a6dcb46a8b46a23d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_KEYTOMODENVDECAY",
+						"t": "fluid_gen_type",
+						"i": "GEN_KEYTOMODENVDECAY",
+						"r": "GEN_KEYTOMODENVDECAY",
+						"s": "",
+						"u": "GEN_KEYTOMODENVDECAY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0261babd11a19272b795c0482a621372fa713c88"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VOLENVDELAY",
+						"t": "fluid_gen_type",
+						"i": "GEN_VOLENVDELAY",
+						"r": "GEN_VOLENVDELAY",
+						"s": "",
+						"u": "GEN_VOLENVDELAY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fc9042702eec96ac3b104254db89d143fde3897a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VOLENVATTACK",
+						"t": "fluid_gen_type",
+						"i": "GEN_VOLENVATTACK",
+						"r": "GEN_VOLENVATTACK",
+						"s": "",
+						"u": "GEN_VOLENVATTACK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f1beae667b962e68cbb50a98b1d462d72f656ef"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VOLENVHOLD",
+						"t": "fluid_gen_type",
+						"i": "GEN_VOLENVHOLD",
+						"r": "GEN_VOLENVHOLD",
+						"s": "",
+						"u": "GEN_VOLENVHOLD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec3b8ffab9c8e9d96d9621a7a6bbbd6dfc17f188"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VOLENVDECAY",
+						"t": "fluid_gen_type",
+						"i": "GEN_VOLENVDECAY",
+						"r": "GEN_VOLENVDECAY",
+						"s": "",
+						"u": "GEN_VOLENVDECAY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "547ad4498db362acb53fd9cfc6aa7617f1731aaf"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VOLENVSUSTAIN",
+						"t": "fluid_gen_type",
+						"i": "GEN_VOLENVSUSTAIN",
+						"r": "GEN_VOLENVSUSTAIN",
+						"s": "",
+						"u": "GEN_VOLENVSUSTAIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "722e5cf11e806f868acd4783657ac4078e0fc345"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VOLENVRELEASE",
+						"t": "fluid_gen_type",
+						"i": "GEN_VOLENVRELEASE",
+						"r": "GEN_VOLENVRELEASE",
+						"s": "",
+						"u": "GEN_VOLENVRELEASE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8461120b42c5baf9fcde651e4b864ba17f3a9b82"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_KEYTOVOLENVHOLD",
+						"t": "fluid_gen_type",
+						"i": "GEN_KEYTOVOLENVHOLD",
+						"r": "GEN_KEYTOVOLENVHOLD",
+						"s": "",
+						"u": "GEN_KEYTOVOLENVHOLD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c8ee1dc5d89a2df942e3a3b6ef0c558837d5600"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_KEYTOVOLENVDECAY",
+						"t": "fluid_gen_type",
+						"i": "GEN_KEYTOVOLENVDECAY",
+						"r": "GEN_KEYTOVOLENVDECAY",
+						"s": "",
+						"u": "GEN_KEYTOVOLENVDECAY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10cc7f37b0f2dd857f90577588a606ae194fcd67"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_INSTRUMENT",
+						"t": "fluid_gen_type",
+						"i": "GEN_INSTRUMENT",
+						"r": "GEN_INSTRUMENT",
+						"s": "",
+						"u": "GEN_INSTRUMENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f7e64bb5481ad0c6a939b6cef7d68efd1c2324c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_RESERVED1",
+						"t": "fluid_gen_type",
+						"i": "GEN_RESERVED1",
+						"r": "GEN_RESERVED1",
+						"s": "",
+						"u": "GEN_RESERVED1",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd0d74dfb42e02bb09b0a098e16ab01443acdc30"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_KEYRANGE",
+						"t": "fluid_gen_type",
+						"i": "GEN_KEYRANGE",
+						"r": "GEN_KEYRANGE",
+						"s": "",
+						"u": "GEN_KEYRANGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fdecfd3fd64a62eebb342135e5fe1720434858dd"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VELRANGE",
+						"t": "fluid_gen_type",
+						"i": "GEN_VELRANGE",
+						"r": "GEN_VELRANGE",
+						"s": "",
+						"u": "GEN_VELRANGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1fbcb3702c074467488c347db0fef7c641b20bc6"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_STARTLOOPADDRCOARSEOFS",
+						"t": "fluid_gen_type",
+						"i": "GEN_STARTLOOPADDRCOARSEOFS",
+						"r": "GEN_STARTLOOPADDRCOARSEOFS",
+						"s": "",
+						"u": "GEN_STARTLOOPADDRCOARSEOFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "48f300ad21e6a3cfcd5229a82bc1dcac7fed5bfc"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_KEYNUM",
+						"t": "fluid_gen_type",
+						"i": "GEN_KEYNUM",
+						"r": "GEN_KEYNUM",
+						"s": "",
+						"u": "GEN_KEYNUM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e18132022e095f0047bd422d36802f33fe81a08f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_VELOCITY",
+						"t": "fluid_gen_type",
+						"i": "GEN_VELOCITY",
+						"r": "GEN_VELOCITY",
+						"s": "",
+						"u": "GEN_VELOCITY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "257a00b26c420ca4c78f743986ecc8ab599468e8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_ATTENUATION",
+						"t": "fluid_gen_type",
+						"i": "GEN_ATTENUATION",
+						"r": "GEN_ATTENUATION",
+						"s": "",
+						"u": "GEN_ATTENUATION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "35526a6879cc44a75f06fbf6da5a061230f3ed7e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_RESERVED2",
+						"t": "fluid_gen_type",
+						"i": "GEN_RESERVED2",
+						"r": "GEN_RESERVED2",
+						"s": "",
+						"u": "GEN_RESERVED2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b270eed7d83175c267e6655447bc4f9bb90690ec"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_ENDLOOPADDRCOARSEOFS",
+						"t": "fluid_gen_type",
+						"i": "GEN_ENDLOOPADDRCOARSEOFS",
+						"r": "GEN_ENDLOOPADDRCOARSEOFS",
+						"s": "",
+						"u": "GEN_ENDLOOPADDRCOARSEOFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a8858850e5a257e1464522952dbcf679cee2bc40"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_COARSETUNE",
+						"t": "fluid_gen_type",
+						"i": "GEN_COARSETUNE",
+						"r": "GEN_COARSETUNE",
+						"s": "",
+						"u": "GEN_COARSETUNE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b29cf85761b66cc4168cf7eba4898cace89bc15a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_FINETUNE",
+						"t": "fluid_gen_type",
+						"i": "GEN_FINETUNE",
+						"r": "GEN_FINETUNE",
+						"s": "",
+						"u": "GEN_FINETUNE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8d730d153134aba16d57b8e9572eb809f6466d83"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_SAMPLEID",
+						"t": "fluid_gen_type",
+						"i": "GEN_SAMPLEID",
+						"r": "GEN_SAMPLEID",
+						"s": "",
+						"u": "GEN_SAMPLEID",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af8bf07eaffdffc7f3c239efd0e90f9aa874cc8a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_SAMPLEMODE",
+						"t": "fluid_gen_type",
+						"i": "GEN_SAMPLEMODE",
+						"r": "GEN_SAMPLEMODE",
+						"s": "",
+						"u": "GEN_SAMPLEMODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e62ef478b85f7431b1415bb0ba013d90f15f20c2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_RESERVED3",
+						"t": "fluid_gen_type",
+						"i": "GEN_RESERVED3",
+						"r": "GEN_RESERVED3",
+						"s": "",
+						"u": "GEN_RESERVED3",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5169354248b424690c7fccdd773c6d66620047ed"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_SCALETUNE",
+						"t": "fluid_gen_type",
+						"i": "GEN_SCALETUNE",
+						"r": "GEN_SCALETUNE",
+						"s": "",
+						"u": "GEN_SCALETUNE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a2d7a2a936c45cc56f0a00dcd180e27b403c4b2f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_EXCLUSIVECLASS",
+						"t": "fluid_gen_type",
+						"i": "GEN_EXCLUSIVECLASS",
+						"r": "GEN_EXCLUSIVECLASS",
+						"s": "",
+						"u": "GEN_EXCLUSIVECLASS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13a9535ad7ab2ea504efd5b3f00964be02739029"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_OVERRIDEROOTKEY",
+						"t": "fluid_gen_type",
+						"i": "GEN_OVERRIDEROOTKEY",
+						"r": "GEN_OVERRIDEROOTKEY",
+						"s": "",
+						"u": "GEN_OVERRIDEROOTKEY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2256c245c0709490e98512f320d048a76792d41f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_PITCH",
+						"t": "fluid_gen_type",
+						"i": "GEN_PITCH",
+						"r": "GEN_PITCH",
+						"s": "",
+						"u": "GEN_PITCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd0f070459e908fe137abc5f48ea0e25bb523bf2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_CUSTOM_BALANCE",
+						"t": "fluid_gen_type",
+						"i": "GEN_CUSTOM_BALANCE",
+						"r": "GEN_CUSTOM_BALANCE",
+						"s": "",
+						"u": "GEN_CUSTOM_BALANCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcf21d80ef994f1d818180abedbd1c7f6673a3e9"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_CUSTOM_FILTERFC",
+						"t": "fluid_gen_type",
+						"i": "GEN_CUSTOM_FILTERFC",
+						"r": "GEN_CUSTOM_FILTERFC",
+						"s": "",
+						"u": "GEN_CUSTOM_FILTERFC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e150ac495acf02452d9e8629274da589742efbc"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_CUSTOM_FILTERQ",
+						"t": "fluid_gen_type",
+						"i": "GEN_CUSTOM_FILTERQ",
+						"r": "GEN_CUSTOM_FILTERQ",
+						"s": "",
+						"u": "GEN_CUSTOM_FILTERQ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e1b684be5c1827f2fe38c3db8e620cb813a250b1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GEN_LAST",
+						"t": "fluid_gen_type",
+						"i": "GEN_LAST",
+						"r": "GEN_LAST",
+						"s": "",
+						"u": "GEN_LAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92ca8b68f3ff5dd8f9a2caa35c5472d9a382270e"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/voice.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_VOICE_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_VOICE_H",
+						"r": "_FLUIDSYNTH_VOICE_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_VOICE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "332ca33dd75e114244ccf13d9dd82ae056813caf"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fluid_voice_add_mod",
+						"t": "fluid_voice_add_mod",
+						"i": "fluid_voice_add_mod",
+						"r": "enum fluid_voice_add_mod",
+						"s": "",
+						"u": "FLUID_VOICE_ADD_MOD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61040f3d64dba73d1a40822a844964fea7c1bbc5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_VOICE_OVERWRITE",
+						"t": "fluid_voice_add_mod",
+						"i": "FLUID_VOICE_OVERWRITE",
+						"r": "FLUID_VOICE_OVERWRITE",
+						"s": "",
+						"u": "FLUID_VOICE_OVERWRITE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40f0d4ac2bf1d8dbe554457170a566147aead28b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_VOICE_ADD",
+						"t": "fluid_voice_add_mod",
+						"i": "FLUID_VOICE_ADD",
+						"r": "FLUID_VOICE_ADD",
+						"s": "",
+						"u": "FLUID_VOICE_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "39ef2f347d5508138ca3dba3f4523190fe347296"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FLUID_VOICE_DEFAULT",
+						"t": "fluid_voice_add_mod",
+						"i": "FLUID_VOICE_DEFAULT",
+						"r": "FLUID_VOICE_DEFAULT",
+						"s": "",
+						"u": "FLUID_VOICE_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0f486b274648813678a192c26f4718649f01285"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/version.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_VERSION_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_VERSION_H",
+						"r": "_FLUIDSYNTH_VERSION_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_VERSION_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cfb78eb9fd86866cc2c9368c5741806d33a13aa2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUIDSYNTH_VERSION",
+						"t": "",
+						"i": "FLUIDSYNTH_VERSION",
+						"r": "FLUIDSYNTH_VERSION",
+						"s": "",
+						"u": "FLUIDSYNTH_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d18096e31144ddfb1e83bff55bf10bf0e1f621d5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUIDSYNTH_VERSION_MAJOR",
+						"t": "",
+						"i": "FLUIDSYNTH_VERSION_MAJOR",
+						"r": "FLUIDSYNTH_VERSION_MAJOR",
+						"s": "",
+						"u": "FLUIDSYNTH_VERSION_MAJOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e32090d03e7215b33da6c481401b6f72f827d86b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUIDSYNTH_VERSION_MINOR",
+						"t": "",
+						"i": "FLUIDSYNTH_VERSION_MINOR",
+						"r": "FLUIDSYNTH_VERSION_MINOR",
+						"s": "",
+						"u": "FLUIDSYNTH_VERSION_MINOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fc60f89191da360c26ab4cfb8e948cc6568a27d5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLUIDSYNTH_VERSION_MICRO",
+						"t": "",
+						"i": "FLUIDSYNTH_VERSION_MICRO",
+						"r": "FLUIDSYNTH_VERSION_MICRO",
+						"s": "",
+						"u": "FLUIDSYNTH_VERSION_MICRO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a31d1f5fc6cef5b126dac7605c693672d88344c"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "fluidsynth/ladspa.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FLUIDSYNTH_LADSPA_H",
+						"t": "",
+						"i": "_FLUIDSYNTH_LADSPA_H",
+						"r": "_FLUIDSYNTH_LADSPA_H",
+						"s": "",
+						"u": "_FLUIDSYNTH_LADSPA_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f48abae0d2b66800286898c245698dd780b66b24"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,376 @@
+{
+	"saved_hash": "ebeb92b795fe1ee224e7000da3a6497117bd0906",
+	"files": [
+		{
+			"key": "rpc/netdb.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_RPC_NETDB_H",
+						"t": "",
+						"i": "_RPC_NETDB_H",
+						"r": "_RPC_NETDB_H",
+						"s": "",
+						"u": "_RPC_NETDB_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e671dc2a937a692e43715fd05f2508b42b73195a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__need_size_t",
+						"t": "",
+						"i": "__need_size_t",
+						"r": "__need_size_t",
+						"s": "",
+						"u": "__NEED_SIZE_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "24c2ec94a1f122ceb7a470add06f18c13feb24cd"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rpcent",
+						"t": "rpcent",
+						"i": "rpcent",
+						"r": "rpcent",
+						"s": "",
+						"u": "RPCENT",
+						"q": "rpcent",
+						"w": "RPCENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0484272e7a90feb40ad82870164e8ba5616b6dae"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "r_name",
+						"t": "char *",
+						"i": "rpcent::r_name",
+						"r": "char *r_name",
+						"s": "",
+						"u": "R_NAME",
+						"q": "rpcent",
+						"w": "RPCENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "253c0d62d6107235876b50ab54e46d0468c3fee7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "r_aliases",
+						"t": "char **",
+						"i": "rpcent::r_aliases",
+						"r": "char **r_aliases",
+						"s": "",
+						"u": "R_ALIASES",
+						"q": "rpcent",
+						"w": "RPCENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5acdfe6958b29ca1b0bed1b8eccc548e71035ae7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "r_number",
+						"t": "int",
+						"i": "rpcent::r_number",
+						"r": "int r_number",
+						"s": "",
+						"u": "R_NUMBER",
+						"q": "rpcent",
+						"w": "RPCENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07183ef7140180997088addf1de213028551cd75"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "setrpcent",
+						"t": "void (int) noexcept(true)",
+						"i": "setrpcent(int)(true)",
+						"r": "void setrpcent(int __stayopen) (true)",
+						"s": "",
+						"u": "SETRPCENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c3b610fde63aa0382bdb51510d0fcd0abf06ef09"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "endrpcent",
+						"t": "void () noexcept(true)",
+						"i": "endrpcent()(true)",
+						"r": "void endrpcent() (true)",
+						"s": "",
+						"u": "ENDRPCENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6126eebf7781ee9099f6c6bd8bd09afc156a21ca"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "getrpcbyname",
+						"t": "struct rpcent *(const char *) noexcept(true)",
+						"i": "getrpcbyname(const char*)(true)",
+						"r": "rpcent *getrpcbyname(const char *__name) (true)",
+						"s": "",
+						"u": "GETRPCBYNAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "134961fce7e29ba642d5c8c1a484766e1fe31c3b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "getrpcbynumber",
+						"t": "struct rpcent *(int) noexcept(true)",
+						"i": "getrpcbynumber(int)(true)",
+						"r": "rpcent *getrpcbynumber(int __number) (true)",
+						"s": "",
+						"u": "GETRPCBYNUMBER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "414d0f904f631a0f50d42c5a252a73a59450360a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "getrpcent",
+						"t": "struct rpcent *() noexcept(true)",
+						"i": "getrpcent()(true)",
+						"r": "rpcent *getrpcent() (true)",
+						"s": "",
+						"u": "GETRPCENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5c5a8c0b7d33b9c0841fb8aca66c39cd67119df4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "getrpcbyname_r",
+						"t": "int (const char *, struct rpcent *, char *, size_t, struct rpcent **) noexcept(true)",
+						"i": "getrpcbyname_r(const char*,rpcent*,char*,size_t,rpcent**)(true)",
+						"r": "int getrpcbyname_r(const char *__name, rpcent *__result_buf, char *__buffer, size_t __buflen, rpcent **__result) (true)",
+						"s": "",
+						"u": "GETRPCBYNAME_R",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f3a75bc1e295896aa3e8eb2cd499a5415e576534"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "getrpcbynumber_r",
+						"t": "int (int, struct rpcent *, char *, size_t, struct rpcent **) noexcept(true)",
+						"i": "getrpcbynumber_r(int,rpcent*,char*,size_t,rpcent**)(true)",
+						"r": "int getrpcbynumber_r(int __number, rpcent *__result_buf, char *__buffer, size_t __buflen, rpcent **__result) (true)",
+						"s": "",
+						"u": "GETRPCBYNUMBER_R",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e95f7152151db1f106b6a47a99a9754726159fcf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "getrpcent_r",
+						"t": "int (struct rpcent *, char *, size_t, struct rpcent **) noexcept(true)",
+						"i": "getrpcent_r(rpcent*,char*,size_t,rpcent**)(true)",
+						"r": "int getrpcent_r(rpcent *__result_buf, char *__buffer, size_t __buflen, rpcent **__result) (true)",
+						"s": "",
+						"u": "GETRPCENT_R",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cd16cee4ad832b7781dfbda6b1b3e9117d1dfab9"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

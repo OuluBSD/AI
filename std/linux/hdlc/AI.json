@@ -1,0 +1,1806 @@
+{
+	"saved_hash": "89349d9e5e00776c8e83a87aed2b5adb1cd3dc6a",
+	"files": [
+		{
+			"key": "linux/hdlc/ioctl.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__HDLC_IOCTL_H__",
+						"t": "",
+						"i": "__HDLC_IOCTL_H__",
+						"r": "__HDLC_IOCTL_H__",
+						"s": "",
+						"u": "__HDLC_IOCTL_H__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e3f8c2c428d864b341b0c8b1f7f64e7f5c8faaad"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GENERIC_HDLC_VERSION",
+						"t": "",
+						"i": "GENERIC_HDLC_VERSION",
+						"r": "GENERIC_HDLC_VERSION",
+						"s": "",
+						"u": "GENERIC_HDLC_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68e773c00ec9bb3c90d592b40c0466153f911e75"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CLOCK_DEFAULT",
+						"t": "",
+						"i": "CLOCK_DEFAULT",
+						"r": "CLOCK_DEFAULT",
+						"s": "",
+						"u": "CLOCK_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "526f6daaf05673b7efaa31f8251d19afb6ad4dcb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CLOCK_EXT",
+						"t": "",
+						"i": "CLOCK_EXT",
+						"r": "CLOCK_EXT",
+						"s": "",
+						"u": "CLOCK_EXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d647ef25b67cee3eb4d041299dc889a76d5c751"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CLOCK_INT",
+						"t": "",
+						"i": "CLOCK_INT",
+						"r": "CLOCK_INT",
+						"s": "",
+						"u": "CLOCK_INT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d30dc095599a6256cee430ed835a12bd8c63576"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CLOCK_TXINT",
+						"t": "",
+						"i": "CLOCK_TXINT",
+						"r": "CLOCK_TXINT",
+						"s": "",
+						"u": "CLOCK_TXINT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "66eb8cb4202c60e4e9fa307e1a9dafb4edb25d55"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CLOCK_TXFROMRX",
+						"t": "",
+						"i": "CLOCK_TXFROMRX",
+						"r": "CLOCK_TXFROMRX",
+						"s": "",
+						"u": "CLOCK_TXFROMRX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b6e17405796dfe63b48020ef81ac782a909a8c0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ENCODING_DEFAULT",
+						"t": "",
+						"i": "ENCODING_DEFAULT",
+						"r": "ENCODING_DEFAULT",
+						"s": "",
+						"u": "ENCODING_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1cfb2893e52d2484522cb3dd5ca816c72c7de049"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ENCODING_NRZ",
+						"t": "",
+						"i": "ENCODING_NRZ",
+						"r": "ENCODING_NRZ",
+						"s": "",
+						"u": "ENCODING_NRZ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c85ea75ce81ee1744ea877eed09e73ed8456e2b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ENCODING_NRZI",
+						"t": "",
+						"i": "ENCODING_NRZI",
+						"r": "ENCODING_NRZI",
+						"s": "",
+						"u": "ENCODING_NRZI",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c8a4f6e4bde89f4ae7c13c41deb2a11e8f599b07"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ENCODING_FM_MARK",
+						"t": "",
+						"i": "ENCODING_FM_MARK",
+						"r": "ENCODING_FM_MARK",
+						"s": "",
+						"u": "ENCODING_FM_MARK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4912a25166a189113bd1b8a1c3224a5ea5b3df1b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ENCODING_FM_SPACE",
+						"t": "",
+						"i": "ENCODING_FM_SPACE",
+						"r": "ENCODING_FM_SPACE",
+						"s": "",
+						"u": "ENCODING_FM_SPACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f84fb52bb675c26065301a1bd3b6b1b4e38228ac"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ENCODING_MANCHESTER",
+						"t": "",
+						"i": "ENCODING_MANCHESTER",
+						"r": "ENCODING_MANCHESTER",
+						"s": "",
+						"u": "ENCODING_MANCHESTER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "efa9818ecb2616d95406fd75c980e621f9a97012"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PARITY_DEFAULT",
+						"t": "",
+						"i": "PARITY_DEFAULT",
+						"r": "PARITY_DEFAULT",
+						"s": "",
+						"u": "PARITY_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ac8b7d656224b3dc6f8bcb9227eafa7639a8495"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PARITY_NONE",
+						"t": "",
+						"i": "PARITY_NONE",
+						"r": "PARITY_NONE",
+						"s": "",
+						"u": "PARITY_NONE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d43675dcd618cb093158731c3a0eab5dbbf9078f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PARITY_CRC16_PR0",
+						"t": "",
+						"i": "PARITY_CRC16_PR0",
+						"r": "PARITY_CRC16_PR0",
+						"s": "",
+						"u": "PARITY_CRC16_PR0",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f118f23d90f02149080437f4e036921f86d1c334"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PARITY_CRC16_PR1",
+						"t": "",
+						"i": "PARITY_CRC16_PR1",
+						"r": "PARITY_CRC16_PR1",
+						"s": "",
+						"u": "PARITY_CRC16_PR1",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "62a0196eb61f2b7032f4aba08396f47a131f2d94"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PARITY_CRC16_PR0_CCITT",
+						"t": "",
+						"i": "PARITY_CRC16_PR0_CCITT",
+						"r": "PARITY_CRC16_PR0_CCITT",
+						"s": "",
+						"u": "PARITY_CRC16_PR0_CCITT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68e6613e1161d4c48ba47fd3d5284521773aebee"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PARITY_CRC16_PR1_CCITT",
+						"t": "",
+						"i": "PARITY_CRC16_PR1_CCITT",
+						"r": "PARITY_CRC16_PR1_CCITT",
+						"s": "",
+						"u": "PARITY_CRC16_PR1_CCITT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b29c1495befe83d9d6b96691aa98005947db345"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PARITY_CRC32_PR0_CCITT",
+						"t": "",
+						"i": "PARITY_CRC32_PR0_CCITT",
+						"r": "PARITY_CRC32_PR0_CCITT",
+						"s": "",
+						"u": "PARITY_CRC32_PR0_CCITT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9540f099042525a2e707403e89491df7e3ab0cf6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PARITY_CRC32_PR1_CCITT",
+						"t": "",
+						"i": "PARITY_CRC32_PR1_CCITT",
+						"r": "PARITY_CRC32_PR1_CCITT",
+						"s": "",
+						"u": "PARITY_CRC32_PR1_CCITT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f097f0a09d2ca0eba635460c05e74736bf78efd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LMI_DEFAULT",
+						"t": "",
+						"i": "LMI_DEFAULT",
+						"r": "LMI_DEFAULT",
+						"s": "",
+						"u": "LMI_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3941a5977a66033d9d639a895244f9596fd24963"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LMI_NONE",
+						"t": "",
+						"i": "LMI_NONE",
+						"r": "LMI_NONE",
+						"s": "",
+						"u": "LMI_NONE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9ebdf5278cf410cb01fc2c5e9296ca76bc9980cd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LMI_ANSI",
+						"t": "",
+						"i": "LMI_ANSI",
+						"r": "LMI_ANSI",
+						"s": "",
+						"u": "LMI_ANSI",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4ea6bc46cbbd291b5167eee5c3331e2e464879b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LMI_CCITT",
+						"t": "",
+						"i": "LMI_CCITT",
+						"r": "LMI_CCITT",
+						"s": "",
+						"u": "LMI_CCITT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30d107a534520c859c49b3d9958f1ceb79168c90"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LMI_CISCO",
+						"t": "",
+						"i": "LMI_CISCO",
+						"r": "LMI_CISCO",
+						"s": "",
+						"u": "LMI_CISCO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de2a851aeb3008e7725afec6aa0705fab25d8adf"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sync_serial_settings",
+						"t": "sync_serial_settings",
+						"i": "sync_serial_settings",
+						"r": "",
+						"s": "",
+						"u": "SYNC_SERIAL_SETTINGS",
+						"q": "sync_serial_settings",
+						"w": "SYNC_SERIAL_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a05e5f0794e35ef6faaa77c3d753b95981abf945"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "clock_rate",
+						"t": "unsigned int",
+						"i": "sync_serial_settings::clock_rate",
+						"r": "unsigned int clock_rate",
+						"s": "",
+						"u": "CLOCK_RATE",
+						"q": "sync_serial_settings",
+						"w": "SYNC_SERIAL_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c52a08a6b7042b0d2a0f1b6c6ff28d179b5eac69"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "clock_type",
+						"t": "unsigned int",
+						"i": "sync_serial_settings::clock_type",
+						"r": "unsigned int clock_type",
+						"s": "",
+						"u": "CLOCK_TYPE",
+						"q": "sync_serial_settings",
+						"w": "SYNC_SERIAL_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b43895575c38f7f265b4491c7f6db878bf1aabe"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "loopback",
+						"t": "unsigned short",
+						"i": "sync_serial_settings::loopback",
+						"r": "unsigned short loopback",
+						"s": "",
+						"u": "LOOPBACK",
+						"q": "sync_serial_settings",
+						"w": "SYNC_SERIAL_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9e97cd623bccd6c6b5c1d2f4dfe574a58deecaf"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sync_serial_settings",
+						"t": "sync_serial_settings",
+						"i": "sync_serial_settings",
+						"r": "typedef sync_serial_settings sync_serial_settings",
+						"s": "",
+						"u": "SYNC_SERIAL_SETTINGS",
+						"q": "",
+						"w": "",
+						"y": "sync_serial_settings",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3eceb56d4b2f45fdd0ef29f4c5549c34d8c026f2"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "te1_settings",
+						"t": "te1_settings",
+						"i": "te1_settings",
+						"r": "",
+						"s": "",
+						"u": "TE1_SETTINGS",
+						"q": "te1_settings",
+						"w": "TE1_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47ddceadbabf82871b7fde0c254a93ebab56c3f1"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "clock_rate",
+						"t": "unsigned int",
+						"i": "te1_settings::clock_rate",
+						"r": "unsigned int clock_rate",
+						"s": "",
+						"u": "CLOCK_RATE",
+						"q": "te1_settings",
+						"w": "TE1_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c52a08a6b7042b0d2a0f1b6c6ff28d179b5eac69"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "clock_type",
+						"t": "unsigned int",
+						"i": "te1_settings::clock_type",
+						"r": "unsigned int clock_type",
+						"s": "",
+						"u": "CLOCK_TYPE",
+						"q": "te1_settings",
+						"w": "TE1_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b43895575c38f7f265b4491c7f6db878bf1aabe"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "loopback",
+						"t": "unsigned short",
+						"i": "te1_settings::loopback",
+						"r": "unsigned short loopback",
+						"s": "",
+						"u": "LOOPBACK",
+						"q": "te1_settings",
+						"w": "TE1_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9e97cd623bccd6c6b5c1d2f4dfe574a58deecaf"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "slot_map",
+						"t": "unsigned int",
+						"i": "te1_settings::slot_map",
+						"r": "unsigned int slot_map",
+						"s": "",
+						"u": "SLOT_MAP",
+						"q": "te1_settings",
+						"w": "TE1_SETTINGS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "74f659267047a5bca6fe2f5e46bdf09a95d24b46"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "te1_settings",
+						"t": "te1_settings",
+						"i": "te1_settings",
+						"r": "typedef te1_settings te1_settings",
+						"s": "",
+						"u": "TE1_SETTINGS",
+						"q": "",
+						"w": "",
+						"y": "te1_settings",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aab627562ac6078ccdbaaa4fa17870e171198810"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "raw_hdlc_proto",
+						"t": "raw_hdlc_proto",
+						"i": "raw_hdlc_proto",
+						"r": "",
+						"s": "",
+						"u": "RAW_HDLC_PROTO",
+						"q": "raw_hdlc_proto",
+						"w": "RAW_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d78afd778d19d62b1046a1cf637afd395aa1ae6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "encoding",
+						"t": "unsigned short",
+						"i": "raw_hdlc_proto::encoding",
+						"r": "unsigned short encoding",
+						"s": "",
+						"u": "ENCODING",
+						"q": "raw_hdlc_proto",
+						"w": "RAW_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d64de1fb38f4f47026e15bf7e5699a71f76c84f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "parity",
+						"t": "unsigned short",
+						"i": "raw_hdlc_proto::parity",
+						"r": "unsigned short parity",
+						"s": "",
+						"u": "PARITY",
+						"q": "raw_hdlc_proto",
+						"w": "RAW_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ef3614068e2d0872f8f89964fcaae839e3b6fda"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "raw_hdlc_proto",
+						"t": "raw_hdlc_proto",
+						"i": "raw_hdlc_proto",
+						"r": "typedef raw_hdlc_proto raw_hdlc_proto",
+						"s": "",
+						"u": "RAW_HDLC_PROTO",
+						"q": "",
+						"w": "",
+						"y": "raw_hdlc_proto",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "676605fe9c3a743e103fb15fe89d8883a6d15b44"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fr_proto",
+						"t": "fr_proto",
+						"i": "fr_proto",
+						"r": "",
+						"s": "",
+						"u": "FR_PROTO",
+						"q": "fr_proto",
+						"w": "FR_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a75ecea6db82243ba4747baed9b8c1b6ae8c0c37"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "t391",
+						"t": "unsigned int",
+						"i": "fr_proto::t391",
+						"r": "unsigned int t391",
+						"s": "",
+						"u": "T391",
+						"q": "fr_proto",
+						"w": "FR_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3babcf01eab008101c0739ee3ea09208eb8f7857"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "t392",
+						"t": "unsigned int",
+						"i": "fr_proto::t392",
+						"r": "unsigned int t392",
+						"s": "",
+						"u": "T392",
+						"q": "fr_proto",
+						"w": "FR_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6626d8e14092f0717d83a7cf26e95d1173424745"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "n391",
+						"t": "unsigned int",
+						"i": "fr_proto::n391",
+						"r": "unsigned int n391",
+						"s": "",
+						"u": "N391",
+						"q": "fr_proto",
+						"w": "FR_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "612ffdcc5fc36c04247a94d41dc4ceb0c2c10ce2"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "n392",
+						"t": "unsigned int",
+						"i": "fr_proto::n392",
+						"r": "unsigned int n392",
+						"s": "",
+						"u": "N392",
+						"q": "fr_proto",
+						"w": "FR_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5023c7706828836804063677ba7da5c15581c524"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "n393",
+						"t": "unsigned int",
+						"i": "fr_proto::n393",
+						"r": "unsigned int n393",
+						"s": "",
+						"u": "N393",
+						"q": "fr_proto",
+						"w": "FR_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "76c0da52277884c3a4824f187750c8464c9d7d2c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lmi",
+						"t": "unsigned short",
+						"i": "fr_proto::lmi",
+						"r": "unsigned short lmi",
+						"s": "",
+						"u": "LMI",
+						"q": "fr_proto",
+						"w": "FR_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49b64e72cbb4655350e5df7aedd709d5619f4fee"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dce",
+						"t": "unsigned short",
+						"i": "fr_proto::dce",
+						"r": "unsigned short dce",
+						"s": "",
+						"u": "DCE",
+						"q": "fr_proto",
+						"w": "FR_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77e861faaf4c16d52735a6f79193414a0e0ba238"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fr_proto",
+						"t": "fr_proto",
+						"i": "fr_proto",
+						"r": "typedef fr_proto fr_proto",
+						"s": "",
+						"u": "FR_PROTO",
+						"q": "",
+						"w": "",
+						"y": "fr_proto",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0c87d2609332e887f76f5e048b6eed4c65718c32"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fr_proto_pvc",
+						"t": "fr_proto_pvc",
+						"i": "fr_proto_pvc",
+						"r": "",
+						"s": "",
+						"u": "FR_PROTO_PVC",
+						"q": "fr_proto_pvc",
+						"w": "FR_PROTO_PVC",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c45787badd78eaf2d03751f898d903ed7543c4c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dlci",
+						"t": "unsigned int",
+						"i": "fr_proto_pvc::dlci",
+						"r": "unsigned int dlci",
+						"s": "",
+						"u": "DLCI",
+						"q": "fr_proto_pvc",
+						"w": "FR_PROTO_PVC",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b983df14d0ded3b3f01fd31b2f356d45495d47ed"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fr_proto_pvc",
+						"t": "fr_proto_pvc",
+						"i": "fr_proto_pvc",
+						"r": "typedef fr_proto_pvc fr_proto_pvc",
+						"s": "",
+						"u": "FR_PROTO_PVC",
+						"q": "",
+						"w": "",
+						"y": "fr_proto_pvc",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "790616b533211d389ca845b0b2a3a8f2394bf9e3"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fr_proto_pvc_info",
+						"t": "fr_proto_pvc_info",
+						"i": "fr_proto_pvc_info",
+						"r": "",
+						"s": "",
+						"u": "FR_PROTO_PVC_INFO",
+						"q": "fr_proto_pvc_info",
+						"w": "FR_PROTO_PVC_INFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d94b1da223683561212d31da6e1da9f44ed25a70"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dlci",
+						"t": "unsigned int",
+						"i": "fr_proto_pvc_info::dlci",
+						"r": "unsigned int dlci",
+						"s": "",
+						"u": "DLCI",
+						"q": "fr_proto_pvc_info",
+						"w": "FR_PROTO_PVC_INFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b983df14d0ded3b3f01fd31b2f356d45495d47ed"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "master",
+						"t": "char[16]",
+						"i": "fr_proto_pvc_info::master",
+						"r": "char master[16]",
+						"s": "",
+						"u": "MASTER",
+						"q": "fr_proto_pvc_info",
+						"w": "FR_PROTO_PVC_INFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7e3a4131258b8d5e5ce426c5e2006ed5571f9ae"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fr_proto_pvc_info",
+						"t": "fr_proto_pvc_info",
+						"i": "fr_proto_pvc_info",
+						"r": "typedef fr_proto_pvc_info fr_proto_pvc_info",
+						"s": "",
+						"u": "FR_PROTO_PVC_INFO",
+						"q": "",
+						"w": "",
+						"y": "fr_proto_pvc_info",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04e62d9ecc131d5f4b9061612607b731b7f13663"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cisco_proto",
+						"t": "cisco_proto",
+						"i": "cisco_proto",
+						"r": "",
+						"s": "",
+						"u": "CISCO_PROTO",
+						"q": "cisco_proto",
+						"w": "CISCO_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "198f7b6d59cfce68d3edd335d779ce53b1af8de9"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "interval",
+						"t": "unsigned int",
+						"i": "cisco_proto::interval",
+						"r": "unsigned int interval",
+						"s": "",
+						"u": "INTERVAL",
+						"q": "cisco_proto",
+						"w": "CISCO_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a7f200a53078e92bfc5ace4010936d3a10a8fe71"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CUR_timeout",
+						"t": "unsigned int",
+						"i": "cisco_proto::CUR_timeout",
+						"r": "unsigned int CUR_timeout",
+						"s": "",
+						"u": "CUR_TIMEOUT",
+						"q": "cisco_proto",
+						"w": "CISCO_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aed25725ae028c341c7fbb19fcc7446743a4b5b0"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cisco_proto",
+						"t": "cisco_proto",
+						"i": "cisco_proto",
+						"r": "typedef cisco_proto cisco_proto",
+						"s": "",
+						"u": "CISCO_PROTO",
+						"q": "",
+						"w": "",
+						"y": "cisco_proto",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f546e6a458c054342b554ddda9892c3ce68c7ae5"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "x25_hdlc_proto",
+						"t": "x25_hdlc_proto",
+						"i": "x25_hdlc_proto",
+						"r": "",
+						"s": "",
+						"u": "X25_HDLC_PROTO",
+						"q": "x25_hdlc_proto",
+						"w": "X25_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "39438cb0d81c718a956ed85dac43d39681380d0c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dce",
+						"t": "unsigned short",
+						"i": "x25_hdlc_proto::dce",
+						"r": "unsigned short dce",
+						"s": "",
+						"u": "DCE",
+						"q": "x25_hdlc_proto",
+						"w": "X25_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77e861faaf4c16d52735a6f79193414a0e0ba238"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "modulo",
+						"t": "unsigned int",
+						"i": "x25_hdlc_proto::modulo",
+						"r": "unsigned int modulo",
+						"s": "",
+						"u": "MODULO",
+						"q": "x25_hdlc_proto",
+						"w": "X25_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c29b9e416cb5b25a8a1f3a9e88b12896ed425dd5"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "window",
+						"t": "unsigned int",
+						"i": "x25_hdlc_proto::window",
+						"r": "unsigned int window",
+						"s": "",
+						"u": "WINDOW",
+						"q": "x25_hdlc_proto",
+						"w": "X25_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6990f7e8b4a62e84ddb3b88739a98453dc17a25d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "t1",
+						"t": "unsigned int",
+						"i": "x25_hdlc_proto::t1",
+						"r": "unsigned int t1",
+						"s": "",
+						"u": "T1",
+						"q": "x25_hdlc_proto",
+						"w": "X25_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d5d15c214ac1625ebba21dd3fd6c51e942f23e1"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "t2",
+						"t": "unsigned int",
+						"i": "x25_hdlc_proto::t2",
+						"r": "unsigned int t2",
+						"s": "",
+						"u": "T2",
+						"q": "x25_hdlc_proto",
+						"w": "X25_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a876ed76ab7b16e93eb19926fddff22f4a788683"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "n2",
+						"t": "unsigned int",
+						"i": "x25_hdlc_proto::n2",
+						"r": "unsigned int n2",
+						"s": "",
+						"u": "N2",
+						"q": "x25_hdlc_proto",
+						"w": "X25_HDLC_PROTO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ea684aea99d81b3e35f0c77d16344c2dae5f1120"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "x25_hdlc_proto",
+						"t": "x25_hdlc_proto",
+						"i": "x25_hdlc_proto",
+						"r": "typedef x25_hdlc_proto x25_hdlc_proto",
+						"s": "",
+						"u": "X25_HDLC_PROTO",
+						"q": "",
+						"w": "",
+						"y": "x25_hdlc_proto",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "729a36222f05bbfb4ab42f19d3cf0d5e65b3e0ea"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

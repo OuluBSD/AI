@@ -1,0 +1,858 @@
+{
+	"saved_hash": "798ed2496db837e93448b297365e5425cd010823",
+	"files": [
+		{
+			"key": "glib-2.0/glib.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__G_LIB_H__",
+						"t": "",
+						"i": "__G_LIB_H__",
+						"r": "__G_LIB_H__",
+						"s": "",
+						"u": "__G_LIB_H__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40e20d62fc5cb6c0aaadc78c188a02d2cf0f77e3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__GLIB_H_INSIDE__",
+						"t": "",
+						"i": "__GLIB_H_INSIDE__",
+						"r": "__GLIB_H_INSIDE__",
+						"s": "",
+						"u": "__GLIB_H_INSIDE__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a60b35e15fab2f9503bde8927767e4e6a0d6fe5f"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "glib-2.0/glib-object.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__GLIB_GOBJECT_H__",
+						"t": "",
+						"i": "__GLIB_GOBJECT_H__",
+						"r": "__GLIB_GOBJECT_H__",
+						"s": "",
+						"u": "__GLIB_GOBJECT_H__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9f51f5b72cd94dfb2a901660c0e9ca075d424ea"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__GLIB_GOBJECT_H_INSIDE__",
+						"t": "",
+						"i": "__GLIB_GOBJECT_H_INSIDE__",
+						"r": "__GLIB_GOBJECT_H_INSIDE__",
+						"s": "",
+						"u": "__GLIB_GOBJECT_H_INSIDE__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f875eca861381ac4b8b342b795c3ea10da5b068"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "glib-2.0/gmodule.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__GMODULE_H__",
+						"t": "",
+						"i": "__GMODULE_H__",
+						"r": "__GMODULE_H__",
+						"s": "",
+						"u": "__GMODULE_H__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98227d7d41cd0e8f163cc32043042c235d578bbb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "G_MODULE_EXPORT",
+						"t": "",
+						"i": "G_MODULE_EXPORT",
+						"r": "G_MODULE_EXPORT",
+						"s": "",
+						"u": "G_MODULE_EXPORT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "76d2a522ee15030158568942c864518aa0dffd4d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "G_MODULE_IMPORT",
+						"t": "",
+						"i": "G_MODULE_IMPORT",
+						"r": "G_MODULE_IMPORT",
+						"s": "",
+						"u": "G_MODULE_IMPORT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "018a100f9c586a9f510ba41d25193863ed05a953"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GModuleFlags",
+						"t": "GModuleFlags",
+						"i": "GModuleFlags",
+						"r": "enum",
+						"s": "",
+						"u": "GMODULEFLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "80fea4628daf6dc42a1b806beeeec69fe5f9ec69"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "G_MODULE_BIND_LAZY",
+						"t": "GModuleFlags",
+						"i": "G_MODULE_BIND_LAZY",
+						"r": "G_MODULE_BIND_LAZY",
+						"s": "",
+						"u": "G_MODULE_BIND_LAZY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be892230139abf6cc61e5beca4db4720144c5d71"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "G_MODULE_BIND_LOCAL",
+						"t": "GModuleFlags",
+						"i": "G_MODULE_BIND_LOCAL",
+						"r": "G_MODULE_BIND_LOCAL",
+						"s": "",
+						"u": "G_MODULE_BIND_LOCAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "26c34e9e7042655b5beb0a2b45ada3af25cb5b59"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "G_MODULE_BIND_MASK",
+						"t": "GModuleFlags",
+						"i": "G_MODULE_BIND_MASK",
+						"r": "G_MODULE_BIND_MASK",
+						"s": "",
+						"u": "G_MODULE_BIND_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22b4dabbf7b4791594183c00bed8723165d676d4"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GModuleFlags",
+						"t": "GModuleFlags",
+						"i": "GModuleFlags",
+						"r": "typedef enum GModuleFlags GModuleFlags",
+						"s": "",
+						"u": "GMODULEFLAGS",
+						"q": "",
+						"w": "",
+						"y": "GModuleFlags",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6cfe1358deafa8e7f3251db7d585a6059c7611f3"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_GModule",
+						"t": "_GModule",
+						"i": "_GModule",
+						"r": "_GModule",
+						"s": "",
+						"u": "_GMODULE",
+						"q": "_GModule",
+						"w": "_GMODULE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f27d81e7699652059984fffea920fc3a33dd407"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GModule",
+						"t": "GModule",
+						"i": "GModule",
+						"r": "typedef _GModule GModule",
+						"s": "",
+						"u": "GMODULE",
+						"q": "",
+						"w": "",
+						"y": "_GModule",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d6b7121f1505f520b193cbd41cb1b4cdb00d551"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GModuleCheckInit",
+						"t": "GModuleCheckInit",
+						"i": "GModuleCheckInit",
+						"r": "typedef const gchar *(*GModuleCheckInit)(GModule *)",
+						"s": "",
+						"u": "GMODULECHECKINIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22a161671f57d2f063205a94290dc7f065ee7e3c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "module",
+						"t": "GModule *",
+						"i": "module",
+						"r": "GModule *module",
+						"s": "",
+						"u": "MODULE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc5c9daf9c803d337f2cff2cd88400b618dfeac8"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GModuleUnload",
+						"t": "GModuleUnload",
+						"i": "GModuleUnload",
+						"r": "typedef void (*GModuleUnload)(GModule *)",
+						"s": "",
+						"u": "GMODULEUNLOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b7866986bcece81f0f605564f8980d0dbe32633"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "module",
+						"t": "GModule *",
+						"i": "module",
+						"r": "GModule *module",
+						"s": "",
+						"u": "MODULE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc5c9daf9c803d337f2cff2cd88400b618dfeac8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "G_MODULE_ERROR",
+						"t": "",
+						"i": "G_MODULE_ERROR",
+						"r": "G_MODULE_ERROR",
+						"s": "",
+						"u": "G_MODULE_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60942f68fdf819d1a1c766cb6eaebc9f8bb6fa92"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_error_quark",
+						"t": "GQuark ()",
+						"i": "g_module_error_quark()",
+						"r": "GQuark g_module_error_quark()",
+						"s": "",
+						"u": "G_MODULE_ERROR_QUARK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a8b208b694e564eae981d6bd6496d0c898f5bc74"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GModuleError",
+						"t": "GModuleError",
+						"i": "GModuleError",
+						"r": "enum",
+						"s": "",
+						"u": "GMODULEERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b0b152dc3e609c6d73c374e9f421ba10de91a3f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "G_MODULE_ERROR_FAILED",
+						"t": "GModuleError",
+						"i": "G_MODULE_ERROR_FAILED",
+						"r": "G_MODULE_ERROR_FAILED",
+						"s": "",
+						"u": "G_MODULE_ERROR_FAILED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "edc42b0f24a8fc8ff4bcb8932b2cfe6b62788ca4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "G_MODULE_ERROR_CHECK_FAILED",
+						"t": "GModuleError",
+						"i": "G_MODULE_ERROR_CHECK_FAILED",
+						"r": "G_MODULE_ERROR_CHECK_FAILED",
+						"s": "",
+						"u": "G_MODULE_ERROR_CHECK_FAILED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b32dba92ad58e641c6cf193000faef5078b1080"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GModuleError",
+						"t": "GModuleError",
+						"i": "GModuleError",
+						"r": "typedef enum GModuleError GModuleError",
+						"s": "",
+						"u": "GMODULEERROR",
+						"q": "",
+						"w": "",
+						"y": "GModuleError",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "62380f0345686e9af4101c48b27f63de5c0c325e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_supported",
+						"t": "gboolean ()",
+						"i": "g_module_supported()",
+						"r": "gboolean g_module_supported() __attribute__((const))",
+						"s": "",
+						"u": "G_MODULE_SUPPORTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a04bfcb974b294e9ce6138fb17ca2fe4161d73b3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_open",
+						"t": "GModule *(const gchar *, GModuleFlags)",
+						"i": "g_module_open(const gchar*,GModuleFlags)",
+						"r": "GModule *g_module_open(const gchar *file_name, GModuleFlags flags)",
+						"s": "",
+						"u": "G_MODULE_OPEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2294fb768ea1495a643dde66d4d29f08860b6ab4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_open_full",
+						"t": "GModule *(const gchar *, GModuleFlags, GError **)",
+						"i": "g_module_open_full(const gchar*,GModuleFlags,GError**)",
+						"r": "GModule *g_module_open_full(const gchar *file_name, GModuleFlags flags, GError **error)",
+						"s": "",
+						"u": "G_MODULE_OPEN_FULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ddbf06e4dd22b44a384ec5045540bbde2eb1024a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_close",
+						"t": "gboolean (GModule *)",
+						"i": "g_module_close(GModule*)",
+						"r": "gboolean g_module_close(GModule *module)",
+						"s": "",
+						"u": "G_MODULE_CLOSE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8da8b55c94b7fe78325d256c39efb4a0d6fce89d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_make_resident",
+						"t": "void (GModule *)",
+						"i": "g_module_make_resident(GModule*)",
+						"r": "void g_module_make_resident(GModule *module)",
+						"s": "",
+						"u": "G_MODULE_MAKE_RESIDENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b1f9c359e1e877a532c94f21b4d7082b63ebd53"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_error",
+						"t": "const gchar *()",
+						"i": "g_module_error()",
+						"r": "const gchar *g_module_error()",
+						"s": "",
+						"u": "G_MODULE_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ba7213ffdcd5694cfc684775ff8afd7c7d94e76"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_symbol",
+						"t": "gboolean (GModule *, const gchar *, gpointer *)",
+						"i": "g_module_symbol(GModule*,const gchar*,gpointer*)",
+						"r": "gboolean g_module_symbol(GModule *module, const gchar *symbol_name, gpointer *symbol)",
+						"s": "",
+						"u": "G_MODULE_SYMBOL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7761eb7cbaf08406dde7d8b5ff24b57462e5043e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "g_module_name",
+						"t": "const gchar *(GModule *)",
+						"i": "g_module_name(GModule*)",
+						"r": "const gchar *g_module_name(GModule *module)",
+						"s": "",
+						"u": "G_MODULE_NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d71b0f73144b0af0ec6e58d04dc00caf887d23f"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

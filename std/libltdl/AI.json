@@ -1,0 +1,2314 @@
+{
+	"saved_hash": "005ec2b1d46b52c20ddb0579d2f77ef32679400a",
+	"files": [
+		{
+			"key": "libltdl/lt_system.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_SYSTEM_H",
+						"t": "",
+						"i": "LT_SYSTEM_H",
+						"r": "LT_SYSTEM_H",
+						"s": "",
+						"u": "LT_SYSTEM_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "694c18affbce5072a56ceea069f1db4c62fb0777"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_FILENAME_MAX",
+						"t": "",
+						"i": "LT_FILENAME_MAX",
+						"r": "LT_FILENAME_MAX",
+						"s": "",
+						"u": "LT_FILENAME_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7df1b489f147b0f0014c328b009f2717e9fa4d7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_EOS_CHAR",
+						"t": "",
+						"i": "LT_EOS_CHAR",
+						"r": "LT_EOS_CHAR",
+						"s": "",
+						"u": "LT_EOS_CHAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "273159a6a04636a5acde6f357579d22910d185ec"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_BEGIN_C_DECLS",
+						"t": "",
+						"i": "LT_BEGIN_C_DECLS",
+						"r": "LT_BEGIN_C_DECLS",
+						"s": "",
+						"u": "LT_BEGIN_C_DECLS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe57c894c5ddeeec6f3235210e85a7c9136df643"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_END_C_DECLS",
+						"t": "",
+						"i": "LT_END_C_DECLS",
+						"r": "LT_END_C_DECLS",
+						"s": "",
+						"u": "LT_END_C_DECLS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d19f66396f31d2e67e09e27f8944c4ac57bce233"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_STMT_START",
+						"t": "",
+						"i": "LT_STMT_START",
+						"r": "LT_STMT_START",
+						"s": "",
+						"u": "LT_STMT_START",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "feeed307152c5550a861bb18898918553189b8e1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_STMT_END",
+						"t": "",
+						"i": "LT_STMT_END",
+						"r": "LT_STMT_END",
+						"s": "",
+						"u": "LT_STMT_END",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b29207a4b3d7d237ea5481a81407b9ffdbed1964"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_DLSYM_CONST",
+						"t": "",
+						"i": "LT_DLSYM_CONST",
+						"r": "LT_DLSYM_CONST",
+						"s": "",
+						"u": "LT_DLSYM_CONST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3caa4d3ac9ac24643b7065903ff748d6c839b295"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_SCOPE",
+						"t": "",
+						"i": "LT_SCOPE",
+						"r": "LT_SCOPE",
+						"s": "",
+						"u": "LT_SCOPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a172e94e9623875e34b17b582e3c841dd6420c05"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_PATHSEP_CHAR",
+						"t": "",
+						"i": "LT_PATHSEP_CHAR",
+						"r": "LT_PATHSEP_CHAR",
+						"s": "",
+						"u": "LT_PATHSEP_CHAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "75828f71368e903ae4d39a86cb23fe1d960380ac"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_READTEXT_MODE",
+						"t": "",
+						"i": "LT_READTEXT_MODE",
+						"r": "LT_READTEXT_MODE",
+						"s": "",
+						"u": "LT_READTEXT_MODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d3c31acfd448d4325bc10bae98013f3b121b474"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "LT__STR",
+						"t": "",
+						"i": "LT__STR",
+						"r": "LT__STR",
+						"s": "",
+						"u": "LT__STR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1e738266ffdb3f9d5fa360c87eb8b986416d5ee0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_STR",
+						"t": "",
+						"i": "LT_STR",
+						"r": "LT_STR",
+						"s": "",
+						"u": "LT_STR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d65f18d321fe718055b357911c192be110813423"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT__CONC",
+						"t": "",
+						"i": "LT__CONC",
+						"r": "LT__CONC",
+						"s": "",
+						"u": "LT__CONC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6fc15f2aec16383e93f9f99bcc379554937caa2a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_CONC",
+						"t": "",
+						"i": "LT_CONC",
+						"r": "LT_CONC",
+						"s": "",
+						"u": "LT_CONC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4060da63c982722b37c799cd913e4bce7f49ce34"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT__CONC3",
+						"t": "",
+						"i": "LT__CONC3",
+						"r": "LT__CONC3",
+						"s": "",
+						"u": "LT__CONC3",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b87fca592c31ade9d1a4cf83a25464b6026e26f8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_CONC3",
+						"t": "",
+						"i": "LT_CONC3",
+						"r": "LT_CONC3",
+						"s": "",
+						"u": "LT_CONC3",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee8b1b66cbc7e61cbd3b3e4111d0ea25996a292c"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "libltdl/lt_error.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_H",
+						"t": "",
+						"i": "LT_ERROR_H",
+						"r": "LT_ERROR_H",
+						"s": "",
+						"u": "LT_ERROR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e72ade2b26c36ab5d385cda83483121f70ab422f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlerror_table",
+						"t": "",
+						"i": "lt_dlerror_table",
+						"r": "lt_dlerror_table",
+						"s": "",
+						"u": "LT_DLERROR_TABLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "53906219867e65af0e629e84dc5c53a903a4676a"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "(unnamed at/usr/include/libltdl/lt_error.)",
+						"r": "enum",
+						"s": "",
+						"u": "(UNNAMED ENUM AT /USR/INCLUDE/LIBLTDL/LT_ERROR.H:65:1)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d247caa0fbd7640ab0ba3203befd6f8e1547a449"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR",
+						"t": "",
+						"i": "LT_ERROR",
+						"r": "LT_ERROR",
+						"s": "",
+						"u": "LT_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee9a2fcab184009199551b41f14d4d1a024df5b7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_CANNOT_CLOSE",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_CANNOT_CLOSE",
+						"r": "LT_ERROR_CANNOT_CLOSE",
+						"s": "",
+						"u": "LT_ERROR_CANNOT_CLOSE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_UNKNOWN",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_UNKNOWN",
+						"r": "LT_ERROR_UNKNOWN",
+						"s": "",
+						"u": "LT_ERROR_UNKNOWN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_DLOPEN_NOT_SUPPORTED",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_DLOPEN_NOT_SUPPORTED",
+						"r": "LT_ERROR_DLOPEN_NOT_SUPPORTED",
+						"s": "",
+						"u": "LT_ERROR_DLOPEN_NOT_SUPPORTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_INVALID_LOADER",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_INVALID_LOADER",
+						"r": "LT_ERROR_INVALID_LOADER",
+						"s": "",
+						"u": "LT_ERROR_INVALID_LOADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_INIT_LOADER",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_INIT_LOADER",
+						"r": "LT_ERROR_INIT_LOADER",
+						"s": "",
+						"u": "LT_ERROR_INIT_LOADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_REMOVE_LOADER",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_REMOVE_LOADER",
+						"r": "LT_ERROR_REMOVE_LOADER",
+						"s": "",
+						"u": "LT_ERROR_REMOVE_LOADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_FILE_NOT_FOUND",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_FILE_NOT_FOUND",
+						"r": "LT_ERROR_FILE_NOT_FOUND",
+						"s": "",
+						"u": "LT_ERROR_FILE_NOT_FOUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_DEPLIB_NOT_FOUND",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_DEPLIB_NOT_FOUND",
+						"r": "LT_ERROR_DEPLIB_NOT_FOUND",
+						"s": "",
+						"u": "LT_ERROR_DEPLIB_NOT_FOUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_NO_SYMBOLS",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_NO_SYMBOLS",
+						"r": "LT_ERROR_NO_SYMBOLS",
+						"s": "",
+						"u": "LT_ERROR_NO_SYMBOLS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_CANNOT_OPEN",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_CANNOT_OPEN",
+						"r": "LT_ERROR_CANNOT_OPEN",
+						"s": "",
+						"u": "LT_ERROR_CANNOT_OPEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_CLOSE_RESIDENT_MODULE",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_CLOSE_RESIDENT_MODULE",
+						"r": "LT_ERROR_CLOSE_RESIDENT_MODULE",
+						"s": "",
+						"u": "LT_ERROR_CLOSE_RESIDENT_MODULE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_NO_MEMORY",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_NO_MEMORY",
+						"r": "LT_ERROR_NO_MEMORY",
+						"s": "",
+						"u": "LT_ERROR_NO_MEMORY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_CONFLICTING_FLAGS",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_CONFLICTING_FLAGS",
+						"r": "LT_ERROR_CONFLICTING_FLAGS",
+						"s": "",
+						"u": "LT_ERROR_CONFLICTING_FLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_INVALID_HANDLE",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_INVALID_HANDLE",
+						"r": "LT_ERROR_INVALID_HANDLE",
+						"s": "",
+						"u": "LT_ERROR_INVALID_HANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_BUFFER_OVERFLOW",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_BUFFER_OVERFLOW",
+						"r": "LT_ERROR_BUFFER_OVERFLOW",
+						"s": "",
+						"u": "LT_ERROR_BUFFER_OVERFLOW",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_INVALID_ERRORCODE",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_INVALID_ERRORCODE",
+						"r": "LT_ERROR_INVALID_ERRORCODE",
+						"s": "",
+						"u": "LT_ERROR_INVALID_ERRORCODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_SHUTDOWN",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_SHUTDOWN",
+						"r": "LT_ERROR_SHUTDOWN",
+						"s": "",
+						"u": "LT_ERROR_SHUTDOWN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_INVALID_MUTEX_ARGS",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_INVALID_MUTEX_ARGS",
+						"r": "LT_ERROR_INVALID_MUTEX_ARGS",
+						"s": "",
+						"u": "LT_ERROR_INVALID_MUTEX_ARGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_INVALID_POSITION",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_INVALID_POSITION",
+						"r": "LT_ERROR_INVALID_POSITION",
+						"s": "",
+						"u": "LT_ERROR_INVALID_POSITION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_SYMBOL_NOT_FOUND",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_SYMBOL_NOT_FOUND",
+						"r": "LT_ERROR_SYMBOL_NOT_FOUND",
+						"s": "",
+						"u": "LT_ERROR_SYMBOL_NOT_FOUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34853605959d3d3a673667df764b841d5bfd47df"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_MAX",
+						"t": "(unnamed enum at /usr/include/libltdl/lt_error.h:65:1)",
+						"i": "LT_ERROR_MAX",
+						"r": "LT_ERROR_MAX",
+						"s": "",
+						"u": "LT_ERROR_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c8699ecb1a7eb73b05d1007e7ce3427021de671a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_ERROR_LEN_MAX",
+						"t": "",
+						"i": "LT_ERROR_LEN_MAX",
+						"r": "LT_ERROR_LEN_MAX",
+						"s": "",
+						"u": "LT_ERROR_LEN_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "12e3bca2fd1c40639d1ef757a18687c416e56294"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt_dladderror",
+						"t": "int (const char *)",
+						"i": "lt_dladderror(const char*)",
+						"r": "int lt_dladderror(const char *diagnostic)",
+						"s": "",
+						"u": "LT_DLADDERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb03afbe5d208aa08ecaad75a40cf4c384a7bb54"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlseterror",
+						"t": "int (int)",
+						"i": "lt_dlseterror(int)",
+						"r": "int lt_dlseterror(int errorcode)",
+						"s": "",
+						"u": "LT_DLSETERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f264dbbcf396dfa393993659a64f43a9d66e07d"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "libltdl/lt_dlloader.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LT_DLLOADER_H",
+						"t": "",
+						"i": "LT_DLLOADER_H",
+						"r": "LT_DLLOADER_H",
+						"s": "",
+						"u": "LT_DLLOADER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b63b8e085b9cb07900c82ec004866b6b38ddde07"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader",
+						"t": "lt_dlloader",
+						"i": "lt_dlloader",
+						"r": "typedef void *lt_dlloader",
+						"s": "",
+						"u": "LT_DLLOADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4ca42f65a4b99974e1768d4afcf1bca7fb93bc4a"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_module",
+						"t": "lt_module",
+						"i": "lt_module",
+						"r": "typedef void *lt_module",
+						"s": "",
+						"u": "LT_MODULE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8607c7d599663a08724b1b04b3e84911d4ead5f6"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_user_data",
+						"t": "lt_user_data",
+						"i": "lt_user_data",
+						"r": "typedef void *lt_user_data",
+						"s": "",
+						"u": "LT_USER_DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d49d5e152b3a545c297079dbd9d20bc201b4328"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt__advise",
+						"t": "lt__advise",
+						"i": "lt__advise",
+						"r": "lt__advise",
+						"s": "",
+						"u": "LT__ADVISE",
+						"q": "lt__advise",
+						"w": "LT__ADVISE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1bf1945f242e0ffda649fab3dc30f379b4e6a02d"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_dladvise",
+						"t": "lt_dladvise",
+						"i": "lt_dladvise",
+						"r": "typedef lt__advise *lt_dladvise",
+						"s": "",
+						"u": "LT_DLADVISE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0691f0573fb46ff259138d0ae529884a25677d66"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_module_open",
+						"t": "lt_module_open",
+						"i": "lt_module_open",
+						"r": "typedef lt_module (lt_module_open)(lt_user_data, const char *, lt_dladvise)",
+						"s": "",
+						"u": "LT_MODULE_OPEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d07b0909e63d74f4ef920adb0e2ccc3b3b7d4731"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "lt_user_data",
+						"i": "data",
+						"r": "lt_user_data data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cde3c378c61f08d6897d5d155c0c1ddc0b8a1c9c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "filename",
+						"t": "const char *",
+						"i": "filename",
+						"r": "const char *filename",
+						"s": "",
+						"u": "FILENAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b2959b94a997e2ab368583f541e3d04a9f0497c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "advise",
+						"t": "lt_dladvise",
+						"i": "advise",
+						"r": "lt_dladvise advise",
+						"s": "",
+						"u": "ADVISE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b04d3cd71ff6eb7188460ea4f785b07bf375958e"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_module_close",
+						"t": "lt_module_close",
+						"i": "lt_module_close",
+						"r": "typedef int (lt_module_close)(lt_user_data, lt_module)",
+						"s": "",
+						"u": "LT_MODULE_CLOSE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b80ea056ba347884bcd13058c9c47b1c944e4d8"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "lt_user_data",
+						"i": "data",
+						"r": "lt_user_data data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cde3c378c61f08d6897d5d155c0c1ddc0b8a1c9c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "module",
+						"t": "lt_module",
+						"i": "module",
+						"r": "lt_module module",
+						"s": "",
+						"u": "MODULE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b4cd4b7bf729915baf5ab04aeba0f03ff87a66b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_find_sym",
+						"t": "lt_find_sym",
+						"i": "lt_find_sym",
+						"r": "typedef void *(lt_find_sym)(lt_user_data, lt_module, const char *)",
+						"s": "",
+						"u": "LT_FIND_SYM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b1360454d5a11ff12675dd7fc828e9d313c157bc"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "lt_user_data",
+						"i": "data",
+						"r": "lt_user_data data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cde3c378c61f08d6897d5d155c0c1ddc0b8a1c9c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "module",
+						"t": "lt_module",
+						"i": "module",
+						"r": "lt_module module",
+						"s": "",
+						"u": "MODULE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b4cd4b7bf729915baf5ab04aeba0f03ff87a66b"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "symbolname",
+						"t": "const char *",
+						"i": "symbolname",
+						"r": "const char *symbolname",
+						"s": "",
+						"u": "SYMBOLNAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5296151b08426e0206f1be0a43651f5152b6f521"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_init",
+						"t": "lt_dlloader_init",
+						"i": "lt_dlloader_init",
+						"r": "typedef int (lt_dlloader_init)(lt_user_data)",
+						"s": "",
+						"u": "LT_DLLOADER_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "183f04d654c0a9193b224180217681f6e634df71"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "lt_user_data",
+						"i": "data",
+						"r": "lt_user_data data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cde3c378c61f08d6897d5d155c0c1ddc0b8a1c9c"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_exit",
+						"t": "lt_dlloader_exit",
+						"i": "lt_dlloader_exit",
+						"r": "typedef int (lt_dlloader_exit)(lt_user_data)",
+						"s": "",
+						"u": "LT_DLLOADER_EXIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ceb430dede297db0461fa3afa8bcb24546361c7d"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "lt_user_data",
+						"i": "data",
+						"r": "lt_user_data data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cde3c378c61f08d6897d5d155c0c1ddc0b8a1c9c"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_priority",
+						"t": "lt_dlloader_priority",
+						"i": "lt_dlloader_priority",
+						"r": "enum",
+						"s": "",
+						"u": "LT_DLLOADER_PRIORITY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81c187ffc3fe8f5fcda4a6b99ce891e8aade26fc"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_DLLOADER_PREPEND",
+						"t": "lt_dlloader_priority",
+						"i": "LT_DLLOADER_PREPEND",
+						"r": "LT_DLLOADER_PREPEND",
+						"s": "",
+						"u": "LT_DLLOADER_PREPEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ca4ba8cbd1ed2a6b4fcf6cd8273b4495c5fa7b4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT_DLLOADER_APPEND",
+						"t": "lt_dlloader_priority",
+						"i": "LT_DLLOADER_APPEND",
+						"r": "LT_DLLOADER_APPEND",
+						"s": "",
+						"u": "LT_DLLOADER_APPEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9918451cf5db331bed9d1aa02176bdad460828fa"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_priority",
+						"t": "lt_dlloader_priority",
+						"i": "lt_dlloader_priority",
+						"r": "typedef enum lt_dlloader_priority lt_dlloader_priority",
+						"s": "",
+						"u": "LT_DLLOADER_PRIORITY",
+						"q": "",
+						"w": "",
+						"y": "lt_dlloader_priority",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16f90ccd0b95fcc7f36356240c56488fe90f7427"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlvtable",
+						"t": "lt_dlvtable",
+						"i": "lt_dlvtable",
+						"r": "",
+						"s": "",
+						"u": "LT_DLVTABLE",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b1c73a9d5838629df7ef2fca27cc3afa599bdc5"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "const char *",
+						"i": "lt_dlvtable::name",
+						"r": "const char *name",
+						"s": "",
+						"u": "NAME",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "286029cbd3989239d9d8909c719ef743c6c6b33c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sym_prefix",
+						"t": "const char *",
+						"i": "lt_dlvtable::sym_prefix",
+						"r": "const char *sym_prefix",
+						"s": "",
+						"u": "SYM_PREFIX",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d0c0b403e5f1d66c56d71f8cd128a60ebb5dcdd4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "module_open",
+						"t": "lt_module_open *",
+						"i": "lt_dlvtable::module_open",
+						"r": "lt_module_open *module_open",
+						"s": "",
+						"u": "MODULE_OPEN",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "474b0906705907ccb2745de5a6ee953aa08457dd"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "module_close",
+						"t": "lt_module_close *",
+						"i": "lt_dlvtable::module_close",
+						"r": "lt_module_close *module_close",
+						"s": "",
+						"u": "MODULE_CLOSE",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "317d5e94a1d0f152fb8abfe86b8f1b263f62c01f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "find_sym",
+						"t": "lt_find_sym *",
+						"i": "lt_dlvtable::find_sym",
+						"r": "lt_find_sym *find_sym",
+						"s": "",
+						"u": "FIND_SYM",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29b7e4226dfe8ba2afe54b2a5e013c53d58f127a"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dlloader_init",
+						"t": "lt_dlloader_init *",
+						"i": "lt_dlvtable::dlloader_init",
+						"r": "lt_dlloader_init *dlloader_init",
+						"s": "",
+						"u": "DLLOADER_INIT",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9adf51ce1e0b66b021ebd6d2593f74a1887e4560"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dlloader_exit",
+						"t": "lt_dlloader_exit *",
+						"i": "lt_dlvtable::dlloader_exit",
+						"r": "lt_dlloader_exit *dlloader_exit",
+						"s": "",
+						"u": "DLLOADER_EXIT",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec786027c92bd7682c8b0654849ca5269a409e4d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dlloader_data",
+						"t": "lt_user_data",
+						"i": "lt_dlvtable::dlloader_data",
+						"r": "lt_user_data dlloader_data",
+						"s": "",
+						"u": "DLLOADER_DATA",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "80cc138138996895ed1388f788c5d493d0b234f8"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "priority",
+						"t": "lt_dlloader_priority",
+						"i": "lt_dlvtable::priority",
+						"r": "lt_dlloader_priority priority",
+						"s": "",
+						"u": "PRIORITY",
+						"q": "lt_dlvtable",
+						"w": "LT_DLVTABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "44a2cfad5eccff76afca19965eb44585e7b7ec9b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlvtable",
+						"t": "lt_dlvtable",
+						"i": "lt_dlvtable",
+						"r": "typedef lt_dlvtable lt_dlvtable",
+						"s": "",
+						"u": "LT_DLVTABLE",
+						"q": "",
+						"w": "",
+						"y": "lt_dlvtable",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c1f10d350307b6a3154f117e9a1ca4aaa0a50d24"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_add",
+						"t": "int (const lt_dlvtable *)",
+						"i": "lt_dlloader_add(const lt_dlvtable*)",
+						"r": "int lt_dlloader_add(const lt_dlvtable *vtable)",
+						"s": "",
+						"u": "LT_DLLOADER_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4662e221d521cc4e0e582f1fa1ec94e1f5b2e786"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_next",
+						"t": "lt_dlloader (const lt_dlloader)",
+						"i": "lt_dlloader_next(const lt_dlloader)",
+						"r": "lt_dlloader lt_dlloader_next(const lt_dlloader loader)",
+						"s": "",
+						"u": "LT_DLLOADER_NEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a188b7e76a623104ac30d25ee8814346526c1b7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_remove",
+						"t": "lt_dlvtable *(const char *)",
+						"i": "lt_dlloader_remove(const char*)",
+						"r": "lt_dlvtable *lt_dlloader_remove(const char *name)",
+						"s": "",
+						"u": "LT_DLLOADER_REMOVE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "123fe06e2f0b6f1e4f0a6fe77abf818e6b18ba35"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_find",
+						"t": "const lt_dlvtable *(const char *)",
+						"i": "lt_dlloader_find(const char*)",
+						"r": "const lt_dlvtable *lt_dlloader_find(const char *name)",
+						"s": "",
+						"u": "LT_DLLOADER_FIND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2cdfc85a5b6b7f13135ccf0d886ce94df82cf0c1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "lt_dlloader_get",
+						"t": "const lt_dlvtable *(lt_dlloader)",
+						"i": "lt_dlloader_get(lt_dlloader)",
+						"r": "const lt_dlvtable *lt_dlloader_get(lt_dlloader loader)",
+						"s": "",
+						"u": "LT_DLLOADER_GET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28b3478e4edecbcb43580c268dfc39938d7c4f00"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lt_get_vtable",
+						"t": "lt_get_vtable",
+						"i": "lt_get_vtable",
+						"r": "typedef const lt_dlvtable *(lt_get_vtable)(lt_user_data)",
+						"s": "",
+						"u": "LT_GET_VTABLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "76aaa4cba4d8e5381e60ef483984a8600855246a"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "lt_user_data",
+						"i": "data",
+						"r": "lt_user_data data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cde3c378c61f08d6897d5d155c0c1ddc0b8a1c9c"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

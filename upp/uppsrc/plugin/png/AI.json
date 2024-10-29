@@ -1,0 +1,2685 @@
+{
+	"saved_hash": "343fd923460a86db5b24dffa6524b2f2255f4f6d",
+	"files": [
+		{
+			"key": "pnglib.c",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "pngupp.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LLOG",
+						"t": "",
+						"i": "LLOG",
+						"r": "LLOG",
+						"s": "",
+						"u": "LLOG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d83c43df219c111fa516fe33b765574dc658780b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "png_read_stream",
+						"t": "void (png_structp, png_bytep, png_size_t)",
+						"i": "Upp::png_read_stream(png_structp,png_bytep,png_size_t)",
+						"r": "static void png_read_stream(png_structp png_ptr, png_bytep buffer, png_size_t length)",
+						"s": "Upp",
+						"u": "PNG_READ_STREAM",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "211a7e5c94558602c0615d4fe461d8be13d9702c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "png_write_stream",
+						"t": "void (png_structp, png_bytep, png_size_t)",
+						"i": "Upp::png_write_stream(png_structp,png_bytep,png_size_t)",
+						"r": "static void png_write_stream(png_structp png_ptr, png_bytep buffer, png_size_t length)",
+						"s": "Upp",
+						"u": "PNG_WRITE_STREAM",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f225e4214fb87ce2826df74275a37c7bab193a8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "png_flush_stream",
+						"t": "void (png_structp)",
+						"i": "Upp::png_flush_stream(png_structp)",
+						"r": "static void png_flush_stream(png_structp png_ptr)",
+						"s": "Upp",
+						"u": "PNG_FLUSH_STREAM",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ead88d2f56ee4e943ae4e9bd993bbc6018f5b8c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "png_user_error_fn",
+						"t": "void (png_structp, png_const_charp)",
+						"i": "Upp::png_user_error_fn(png_structp,png_const_charp)",
+						"r": "static void png_user_error_fn(png_structp png_ptr, png_const_charp error_msg)",
+						"s": "Upp",
+						"u": "PNG_USER_ERROR_FN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "99a5abec17ecf2a25260f1923f4b73c5fc91d73e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "png_user_warning_fn",
+						"t": "void (png_structp, png_const_charp)",
+						"i": "Upp::png_user_warning_fn(png_structp,png_const_charp)",
+						"r": "static void png_user_warning_fn(png_structp png_ptr, png_const_charp warning_msg)",
+						"s": "Upp",
+						"u": "PNG_USER_WARNING_FN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "445c55a60ee9175824a8a7522688bb329273890f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetDotSize",
+						"t": "Size (Size, png_uint_32, png_uint_32, int)",
+						"i": "Upp::GetDotSize(Size,png_uint_32,png_uint_32,int)",
+						"r": "static Upp::Size GetDotSize(Upp::Size pixel_size, png_uint_32 x_ppm, png_uint_32 y_ppm, int unit_type)",
+						"s": "Upp",
+						"u": "GETDOTSIZE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d35452da04020d0ea2141d688800f0a90de7b4cc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "SetDotSize",
+						"t": "void (Size, Size, png_uint_32 &, png_uint_32 &, int)",
+						"i": "Upp::SetDotSize(Size,Size,png_uint_32&,png_uint_32&,int)",
+						"r": "static void SetDotSize(Upp::Size pixel_size, Upp::Size dots_size, png_uint_32& x_ppm, png_uint_32& y_ppm, int unit_type)",
+						"s": "Upp",
+						"u": "SETDOTSIZE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb988158e032e7e96a051b638006062ef19acaa6"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Data",
+						"t": "Upp::PNGRaster::Data",
+						"i": "Upp::PNGRaster::Data",
+						"r": "PNGRaster::Data",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fc8c0e33804e7a974b02dad6b92362094b5a1aa"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Data",
+						"t": "void ()",
+						"i": "Upp::PNGRaster::Data::Data()",
+						"r": "Data()",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "114252a1d9d10b2fdbbb51a07c149e2b35f51504"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~Data",
+						"t": "void () noexcept",
+						"i": "Upp::PNGRaster::Data::~()",
+						"r": "~Data()",
+						"s": "Upp",
+						"u": "~DATA",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e1890ec3f8c0130cd32659525290314ea3ff4a9"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "png_ptr",
+						"t": "png_structp",
+						"i": "Upp::PNGRaster::Data::png_ptr",
+						"r": "png_structp png_ptr",
+						"s": "Upp",
+						"u": "PNG_PTR",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c37636b9d6c62b0ef4453a642748b0374f36006e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "info_ptr",
+						"t": "png_infop",
+						"i": "Upp::PNGRaster::Data::info_ptr",
+						"r": "png_infop info_ptr",
+						"s": "Upp",
+						"u": "INFO_PTR",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "754156744e2a5033aaf699baf3d9990148f05b9d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "info",
+						"t": "Info",
+						"i": "Upp::PNGRaster::Data::info",
+						"r": "Upp::Raster::Info info",
+						"s": "Upp",
+						"u": "INFO",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "48183a0b202054f69656d8e4f1a24825e32b3014"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "Size",
+						"i": "Upp::PNGRaster::Data::size",
+						"r": "Upp::Size size",
+						"s": "Upp",
+						"u": "SIZE",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9daaa6fa422c37846ad22fc2ce6e8948aeed7407"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fmt",
+						"t": "RasterFormat",
+						"i": "Upp::PNGRaster::Data::fmt",
+						"r": "Upp::RasterFormat fmt",
+						"s": "Upp",
+						"u": "FMT",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fc7561516c2e69cb96ebf35ed9ee0c03130f3b2"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "palette",
+						"t": "RGBA[256]",
+						"i": "Upp::PNGRaster::Data::palette",
+						"r": "Upp::RGBA palette[256]",
+						"s": "Upp",
+						"u": "PALETTE",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "584a8b54fd2810694be29e6f362483071a4b07a6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "out_bpp",
+						"t": "int",
+						"i": "Upp::PNGRaster::Data::out_bpp",
+						"r": "int out_bpp",
+						"s": "Upp",
+						"u": "OUT_BPP",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93480fc426c3801e9470c9c56bfa4993c3c99fa4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "row_bytes",
+						"t": "int",
+						"i": "Upp::PNGRaster::Data::row_bytes",
+						"r": "int row_bytes",
+						"s": "Upp",
+						"u": "ROW_BYTES",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a686efaf3eccd8064509fb4948e94a60e87c8b9"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "preimage",
+						"t": "Vector<byte>",
+						"i": "Upp::PNGRaster::Data::preimage",
+						"r": "Vector<byte> preimage",
+						"s": "Upp",
+						"u": "PREIMAGE",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4ebb5868aa41d23f5866c960b4d15f5da0de746e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "row_pointers",
+						"t": "Buffer<png_bytep>",
+						"i": "Upp::PNGRaster::Data::row_pointers",
+						"r": "Buffer<png_bytep> row_pointers",
+						"s": "Upp",
+						"u": "ROW_POINTERS",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9272ec251d51abab1781cadfbf543d66351d3054"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "preload",
+						"t": "bool",
+						"i": "Upp::PNGRaster::Data::preload",
+						"r": "bool preload",
+						"s": "Upp",
+						"u": "PRELOAD",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abfc1e6aac4ff7c35372d0da75a1bd11390eb3c4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "loaded",
+						"t": "bool",
+						"i": "Upp::PNGRaster::Data::loaded",
+						"r": "bool loaded",
+						"s": "Upp",
+						"u": "LOADED",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d8db002d9855827e5d659b51a0863f6fa37f9ff"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "strip16",
+						"t": "bool",
+						"i": "Upp::PNGRaster::Data::strip16",
+						"r": "bool strip16",
+						"s": "Upp",
+						"u": "STRIP16",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "587cb5b18a56d41107dc75382c0fbd8b565d47b0"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "next_row",
+						"t": "int",
+						"i": "Upp::PNGRaster::Data::next_row",
+						"r": "int next_row",
+						"s": "Upp",
+						"u": "NEXT_ROW",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f41d2d3870c6c81142b0ebb0d7b053ec639a03f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "soff",
+						"t": "int64",
+						"i": "Upp::PNGRaster::Data::soff",
+						"r": "Upp::int64 soff",
+						"s": "Upp",
+						"u": "SOFF",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e7404a00f90591eea1cfde64eecc70c4e384eb77"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Data",
+						"t": "void ()",
+						"i": "Upp::PNGRaster::Data::Data()",
+						"r": "Data()",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f0515bbcec4bb2a1546404280507035328bc82a"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~Data",
+						"t": "void () noexcept",
+						"i": "Upp::PNGRaster::Data::~()",
+						"r": "~Data()",
+						"s": "Upp",
+						"u": "~DATA",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "257f9fd2848c87e3b9b932f710d9341a46d66e05"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster",
+						"t": "void ()",
+						"i": "Upp::PNGRaster::PNGRaster()",
+						"r": "PNGRaster()",
+						"s": "Upp",
+						"u": "PNGRASTER",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b4e1a173ff1a5739c541bd35839c6022003d409"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~PNGRaster",
+						"t": "void () noexcept",
+						"i": "Upp::PNGRaster::~()",
+						"r": "~PNGRaster()",
+						"s": "Upp",
+						"u": "~PNGRASTER",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2d5787bf302fd4646d1c0cad08a99d0752fd317"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Init",
+						"t": "bool ()",
+						"i": "Upp::PNGRaster::Init()",
+						"r": "bool Init()",
+						"s": "Upp",
+						"u": "INIT",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d48576a58d07e1a60774d5be6372bc6097501fe"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Create",
+						"t": "bool ()",
+						"i": "Upp::PNGRaster::Create()",
+						"r": "bool Create()",
+						"s": "Upp",
+						"u": "CREATE",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "00efca6d23da09e00a1e1efc30dfcbcbb134ec43"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetSize",
+						"t": "Size ()",
+						"i": "Upp::PNGRaster::GetSize()",
+						"r": "Upp::Size GetSize()",
+						"s": "Upp",
+						"u": "GETSIZE",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0435c0d76f6f69c6676de6981fe74c4f25e6e61b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetInfo",
+						"t": "Raster::Info ()",
+						"i": "Upp::PNGRaster::GetInfo()",
+						"r": "Upp::Raster::Info GetInfo()",
+						"s": "Upp",
+						"u": "GETINFO",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aaa718a58f7d626af7d6d2985a10d5bd83c9845f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetLine",
+						"t": "Raster::Line (int)",
+						"i": "Upp::PNGRaster::GetLine(int)",
+						"r": "Upp::Raster::Line GetLine(int line)",
+						"s": "Upp",
+						"u": "GETLINE",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f22ad68cb993acfc38361754b93d6a7143f0efd1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetPalette",
+						"t": "const RGBA *()",
+						"i": "Upp::PNGRaster::GetPalette()",
+						"r": "const Upp::RGBA *GetPalette()",
+						"s": "Upp",
+						"u": "GETPALETTE",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f70e9125051d4e0c0a92a5416410dcf49821b7e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetFormat",
+						"t": "const RasterFormat *()",
+						"i": "Upp::PNGRaster::GetFormat()",
+						"r": "const Upp::RasterFormat *GetFormat()",
+						"s": "Upp",
+						"u": "GETFORMAT",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4a64a5965e834351a3834a7f3091f9554999636d"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Data",
+						"t": "Upp::PNGEncoder::Data",
+						"i": "Upp::PNGEncoder::Data",
+						"r": "PNGEncoder::Data",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "575ab62e1c2303ab0ba8ee45b7d66738f0085808"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Data",
+						"t": "void (RasterFormat &)",
+						"i": "Upp::PNGEncoder::Data::Data(RasterFormat&)",
+						"r": "Data(Upp::RasterFormat& format)",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4fb47945dccd40e535ae4ec6186ad8262e026d43"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~Data",
+						"t": "void () noexcept",
+						"i": "Upp::PNGEncoder::Data::~()",
+						"r": "~Data()",
+						"s": "Upp",
+						"u": "~DATA",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e1890ec3f8c0130cd32659525290314ea3ff4a9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Start",
+						"t": "void (Stream &, Size, Size, int, ImageKind, bool, const RGBA *)",
+						"i": "Upp::PNGEncoder::Data::Start(Stream&,Size,Size,int,ImageKind,bool,const RGBA*)",
+						"r": "void Start(Upp::Stream& stream, Upp::Size size, Upp::Size dots, int bpp, Upp::ImageKind kind, bool interlace, const Upp::RGBA *palette)",
+						"s": "Upp",
+						"u": "START",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f87c49ea7d775672850c1426ba2c2a7e5363e99"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "WriteLineRaw",
+						"t": "void (const byte *)",
+						"i": "Upp::PNGEncoder::Data::WriteLineRaw(const byte*)",
+						"r": "void WriteLineRaw(const Upp::byte *data)",
+						"s": "Upp",
+						"u": "WRITELINERAW",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "43465116022263bfdae16e894330985e24903e66"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "format",
+						"t": "RasterFormat &",
+						"i": "Upp::PNGEncoder::Data::format",
+						"r": "Upp::RasterFormat& format",
+						"s": "Upp",
+						"u": "FORMAT",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47bdabc2d981bfe970324e2ebd2abd3767b96a7b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "kind",
+						"t": "ImageKind",
+						"i": "Upp::PNGEncoder::Data::kind",
+						"r": "Upp::ImageKind kind",
+						"s": "Upp",
+						"u": "KIND",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bffc9970efba5ff6b87e742088eaba19fe332a94"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "png_ptr",
+						"t": "png_structp",
+						"i": "Upp::PNGEncoder::Data::png_ptr",
+						"r": "png_structp png_ptr",
+						"s": "Upp",
+						"u": "PNG_PTR",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "848f02bd18bea70f4bc1e82b23c687bc0265aac2"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "info_ptr",
+						"t": "png_infop",
+						"i": "Upp::PNGEncoder::Data::info_ptr",
+						"r": "png_infop info_ptr",
+						"s": "Upp",
+						"u": "INFO_PTR",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "336879e1fd4d3863dc7969600e7acdb6e6d8d1ea"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "interlace",
+						"t": "bool",
+						"i": "Upp::PNGEncoder::Data::interlace",
+						"r": "bool interlace",
+						"s": "Upp",
+						"u": "INTERLACE",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b14d0439bde4be8a5c8c563eef46f40e7d04174"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "do_palette",
+						"t": "bool",
+						"i": "Upp::PNGEncoder::Data::do_palette",
+						"r": "bool do_palette",
+						"s": "Upp",
+						"u": "DO_PALETTE",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "adbd705243bef1b0281650c99ea31548227fe5c3"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "do_mask",
+						"t": "bool",
+						"i": "Upp::PNGEncoder::Data::do_mask",
+						"r": "bool do_mask",
+						"s": "Upp",
+						"u": "DO_MASK",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "046e7d07d7fe05d7654e0f867e2cc18ddbef0f73"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "do_alpha",
+						"t": "bool",
+						"i": "Upp::PNGEncoder::Data::do_alpha",
+						"r": "bool do_alpha",
+						"s": "Upp",
+						"u": "DO_ALPHA",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b5084198e640e858800689b1e3bff95c1fca8346"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "imagebuf",
+						"t": "Vector<byte>",
+						"i": "Upp::PNGEncoder::Data::imagebuf",
+						"r": "Vector<byte> imagebuf",
+						"s": "Upp",
+						"u": "IMAGEBUF",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7f0259d5758a24c95745c6edafab35975660eb8d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rowbuf",
+						"t": "Vector<byte>",
+						"i": "Upp::PNGEncoder::Data::rowbuf",
+						"r": "Vector<byte> rowbuf",
+						"s": "Upp",
+						"u": "ROWBUF",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71712cc388573ad0c6f3f9167a070dca49a568b3"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "Size",
+						"i": "Upp::PNGEncoder::Data::size",
+						"r": "Upp::Size size",
+						"s": "Upp",
+						"u": "SIZE",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27ca033cc3158f414b48550cbb175b030a4bfdc4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dots",
+						"t": "Size",
+						"i": "Upp::PNGEncoder::Data::dots",
+						"r": "Upp::Size dots",
+						"s": "Upp",
+						"u": "DOTS",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b855e8a44e4f704f654c16cb50354bf5c0d4b338"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rowbytes",
+						"t": "int",
+						"i": "Upp::PNGEncoder::Data::rowbytes",
+						"r": "int rowbytes",
+						"s": "Upp",
+						"u": "ROWBYTES",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f62f3f24675dde79aa96f9543725a10b34023cd3"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "linebytes",
+						"t": "int",
+						"i": "Upp::PNGEncoder::Data::linebytes",
+						"r": "int linebytes",
+						"s": "Upp",
+						"u": "LINEBYTES",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4bb413eca974ed1cbb9c636e358f34ebc1b2260"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "passes",
+						"t": "int",
+						"i": "Upp::PNGEncoder::Data::passes",
+						"r": "int passes",
+						"s": "Upp",
+						"u": "PASSES",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5d912368c08eefa2d3df3d3cddd63eb75767b769"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "line",
+						"t": "int",
+						"i": "Upp::PNGEncoder::Data::line",
+						"r": "int line",
+						"s": "Upp",
+						"u": "LINE",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08a65500cbf4847e61936412c9229ea7120bfd94"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Data",
+						"t": "void (RasterFormat &)",
+						"i": "Upp::PNGEncoder::Data::Data(RasterFormat&)",
+						"r": "Data(Upp::RasterFormat& format)",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b30895419f2658501e9b0b9fb4ab1b52f12410e8"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~Data",
+						"t": "void () noexcept",
+						"i": "Upp::PNGEncoder::Data::~()",
+						"r": "~Data()",
+						"s": "Upp",
+						"u": "~DATA",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d3a31369763a26e5cbe2aa466319e00a946a381"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Start",
+						"t": "void (Stream &, Size, Size, int, ImageKind, bool, const RGBA *)",
+						"i": "Upp::PNGEncoder::Data::Start(Stream&,Size,Size,int,ImageKind,bool,const RGBA*)",
+						"r": "void Start(Upp::Stream& stream, Upp::Size size_, Upp::Size dots_, int bpp, Upp::ImageKind kind_, bool interlace_, const Upp::RGBA *imgpal)",
+						"s": "Upp",
+						"u": "START",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3342a06c1adedde149a2489cb48499c052d9fbe5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "WriteLineRaw",
+						"t": "void (const byte *)",
+						"i": "Upp::PNGEncoder::Data::WriteLineRaw(const byte*)",
+						"r": "void WriteLineRaw(const Upp::byte *s)",
+						"s": "Upp",
+						"u": "WRITELINERAW",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c6ee9404d6df43a450ed28207e3e7479cc16c0b5"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGEncoder",
+						"t": "void (int, ImageKind, bool)",
+						"i": "Upp::PNGEncoder::PNGEncoder(int,ImageKind,bool)",
+						"r": "PNGEncoder(int bpp_ = 32, Upp::ImageKind kind_ = IMAGE_UNKNOWN, bool interlace_ = false)",
+						"s": "Upp",
+						"u": "PNGENCODER",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c432c095e26db7390ec852965bd72e754a574736"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~PNGEncoder",
+						"t": "void () noexcept",
+						"i": "Upp::PNGEncoder::~()",
+						"r": "~PNGEncoder()",
+						"s": "Upp",
+						"u": "~PNGENCODER",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0c9a6b36b9442a7919eb3264769e383102b60632"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetPaletteCount",
+						"t": "int ()",
+						"i": "Upp::PNGEncoder::GetPaletteCount()",
+						"r": "int GetPaletteCount()",
+						"s": "Upp",
+						"u": "GETPALETTECOUNT",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d21814ca1111d9fd1fe6c290e5d1581191f7f982"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Start",
+						"t": "void (Size)",
+						"i": "Upp::PNGEncoder::Start(Size)",
+						"r": "void Start(Upp::Size sz)",
+						"s": "Upp",
+						"u": "START",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc9030683dd8294eead555c56cdbe8c9468420e5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "WriteLineRaw",
+						"t": "void (const byte *)",
+						"i": "Upp::PNGEncoder::WriteLineRaw(const byte*)",
+						"r": "void WriteLineRaw(const Upp::byte *s)",
+						"s": "Upp",
+						"u": "WRITELINERAW",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04972e20c30a5e45b23f3f3ff1845a93806ab23a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster__initializer_fn",
+						"t": "void ()",
+						"i": "Upp::PNGRaster__initializer_fn()",
+						"r": "void PNGRaster__initializer_fn()",
+						"s": "Upp",
+						"u": "PNGRASTER__INITIALIZER_FN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d1b482aab5021bfbf45171702953a96cad5cc43"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster__initializer",
+						"t": "void ()",
+						"i": "Upp::PNGRaster__initializer()",
+						"r": "void PNGRaster__initializer()",
+						"s": "Upp",
+						"u": "PNGRASTER__INITIALIZER",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9e311e84f16c8dbd20f3c916aa7974c5bb65c9a5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster__initializer_fn",
+						"t": "void ()",
+						"i": "Upp::PNGRaster__initializer_fn()",
+						"r": "void PNGRaster__initializer_fn()",
+						"s": "Upp",
+						"u": "PNGRASTER__INITIALIZER_FN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9e311e84f16c8dbd20f3c916aa7974c5bb65c9a5"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "lib/png.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "lib/pnglibconf.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "lib/pngconf.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "pngreg.icpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "png.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__nDraw_plugin_png__",
+						"t": "",
+						"i": "__nDraw_plugin_png__",
+						"r": "__nDraw_plugin_png__",
+						"s": "",
+						"u": "__NDRAW_PLUGIN_PNG__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f555904100f0e291b5d46935d3eda6300dd4f10"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "PNGRaster__initialize_dummy",
+						"t": "struct PNGRaster__initialize_struct",
+						"i": "Upp::PNGRaster__initialize_dummy",
+						"r": "static Upp::PNGRaster__initialize_struct PNGRaster__initialize_dummy",
+						"s": "Upp",
+						"u": "PNGRASTER__INITIALIZE_DUMMY",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd8a48623d125b4d8234aa605303a9e12e09afd8"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster__initialize_struct",
+						"t": "Upp::PNGRaster__initialize_struct",
+						"i": "Upp::PNGRaster__initialize_struct",
+						"r": "PNGRaster__initialize_struct",
+						"s": "Upp",
+						"u": "PNGRASTER__INITIALIZE_STRUCT",
+						"q": "Upp::PNGRaster__initialize_struct",
+						"w": "UPP::PNGRASTER__INITIALIZE_STRUCT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd8a48623d125b4d8234aa605303a9e12e09afd8"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster__initialize_struct",
+						"t": "void ()",
+						"i": "Upp::PNGRaster__initialize_struct::PNGRaster__initialize_struct()",
+						"r": "PNGRaster__initialize_struct()",
+						"s": "Upp",
+						"u": "PNGRASTER__INITIALIZE_STRUCT",
+						"q": "Upp::PNGRaster__initialize_struct",
+						"w": "UPP::PNGRASTER__INITIALIZE_STRUCT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd8a48623d125b4d8234aa605303a9e12e09afd8"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster__initialize_struct",
+						"t": "Upp::PNGRaster__initialize_struct",
+						"i": "Upp::PNGRaster__initialize_struct",
+						"r": "PNGRaster__initialize_struct",
+						"s": "Upp",
+						"u": "PNGRASTER__INITIALIZE_STRUCT",
+						"q": "Upp::PNGRaster__initialize_struct",
+						"w": "UPP::PNGRASTER__INITIALIZE_STRUCT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd8a48623d125b4d8234aa605303a9e12e09afd8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster__initializer",
+						"t": "void ()",
+						"i": "Upp::PNGRaster__initializer()",
+						"r": "void PNGRaster__initializer()",
+						"s": "Upp",
+						"u": "PNGRASTER__INITIALIZER",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd8a48623d125b4d8234aa605303a9e12e09afd8"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster",
+						"t": "Upp::PNGRaster",
+						"i": "Upp::PNGRaster",
+						"r": "PNGRaster : public Upp::StreamRaster",
+						"s": "Upp",
+						"u": "PNGRASTER",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "Upp::StreamRaster",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c05a33a85db1b6007743be8cc44d8edf1cf31b32"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Data",
+						"t": "Upp::PNGRaster::Data",
+						"i": "Upp::PNGRaster::Data",
+						"r": "Data",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGRaster::Data",
+						"w": "UPP::PNGRASTER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba3890758bc40fa2bf83e51cf1b8db97e86fc0b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "One<Data>",
+						"i": "Upp::PNGRaster::data",
+						"r": "One<Data> data",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98e3a49b20f1ce0f0c81739cfaafce93cec960e2"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PNGRaster",
+						"t": "void ()",
+						"i": "Upp::PNGRaster::PNGRaster()",
+						"r": "PNGRaster()",
+						"s": "Upp",
+						"u": "PNGRASTER",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47826eb6ad1d4b0c5bda93b493d20c8fde885681"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~PNGRaster",
+						"t": "void () noexcept",
+						"i": "Upp::PNGRaster::~()",
+						"r": "~PNGRaster()",
+						"s": "Upp",
+						"u": "~PNGRASTER",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "125c7cf337e96af5d741745cff24ebfb47bf8044"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Create",
+						"t": "bool ()",
+						"i": "Upp::PNGRaster::Create()",
+						"r": "bool Create()",
+						"s": "Upp",
+						"u": "CREATE",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c6bb0d221a390cb4fdae36f6b5747fc96323895e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetSize",
+						"t": "Size ()",
+						"i": "Upp::PNGRaster::GetSize()",
+						"r": "Upp::Size GetSize()",
+						"s": "Upp",
+						"u": "GETSIZE",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d61a61ab22b7aa87a94a6b09b4e311bdbd90191f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetInfo",
+						"t": "Info ()",
+						"i": "Upp::PNGRaster::GetInfo()",
+						"r": "Upp::Raster::Info GetInfo()",
+						"s": "Upp",
+						"u": "GETINFO",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b7fa469b5726bfb91c7815d116f92f4bfa8906e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetLine",
+						"t": "Line (int)",
+						"i": "Upp::PNGRaster::GetLine(int)",
+						"r": "Upp::Raster::Line GetLine(int line)",
+						"s": "Upp",
+						"u": "GETLINE",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8cbefc12e4853819c76133daad8d6bbae8e2847"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetPalette",
+						"t": "const RGBA *()",
+						"i": "Upp::PNGRaster::GetPalette()",
+						"r": "const Upp::RGBA *GetPalette()",
+						"s": "Upp",
+						"u": "GETPALETTE",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "877515dca957214d3f20dce7be1c5bfc31f7fd21"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetFormat",
+						"t": "const RasterFormat *()",
+						"i": "Upp::PNGRaster::GetFormat()",
+						"r": "const Upp::RasterFormat *GetFormat()",
+						"s": "Upp",
+						"u": "GETFORMAT",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aca8ed6725ea48a88d99fb980eb1e27f1b78e4fd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Init",
+						"t": "bool ()",
+						"i": "Upp::PNGRaster::Init()",
+						"r": "bool Init()",
+						"s": "Upp",
+						"u": "INIT",
+						"q": "Upp::PNGRaster",
+						"w": "UPP::PNGRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a503e4a3613a9ea671194a0dbfa95d3d55864a86"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PNGEncoder",
+						"t": "Upp::PNGEncoder",
+						"i": "Upp::PNGEncoder",
+						"r": "PNGEncoder : public Upp::StreamRasterEncoder",
+						"s": "Upp",
+						"u": "PNGENCODER",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "Upp::StreamRasterEncoder",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96169a38906513a179944126e4e42e1af39e7b0f"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Data",
+						"t": "Upp::PNGEncoder::Data",
+						"i": "Upp::PNGEncoder::Data",
+						"r": "Data",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGEncoder::Data",
+						"w": "UPP::PNGENCODER::DATA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba3890758bc40fa2bf83e51cf1b8db97e86fc0b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "One<Data>",
+						"i": "Upp::PNGEncoder::data",
+						"r": "One<Data> data",
+						"s": "Upp",
+						"u": "DATA",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98e3a49b20f1ce0f0c81739cfaafce93cec960e2"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PNGEncoder",
+						"t": "void (int, ImageKind, bool)",
+						"i": "Upp::PNGEncoder::PNGEncoder(int,ImageKind,bool)",
+						"r": "PNGEncoder(int bpp = 32, Upp::ImageKind kind = IMAGE_UNKNOWN, bool interlace = false)",
+						"s": "Upp",
+						"u": "PNGENCODER",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ffe5d415c8c3074fe1c1530cc49644d744c7cbb7"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~PNGEncoder",
+						"t": "void () noexcept",
+						"i": "Upp::PNGEncoder::~()",
+						"r": "~PNGEncoder()",
+						"s": "Upp",
+						"u": "~PNGENCODER",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a038112f881102a09bcb1a4a9aa479ef866e013"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetPaletteCount",
+						"t": "int ()",
+						"i": "Upp::PNGEncoder::GetPaletteCount()",
+						"r": "int GetPaletteCount()",
+						"s": "Upp",
+						"u": "GETPALETTECOUNT",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47ce620dd244ca8d9acee8da9bfea6cdf9e2a650"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Start",
+						"t": "void (Size)",
+						"i": "Upp::PNGEncoder::Start(Size)",
+						"r": "void Start(Upp::Size sz)",
+						"s": "Upp",
+						"u": "START",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bcc0f233fb51921d2ed160cfaa052f86871613cb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "WriteLineRaw",
+						"t": "void (const byte *)",
+						"i": "Upp::PNGEncoder::WriteLineRaw(const byte*)",
+						"r": "void WriteLineRaw(const Upp::byte *data)",
+						"s": "Upp",
+						"u": "WRITELINERAW",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bda1b74f0356ad9b846bb06e451bcecf7a8b20ce"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Bpp",
+						"t": "PNGEncoder &(int)",
+						"i": "Upp::PNGEncoder::Bpp(int)",
+						"r": "Upp::PNGEncoder& Bpp(int b)",
+						"s": "Upp",
+						"u": "BPP",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "21fe689de82908af73e59349e2c9e645a9e8f8e5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Interlace",
+						"t": "PNGEncoder &(int)",
+						"i": "Upp::PNGEncoder::Interlace(int)",
+						"r": "Upp::PNGEncoder& Interlace(int b = true)",
+						"s": "Upp",
+						"u": "INTERLACE",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40469d56cead4c0611210d223d49c8c844cc3ec6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bpp",
+						"t": "int",
+						"i": "Upp::PNGEncoder::bpp",
+						"r": "int bpp",
+						"s": "Upp",
+						"u": "BPP",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e8f83a5fe651906bf4e91d8831f47bdf290ddf26"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "kind",
+						"t": "ImageKind",
+						"i": "Upp::PNGEncoder::kind",
+						"r": "Upp::ImageKind kind",
+						"s": "Upp",
+						"u": "KIND",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8cb9898604c164ed240511bb698e2ec3fe35746f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "interlace",
+						"t": "bool",
+						"i": "Upp::PNGEncoder::interlace",
+						"r": "bool interlace",
+						"s": "Upp",
+						"u": "INTERLACE",
+						"q": "Upp::PNGEncoder",
+						"w": "UPP::PNGENCODER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6dc637250882bbd7f9dfef96df98bf7dcab34172"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

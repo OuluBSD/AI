@@ -1,0 +1,2820 @@
+{
+	"saved_hash": "6c1af15d344e5072326070648cac8ea631f945cd",
+	"files": [
+		{
+			"key": "linux/netfilter_ipv6/ip6_tables.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_IP6_TABLES_H",
+						"t": "",
+						"i": "_IP6_TABLES_H",
+						"r": "_IP6_TABLES_H",
+						"s": "",
+						"u": "_IP6_TABLES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bb6c1b59daaa94bc779ed78f490a63ba66001af5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_FUNCTION_MAXNAMELEN",
+						"t": "",
+						"i": "IP6T_FUNCTION_MAXNAMELEN",
+						"r": "IP6T_FUNCTION_MAXNAMELEN",
+						"s": "",
+						"u": "IP6T_FUNCTION_MAXNAMELEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bbe65f3e5c384962d9c5f9414f72c7b51d00feb9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_TABLE_MAXNAMELEN",
+						"t": "",
+						"i": "IP6T_TABLE_MAXNAMELEN",
+						"r": "IP6T_TABLE_MAXNAMELEN",
+						"s": "",
+						"u": "IP6T_TABLE_MAXNAMELEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29454e04c0c5f7d744fcdbac466d9eb3800f65fb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_match",
+						"t": "",
+						"i": "ip6t_match",
+						"r": "ip6t_match",
+						"s": "",
+						"u": "IP6T_MATCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "debf5aa9665e236414ea9f653ea8d2a747a4b804"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_target",
+						"t": "",
+						"i": "ip6t_target",
+						"r": "ip6t_target",
+						"s": "",
+						"u": "IP6T_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e81483c95ce07af8c03d988f7e81e83f9177adc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_table",
+						"t": "",
+						"i": "ip6t_table",
+						"r": "ip6t_table",
+						"s": "",
+						"u": "IP6T_TABLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "953c90ca65743072aeacc5a8da2bbd0563716fdc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_get_revision",
+						"t": "",
+						"i": "ip6t_get_revision",
+						"r": "ip6t_get_revision",
+						"s": "",
+						"u": "IP6T_GET_REVISION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8580ccac4c8bbc2ec0202c8cc72639a64d67c82a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_entry_match",
+						"t": "",
+						"i": "ip6t_entry_match",
+						"r": "ip6t_entry_match",
+						"s": "",
+						"u": "IP6T_ENTRY_MATCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a167c37a4c25d9023ad9cf1d9db8c04f03f164d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_entry_target",
+						"t": "",
+						"i": "ip6t_entry_target",
+						"r": "ip6t_entry_target",
+						"s": "",
+						"u": "IP6T_ENTRY_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c02d103436c0f5978b61a2d66a2aa6491223f2dc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_standard_target",
+						"t": "",
+						"i": "ip6t_standard_target",
+						"r": "ip6t_standard_target",
+						"s": "",
+						"u": "IP6T_STANDARD_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7637abae51442f940f993b2cef56da57fef85c67"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_error_target",
+						"t": "",
+						"i": "ip6t_error_target",
+						"r": "ip6t_error_target",
+						"s": "",
+						"u": "IP6T_ERROR_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "edad0010eaaa56867a48facfc307fe8d21154603"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_counters",
+						"t": "",
+						"i": "ip6t_counters",
+						"r": "ip6t_counters",
+						"s": "",
+						"u": "IP6T_COUNTERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3972aef66f02e2e486538d2cb5dc93f91bb199f0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_CONTINUE",
+						"t": "",
+						"i": "IP6T_CONTINUE",
+						"r": "IP6T_CONTINUE",
+						"s": "",
+						"u": "IP6T_CONTINUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5cd0a510c646a4470a5ed50704ad9a4eee73585a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_RETURN",
+						"t": "",
+						"i": "IP6T_RETURN",
+						"r": "IP6T_RETURN",
+						"s": "",
+						"u": "IP6T_RETURN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8586469cb0c031e0a86a2d4984959a5d04b3076f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_tcp",
+						"t": "",
+						"i": "ip6t_tcp",
+						"r": "ip6t_tcp",
+						"s": "",
+						"u": "IP6T_TCP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3c07f90d106694905d0a2fdc2da220ed5810b4d9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_udp",
+						"t": "",
+						"i": "ip6t_udp",
+						"r": "ip6t_udp",
+						"s": "",
+						"u": "IP6T_UDP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "391b0d7b69bc93bf749279a70745465b533ea0e0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_TCP_INV_SRCPT",
+						"t": "",
+						"i": "IP6T_TCP_INV_SRCPT",
+						"r": "IP6T_TCP_INV_SRCPT",
+						"s": "",
+						"u": "IP6T_TCP_INV_SRCPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c243d5880f14fa6600ee5a9345bd58e011c8880"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_TCP_INV_DSTPT",
+						"t": "",
+						"i": "IP6T_TCP_INV_DSTPT",
+						"r": "IP6T_TCP_INV_DSTPT",
+						"s": "",
+						"u": "IP6T_TCP_INV_DSTPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5c7edbdd76944db1e02563c69e5a3a325ae0e189"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_TCP_INV_FLAGS",
+						"t": "",
+						"i": "IP6T_TCP_INV_FLAGS",
+						"r": "IP6T_TCP_INV_FLAGS",
+						"s": "",
+						"u": "IP6T_TCP_INV_FLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "23e9629507fd16602648254b0f8cb31f039c2c99"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "IP6T_TCP_INV_OPTION",
+						"t": "",
+						"i": "IP6T_TCP_INV_OPTION",
+						"r": "IP6T_TCP_INV_OPTION",
+						"s": "",
+						"u": "IP6T_TCP_INV_OPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d638d29d1508cd6726e8996ba8b9d16769354f4d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_TCP_INV_MASK",
+						"t": "",
+						"i": "IP6T_TCP_INV_MASK",
+						"r": "IP6T_TCP_INV_MASK",
+						"s": "",
+						"u": "IP6T_TCP_INV_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dc59aad84b1fd276b43efd705e1dedd795e944e0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_UDP_INV_SRCPT",
+						"t": "",
+						"i": "IP6T_UDP_INV_SRCPT",
+						"r": "IP6T_UDP_INV_SRCPT",
+						"s": "",
+						"u": "IP6T_UDP_INV_SRCPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d5814a3d1adab0e2b9669e91fd8e795c2cf4aeb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "IP6T_UDP_INV_DSTPT",
+						"t": "",
+						"i": "IP6T_UDP_INV_DSTPT",
+						"r": "IP6T_UDP_INV_DSTPT",
+						"s": "",
+						"u": "IP6T_UDP_INV_DSTPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "591252a4af6aa2fad070c4650ee80e2a0428da28"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_UDP_INV_MASK",
+						"t": "",
+						"i": "IP6T_UDP_INV_MASK",
+						"r": "IP6T_UDP_INV_MASK",
+						"s": "",
+						"u": "IP6T_UDP_INV_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4f7da1deec19b2840b0696d08d14a4ff3a9b78f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_counters_info",
+						"t": "",
+						"i": "ip6t_counters_info",
+						"r": "ip6t_counters_info",
+						"s": "",
+						"u": "IP6T_COUNTERS_INFO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e68f5c9372c02149b8bc746775c1e69027a7279a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_STANDARD_TARGET",
+						"t": "",
+						"i": "IP6T_STANDARD_TARGET",
+						"r": "IP6T_STANDARD_TARGET",
+						"s": "",
+						"u": "IP6T_STANDARD_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ae827968b35852e44d82b23d0a4da57d0761713b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_ERROR_TARGET",
+						"t": "",
+						"i": "IP6T_ERROR_TARGET",
+						"r": "IP6T_ERROR_TARGET",
+						"s": "",
+						"u": "IP6T_ERROR_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1376d5d9e742cf978614b16e519e5e41fbb814b2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_MATCH_ITERATE",
+						"t": "",
+						"i": "IP6T_MATCH_ITERATE",
+						"r": "IP6T_MATCH_ITERATE",
+						"s": "",
+						"u": "IP6T_MATCH_ITERATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "37e09c77af70a1d03428928960c7e9aade0dc278"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_ENTRY_ITERATE",
+						"t": "",
+						"i": "IP6T_ENTRY_ITERATE",
+						"r": "IP6T_ENTRY_ITERATE",
+						"s": "",
+						"u": "IP6T_ENTRY_ITERATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b14384f601adf3987d1302e6ccbdcc0e9d60ceca"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_ip6",
+						"t": "ip6t_ip6",
+						"i": "ip6t_ip6",
+						"r": "ip6t_ip6",
+						"s": "",
+						"u": "IP6T_IP6",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "09864111c92f84c62cb8fcc6593744ee857dfaa4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "src",
+						"t": "struct in6_addr",
+						"i": "ip6t_ip6::src",
+						"r": "in6_addr src",
+						"s": "",
+						"u": "SRC",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d68a8fc7bf535181ba12eaa4ec3af20ef23e0649"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dst",
+						"t": "struct in6_addr",
+						"i": "ip6t_ip6::dst",
+						"r": "in6_addr dst",
+						"s": "",
+						"u": "DST",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e7eb9b1f401185f8158e9334d9fe0728d1e6d85"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "smsk",
+						"t": "struct in6_addr",
+						"i": "ip6t_ip6::smsk",
+						"r": "in6_addr smsk",
+						"s": "",
+						"u": "SMSK",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f0045413bf8595e578fc39da64adbd70a1597e1"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dmsk",
+						"t": "struct in6_addr",
+						"i": "ip6t_ip6::dmsk",
+						"r": "in6_addr dmsk",
+						"s": "",
+						"u": "DMSK",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "42c5f71cc908ec92be727baf826790eeffb37e28"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "iniface",
+						"t": "char[16]",
+						"i": "ip6t_ip6::iniface",
+						"r": "char iniface[16]",
+						"s": "",
+						"u": "INIFACE",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "734840fe7553562cc89d5cc7338e98d4ffc7db18"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "outiface",
+						"t": "char[16]",
+						"i": "ip6t_ip6::outiface",
+						"r": "char outiface[16]",
+						"s": "",
+						"u": "OUTIFACE",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d80d5c4ddb8b8fdde10832db7f9a5831f1b14ac"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "iniface_mask",
+						"t": "unsigned char[16]",
+						"i": "ip6t_ip6::iniface_mask",
+						"r": "unsigned char iniface_mask[16]",
+						"s": "",
+						"u": "INIFACE_MASK",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "441818b4dbb52c31d3aef4c19600d8affe893999"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "outiface_mask",
+						"t": "unsigned char[16]",
+						"i": "ip6t_ip6::outiface_mask",
+						"r": "unsigned char outiface_mask[16]",
+						"s": "",
+						"u": "OUTIFACE_MASK",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d749f070fb6a8a1ae7bb26e8612fca01a6296948"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "proto",
+						"t": "__u16",
+						"i": "ip6t_ip6::proto",
+						"r": "__u16 proto",
+						"s": "",
+						"u": "PROTO",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2231979c6ae5dbedf34623cc5d20b69ce0ed8744"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "tos",
+						"t": "__u8",
+						"i": "ip6t_ip6::tos",
+						"r": "__u8 tos",
+						"s": "",
+						"u": "TOS",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0331db28de4b19978df97f13b67487393796f475"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "flags",
+						"t": "__u8",
+						"i": "ip6t_ip6::flags",
+						"r": "__u8 flags",
+						"s": "",
+						"u": "FLAGS",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1fb25298a9ce66018ebbc29df8e3b31720a35f87"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "invflags",
+						"t": "__u8",
+						"i": "ip6t_ip6::invflags",
+						"r": "__u8 invflags",
+						"s": "",
+						"u": "INVFLAGS",
+						"q": "ip6t_ip6",
+						"w": "IP6T_IP6",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4f6fa488a85b95e0c83e69228547945a2fd5db9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_F_PROTO",
+						"t": "",
+						"i": "IP6T_F_PROTO",
+						"r": "IP6T_F_PROTO",
+						"s": "",
+						"u": "IP6T_F_PROTO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "482ea3ddb37a1e3f4aaa69d93a515127bb0de0f8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_F_TOS",
+						"t": "",
+						"i": "IP6T_F_TOS",
+						"r": "IP6T_F_TOS",
+						"s": "",
+						"u": "IP6T_F_TOS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3e4555206dee52e3a5a0f0d8370ad689e12d267"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_F_GOTO",
+						"t": "",
+						"i": "IP6T_F_GOTO",
+						"r": "IP6T_F_GOTO",
+						"s": "",
+						"u": "IP6T_F_GOTO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ed2b83941cd1a8caaaf7d0cf7fb0dfef939b99f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_F_MASK",
+						"t": "",
+						"i": "IP6T_F_MASK",
+						"r": "IP6T_F_MASK",
+						"s": "",
+						"u": "IP6T_F_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "21ccb2d36a2b88f378dc768f775f4c3c400d17ab"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_INV_VIA_IN",
+						"t": "",
+						"i": "IP6T_INV_VIA_IN",
+						"r": "IP6T_INV_VIA_IN",
+						"s": "",
+						"u": "IP6T_INV_VIA_IN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "00fb4bb7c2934ef1a0b0b74fb6540071fd55f278"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_INV_VIA_OUT",
+						"t": "",
+						"i": "IP6T_INV_VIA_OUT",
+						"r": "IP6T_INV_VIA_OUT",
+						"s": "",
+						"u": "IP6T_INV_VIA_OUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5dee95eab17bb2a79115d48cb7c3ee93a13f7b46"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_INV_TOS",
+						"t": "",
+						"i": "IP6T_INV_TOS",
+						"r": "IP6T_INV_TOS",
+						"s": "",
+						"u": "IP6T_INV_TOS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9443fbf5392064adc43257fc70e392708fad7d07"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_INV_SRCIP",
+						"t": "",
+						"i": "IP6T_INV_SRCIP",
+						"r": "IP6T_INV_SRCIP",
+						"s": "",
+						"u": "IP6T_INV_SRCIP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "822e2794aedbaf3e7a2fa386daaeb9c3932b26d8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_INV_DSTIP",
+						"t": "",
+						"i": "IP6T_INV_DSTIP",
+						"r": "IP6T_INV_DSTIP",
+						"s": "",
+						"u": "IP6T_INV_DSTIP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04bd8d00029b34405fb14e6f8c89b02cbd293bc5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_INV_FRAG",
+						"t": "",
+						"i": "IP6T_INV_FRAG",
+						"r": "IP6T_INV_FRAG",
+						"s": "",
+						"u": "IP6T_INV_FRAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16b46f7adad105fe5b36e6aeaa6ffdb94f751ada"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_INV_PROTO",
+						"t": "",
+						"i": "IP6T_INV_PROTO",
+						"r": "IP6T_INV_PROTO",
+						"s": "",
+						"u": "IP6T_INV_PROTO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1bebfa66bc4f7b54809325e1c175120ad1fd60c2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_INV_MASK",
+						"t": "",
+						"i": "IP6T_INV_MASK",
+						"r": "IP6T_INV_MASK",
+						"s": "",
+						"u": "IP6T_INV_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a10fd49c2ecaebad4c1412bbb846f904126edba"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_entry",
+						"t": "ip6t_entry",
+						"i": "ip6t_entry",
+						"r": "ip6t_entry",
+						"s": "",
+						"u": "IP6T_ENTRY",
+						"q": "ip6t_entry",
+						"w": "IP6T_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "021d6a6582fceb4fdc9710876c5d59dafef1f007"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ipv6",
+						"t": "struct ip6t_ip6",
+						"i": "ip6t_entry::ipv6",
+						"r": "ip6t_ip6 ipv6",
+						"s": "",
+						"u": "IPV6",
+						"q": "ip6t_entry",
+						"w": "IP6T_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0bb1378769747b5da1e3d0b30c3bd6dcbb904ebf"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nfcache",
+						"t": "unsigned int",
+						"i": "ip6t_entry::nfcache",
+						"r": "unsigned int nfcache",
+						"s": "",
+						"u": "NFCACHE",
+						"q": "ip6t_entry",
+						"w": "IP6T_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eef8cb7d3588b50aa80ea244daa538c3e51af8eb"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "target_offset",
+						"t": "__u16",
+						"i": "ip6t_entry::target_offset",
+						"r": "__u16 target_offset",
+						"s": "",
+						"u": "TARGET_OFFSET",
+						"q": "ip6t_entry",
+						"w": "IP6T_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3c250af2dd97ac75eb3738ae41a482ad79898dc4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "next_offset",
+						"t": "__u16",
+						"i": "ip6t_entry::next_offset",
+						"r": "__u16 next_offset",
+						"s": "",
+						"u": "NEXT_OFFSET",
+						"q": "ip6t_entry",
+						"w": "IP6T_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "88e94d48402cb087216f33bd773e9f88a7b5189e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "comefrom",
+						"t": "unsigned int",
+						"i": "ip6t_entry::comefrom",
+						"r": "unsigned int comefrom",
+						"s": "",
+						"u": "COMEFROM",
+						"q": "ip6t_entry",
+						"w": "IP6T_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f704a6a7b40326df29d4ff125eaa823f243c58c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "counters",
+						"t": "struct xt_counters",
+						"i": "ip6t_entry::counters",
+						"r": "xt_counters counters",
+						"s": "",
+						"u": "COUNTERS",
+						"q": "ip6t_entry",
+						"w": "IP6T_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8b86b69477f1a67c1e4d904147fd86aecbe51cc"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "elems",
+						"t": "unsigned char[0]",
+						"i": "ip6t_entry::elems",
+						"r": "unsigned char elems[0]",
+						"s": "",
+						"u": "ELEMS",
+						"q": "ip6t_entry",
+						"w": "IP6T_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d92375500d1b0fe98f0a26b7030c7e50ffe7d99"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_standard",
+						"t": "ip6t_standard",
+						"i": "ip6t_standard",
+						"r": "ip6t_standard",
+						"s": "",
+						"u": "IP6T_STANDARD",
+						"q": "ip6t_standard",
+						"w": "IP6T_STANDARD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dc408487c0f089ba75c6e34c678586c45c82132f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "entry",
+						"t": "struct ip6t_entry",
+						"i": "ip6t_standard::entry",
+						"r": "ip6t_entry entry",
+						"s": "",
+						"u": "ENTRY",
+						"q": "ip6t_standard",
+						"w": "IP6T_STANDARD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e8b4483e4405f0f59e8c4e28f37867fc0e742c19"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "target",
+						"t": "struct xt_standard_target",
+						"i": "ip6t_standard::target",
+						"r": "xt_standard_target target",
+						"s": "",
+						"u": "TARGET",
+						"q": "ip6t_standard",
+						"w": "IP6T_STANDARD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ac38685cc5ff11ed65c50bfa0f89b70d444bf56"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_error",
+						"t": "ip6t_error",
+						"i": "ip6t_error",
+						"r": "ip6t_error",
+						"s": "",
+						"u": "IP6T_ERROR",
+						"q": "ip6t_error",
+						"w": "IP6T_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "70a758514badd05135e4879891a5c88003aeeb4a"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "entry",
+						"t": "struct ip6t_entry",
+						"i": "ip6t_error::entry",
+						"r": "ip6t_entry entry",
+						"s": "",
+						"u": "ENTRY",
+						"q": "ip6t_error",
+						"w": "IP6T_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e8b4483e4405f0f59e8c4e28f37867fc0e742c19"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "target",
+						"t": "struct xt_error_target",
+						"i": "ip6t_error::target",
+						"r": "xt_error_target target",
+						"s": "",
+						"u": "TARGET",
+						"q": "ip6t_error",
+						"w": "IP6T_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc94f67fe01422839d25102fbd975694e0fe8e42"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_ENTRY_INIT",
+						"t": "",
+						"i": "IP6T_ENTRY_INIT",
+						"r": "IP6T_ENTRY_INIT",
+						"s": "",
+						"u": "IP6T_ENTRY_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e69057538de02ed2686530e3186584ab6fc6bd9f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_STANDARD_INIT",
+						"t": "",
+						"i": "IP6T_STANDARD_INIT",
+						"r": "IP6T_STANDARD_INIT",
+						"s": "",
+						"u": "IP6T_STANDARD_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e7976c3237403e0a3814ccca10789c618df29a4c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_ERROR_INIT",
+						"t": "",
+						"i": "IP6T_ERROR_INIT",
+						"r": "IP6T_ERROR_INIT",
+						"s": "",
+						"u": "IP6T_ERROR_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "973d7f6b0bf7d9f4b91f195d3ab276fc7d6049b4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_BASE_CTL",
+						"t": "",
+						"i": "IP6T_BASE_CTL",
+						"r": "IP6T_BASE_CTL",
+						"s": "",
+						"u": "IP6T_BASE_CTL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1615107d933c58e1ce5c7ac51c21b968778b29e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_SO_SET_REPLACE",
+						"t": "",
+						"i": "IP6T_SO_SET_REPLACE",
+						"r": "IP6T_SO_SET_REPLACE",
+						"s": "",
+						"u": "IP6T_SO_SET_REPLACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f1bb4e2697ffcf3efe48aa8abedbdd1cc3b0965"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_SO_SET_ADD_COUNTERS",
+						"t": "",
+						"i": "IP6T_SO_SET_ADD_COUNTERS",
+						"r": "IP6T_SO_SET_ADD_COUNTERS",
+						"s": "",
+						"u": "IP6T_SO_SET_ADD_COUNTERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8459f92a896b22f02c91d2e7b257e19a5bcbf453"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_SO_SET_MAX",
+						"t": "",
+						"i": "IP6T_SO_SET_MAX",
+						"r": "IP6T_SO_SET_MAX",
+						"s": "",
+						"u": "IP6T_SO_SET_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "865c85a74d590a1904865aafd4f8aa7dab59593b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "IP6T_SO_GET_INFO",
+						"t": "",
+						"i": "IP6T_SO_GET_INFO",
+						"r": "IP6T_SO_GET_INFO",
+						"s": "",
+						"u": "IP6T_SO_GET_INFO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4772018acb15412c0df4c1499e2e8a8aeeb6183a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_SO_GET_ENTRIES",
+						"t": "",
+						"i": "IP6T_SO_GET_ENTRIES",
+						"r": "IP6T_SO_GET_ENTRIES",
+						"s": "",
+						"u": "IP6T_SO_GET_ENTRIES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4dc2b3b425f87a4be18ab1d4018adf4a9b8a657"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_SO_GET_REVISION_MATCH",
+						"t": "",
+						"i": "IP6T_SO_GET_REVISION_MATCH",
+						"r": "IP6T_SO_GET_REVISION_MATCH",
+						"s": "",
+						"u": "IP6T_SO_GET_REVISION_MATCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "487c3345264130677e0ccb69bfc4536d4aabfcaf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_SO_GET_REVISION_TARGET",
+						"t": "",
+						"i": "IP6T_SO_GET_REVISION_TARGET",
+						"r": "IP6T_SO_GET_REVISION_TARGET",
+						"s": "",
+						"u": "IP6T_SO_GET_REVISION_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af34935ce028cadbc61ba9cfa6589001cc50c6c0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_SO_GET_MAX",
+						"t": "",
+						"i": "IP6T_SO_GET_MAX",
+						"r": "IP6T_SO_GET_MAX",
+						"s": "",
+						"u": "IP6T_SO_GET_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6a514f67fea60bc65f1adb0704f4470c916ca0fe"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_SO_ORIGINAL_DST",
+						"t": "",
+						"i": "IP6T_SO_ORIGINAL_DST",
+						"r": "IP6T_SO_ORIGINAL_DST",
+						"s": "",
+						"u": "IP6T_SO_ORIGINAL_DST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93ff0fab8e70d593409118fe81501b03c63cb219"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_icmp",
+						"t": "ip6t_icmp",
+						"i": "ip6t_icmp",
+						"r": "ip6t_icmp",
+						"s": "",
+						"u": "IP6T_ICMP",
+						"q": "ip6t_icmp",
+						"w": "IP6T_ICMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ac26992743e38bfae6ec223844347eba645cb97f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "__u8",
+						"i": "ip6t_icmp::type",
+						"r": "__u8 type",
+						"s": "",
+						"u": "TYPE",
+						"q": "ip6t_icmp",
+						"w": "IP6T_ICMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b285baedb48e87ebc4ba814b73164d75b0342fd4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "code",
+						"t": "__u8[2]",
+						"i": "ip6t_icmp::code",
+						"r": "__u8 code[2]",
+						"s": "",
+						"u": "CODE",
+						"q": "ip6t_icmp",
+						"w": "IP6T_ICMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31c7e0b52d634b8cb3235b087e076790c564cc25"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "invflags",
+						"t": "__u8",
+						"i": "ip6t_icmp::invflags",
+						"r": "__u8 invflags",
+						"s": "",
+						"u": "INVFLAGS",
+						"q": "ip6t_icmp",
+						"w": "IP6T_ICMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4f6fa488a85b95e0c83e69228547945a2fd5db9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IP6T_ICMP_INV",
+						"t": "",
+						"i": "IP6T_ICMP_INV",
+						"r": "IP6T_ICMP_INV",
+						"s": "",
+						"u": "IP6T_ICMP_INV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f6d3bc592e6c4f5bca287bd3f4662d10eae1a47d"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_getinfo",
+						"t": "ip6t_getinfo",
+						"i": "ip6t_getinfo",
+						"r": "ip6t_getinfo",
+						"s": "",
+						"u": "IP6T_GETINFO",
+						"q": "ip6t_getinfo",
+						"w": "IP6T_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "20b1f08d239d0b9bf20b901517865453023b4f27"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "char[32]",
+						"i": "ip6t_getinfo::name",
+						"r": "char name[32]",
+						"s": "",
+						"u": "NAME",
+						"q": "ip6t_getinfo",
+						"w": "IP6T_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1914d237387220e0af00fe41bd0b94ff96e1e5b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "valid_hooks",
+						"t": "unsigned int",
+						"i": "ip6t_getinfo::valid_hooks",
+						"r": "unsigned int valid_hooks",
+						"s": "",
+						"u": "VALID_HOOKS",
+						"q": "ip6t_getinfo",
+						"w": "IP6T_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "90ee11b19612d0edb1fafe5f3222b2395f065ae7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hook_entry",
+						"t": "unsigned int[5]",
+						"i": "ip6t_getinfo::hook_entry",
+						"r": "unsigned int hook_entry[5]",
+						"s": "",
+						"u": "HOOK_ENTRY",
+						"q": "ip6t_getinfo",
+						"w": "IP6T_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d6b2c32790280b61b849dc48086a2ccdd2fb6bb"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "underflow",
+						"t": "unsigned int[5]",
+						"i": "ip6t_getinfo::underflow",
+						"r": "unsigned int underflow[5]",
+						"s": "",
+						"u": "UNDERFLOW",
+						"q": "ip6t_getinfo",
+						"w": "IP6T_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4492627fb0347d41f2ee62a49aac702bd5d6d2d6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "num_entries",
+						"t": "unsigned int",
+						"i": "ip6t_getinfo::num_entries",
+						"r": "unsigned int num_entries",
+						"s": "",
+						"u": "NUM_ENTRIES",
+						"q": "ip6t_getinfo",
+						"w": "IP6T_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04ae6a93457b76ab7028f03ab280ebc9d38cadfd"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "unsigned int",
+						"i": "ip6t_getinfo::size",
+						"r": "unsigned int size",
+						"s": "",
+						"u": "SIZE",
+						"q": "ip6t_getinfo",
+						"w": "IP6T_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcb85e95895d324d2a0251e64d3a38b8af7f6594"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_replace",
+						"t": "ip6t_replace",
+						"i": "ip6t_replace",
+						"r": "ip6t_replace",
+						"s": "",
+						"u": "IP6T_REPLACE",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f305aee531d739baa12c0c249b02e404bf598417"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "char[32]",
+						"i": "ip6t_replace::name",
+						"r": "char name[32]",
+						"s": "",
+						"u": "NAME",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1914d237387220e0af00fe41bd0b94ff96e1e5b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "valid_hooks",
+						"t": "unsigned int",
+						"i": "ip6t_replace::valid_hooks",
+						"r": "unsigned int valid_hooks",
+						"s": "",
+						"u": "VALID_HOOKS",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "90ee11b19612d0edb1fafe5f3222b2395f065ae7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "num_entries",
+						"t": "unsigned int",
+						"i": "ip6t_replace::num_entries",
+						"r": "unsigned int num_entries",
+						"s": "",
+						"u": "NUM_ENTRIES",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04ae6a93457b76ab7028f03ab280ebc9d38cadfd"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "unsigned int",
+						"i": "ip6t_replace::size",
+						"r": "unsigned int size",
+						"s": "",
+						"u": "SIZE",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcb85e95895d324d2a0251e64d3a38b8af7f6594"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hook_entry",
+						"t": "unsigned int[5]",
+						"i": "ip6t_replace::hook_entry",
+						"r": "unsigned int hook_entry[5]",
+						"s": "",
+						"u": "HOOK_ENTRY",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d6b2c32790280b61b849dc48086a2ccdd2fb6bb"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "underflow",
+						"t": "unsigned int[5]",
+						"i": "ip6t_replace::underflow",
+						"r": "unsigned int underflow[5]",
+						"s": "",
+						"u": "UNDERFLOW",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4492627fb0347d41f2ee62a49aac702bd5d6d2d6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "num_counters",
+						"t": "unsigned int",
+						"i": "ip6t_replace::num_counters",
+						"r": "unsigned int num_counters",
+						"s": "",
+						"u": "NUM_COUNTERS",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e3ad99336751b23837215154cbdc700541e63b89"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "counters",
+						"t": "struct xt_counters *",
+						"i": "ip6t_replace::counters",
+						"r": "xt_counters *counters",
+						"s": "",
+						"u": "COUNTERS",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "949c64cd11c29e8a5c01e9206efacace175af53d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "entries",
+						"t": "struct ip6t_entry[]",
+						"i": "ip6t_replace::entries",
+						"r": "ip6t_entry entries[]",
+						"s": "",
+						"u": "ENTRIES",
+						"q": "ip6t_replace",
+						"w": "IP6T_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ffaa5b0c9ecd0281fa8c470f47104fc4cb90c11e"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip6t_get_entries",
+						"t": "ip6t_get_entries",
+						"i": "ip6t_get_entries",
+						"r": "ip6t_get_entries",
+						"s": "",
+						"u": "IP6T_GET_ENTRIES",
+						"q": "ip6t_get_entries",
+						"w": "IP6T_GET_ENTRIES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b41a267ca078c39b83f21eaeea7d7e934fd30368"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "char[32]",
+						"i": "ip6t_get_entries::name",
+						"r": "char name[32]",
+						"s": "",
+						"u": "NAME",
+						"q": "ip6t_get_entries",
+						"w": "IP6T_GET_ENTRIES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1914d237387220e0af00fe41bd0b94ff96e1e5b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "unsigned int",
+						"i": "ip6t_get_entries::size",
+						"r": "unsigned int size",
+						"s": "",
+						"u": "SIZE",
+						"q": "ip6t_get_entries",
+						"w": "IP6T_GET_ENTRIES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcb85e95895d324d2a0251e64d3a38b8af7f6594"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "entrytable",
+						"t": "struct ip6t_entry[]",
+						"i": "ip6t_get_entries::entrytable",
+						"r": "ip6t_entry entrytable[]",
+						"s": "",
+						"u": "ENTRYTABLE",
+						"q": "ip6t_get_entries",
+						"w": "IP6T_GET_ENTRIES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77ed2c976fd79e227479b457783624ed22ec1a02"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ip6t_get_target",
+						"t": "struct xt_entry_target *(struct ip6t_entry *)",
+						"i": "ip6t_get_target(ip6t_entry*)",
+						"r": "static xt_entry_target *ip6t_get_target(ip6t_entry *e)",
+						"s": "",
+						"u": "IP6T_GET_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28848f5986faa1a5ac4bd7424b64ebc696e312b5"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

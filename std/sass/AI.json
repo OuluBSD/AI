@@ -1,0 +1,7580 @@
+{
+	"saved_hash": "e5d6939c0ab7133d2d9c439d7922adb39a8049e8",
+	"files": [
+		{
+			"key": "sass/base.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SASS_BASE_H",
+						"t": "",
+						"i": "SASS_BASE_H",
+						"r": "SASS_BASE_H",
+						"s": "",
+						"u": "SASS_BASE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb52b648b0f48912d03ab818e63caf7d53787b6b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "DEPRECATED",
+						"t": "",
+						"i": "DEPRECATED",
+						"r": "DEPRECATED",
+						"s": "",
+						"u": "DEPRECATED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "83c52f50d6f12ce88ec25a9864f6ca2307d77924"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ADDAPI",
+						"t": "",
+						"i": "ADDAPI",
+						"r": "ADDAPI",
+						"s": "",
+						"u": "ADDAPI",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92fab2f550630532252746704bce742f82365c28"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ADDCALL",
+						"t": "",
+						"i": "ADDCALL",
+						"r": "ADDCALL",
+						"s": "",
+						"u": "ADDCALL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47c54b06b0165231216f5d72b107c48c15cafee5"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Output_Style",
+						"t": "Sass_Output_Style",
+						"i": "Sass_Output_Style",
+						"r": "enum Sass_Output_Style",
+						"s": "",
+						"u": "SASS_OUTPUT_STYLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "deba33d39984a6347ef84b651371c056b271f09d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_STYLE_NESTED",
+						"t": "Sass_Output_Style",
+						"i": "SASS_STYLE_NESTED",
+						"r": "SASS_STYLE_NESTED",
+						"s": "",
+						"u": "SASS_STYLE_NESTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "740e417b9f538661383841758d52be2b8658373b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_STYLE_EXPANDED",
+						"t": "Sass_Output_Style",
+						"i": "SASS_STYLE_EXPANDED",
+						"r": "SASS_STYLE_EXPANDED",
+						"s": "",
+						"u": "SASS_STYLE_EXPANDED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1af0367049e1337c267e72dedc338319a6b86f64"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_STYLE_COMPACT",
+						"t": "Sass_Output_Style",
+						"i": "SASS_STYLE_COMPACT",
+						"r": "SASS_STYLE_COMPACT",
+						"s": "",
+						"u": "SASS_STYLE_COMPACT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd664750ace96e9873623d79b89fd7cc978a95b7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_STYLE_COMPRESSED",
+						"t": "Sass_Output_Style",
+						"i": "SASS_STYLE_COMPRESSED",
+						"r": "SASS_STYLE_COMPRESSED",
+						"s": "",
+						"u": "SASS_STYLE_COMPRESSED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af4a95db878569ecc9b3f411bf00a2e4c03a135c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_STYLE_INSPECT",
+						"t": "Sass_Output_Style",
+						"i": "SASS_STYLE_INSPECT",
+						"r": "SASS_STYLE_INSPECT",
+						"s": "",
+						"u": "SASS_STYLE_INSPECT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abc284914da10c15c3e0e67c66baf2e7c03b2492"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_STYLE_TO_SASS",
+						"t": "Sass_Output_Style",
+						"i": "SASS_STYLE_TO_SASS",
+						"r": "SASS_STYLE_TO_SASS",
+						"s": "",
+						"u": "SASS_STYLE_TO_SASS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "35aec07e979f3fa34180b4589d05000810afca74"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_STYLE_TO_CSS",
+						"t": "Sass_Output_Style",
+						"i": "SASS_STYLE_TO_CSS",
+						"r": "SASS_STYLE_TO_CSS",
+						"s": "",
+						"u": "SASS_STYLE_TO_CSS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3236438d4a600ee64ba1c64167573eeefc2b6deb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_alloc_memory",
+						"t": "void *(size_t)",
+						"i": "sass_alloc_memory(size_t)",
+						"r": "void *sass_alloc_memory(size_t size)",
+						"s": "",
+						"u": "SASS_ALLOC_MEMORY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e60e2fc73d78a7d3ce01279676b902372a619742"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_copy_c_string",
+						"t": "char *(const char *)",
+						"i": "sass_copy_c_string(const char*)",
+						"r": "char *sass_copy_c_string(const char *str)",
+						"s": "",
+						"u": "SASS_COPY_C_STRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9644181f39d2f2e9652b3348841bca1471a1adc4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_free_memory",
+						"t": "void (void *)",
+						"i": "sass_free_memory(void*)",
+						"r": "void sass_free_memory(void *ptr)",
+						"s": "",
+						"u": "SASS_FREE_MEMORY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "200896ca417a8c110d9a6b0cbf6e93640322299e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_string_quote",
+						"t": "char *(const char *, const char)",
+						"i": "sass_string_quote(const char*,const char)",
+						"r": "char *sass_string_quote(const char *str, const char quote_mark)",
+						"s": "",
+						"u": "SASS_STRING_QUOTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4c09583557ecb9f34fc8cf51d66e12ebce86695"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_string_unquote",
+						"t": "char *(const char *)",
+						"i": "sass_string_unquote(const char*)",
+						"r": "char *sass_string_unquote(const char *str)",
+						"s": "",
+						"u": "SASS_STRING_UNQUOTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6779fe615bc7ec04ba5a4b7a2abe38dbea3dd3e5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "libsass_version",
+						"t": "const char *()",
+						"i": "libsass_version()",
+						"r": "const char *libsass_version()",
+						"s": "",
+						"u": "LIBSASS_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "616ff2fd697f172b0fc85ed2842e991d912826ab"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "libsass_language_version",
+						"t": "const char *()",
+						"i": "libsass_language_version()",
+						"r": "const char *libsass_language_version()",
+						"s": "",
+						"u": "LIBSASS_LANGUAGE_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "989bfafd2c748c96db708f7c0ff231309b8f0bd0"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "sass/version.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SASS_VERSION_H",
+						"t": "",
+						"i": "SASS_VERSION_H",
+						"r": "SASS_VERSION_H",
+						"s": "",
+						"u": "SASS_VERSION_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fec521ec7b60f34e94e8532d8d718a7882240fcf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LIBSASS_VERSION",
+						"t": "",
+						"i": "LIBSASS_VERSION",
+						"r": "LIBSASS_VERSION",
+						"s": "",
+						"u": "LIBSASS_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "39c4ba5ea06ba42fabefa841fd179a4f811fca18"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LIBSASS_LANGUAGE_VERSION",
+						"t": "",
+						"i": "LIBSASS_LANGUAGE_VERSION",
+						"r": "LIBSASS_LANGUAGE_VERSION",
+						"s": "",
+						"u": "LIBSASS_LANGUAGE_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0be5ff8fd15a1fc674170de063ac25215aead4a"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "sass/values.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SASS_C_VALUES_H",
+						"t": "",
+						"i": "SASS_C_VALUES_H",
+						"r": "SASS_C_VALUES_H",
+						"s": "",
+						"u": "SASS_C_VALUES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e46cafd9eb6a9d0b725b94dae7829ee915ce047"
+							}
+						]
+					},
+					{
+						"k": 3,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Value",
+						"t": "Sass_Value",
+						"i": "Sass_Value",
+						"r": "Sass_Value",
+						"s": "",
+						"u": "SASS_VALUE",
+						"q": "Sass_Value",
+						"w": "SASS_VALUE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c55667119b5a7cd8add5e412e9076c2f2a1caca"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Tag",
+						"t": "Sass_Tag",
+						"i": "Sass_Tag",
+						"r": "enum Sass_Tag",
+						"s": "",
+						"u": "SASS_TAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "576d5d07db98e7c9e7db43d9c7d67f9e1a03cd5a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_BOOLEAN",
+						"t": "Sass_Tag",
+						"i": "SASS_BOOLEAN",
+						"r": "SASS_BOOLEAN",
+						"s": "",
+						"u": "SASS_BOOLEAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22345dd34115d857468f80b1660cdd050bd5763e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_NUMBER",
+						"t": "Sass_Tag",
+						"i": "SASS_NUMBER",
+						"r": "SASS_NUMBER",
+						"s": "",
+						"u": "SASS_NUMBER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be3464572a7e0ff9347f43399ac665d05da3e1c1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_COLOR",
+						"t": "Sass_Tag",
+						"i": "SASS_COLOR",
+						"r": "SASS_COLOR",
+						"s": "",
+						"u": "SASS_COLOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c16624f7070fceffb6653e1897d47bfa453e0623"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_STRING",
+						"t": "Sass_Tag",
+						"i": "SASS_STRING",
+						"r": "SASS_STRING",
+						"s": "",
+						"u": "SASS_STRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6c4292bab8170d4b6f385bf26a5cfb1960181904"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_LIST",
+						"t": "Sass_Tag",
+						"i": "SASS_LIST",
+						"r": "SASS_LIST",
+						"s": "",
+						"u": "SASS_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b246369f2c133dd58bd20337135f99398145768"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_MAP",
+						"t": "Sass_Tag",
+						"i": "SASS_MAP",
+						"r": "SASS_MAP",
+						"s": "",
+						"u": "SASS_MAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd0fee6eb98b9bf91a1c758af12cba0a0da4bafe"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_NULL",
+						"t": "Sass_Tag",
+						"i": "SASS_NULL",
+						"r": "SASS_NULL",
+						"s": "",
+						"u": "SASS_NULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "80ba8ca61667dbb896f927b4e9623352cab088d1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_ERROR",
+						"t": "Sass_Tag",
+						"i": "SASS_ERROR",
+						"r": "SASS_ERROR",
+						"s": "",
+						"u": "SASS_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2fb4d668ab5d1b00649852d0ce0014877176acb0"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_WARNING",
+						"t": "Sass_Tag",
+						"i": "SASS_WARNING",
+						"r": "SASS_WARNING",
+						"s": "",
+						"u": "SASS_WARNING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a9cb249478929de7b543c1a9c0fed15a06892ef4"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Separator",
+						"t": "Sass_Separator",
+						"i": "Sass_Separator",
+						"r": "enum Sass_Separator",
+						"s": "",
+						"u": "SASS_SEPARATOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1eecb1b0b2eef71e45d6cda8127736e33c57ba42"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_COMMA",
+						"t": "Sass_Separator",
+						"i": "SASS_COMMA",
+						"r": "SASS_COMMA",
+						"s": "",
+						"u": "SASS_COMMA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d46c364207a4ce71d2a18ea34fbbf7dd0e9b1d5d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_SPACE",
+						"t": "Sass_Separator",
+						"i": "SASS_SPACE",
+						"r": "SASS_SPACE",
+						"s": "",
+						"u": "SASS_SPACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "130b8f2aaf207b2d0a4fb05b68d7683e90ba564b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_HASH",
+						"t": "Sass_Separator",
+						"i": "SASS_HASH",
+						"r": "SASS_HASH",
+						"s": "",
+						"u": "SASS_HASH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b1897b0e6809c7c322634bbf114a4713779c017"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_OP",
+						"t": "Sass_OP",
+						"i": "Sass_OP",
+						"r": "enum Sass_OP",
+						"s": "",
+						"u": "SASS_OP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87f385d922fded46ac91358fc38eae0b72f42a04"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "AND",
+						"t": "Sass_OP",
+						"i": "AND",
+						"r": "AND",
+						"s": "",
+						"u": "AND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c2f934cb8cab6c1b3af0d4f2fdd824eabafb6bf4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "OR",
+						"t": "Sass_OP",
+						"i": "OR",
+						"r": "OR",
+						"s": "",
+						"u": "OR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f579c523960af1aec824c6fdc57af6d4abd76a1f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "EQ",
+						"t": "Sass_OP",
+						"i": "EQ",
+						"r": "EQ",
+						"s": "",
+						"u": "EQ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c41a4b4ae13ef007bf159e37752b1d297454b600"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "NEQ",
+						"t": "Sass_OP",
+						"i": "NEQ",
+						"r": "NEQ",
+						"s": "",
+						"u": "NEQ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bce2509ed11d6cab6009032f29b3a637d619a3cc"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GT",
+						"t": "Sass_OP",
+						"i": "GT",
+						"r": "GT",
+						"s": "",
+						"u": "GT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f1b07ba1d3f58af4c465921af5b16d96fd0bc35"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GTE",
+						"t": "Sass_OP",
+						"i": "GTE",
+						"r": "GTE",
+						"s": "",
+						"u": "GTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4a9f4a4c4e39ed22568cb81ffc977ca06b5d6913"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LT",
+						"t": "Sass_OP",
+						"i": "LT",
+						"r": "LT",
+						"s": "",
+						"u": "LT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6c62fb7313eb9d28efbca3e61ff13801b5b45a0a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LTE",
+						"t": "Sass_OP",
+						"i": "LTE",
+						"r": "LTE",
+						"s": "",
+						"u": "LTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e997a47e552db36eb0db3c627573ed20ae33cb8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ADD",
+						"t": "Sass_OP",
+						"i": "ADD",
+						"r": "ADD",
+						"s": "",
+						"u": "ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9460492306d4b99cd31848c3a99a26a7e978d96"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SUB",
+						"t": "Sass_OP",
+						"i": "SUB",
+						"r": "SUB",
+						"s": "",
+						"u": "SUB",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49b60b33a9c6984502f4e9b3ecea6ce38a21bb0e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "MUL",
+						"t": "Sass_OP",
+						"i": "MUL",
+						"r": "MUL",
+						"s": "",
+						"u": "MUL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "21ca2d0714a98e1f72fb1125eb79090aefc4e6c5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DIV",
+						"t": "Sass_OP",
+						"i": "DIV",
+						"r": "DIV",
+						"s": "",
+						"u": "DIV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "59639a27bfbb199c01a79ec9780e9fea659b2a09"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "MOD",
+						"t": "Sass_OP",
+						"i": "MOD",
+						"r": "MOD",
+						"s": "",
+						"u": "MOD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec4b11bad0edbdb99e67935796df60d779713be8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "NUM_OPS",
+						"t": "Sass_OP",
+						"i": "NUM_OPS",
+						"r": "NUM_OPS",
+						"s": "",
+						"u": "NUM_OPS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "95083f557d1677ead502569ba081d1959612c6be"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_null",
+						"t": "union Sass_Value *()",
+						"i": "sass_make_null()",
+						"r": "Sass_Value *sass_make_null()",
+						"s": "",
+						"u": "SASS_MAKE_NULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28abeab2de13c376ff73bdebf206da52eb0f5dc5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_boolean",
+						"t": "union Sass_Value *(bool)",
+						"i": "sass_make_boolean(bool)",
+						"r": "Sass_Value *sass_make_boolean(bool val)",
+						"s": "",
+						"u": "SASS_MAKE_BOOLEAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7802c031885a65ad20e306ac6d610d60b4a163c9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_string",
+						"t": "union Sass_Value *(const char *)",
+						"i": "sass_make_string(const char*)",
+						"r": "Sass_Value *sass_make_string(const char *val)",
+						"s": "",
+						"u": "SASS_MAKE_STRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "75c0ca72c261397ce6f879ce853563cc179d59fe"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_qstring",
+						"t": "union Sass_Value *(const char *)",
+						"i": "sass_make_qstring(const char*)",
+						"r": "Sass_Value *sass_make_qstring(const char *val)",
+						"s": "",
+						"u": "SASS_MAKE_QSTRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3817edc01115b8a65f254eab7c7f017a64782f1d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_number",
+						"t": "union Sass_Value *(double, const char *)",
+						"i": "sass_make_number(double,const char*)",
+						"r": "Sass_Value *sass_make_number(double val, const char *unit)",
+						"s": "",
+						"u": "SASS_MAKE_NUMBER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49dc7b0118a07ef9808d6be59a035ba75190a5f0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_color",
+						"t": "union Sass_Value *(double, double, double, double)",
+						"i": "sass_make_color(double,double,double,double)",
+						"r": "Sass_Value *sass_make_color(double r, double g, double b, double a)",
+						"s": "",
+						"u": "SASS_MAKE_COLOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14941f3887ced21c1eb1820feac664793429207b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_list",
+						"t": "union Sass_Value *(size_t, enum Sass_Separator, bool)",
+						"i": "sass_make_list(size_t,Sass_Separator,bool)",
+						"r": "Sass_Value *sass_make_list(size_t len, enum Sass_Separator sep, bool is_bracketed)",
+						"s": "",
+						"u": "SASS_MAKE_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "35674a2ce79142b5b37b6c932c884880b9c4cc32"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_map",
+						"t": "union Sass_Value *(size_t)",
+						"i": "sass_make_map(size_t)",
+						"r": "Sass_Value *sass_make_map(size_t len)",
+						"s": "",
+						"u": "SASS_MAKE_MAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7f662e60daebfd04d34071f118b8ecf2cdc72b8d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_error",
+						"t": "union Sass_Value *(const char *)",
+						"i": "sass_make_error(const char*)",
+						"r": "Sass_Value *sass_make_error(const char *msg)",
+						"s": "",
+						"u": "SASS_MAKE_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb3da286fb38f5a0a0a0f8ce3c81bf27bef16da7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_warning",
+						"t": "union Sass_Value *(const char *)",
+						"i": "sass_make_warning(const char*)",
+						"r": "Sass_Value *sass_make_warning(const char *msg)",
+						"s": "",
+						"u": "SASS_MAKE_WARNING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "760c5978b9abe584ae550cf62a14633adf074ef7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_value",
+						"t": "void (union Sass_Value *)",
+						"i": "sass_delete_value(Sass_Value*)",
+						"r": "void sass_delete_value(Sass_Value *val)",
+						"s": "",
+						"u": "SASS_DELETE_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f86e31e70d5298c904bce33980766c5518fbcf03"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_clone_value",
+						"t": "union Sass_Value *(const union Sass_Value *)",
+						"i": "sass_clone_value(const Sass_Value*)",
+						"r": "Sass_Value *sass_clone_value(const Sass_Value *val)",
+						"s": "",
+						"u": "SASS_CLONE_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54a2b23ecb8ce933f0b9bdfc61d455f75abd89d5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_op",
+						"t": "union Sass_Value *(enum Sass_OP, const union Sass_Value *, const union Sass_Value *)",
+						"i": "sass_value_op(Sass_OP,const Sass_Value*,const Sass_Value*)",
+						"r": "Sass_Value *sass_value_op(enum Sass_OP op, const Sass_Value *a, const Sass_Value *b)",
+						"s": "",
+						"u": "SASS_VALUE_OP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1fd74045e2d8bfc7e9f85421fbcdf3533e1fd02f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_stringify",
+						"t": "union Sass_Value *(const union Sass_Value *, bool, int)",
+						"i": "sass_value_stringify(const Sass_Value*,bool,int)",
+						"r": "Sass_Value *sass_value_stringify(const Sass_Value *a, bool compressed, int precision)",
+						"s": "",
+						"u": "SASS_VALUE_STRINGIFY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c340a5d28cefdc08f5d02150526152dde9b17c77"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_get_tag",
+						"t": "enum Sass_Tag (const union Sass_Value *)",
+						"i": "sass_value_get_tag(const Sass_Value*)",
+						"r": "enum Sass_Tag sass_value_get_tag(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_GET_TAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0567f81091f7e12ce410166a677c17072a7b752b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_null",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_null(const Sass_Value*)",
+						"r": "bool sass_value_is_null(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_NULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b7a9db5c6303a47cb7c59ea598c21091cc25c9d7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_number",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_number(const Sass_Value*)",
+						"r": "bool sass_value_is_number(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_NUMBER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5c9c2388db7c59f17473c7657703b9bc28abd13a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_string",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_string(const Sass_Value*)",
+						"r": "bool sass_value_is_string(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_STRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c0bb9f7c7acaf4ca13ea67c5dfd83e6f8c927b7d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_boolean",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_boolean(const Sass_Value*)",
+						"r": "bool sass_value_is_boolean(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_BOOLEAN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "97f31ce843a14b8715ed2ebf7118d5193d09cae0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_color",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_color(const Sass_Value*)",
+						"r": "bool sass_value_is_color(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_COLOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd6dc2bd0a083c59724185467a6f11f3cedccb42"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_list",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_list(const Sass_Value*)",
+						"r": "bool sass_value_is_list(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "956eacf857ccc44d3e8755ccf91dba81daaac319"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_map",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_map(const Sass_Value*)",
+						"r": "bool sass_value_is_map(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_MAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40288c58bc61866546a14c56e66632dec5274b90"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_error",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_error(const Sass_Value*)",
+						"r": "bool sass_value_is_error(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6937b9142b008b6b8090cb2340c0db990e38835f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_value_is_warning",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_value_is_warning(const Sass_Value*)",
+						"r": "bool sass_value_is_warning(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_VALUE_IS_WARNING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5752b821c6cb6441091e50e8d37cc23c17a46c22"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_number_get_value",
+						"t": "double (const union Sass_Value *)",
+						"i": "sass_number_get_value(const Sass_Value*)",
+						"r": "double sass_number_get_value(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_NUMBER_GET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bae2f3006f2e6f746f209f0bdadd2a2b3979ac8a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_number_set_value",
+						"t": "void (union Sass_Value *, double)",
+						"i": "sass_number_set_value(Sass_Value*,double)",
+						"r": "void sass_number_set_value(Sass_Value *v, double value)",
+						"s": "",
+						"u": "SASS_NUMBER_SET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bf1c182af6660b4bbf5b2651df7b8b422a2e52ea"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_number_get_unit",
+						"t": "const char *(const union Sass_Value *)",
+						"i": "sass_number_get_unit(const Sass_Value*)",
+						"r": "const char *sass_number_get_unit(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_NUMBER_GET_UNIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba1a355d3d2acd27bf641cec13e81e10f0308813"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_number_set_unit",
+						"t": "void (union Sass_Value *, char *)",
+						"i": "sass_number_set_unit(Sass_Value*,char*)",
+						"r": "void sass_number_set_unit(Sass_Value *v, char *unit)",
+						"s": "",
+						"u": "SASS_NUMBER_SET_UNIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c705a6d597c6d728173255bf628831d507232e96"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_string_get_value",
+						"t": "const char *(const union Sass_Value *)",
+						"i": "sass_string_get_value(const Sass_Value*)",
+						"r": "const char *sass_string_get_value(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_STRING_GET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "faea8c9150735244bc73e3c66e7ee42f0bcd09ea"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_string_set_value",
+						"t": "void (union Sass_Value *, char *)",
+						"i": "sass_string_set_value(Sass_Value*,char*)",
+						"r": "void sass_string_set_value(Sass_Value *v, char *value)",
+						"s": "",
+						"u": "SASS_STRING_SET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0807f20f96fab1e2a3fb61fc013c5dd4785279a1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_string_is_quoted",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_string_is_quoted(const Sass_Value*)",
+						"r": "bool sass_string_is_quoted(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_STRING_IS_QUOTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c13fc15b38c1eed47df5844f248312275be80b92"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_string_set_quoted",
+						"t": "void (union Sass_Value *, bool)",
+						"i": "sass_string_set_quoted(Sass_Value*,bool)",
+						"r": "void sass_string_set_quoted(Sass_Value *v, bool quoted)",
+						"s": "",
+						"u": "SASS_STRING_SET_QUOTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe56cdd8e5e75fa7638a048c4fef1cb21945df15"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_boolean_get_value",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_boolean_get_value(const Sass_Value*)",
+						"r": "bool sass_boolean_get_value(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_BOOLEAN_GET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "59be61c9514117527996fc8095015b8ecebcf7f0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_boolean_set_value",
+						"t": "void (union Sass_Value *, bool)",
+						"i": "sass_boolean_set_value(Sass_Value*,bool)",
+						"r": "void sass_boolean_set_value(Sass_Value *v, bool value)",
+						"s": "",
+						"u": "SASS_BOOLEAN_SET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "efc3122b2c098b6ce21f8581ac3ac29c9de6b911"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_color_get_r",
+						"t": "double (const union Sass_Value *)",
+						"i": "sass_color_get_r(const Sass_Value*)",
+						"r": "double sass_color_get_r(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_COLOR_GET_R",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0a550a3f90a5e2da522a301fc643fdf67578c47f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_color_set_r",
+						"t": "void (union Sass_Value *, double)",
+						"i": "sass_color_set_r(Sass_Value*,double)",
+						"r": "void sass_color_set_r(Sass_Value *v, double r)",
+						"s": "",
+						"u": "SASS_COLOR_SET_R",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e1d229fdba53528adec5e3e424ef8d6787e09f6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_color_get_g",
+						"t": "double (const union Sass_Value *)",
+						"i": "sass_color_get_g(const Sass_Value*)",
+						"r": "double sass_color_get_g(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_COLOR_GET_G",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e40cbaa10cc0e0dc23d0b0c0ba993e45adf11051"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_color_set_g",
+						"t": "void (union Sass_Value *, double)",
+						"i": "sass_color_set_g(Sass_Value*,double)",
+						"r": "void sass_color_set_g(Sass_Value *v, double g)",
+						"s": "",
+						"u": "SASS_COLOR_SET_G",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b7e3c549ebefb1ddc7cafda0d8f2b1d00ae8f48"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_color_get_b",
+						"t": "double (const union Sass_Value *)",
+						"i": "sass_color_get_b(const Sass_Value*)",
+						"r": "double sass_color_get_b(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_COLOR_GET_B",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "739d3dfc65bde524545e64b9ed29ccd3ec75d268"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_color_set_b",
+						"t": "void (union Sass_Value *, double)",
+						"i": "sass_color_set_b(Sass_Value*,double)",
+						"r": "void sass_color_set_b(Sass_Value *v, double b)",
+						"s": "",
+						"u": "SASS_COLOR_SET_B",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "522dbbaa805145f2810b283d96419de2a2da34d1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_color_get_a",
+						"t": "double (const union Sass_Value *)",
+						"i": "sass_color_get_a(const Sass_Value*)",
+						"r": "double sass_color_get_a(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_COLOR_GET_A",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b45b9035cba91f6aced54844072739161e57518"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_color_set_a",
+						"t": "void (union Sass_Value *, double)",
+						"i": "sass_color_set_a(Sass_Value*,double)",
+						"r": "void sass_color_set_a(Sass_Value *v, double a)",
+						"s": "",
+						"u": "SASS_COLOR_SET_A",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a2f45f055a72e727d9d0728441f0e8c291c45a65"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_list_get_length",
+						"t": "size_t (const union Sass_Value *)",
+						"i": "sass_list_get_length(const Sass_Value*)",
+						"r": "size_t sass_list_get_length(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_LIST_GET_LENGTH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d0058ae27435ede1b61fafda7a1263e9c9e69e4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_list_get_separator",
+						"t": "enum Sass_Separator (const union Sass_Value *)",
+						"i": "sass_list_get_separator(const Sass_Value*)",
+						"r": "enum Sass_Separator sass_list_get_separator(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_LIST_GET_SEPARATOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb89703190b3b33cc05f7b7604205ae626e47135"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_list_set_separator",
+						"t": "void (union Sass_Value *, enum Sass_Separator)",
+						"i": "sass_list_set_separator(Sass_Value*,Sass_Separator)",
+						"r": "void sass_list_set_separator(Sass_Value *v, enum Sass_Separator value)",
+						"s": "",
+						"u": "SASS_LIST_SET_SEPARATOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "79f386012f0070172ae5e3ab77398560ae1889a9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_list_get_is_bracketed",
+						"t": "bool (const union Sass_Value *)",
+						"i": "sass_list_get_is_bracketed(const Sass_Value*)",
+						"r": "bool sass_list_get_is_bracketed(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_LIST_GET_IS_BRACKETED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16bf43416218b6940b196f93a555cdaec638946c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_list_set_is_bracketed",
+						"t": "void (union Sass_Value *, bool)",
+						"i": "sass_list_set_is_bracketed(Sass_Value*,bool)",
+						"r": "void sass_list_set_is_bracketed(Sass_Value *v, bool value)",
+						"s": "",
+						"u": "SASS_LIST_SET_IS_BRACKETED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2607072d47da6429e1dd26b8434e5a155d4b9c2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_list_get_value",
+						"t": "union Sass_Value *(const union Sass_Value *, size_t)",
+						"i": "sass_list_get_value(const Sass_Value*,size_t)",
+						"r": "Sass_Value *sass_list_get_value(const Sass_Value *v, size_t i)",
+						"s": "",
+						"u": "SASS_LIST_GET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3717857091bfcd102e6279073da579c5fc17564d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_list_set_value",
+						"t": "void (union Sass_Value *, size_t, union Sass_Value *)",
+						"i": "sass_list_set_value(Sass_Value*,size_t,Sass_Value*)",
+						"r": "void sass_list_set_value(Sass_Value *v, size_t i, Sass_Value *value)",
+						"s": "",
+						"u": "SASS_LIST_SET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e86f0055adb5cdd88c1fd127a6a774b681d51cef"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_map_get_length",
+						"t": "size_t (const union Sass_Value *)",
+						"i": "sass_map_get_length(const Sass_Value*)",
+						"r": "size_t sass_map_get_length(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_MAP_GET_LENGTH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b221405b38fb535cd5b5337dd10d65ef8807c13f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_map_get_key",
+						"t": "union Sass_Value *(const union Sass_Value *, size_t)",
+						"i": "sass_map_get_key(const Sass_Value*,size_t)",
+						"r": "Sass_Value *sass_map_get_key(const Sass_Value *v, size_t i)",
+						"s": "",
+						"u": "SASS_MAP_GET_KEY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73882743262ccf31c42a670cf443cd8f56a1857b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_map_set_key",
+						"t": "void (union Sass_Value *, size_t, union Sass_Value *)",
+						"i": "sass_map_set_key(Sass_Value*,size_t,Sass_Value*)",
+						"r": "void sass_map_set_key(Sass_Value *v, size_t i, Sass_Value *)",
+						"s": "",
+						"u": "SASS_MAP_SET_KEY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f24b047b18b33157ddb2d1b12dfa3175b0e1c37"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_map_get_value",
+						"t": "union Sass_Value *(const union Sass_Value *, size_t)",
+						"i": "sass_map_get_value(const Sass_Value*,size_t)",
+						"r": "Sass_Value *sass_map_get_value(const Sass_Value *v, size_t i)",
+						"s": "",
+						"u": "SASS_MAP_GET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "990a70b144a81577e55d99899068a5e589e0b0fc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_map_set_value",
+						"t": "void (union Sass_Value *, size_t, union Sass_Value *)",
+						"i": "sass_map_set_value(Sass_Value*,size_t,Sass_Value*)",
+						"r": "void sass_map_set_value(Sass_Value *v, size_t i, Sass_Value *)",
+						"s": "",
+						"u": "SASS_MAP_SET_VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3be04842c4bdf3524dc56bcea8f77b408c7fa326"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_error_get_message",
+						"t": "char *(const union Sass_Value *)",
+						"i": "sass_error_get_message(const Sass_Value*)",
+						"r": "char *sass_error_get_message(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_ERROR_GET_MESSAGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68791234442fc26a78fedb14b3897b3e60a50c4f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_error_set_message",
+						"t": "void (union Sass_Value *, char *)",
+						"i": "sass_error_set_message(Sass_Value*,char*)",
+						"r": "void sass_error_set_message(Sass_Value *v, char *msg)",
+						"s": "",
+						"u": "SASS_ERROR_SET_MESSAGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7aff6353c787acc7ad4b17eedbc63bc498d6724"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_warning_get_message",
+						"t": "char *(const union Sass_Value *)",
+						"i": "sass_warning_get_message(const Sass_Value*)",
+						"r": "char *sass_warning_get_message(const Sass_Value *v)",
+						"s": "",
+						"u": "SASS_WARNING_GET_MESSAGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "135b0c743439273d4a74e6de44bb75531ce20273"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_warning_set_message",
+						"t": "void (union Sass_Value *, char *)",
+						"i": "sass_warning_set_message(Sass_Value*,char*)",
+						"r": "void sass_warning_set_message(Sass_Value *v, char *msg)",
+						"s": "",
+						"u": "SASS_WARNING_SET_MESSAGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8bdb83a8e39fa74e68bc1c354bdd667c4e6e89b5"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "sass/functions.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SASS_C_FUNCTIONS_H",
+						"t": "",
+						"i": "SASS_C_FUNCTIONS_H",
+						"r": "SASS_C_FUNCTIONS_H",
+						"s": "",
+						"u": "SASS_C_FUNCTIONS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02316dd3787f3d6c82aa67c7f9e144bea5d8e3b8"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Env",
+						"t": "Sass_Env",
+						"i": "Sass_Env",
+						"r": "Sass_Env",
+						"s": "",
+						"u": "SASS_ENV",
+						"q": "Sass_Env",
+						"w": "SASS_ENV",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5677a24a448d24a2b772a9a93cf37ebfa2605695"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Callee",
+						"t": "Sass_Callee",
+						"i": "Sass_Callee",
+						"r": "Sass_Callee",
+						"s": "",
+						"u": "SASS_CALLEE",
+						"q": "Sass_Callee",
+						"w": "SASS_CALLEE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6074a05a9558455c8251212241d714cbcf6634f5"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Import",
+						"t": "Sass_Import",
+						"i": "Sass_Import",
+						"r": "Sass_Import",
+						"s": "",
+						"u": "SASS_IMPORT",
+						"q": "Sass_Import",
+						"w": "SASS_IMPORT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6295dc192ba6f79ffca8395e6690a60d5743fcbe"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Options",
+						"t": "Sass_Options",
+						"i": "Sass_Options",
+						"r": "Sass_Options",
+						"s": "",
+						"u": "SASS_OPTIONS",
+						"q": "Sass_Options",
+						"w": "SASS_OPTIONS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9d7eb83ec97405de6bfc19096c31357af0c5662"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Compiler",
+						"t": "Sass_Compiler",
+						"i": "Sass_Compiler",
+						"r": "Sass_Compiler",
+						"s": "",
+						"u": "SASS_COMPILER",
+						"q": "Sass_Compiler",
+						"w": "SASS_COMPILER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3104017403f41ff20109ae4125e1f084097e05b6"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Importer",
+						"t": "Sass_Importer",
+						"i": "Sass_Importer",
+						"r": "Sass_Importer",
+						"s": "",
+						"u": "SASS_IMPORTER",
+						"q": "Sass_Importer",
+						"w": "SASS_IMPORTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b5284894bbc8a1cbeae5e1f7f357e5b3c0a2c2e"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Function",
+						"t": "Sass_Function",
+						"i": "Sass_Function",
+						"r": "Sass_Function",
+						"s": "",
+						"u": "SASS_FUNCTION",
+						"q": "Sass_Function",
+						"w": "SASS_FUNCTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b71635e790568e57d3c24eb559a3d4a12a6171b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Env_Frame",
+						"t": "Sass_Env_Frame",
+						"i": "Sass_Env_Frame",
+						"r": "typedef Sass_Env (*Sass_Env_Frame)",
+						"s": "",
+						"u": "SASS_ENV_FRAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "97b29dbe156cc776af13a61016ddfe667a00a9a2"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Callee_Entry",
+						"t": "Sass_Callee_Entry",
+						"i": "Sass_Callee_Entry",
+						"r": "typedef Sass_Callee (*Sass_Callee_Entry)",
+						"s": "",
+						"u": "SASS_CALLEE_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f2b523f0f7c6f7530d6ff6cb98684ddad2008e5b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Import_Entry",
+						"t": "Sass_Import_Entry",
+						"i": "Sass_Import_Entry",
+						"r": "typedef Sass_Import (*Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f6e0575743b18ce7b392e919ae957e8b5745717"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Import_List",
+						"t": "Sass_Import_List",
+						"i": "Sass_Import_List",
+						"r": "typedef Sass_Import *(*Sass_Import_List)",
+						"s": "",
+						"u": "SASS_IMPORT_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "064c8106a10bc0017a36354e25083025623477e9"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Importer_Entry",
+						"t": "Sass_Importer_Entry",
+						"i": "Sass_Importer_Entry",
+						"r": "typedef Sass_Importer (*Sass_Importer_Entry)",
+						"s": "",
+						"u": "SASS_IMPORTER_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f822ad380198b0aa8db27413f46a64de71c37c5f"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Importer_List",
+						"t": "Sass_Importer_List",
+						"i": "Sass_Importer_List",
+						"r": "typedef Sass_Importer *(*Sass_Importer_List)",
+						"s": "",
+						"u": "SASS_IMPORTER_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f005b034824a7ceb61d5b50063e17ad62e705225"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Importer_Fn",
+						"t": "Sass_Importer_Fn",
+						"i": "Sass_Importer_Fn",
+						"r": "typedef Sass_Import_List (*Sass_Importer_Fn)(const char *, Sass_Importer_Entry, Sass_Compiler *)",
+						"s": "",
+						"u": "SASS_IMPORTER_FN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f077cc55e8c1120958b7cfae037629eeb01c1aa"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "url",
+						"t": "const char *",
+						"i": "url",
+						"r": "const char *url",
+						"s": "",
+						"u": "URL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ea6135dbf0db82dd0b1fdf0647ae72799a3de963"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cb",
+						"t": "Sass_Importer_Entry",
+						"i": "cb",
+						"r": "Sass_Importer_Entry cb",
+						"s": "",
+						"u": "CB",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4be00713e2186e3c90e85732428e105dfe457ab8"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "compiler",
+						"t": "struct Sass_Compiler *",
+						"i": "compiler",
+						"r": "Sass_Compiler *compiler",
+						"s": "",
+						"u": "COMPILER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b6a67af3a6588ec14a42bf487cbd9e16e5d677eb"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Function_Entry",
+						"t": "Sass_Function_Entry",
+						"i": "Sass_Function_Entry",
+						"r": "typedef Sass_Function (*Sass_Function_Entry)",
+						"s": "",
+						"u": "SASS_FUNCTION_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f98f9efbca840611399ab3dc2b8a6cea6d99343f"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Function_List",
+						"t": "Sass_Function_List",
+						"i": "Sass_Function_List",
+						"r": "typedef Sass_Function *(*Sass_Function_List)",
+						"s": "",
+						"u": "SASS_FUNCTION_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8bfe0f1a8db4e4d4081c1d5834d86bb01a8cc3e"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Function_Fn",
+						"t": "Sass_Function_Fn",
+						"i": "Sass_Function_Fn",
+						"r": "typedef Sass_Value *(*Sass_Function_Fn)(const Sass_Value *, Sass_Function_Entry, Sass_Compiler *)",
+						"s": "",
+						"u": "SASS_FUNCTION_FN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f3a1013f46e169327751a3b4aeb5f10ade4644ef"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cb",
+						"t": "Sass_Function_Entry",
+						"i": "cb",
+						"r": "Sass_Function_Entry cb",
+						"s": "",
+						"u": "CB",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c2329f56574a0f511ade59dd0b701e50e09501da"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "compiler",
+						"t": "struct Sass_Compiler *",
+						"i": "compiler",
+						"r": "Sass_Compiler *compiler",
+						"s": "",
+						"u": "COMPILER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b6a67af3a6588ec14a42bf487cbd9e16e5d677eb"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Callee_Type",
+						"t": "Sass_Callee_Type",
+						"i": "Sass_Callee_Type",
+						"r": "enum Sass_Callee_Type",
+						"s": "",
+						"u": "SASS_CALLEE_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "324f7fc791a87508ba25e6e80601d532641469d9"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_CALLEE_MIXIN",
+						"t": "Sass_Callee_Type",
+						"i": "SASS_CALLEE_MIXIN",
+						"r": "SASS_CALLEE_MIXIN",
+						"s": "",
+						"u": "SASS_CALLEE_MIXIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "676a722fc59f8d4404abdae6e7763229fbbaad72"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_CALLEE_FUNCTION",
+						"t": "Sass_Callee_Type",
+						"i": "SASS_CALLEE_FUNCTION",
+						"r": "SASS_CALLEE_FUNCTION",
+						"s": "",
+						"u": "SASS_CALLEE_FUNCTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e4df3e46e4245435cefb6882de06268c6461077"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_CALLEE_C_FUNCTION",
+						"t": "Sass_Callee_Type",
+						"i": "SASS_CALLEE_C_FUNCTION",
+						"r": "SASS_CALLEE_C_FUNCTION",
+						"s": "",
+						"u": "SASS_CALLEE_C_FUNCTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e61f73d96b7936c5d42ddc4489e86715e6b52008"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_importer_list",
+						"t": "Sass_Importer_List (size_t)",
+						"i": "sass_make_importer_list(size_t)",
+						"r": "Sass_Importer_List sass_make_importer_list(size_t length)",
+						"s": "",
+						"u": "SASS_MAKE_IMPORTER_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2651115c1b464de2ca849d6b86d0ac9126c84317"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_importer_get_list_entry",
+						"t": "Sass_Importer_Entry (Sass_Importer_List, size_t)",
+						"i": "sass_importer_get_list_entry(Sass_Importer_List,size_t)",
+						"r": "Sass_Importer_Entry sass_importer_get_list_entry(Sass_Importer_List list, size_t idx)",
+						"s": "",
+						"u": "SASS_IMPORTER_GET_LIST_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "035ea8cc93f948fed0e83f36cacc33af9d65605e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_importer_set_list_entry",
+						"t": "void (Sass_Importer_List, size_t, Sass_Importer_Entry)",
+						"i": "sass_importer_set_list_entry(Sass_Importer_List,size_t,Sass_Importer_Entry)",
+						"r": "void sass_importer_set_list_entry(Sass_Importer_List list, size_t idx, Sass_Importer_Entry entry)",
+						"s": "",
+						"u": "SASS_IMPORTER_SET_LIST_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de5430fb4f2632a66fd36a8d982453b43e072198"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_importer_list",
+						"t": "void (Sass_Importer_List)",
+						"i": "sass_delete_importer_list(Sass_Importer_List)",
+						"r": "void sass_delete_importer_list(Sass_Importer_List list)",
+						"s": "",
+						"u": "SASS_DELETE_IMPORTER_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "010e87e9878b8c966abc32200ff7793bfbc8b935"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_importer",
+						"t": "Sass_Importer_Entry (Sass_Importer_Fn, double, void *)",
+						"i": "sass_make_importer(Sass_Importer_Fn,double,void*)",
+						"r": "Sass_Importer_Entry sass_make_importer(Sass_Importer_Fn importer, double priority, void *cookie)",
+						"s": "",
+						"u": "SASS_MAKE_IMPORTER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "162371bc5be355fb5597b41823901ba73f143ce6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_importer_get_function",
+						"t": "Sass_Importer_Fn (Sass_Importer_Entry)",
+						"i": "sass_importer_get_function(Sass_Importer_Entry)",
+						"r": "Sass_Importer_Fn sass_importer_get_function(Sass_Importer_Entry cb)",
+						"s": "",
+						"u": "SASS_IMPORTER_GET_FUNCTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6bb48b0f2201aa959afe5b2215e5da55dbca1811"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_importer_get_priority",
+						"t": "double (Sass_Importer_Entry)",
+						"i": "sass_importer_get_priority(Sass_Importer_Entry)",
+						"r": "double sass_importer_get_priority(Sass_Importer_Entry cb)",
+						"s": "",
+						"u": "SASS_IMPORTER_GET_PRIORITY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0486498a387db5f5ef97dac28f39ed210eeb6b35"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_importer_get_cookie",
+						"t": "void *(Sass_Importer_Entry)",
+						"i": "sass_importer_get_cookie(Sass_Importer_Entry)",
+						"r": "void *sass_importer_get_cookie(Sass_Importer_Entry cb)",
+						"s": "",
+						"u": "SASS_IMPORTER_GET_COOKIE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46a0c9a27d5b50371d3520854744a3286fa2ea98"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_importer",
+						"t": "void (Sass_Importer_Entry)",
+						"i": "sass_delete_importer(Sass_Importer_Entry)",
+						"r": "void sass_delete_importer(Sass_Importer_Entry cb)",
+						"s": "",
+						"u": "SASS_DELETE_IMPORTER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c09618d70a3b8a9048b8a13d48212adeb021940b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_import_list",
+						"t": "Sass_Import_List (size_t)",
+						"i": "sass_make_import_list(size_t)",
+						"r": "Sass_Import_List sass_make_import_list(size_t length)",
+						"s": "",
+						"u": "SASS_MAKE_IMPORT_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "806801c40b548abb928334bad73319d71118062c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_import_entry",
+						"t": "Sass_Import_Entry (const char *, char *, char *)",
+						"i": "sass_make_import_entry(const char*,char*,char*)",
+						"r": "Sass_Import_Entry sass_make_import_entry(const char *path, char *source, char *srcmap)",
+						"s": "",
+						"u": "SASS_MAKE_IMPORT_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6caf3662e2bda3c9c14a6d4252defa08c4b16ca3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_import",
+						"t": "Sass_Import_Entry (const char *, const char *, char *, char *)",
+						"i": "sass_make_import(const char*,const char*,char*,char*)",
+						"r": "Sass_Import_Entry sass_make_import(const char *imp_path, const char *abs_base, char *source, char *srcmap)",
+						"s": "",
+						"u": "SASS_MAKE_IMPORT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "879213a01d5df30e697b07dca56d3da216517dbf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_set_error",
+						"t": "Sass_Import_Entry (Sass_Import_Entry, const char *, size_t, size_t)",
+						"i": "sass_import_set_error(Sass_Import_Entry,const char*,size_t,size_t)",
+						"r": "Sass_Import_Entry sass_import_set_error(Sass_Import_Entry import, const char *message, size_t line, size_t col)",
+						"s": "",
+						"u": "SASS_IMPORT_SET_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40301ebd8008878e8329f1ac05840d8d975c17b0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_set_list_entry",
+						"t": "void (Sass_Import_List, size_t, Sass_Import_Entry)",
+						"i": "sass_import_set_list_entry(Sass_Import_List,size_t,Sass_Import_Entry)",
+						"r": "void sass_import_set_list_entry(Sass_Import_List list, size_t idx, Sass_Import_Entry entry)",
+						"s": "",
+						"u": "SASS_IMPORT_SET_LIST_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "093e6cc224bb4f2648646a0b7e84067c21e52fd5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_get_list_entry",
+						"t": "Sass_Import_Entry (Sass_Import_List, size_t)",
+						"i": "sass_import_get_list_entry(Sass_Import_List,size_t)",
+						"r": "Sass_Import_Entry sass_import_get_list_entry(Sass_Import_List list, size_t idx)",
+						"s": "",
+						"u": "SASS_IMPORT_GET_LIST_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cfc4c0ddb16c84eb4d9627a7e330bc4ae9fc272c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_callee_get_name",
+						"t": "const char *(Sass_Callee_Entry)",
+						"i": "sass_callee_get_name(Sass_Callee_Entry)",
+						"r": "const char *sass_callee_get_name(Sass_Callee_Entry)",
+						"s": "",
+						"u": "SASS_CALLEE_GET_NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4637719b8360789ba8c34da5bc9e667775afd69"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_callee_get_path",
+						"t": "const char *(Sass_Callee_Entry)",
+						"i": "sass_callee_get_path(Sass_Callee_Entry)",
+						"r": "const char *sass_callee_get_path(Sass_Callee_Entry)",
+						"s": "",
+						"u": "SASS_CALLEE_GET_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "162fc491381b92a5b9577a02e290f32b09a52ada"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_callee_get_line",
+						"t": "size_t (Sass_Callee_Entry)",
+						"i": "sass_callee_get_line(Sass_Callee_Entry)",
+						"r": "size_t sass_callee_get_line(Sass_Callee_Entry)",
+						"s": "",
+						"u": "SASS_CALLEE_GET_LINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d2e8ab765bb5ce6e1c21e7259331da5d55c44e3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_callee_get_column",
+						"t": "size_t (Sass_Callee_Entry)",
+						"i": "sass_callee_get_column(Sass_Callee_Entry)",
+						"r": "size_t sass_callee_get_column(Sass_Callee_Entry)",
+						"s": "",
+						"u": "SASS_CALLEE_GET_COLUMN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "797da208c3a5aa42fc28a3da2411496283367e62"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_callee_get_type",
+						"t": "enum Sass_Callee_Type (Sass_Callee_Entry)",
+						"i": "sass_callee_get_type(Sass_Callee_Entry)",
+						"r": "enum Sass_Callee_Type sass_callee_get_type(Sass_Callee_Entry)",
+						"s": "",
+						"u": "SASS_CALLEE_GET_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "85aa3409ce3d8b787a022b4bec8092e7a096ca9f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_callee_get_env",
+						"t": "Sass_Env_Frame (Sass_Callee_Entry)",
+						"i": "sass_callee_get_env(Sass_Callee_Entry)",
+						"r": "Sass_Env_Frame sass_callee_get_env(Sass_Callee_Entry)",
+						"s": "",
+						"u": "SASS_CALLEE_GET_ENV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "05d5bed6bc7f5989a9fdb5c6bb3e3cc19eb6693c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_env_get_lexical",
+						"t": "union Sass_Value *(Sass_Env_Frame, const char *)",
+						"i": "sass_env_get_lexical(Sass_Env_Frame,const char*)",
+						"r": "Sass_Value *sass_env_get_lexical(Sass_Env_Frame, const char *)",
+						"s": "",
+						"u": "SASS_ENV_GET_LEXICAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ebdf621963e6a853ee540b94e0af3aad81afb59"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_env_set_lexical",
+						"t": "void (Sass_Env_Frame, const char *, union Sass_Value *)",
+						"i": "sass_env_set_lexical(Sass_Env_Frame,const char*,Sass_Value*)",
+						"r": "void sass_env_set_lexical(Sass_Env_Frame, const char *, Sass_Value *)",
+						"s": "",
+						"u": "SASS_ENV_SET_LEXICAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d11c932eb6833552aa2ea90f2dc5854bd8a98b7b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_env_get_local",
+						"t": "union Sass_Value *(Sass_Env_Frame, const char *)",
+						"i": "sass_env_get_local(Sass_Env_Frame,const char*)",
+						"r": "Sass_Value *sass_env_get_local(Sass_Env_Frame, const char *)",
+						"s": "",
+						"u": "SASS_ENV_GET_LOCAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aa8d79b09625fdeaffd71d90eca8753da835b8d9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_env_set_local",
+						"t": "void (Sass_Env_Frame, const char *, union Sass_Value *)",
+						"i": "sass_env_set_local(Sass_Env_Frame,const char*,Sass_Value*)",
+						"r": "void sass_env_set_local(Sass_Env_Frame, const char *, Sass_Value *)",
+						"s": "",
+						"u": "SASS_ENV_SET_LOCAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e7892b1855f284f812aa2ff93848c05c1210d88c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_env_get_global",
+						"t": "union Sass_Value *(Sass_Env_Frame, const char *)",
+						"i": "sass_env_get_global(Sass_Env_Frame,const char*)",
+						"r": "Sass_Value *sass_env_get_global(Sass_Env_Frame, const char *)",
+						"s": "",
+						"u": "SASS_ENV_GET_GLOBAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d406877d29b0b5b47a785cfc15497df9541e5fa4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_env_set_global",
+						"t": "void (Sass_Env_Frame, const char *, union Sass_Value *)",
+						"i": "sass_env_set_global(Sass_Env_Frame,const char*,Sass_Value*)",
+						"r": "void sass_env_set_global(Sass_Env_Frame, const char *, Sass_Value *)",
+						"s": "",
+						"u": "SASS_ENV_SET_GLOBAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7564ee0fc47608465306826d2aa0aaacb62f5631"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_get_imp_path",
+						"t": "const char *(Sass_Import_Entry)",
+						"i": "sass_import_get_imp_path(Sass_Import_Entry)",
+						"r": "const char *sass_import_get_imp_path(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_GET_IMP_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2800d3b3083163be0634c54677dd09bfc389877d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_get_abs_path",
+						"t": "const char *(Sass_Import_Entry)",
+						"i": "sass_import_get_abs_path(Sass_Import_Entry)",
+						"r": "const char *sass_import_get_abs_path(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_GET_ABS_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df840ec8c0ba03217b83e378cd44c9343fb91e68"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_get_source",
+						"t": "const char *(Sass_Import_Entry)",
+						"i": "sass_import_get_source(Sass_Import_Entry)",
+						"r": "const char *sass_import_get_source(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_GET_SOURCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c64dbe824f62e1d54b89ba1e868d61b00b72984"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_get_srcmap",
+						"t": "const char *(Sass_Import_Entry)",
+						"i": "sass_import_get_srcmap(Sass_Import_Entry)",
+						"r": "const char *sass_import_get_srcmap(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_GET_SRCMAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de54c6062fcd85376d6b252484d18acdd9f80cc4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_take_source",
+						"t": "char *(Sass_Import_Entry)",
+						"i": "sass_import_take_source(Sass_Import_Entry)",
+						"r": "char *sass_import_take_source(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_TAKE_SOURCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c173addc525d3546aced56285986f325c01f5290"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_take_srcmap",
+						"t": "char *(Sass_Import_Entry)",
+						"i": "sass_import_take_srcmap(Sass_Import_Entry)",
+						"r": "char *sass_import_take_srcmap(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_TAKE_SRCMAP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bfca960f8241f921025b80f6bed6696e8130796f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_get_error_line",
+						"t": "size_t (Sass_Import_Entry)",
+						"i": "sass_import_get_error_line(Sass_Import_Entry)",
+						"r": "size_t sass_import_get_error_line(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_GET_ERROR_LINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a53acd9a13e582fd6312a4f96fe307f65c4506b0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_get_error_column",
+						"t": "size_t (Sass_Import_Entry)",
+						"i": "sass_import_get_error_column(Sass_Import_Entry)",
+						"r": "size_t sass_import_get_error_column(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_GET_ERROR_COLUMN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8abe71884b21c534453cf9b098d3680217147e2b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_import_get_error_message",
+						"t": "const char *(Sass_Import_Entry)",
+						"i": "sass_import_get_error_message(Sass_Import_Entry)",
+						"r": "const char *sass_import_get_error_message(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_IMPORT_GET_ERROR_MESSAGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "642246cb80e37c8853e9c21c8cb2c751bac4e21b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_import_list",
+						"t": "void (Sass_Import_List)",
+						"i": "sass_delete_import_list(Sass_Import_List)",
+						"r": "void sass_delete_import_list(Sass_Import_List)",
+						"s": "",
+						"u": "SASS_DELETE_IMPORT_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8461ce0cdc7e26d4ec2d75b1db6da11f2cee0425"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_import",
+						"t": "void (Sass_Import_Entry)",
+						"i": "sass_delete_import(Sass_Import_Entry)",
+						"r": "void sass_delete_import(Sass_Import_Entry)",
+						"s": "",
+						"u": "SASS_DELETE_IMPORT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c157f2b142044d1ee206acfc2dc3b99f9f66481"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_function_list",
+						"t": "Sass_Function_List (size_t)",
+						"i": "sass_make_function_list(size_t)",
+						"r": "Sass_Function_List sass_make_function_list(size_t length)",
+						"s": "",
+						"u": "SASS_MAKE_FUNCTION_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1ea7d52f654002b285501b499caeba5b61325342"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_function",
+						"t": "Sass_Function_Entry (const char *, Sass_Function_Fn, void *)",
+						"i": "sass_make_function(const char*,Sass_Function_Fn,void*)",
+						"r": "Sass_Function_Entry sass_make_function(const char *signature, Sass_Function_Fn cb, void *cookie)",
+						"s": "",
+						"u": "SASS_MAKE_FUNCTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "33e33c903ed3a790cf580bdfd17818fc8ed4d166"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_function",
+						"t": "void (Sass_Function_Entry)",
+						"i": "sass_delete_function(Sass_Function_Entry)",
+						"r": "void sass_delete_function(Sass_Function_Entry entry)",
+						"s": "",
+						"u": "SASS_DELETE_FUNCTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab4be5e3c302df6343fdc6f502dc90b228da2b04"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_function_list",
+						"t": "void (Sass_Function_List)",
+						"i": "sass_delete_function_list(Sass_Function_List)",
+						"r": "void sass_delete_function_list(Sass_Function_List list)",
+						"s": "",
+						"u": "SASS_DELETE_FUNCTION_LIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6126b811d784b2c1591f017d5bdb5c56cec4b078"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_function_get_list_entry",
+						"t": "Sass_Function_Entry (Sass_Function_List, size_t)",
+						"i": "sass_function_get_list_entry(Sass_Function_List,size_t)",
+						"r": "Sass_Function_Entry sass_function_get_list_entry(Sass_Function_List list, size_t pos)",
+						"s": "",
+						"u": "SASS_FUNCTION_GET_LIST_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "147ba250bca866eab90bc71e473436abba0fd041"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_function_set_list_entry",
+						"t": "void (Sass_Function_List, size_t, Sass_Function_Entry)",
+						"i": "sass_function_set_list_entry(Sass_Function_List,size_t,Sass_Function_Entry)",
+						"r": "void sass_function_set_list_entry(Sass_Function_List list, size_t pos, Sass_Function_Entry cb)",
+						"s": "",
+						"u": "SASS_FUNCTION_SET_LIST_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fddc485d22c55ffa7ef0d2cece9bad22f0a99db4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_function_get_signature",
+						"t": "const char *(Sass_Function_Entry)",
+						"i": "sass_function_get_signature(Sass_Function_Entry)",
+						"r": "const char *sass_function_get_signature(Sass_Function_Entry cb)",
+						"s": "",
+						"u": "SASS_FUNCTION_GET_SIGNATURE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bbf726dde8b400173b4ebcd58bedd91465e58101"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_function_get_function",
+						"t": "Sass_Function_Fn (Sass_Function_Entry)",
+						"i": "sass_function_get_function(Sass_Function_Entry)",
+						"r": "Sass_Function_Fn sass_function_get_function(Sass_Function_Entry cb)",
+						"s": "",
+						"u": "SASS_FUNCTION_GET_FUNCTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba7d2f73d2c4947b325c50c7dab12a8a97bca846"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_function_get_cookie",
+						"t": "void *(Sass_Function_Entry)",
+						"i": "sass_function_get_cookie(Sass_Function_Entry)",
+						"r": "void *sass_function_get_cookie(Sass_Function_Entry cb)",
+						"s": "",
+						"u": "SASS_FUNCTION_GET_COOKIE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "077584ffbb03102025e65ca05f9863a326579eb4"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "sass/context.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SASS_C_CONTEXT_H",
+						"t": "",
+						"i": "SASS_C_CONTEXT_H",
+						"r": "SASS_C_CONTEXT_H",
+						"s": "",
+						"u": "SASS_C_CONTEXT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bccdac40b15369464f8781370a659381f3ca4167"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Compiler",
+						"t": "Sass_Compiler",
+						"i": "Sass_Compiler",
+						"r": "Sass_Compiler",
+						"s": "",
+						"u": "SASS_COMPILER",
+						"q": "Sass_Compiler",
+						"w": "SASS_COMPILER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3104017403f41ff20109ae4125e1f084097e05b6"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Options",
+						"t": "Sass_Options",
+						"i": "Sass_Options",
+						"r": "Sass_Options",
+						"s": "",
+						"u": "SASS_OPTIONS",
+						"q": "Sass_Options",
+						"w": "SASS_OPTIONS",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9d7eb83ec97405de6bfc19096c31357af0c5662"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Context",
+						"t": "Sass_Context",
+						"i": "Sass_Context",
+						"r": "Sass_Context",
+						"s": "",
+						"u": "SASS_CONTEXT",
+						"q": "Sass_Context",
+						"w": "SASS_CONTEXT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "63c9d95dd233ae18bab973c4ad889db4f2120a6a"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_File_Context",
+						"t": "Sass_File_Context",
+						"i": "Sass_File_Context",
+						"r": "Sass_File_Context",
+						"s": "",
+						"u": "SASS_FILE_CONTEXT",
+						"q": "Sass_File_Context",
+						"w": "SASS_FILE_CONTEXT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "095d73bcd82a8ab5ee42fac3e10618dd5f5062d3"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Data_Context",
+						"t": "Sass_Data_Context",
+						"i": "Sass_Data_Context",
+						"r": "Sass_Data_Context",
+						"s": "",
+						"u": "SASS_DATA_CONTEXT",
+						"q": "Sass_Data_Context",
+						"w": "SASS_DATA_CONTEXT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f52d06e11a622b7e7f5c1cbe71b2eb4fc82e7a81"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Sass_Compiler_State",
+						"t": "Sass_Compiler_State",
+						"i": "Sass_Compiler_State",
+						"r": "enum Sass_Compiler_State",
+						"s": "",
+						"u": "SASS_COMPILER_STATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fce2bdaf663d72ff29f2f3033a505421bbf5eb16"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_COMPILER_CREATED",
+						"t": "Sass_Compiler_State",
+						"i": "SASS_COMPILER_CREATED",
+						"r": "SASS_COMPILER_CREATED",
+						"s": "",
+						"u": "SASS_COMPILER_CREATED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d2717db96cb5047a7f6bd129998963862dfd51f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_COMPILER_PARSED",
+						"t": "Sass_Compiler_State",
+						"i": "SASS_COMPILER_PARSED",
+						"r": "SASS_COMPILER_PARSED",
+						"s": "",
+						"u": "SASS_COMPILER_PARSED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13b933dc535b100fba5d1d606e6c34273598d927"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SASS_COMPILER_EXECUTED",
+						"t": "Sass_Compiler_State",
+						"i": "SASS_COMPILER_EXECUTED",
+						"r": "SASS_COMPILER_EXECUTED",
+						"s": "",
+						"u": "SASS_COMPILER_EXECUTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e647ec844848ef29eab4088fd581ca66172ad89"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_options",
+						"t": "struct Sass_Options *()",
+						"i": "sass_make_options()",
+						"r": "Sass_Options *sass_make_options()",
+						"s": "",
+						"u": "SASS_MAKE_OPTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7fca62412627288790583e1ad2b01b163f887814"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_file_context",
+						"t": "struct Sass_File_Context *(const char *)",
+						"i": "sass_make_file_context(const char*)",
+						"r": "Sass_File_Context *sass_make_file_context(const char *input_path)",
+						"s": "",
+						"u": "SASS_MAKE_FILE_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d6926c7372ef781ce7d92c2410bf475fad8eac27"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_data_context",
+						"t": "struct Sass_Data_Context *(char *)",
+						"i": "sass_make_data_context(char*)",
+						"r": "Sass_Data_Context *sass_make_data_context(char *source_string)",
+						"s": "",
+						"u": "SASS_MAKE_DATA_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cd9451e78fdf59020d957c3f68c09fa4411dd7bd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compile_file_context",
+						"t": "int (struct Sass_File_Context *)",
+						"i": "sass_compile_file_context(Sass_File_Context*)",
+						"r": "int sass_compile_file_context(Sass_File_Context *ctx)",
+						"s": "",
+						"u": "SASS_COMPILE_FILE_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8be58b1f27ae21078d829a4446d2810fd3425881"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compile_data_context",
+						"t": "int (struct Sass_Data_Context *)",
+						"i": "sass_compile_data_context(Sass_Data_Context*)",
+						"r": "int sass_compile_data_context(Sass_Data_Context *ctx)",
+						"s": "",
+						"u": "SASS_COMPILE_DATA_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ae9e58410530945504447bab7beb81d1ff10693"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_file_compiler",
+						"t": "struct Sass_Compiler *(struct Sass_File_Context *)",
+						"i": "sass_make_file_compiler(Sass_File_Context*)",
+						"r": "Sass_Compiler *sass_make_file_compiler(Sass_File_Context *file_ctx)",
+						"s": "",
+						"u": "SASS_MAKE_FILE_COMPILER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ebb5ed44c8a1ae11631bda2ff2dd12cdbc379e4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_make_data_compiler",
+						"t": "struct Sass_Compiler *(struct Sass_Data_Context *)",
+						"i": "sass_make_data_compiler(Sass_Data_Context*)",
+						"r": "Sass_Compiler *sass_make_data_compiler(Sass_Data_Context *data_ctx)",
+						"s": "",
+						"u": "SASS_MAKE_DATA_COMPILER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4ff290fad01352d159090ce850047cdaf6c4075"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_parse",
+						"t": "int (struct Sass_Compiler *)",
+						"i": "sass_compiler_parse(Sass_Compiler*)",
+						"r": "int sass_compiler_parse(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_PARSE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4664d6098f3320c779ddbe69a4c664e690407e25"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_execute",
+						"t": "int (struct Sass_Compiler *)",
+						"i": "sass_compiler_execute(Sass_Compiler*)",
+						"r": "int sass_compiler_execute(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_EXECUTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "982b90cbea55401a5f90274ec57ed7e514bbea55"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_compiler",
+						"t": "void (struct Sass_Compiler *)",
+						"i": "sass_delete_compiler(Sass_Compiler*)",
+						"r": "void sass_delete_compiler(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_DELETE_COMPILER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fbf2d6d490e8b35e66568513082e4af1ff69b5d2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_options",
+						"t": "void (struct Sass_Options *)",
+						"i": "sass_delete_options(Sass_Options*)",
+						"r": "void sass_delete_options(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_DELETE_OPTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b9cc734fdddc50f31301c28e91e14d1a6aa99bf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_file_context",
+						"t": "void (struct Sass_File_Context *)",
+						"i": "sass_delete_file_context(Sass_File_Context*)",
+						"r": "void sass_delete_file_context(Sass_File_Context *ctx)",
+						"s": "",
+						"u": "SASS_DELETE_FILE_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64d11e2730ef72533610ca3d72afa0159a8006cb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_delete_data_context",
+						"t": "void (struct Sass_Data_Context *)",
+						"i": "sass_delete_data_context(Sass_Data_Context*)",
+						"r": "void sass_delete_data_context(Sass_Data_Context *ctx)",
+						"s": "",
+						"u": "SASS_DELETE_DATA_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ebb5e934b688d6921a9505b08131efc2ee0fc930"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_file_context_get_context",
+						"t": "struct Sass_Context *(struct Sass_File_Context *)",
+						"i": "sass_file_context_get_context(Sass_File_Context*)",
+						"r": "Sass_Context *sass_file_context_get_context(Sass_File_Context *file_ctx)",
+						"s": "",
+						"u": "SASS_FILE_CONTEXT_GET_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d0395e6ad82314faf5f1d0ed48b21362610decb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_data_context_get_context",
+						"t": "struct Sass_Context *(struct Sass_Data_Context *)",
+						"i": "sass_data_context_get_context(Sass_Data_Context*)",
+						"r": "Sass_Context *sass_data_context_get_context(Sass_Data_Context *data_ctx)",
+						"s": "",
+						"u": "SASS_DATA_CONTEXT_GET_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abe89e01283b1297b1041ae1a9e23d1abeb78834"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_options",
+						"t": "struct Sass_Options *(struct Sass_Context *)",
+						"i": "sass_context_get_options(Sass_Context*)",
+						"r": "Sass_Options *sass_context_get_options(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_OPTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "791163684055a0cc24f1b4d7c045fc711ce0ba9f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_file_context_get_options",
+						"t": "struct Sass_Options *(struct Sass_File_Context *)",
+						"i": "sass_file_context_get_options(Sass_File_Context*)",
+						"r": "Sass_Options *sass_file_context_get_options(Sass_File_Context *file_ctx)",
+						"s": "",
+						"u": "SASS_FILE_CONTEXT_GET_OPTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c02867b0c1a6d0dd110a830d9ab3213d3240e5fc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_data_context_get_options",
+						"t": "struct Sass_Options *(struct Sass_Data_Context *)",
+						"i": "sass_data_context_get_options(Sass_Data_Context*)",
+						"r": "Sass_Options *sass_data_context_get_options(Sass_Data_Context *data_ctx)",
+						"s": "",
+						"u": "SASS_DATA_CONTEXT_GET_OPTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5c390f1c8d22ac33d1499b41974dfc0b77628aa8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_file_context_set_options",
+						"t": "void (struct Sass_File_Context *, struct Sass_Options *)",
+						"i": "sass_file_context_set_options(Sass_File_Context*,Sass_Options*)",
+						"r": "void sass_file_context_set_options(Sass_File_Context *file_ctx, Sass_Options *opt)",
+						"s": "",
+						"u": "SASS_FILE_CONTEXT_SET_OPTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5bb08218f375169477184616616359f7566053dd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_data_context_set_options",
+						"t": "void (struct Sass_Data_Context *, struct Sass_Options *)",
+						"i": "sass_data_context_set_options(Sass_Data_Context*,Sass_Options*)",
+						"r": "void sass_data_context_set_options(Sass_Data_Context *data_ctx, Sass_Options *opt)",
+						"s": "",
+						"u": "SASS_DATA_CONTEXT_SET_OPTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c706ae8006d94574b29620a03923f6977b66a40a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_precision",
+						"t": "int (struct Sass_Options *)",
+						"i": "sass_option_get_precision(Sass_Options*)",
+						"r": "int sass_option_get_precision(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_PRECISION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "505b6931697d1999c2db406068497c5a89a6c357"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_output_style",
+						"t": "enum Sass_Output_Style (struct Sass_Options *)",
+						"i": "sass_option_get_output_style(Sass_Options*)",
+						"r": "enum Sass_Output_Style sass_option_get_output_style(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_OUTPUT_STYLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f488f2a1471d550815967492a7e0630db59f3420"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_source_comments",
+						"t": "bool (struct Sass_Options *)",
+						"i": "sass_option_get_source_comments(Sass_Options*)",
+						"r": "bool sass_option_get_source_comments(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_SOURCE_COMMENTS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5318b5af2383dbce355d9b3d0fde8338bf76b3d3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_source_map_embed",
+						"t": "bool (struct Sass_Options *)",
+						"i": "sass_option_get_source_map_embed(Sass_Options*)",
+						"r": "bool sass_option_get_source_map_embed(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_SOURCE_MAP_EMBED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a314ffe01f345347369f95b2049cc07f62cdf877"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_source_map_contents",
+						"t": "bool (struct Sass_Options *)",
+						"i": "sass_option_get_source_map_contents(Sass_Options*)",
+						"r": "bool sass_option_get_source_map_contents(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_SOURCE_MAP_CONTENTS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "296c28e7e160c6968209826817e37e13ebb6c908"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_source_map_file_urls",
+						"t": "bool (struct Sass_Options *)",
+						"i": "sass_option_get_source_map_file_urls(Sass_Options*)",
+						"r": "bool sass_option_get_source_map_file_urls(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_SOURCE_MAP_FILE_URLS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b73c082c114f9b6d4e32d0e4f9d81f9b764d742d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_omit_source_map_url",
+						"t": "bool (struct Sass_Options *)",
+						"i": "sass_option_get_omit_source_map_url(Sass_Options*)",
+						"r": "bool sass_option_get_omit_source_map_url(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_OMIT_SOURCE_MAP_URL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "84cefb28b9a967c0ddaa4ab5f94fdcfb81f3aad0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_is_indented_syntax_src",
+						"t": "bool (struct Sass_Options *)",
+						"i": "sass_option_get_is_indented_syntax_src(Sass_Options*)",
+						"r": "bool sass_option_get_is_indented_syntax_src(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_IS_INDENTED_SYNTAX_SRC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "74f8de2778080a1c720fc1e56f6247311a207fe1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_indent",
+						"t": "const char *(struct Sass_Options *)",
+						"i": "sass_option_get_indent(Sass_Options*)",
+						"r": "const char *sass_option_get_indent(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_INDENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe8544d7caab197e90b56514b443f2c2fe3fe069"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_linefeed",
+						"t": "const char *(struct Sass_Options *)",
+						"i": "sass_option_get_linefeed(Sass_Options*)",
+						"r": "const char *sass_option_get_linefeed(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_LINEFEED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e775f4d0fc3eb392e66877cd4d684d2adfb7f5d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_input_path",
+						"t": "const char *(struct Sass_Options *)",
+						"i": "sass_option_get_input_path(Sass_Options*)",
+						"r": "const char *sass_option_get_input_path(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_INPUT_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82874930163d698aec6b3c094304431ac15fc8d2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_output_path",
+						"t": "const char *(struct Sass_Options *)",
+						"i": "sass_option_get_output_path(Sass_Options*)",
+						"r": "const char *sass_option_get_output_path(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_OUTPUT_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fff94f3537c857a5a2d717751f0dbd8501d56f0c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_source_map_file",
+						"t": "const char *(struct Sass_Options *)",
+						"i": "sass_option_get_source_map_file(Sass_Options*)",
+						"r": "const char *sass_option_get_source_map_file(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_SOURCE_MAP_FILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f165f44ad480a290ba13e3c064abb356e31459b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_source_map_root",
+						"t": "const char *(struct Sass_Options *)",
+						"i": "sass_option_get_source_map_root(Sass_Options*)",
+						"r": "const char *sass_option_get_source_map_root(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_SOURCE_MAP_ROOT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a0c73c5702eb0a6e2c88ab81037828a74b9041bb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_c_headers",
+						"t": "Sass_Importer_List (struct Sass_Options *)",
+						"i": "sass_option_get_c_headers(Sass_Options*)",
+						"r": "Sass_Importer_List sass_option_get_c_headers(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_C_HEADERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab2c872903980b627a2746e9265a02537f57013c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_c_importers",
+						"t": "Sass_Importer_List (struct Sass_Options *)",
+						"i": "sass_option_get_c_importers(Sass_Options*)",
+						"r": "Sass_Importer_List sass_option_get_c_importers(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_C_IMPORTERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "25b511c9483510e2afe5e456be6b33a52a085cd1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_c_functions",
+						"t": "Sass_Function_List (struct Sass_Options *)",
+						"i": "sass_option_get_c_functions(Sass_Options*)",
+						"r": "Sass_Function_List sass_option_get_c_functions(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_C_FUNCTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "250a4678fb5393c9c20b4562360639c631ca344b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_precision",
+						"t": "void (struct Sass_Options *, int)",
+						"i": "sass_option_set_precision(Sass_Options*,int)",
+						"r": "void sass_option_set_precision(Sass_Options *options, int precision)",
+						"s": "",
+						"u": "SASS_OPTION_SET_PRECISION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d53399e33fb1dffb791a0643f2e50db8ec1f39ab"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_output_style",
+						"t": "void (struct Sass_Options *, enum Sass_Output_Style)",
+						"i": "sass_option_set_output_style(Sass_Options*,Sass_Output_Style)",
+						"r": "void sass_option_set_output_style(Sass_Options *options, enum Sass_Output_Style output_style)",
+						"s": "",
+						"u": "SASS_OPTION_SET_OUTPUT_STYLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "86a1d047bc429bb2461bb16028033b5dd75c387d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_source_comments",
+						"t": "void (struct Sass_Options *, bool)",
+						"i": "sass_option_set_source_comments(Sass_Options*,bool)",
+						"r": "void sass_option_set_source_comments(Sass_Options *options, bool source_comments)",
+						"s": "",
+						"u": "SASS_OPTION_SET_SOURCE_COMMENTS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f01ae8ca7502e231f94c62451a1d1c1b86a2aec3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_source_map_embed",
+						"t": "void (struct Sass_Options *, bool)",
+						"i": "sass_option_set_source_map_embed(Sass_Options*,bool)",
+						"r": "void sass_option_set_source_map_embed(Sass_Options *options, bool source_map_embed)",
+						"s": "",
+						"u": "SASS_OPTION_SET_SOURCE_MAP_EMBED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd6902f65286ccf16305989a2da9f36add7dd9ba"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_source_map_contents",
+						"t": "void (struct Sass_Options *, bool)",
+						"i": "sass_option_set_source_map_contents(Sass_Options*,bool)",
+						"r": "void sass_option_set_source_map_contents(Sass_Options *options, bool source_map_contents)",
+						"s": "",
+						"u": "SASS_OPTION_SET_SOURCE_MAP_CONTENTS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f430b01d9b3f13e828510c4b03fcc394c929b3ba"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_source_map_file_urls",
+						"t": "void (struct Sass_Options *, bool)",
+						"i": "sass_option_set_source_map_file_urls(Sass_Options*,bool)",
+						"r": "void sass_option_set_source_map_file_urls(Sass_Options *options, bool source_map_file_urls)",
+						"s": "",
+						"u": "SASS_OPTION_SET_SOURCE_MAP_FILE_URLS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d82286f43d94ab8ea5028ad8e1e3c4e12bcfa7e4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_omit_source_map_url",
+						"t": "void (struct Sass_Options *, bool)",
+						"i": "sass_option_set_omit_source_map_url(Sass_Options*,bool)",
+						"r": "void sass_option_set_omit_source_map_url(Sass_Options *options, bool omit_source_map_url)",
+						"s": "",
+						"u": "SASS_OPTION_SET_OMIT_SOURCE_MAP_URL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f23b9bc34e3e3d0da4db5196a9eb4f8a430db54f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_is_indented_syntax_src",
+						"t": "void (struct Sass_Options *, bool)",
+						"i": "sass_option_set_is_indented_syntax_src(Sass_Options*,bool)",
+						"r": "void sass_option_set_is_indented_syntax_src(Sass_Options *options, bool is_indented_syntax_src)",
+						"s": "",
+						"u": "SASS_OPTION_SET_IS_INDENTED_SYNTAX_SRC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c274ef39d8b88ab5fe615906c410bff28845f00"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_indent",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_set_indent(Sass_Options*,const char*)",
+						"r": "void sass_option_set_indent(Sass_Options *options, const char *indent)",
+						"s": "",
+						"u": "SASS_OPTION_SET_INDENT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "97caa97ab203fc7e8608cc576ab39cd5e79a21e1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_linefeed",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_set_linefeed(Sass_Options*,const char*)",
+						"r": "void sass_option_set_linefeed(Sass_Options *options, const char *linefeed)",
+						"s": "",
+						"u": "SASS_OPTION_SET_LINEFEED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f8378319ac0c8ab103fda75dc10ce3727e7d615c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_input_path",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_set_input_path(Sass_Options*,const char*)",
+						"r": "void sass_option_set_input_path(Sass_Options *options, const char *input_path)",
+						"s": "",
+						"u": "SASS_OPTION_SET_INPUT_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64b3ec94bd5445b84da62e1132b9c26d47001ce4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_output_path",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_set_output_path(Sass_Options*,const char*)",
+						"r": "void sass_option_set_output_path(Sass_Options *options, const char *output_path)",
+						"s": "",
+						"u": "SASS_OPTION_SET_OUTPUT_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87c4cc74f9b2bd73523c3202a43d64b65ebbcd75"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_plugin_path",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_set_plugin_path(Sass_Options*,const char*)",
+						"r": "void sass_option_set_plugin_path(Sass_Options *options, const char *plugin_path)",
+						"s": "",
+						"u": "SASS_OPTION_SET_PLUGIN_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0cd637e9331584f76585ef7425239ae6702c203"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_include_path",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_set_include_path(Sass_Options*,const char*)",
+						"r": "void sass_option_set_include_path(Sass_Options *options, const char *include_path)",
+						"s": "",
+						"u": "SASS_OPTION_SET_INCLUDE_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b56dc45414d9b758026f32db0452f6a77a47eaf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_source_map_file",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_set_source_map_file(Sass_Options*,const char*)",
+						"r": "void sass_option_set_source_map_file(Sass_Options *options, const char *source_map_file)",
+						"s": "",
+						"u": "SASS_OPTION_SET_SOURCE_MAP_FILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee209e05b03e82e624e2e03cbec839c0c25cb09b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_source_map_root",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_set_source_map_root(Sass_Options*,const char*)",
+						"r": "void sass_option_set_source_map_root(Sass_Options *options, const char *source_map_root)",
+						"s": "",
+						"u": "SASS_OPTION_SET_SOURCE_MAP_ROOT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87a884dae6535f8263877f36549ba1259d3c104f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_c_headers",
+						"t": "void (struct Sass_Options *, Sass_Importer_List)",
+						"i": "sass_option_set_c_headers(Sass_Options*,Sass_Importer_List)",
+						"r": "void sass_option_set_c_headers(Sass_Options *options, Sass_Importer_List c_headers)",
+						"s": "",
+						"u": "SASS_OPTION_SET_C_HEADERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "79267e4f6c3c2557013767a156ae445d317b908c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_c_importers",
+						"t": "void (struct Sass_Options *, Sass_Importer_List)",
+						"i": "sass_option_set_c_importers(Sass_Options*,Sass_Importer_List)",
+						"r": "void sass_option_set_c_importers(Sass_Options *options, Sass_Importer_List c_importers)",
+						"s": "",
+						"u": "SASS_OPTION_SET_C_IMPORTERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f2262acba679e3cfa3e16d4f9a9bd61ff255f968"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_set_c_functions",
+						"t": "void (struct Sass_Options *, Sass_Function_List)",
+						"i": "sass_option_set_c_functions(Sass_Options*,Sass_Function_List)",
+						"r": "void sass_option_set_c_functions(Sass_Options *options, Sass_Function_List c_functions)",
+						"s": "",
+						"u": "SASS_OPTION_SET_C_FUNCTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b79557c0de4ad0ec92edbc3ef15ad9a263ddc583"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_output_string",
+						"t": "const char *(struct Sass_Context *)",
+						"i": "sass_context_get_output_string(Sass_Context*)",
+						"r": "const char *sass_context_get_output_string(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_OUTPUT_STRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a87bbc3ef7c000621538122167f202d576fe9a6b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_error_status",
+						"t": "int (struct Sass_Context *)",
+						"i": "sass_context_get_error_status(Sass_Context*)",
+						"r": "int sass_context_get_error_status(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_ERROR_STATUS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "023203bd3b3a6d3f0ced28b7b6dea9a3adf85385"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_error_json",
+						"t": "const char *(struct Sass_Context *)",
+						"i": "sass_context_get_error_json(Sass_Context*)",
+						"r": "const char *sass_context_get_error_json(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_ERROR_JSON",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "76b5237e27f57d760dcba5f321c74f91afaa2b03"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_error_text",
+						"t": "const char *(struct Sass_Context *)",
+						"i": "sass_context_get_error_text(Sass_Context*)",
+						"r": "const char *sass_context_get_error_text(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_ERROR_TEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7de21794d6410a00d5aa729f0f36de348cfda74d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_error_message",
+						"t": "const char *(struct Sass_Context *)",
+						"i": "sass_context_get_error_message(Sass_Context*)",
+						"r": "const char *sass_context_get_error_message(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_ERROR_MESSAGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7379b28cbfb3ca868bc3dbf7a1cd1951954036e4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_error_file",
+						"t": "const char *(struct Sass_Context *)",
+						"i": "sass_context_get_error_file(Sass_Context*)",
+						"r": "const char *sass_context_get_error_file(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_ERROR_FILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f923bf9941dc0dabc91a6e33ea7fc3586beac4f0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_error_src",
+						"t": "const char *(struct Sass_Context *)",
+						"i": "sass_context_get_error_src(Sass_Context*)",
+						"r": "const char *sass_context_get_error_src(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_ERROR_SRC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0ea723c2e57f54436aee67d4752b961c5cea371"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_error_line",
+						"t": "size_t (struct Sass_Context *)",
+						"i": "sass_context_get_error_line(Sass_Context*)",
+						"r": "size_t sass_context_get_error_line(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_ERROR_LINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a2d6597ad9a94b7a80f99585562b7ae9553f232"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_error_column",
+						"t": "size_t (struct Sass_Context *)",
+						"i": "sass_context_get_error_column(Sass_Context*)",
+						"r": "size_t sass_context_get_error_column(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_ERROR_COLUMN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a234111664f1e410bb17c5939297865718d310f8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_source_map_string",
+						"t": "const char *(struct Sass_Context *)",
+						"i": "sass_context_get_source_map_string(Sass_Context*)",
+						"r": "const char *sass_context_get_source_map_string(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_SOURCE_MAP_STRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b222da44b53a061f0b410e25bd6d96d2250f1ead"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_included_files",
+						"t": "char **(struct Sass_Context *)",
+						"i": "sass_context_get_included_files(Sass_Context*)",
+						"r": "char **sass_context_get_included_files(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_INCLUDED_FILES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45aabea884d0976198622ed9901c12b5f8550072"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_include_path_size",
+						"t": "size_t (struct Sass_Options *)",
+						"i": "sass_option_get_include_path_size(Sass_Options*)",
+						"r": "size_t sass_option_get_include_path_size(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_INCLUDE_PATH_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "19053b5317654f01c046ca9e663f78a066e3d6cd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_include_path",
+						"t": "const char *(struct Sass_Options *, size_t)",
+						"i": "sass_option_get_include_path(Sass_Options*,size_t)",
+						"r": "const char *sass_option_get_include_path(Sass_Options *options, size_t i)",
+						"s": "",
+						"u": "SASS_OPTION_GET_INCLUDE_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b226ea3c39084758527c7919f927886168c7b616"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_plugin_path_size",
+						"t": "size_t (struct Sass_Options *)",
+						"i": "sass_option_get_plugin_path_size(Sass_Options*)",
+						"r": "size_t sass_option_get_plugin_path_size(Sass_Options *options)",
+						"s": "",
+						"u": "SASS_OPTION_GET_PLUGIN_PATH_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82c78a38fc720bb4a95d512a758cc85fa95709c3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_get_plugin_path",
+						"t": "const char *(struct Sass_Options *, size_t)",
+						"i": "sass_option_get_plugin_path(Sass_Options*,size_t)",
+						"r": "const char *sass_option_get_plugin_path(Sass_Options *options, size_t i)",
+						"s": "",
+						"u": "SASS_OPTION_GET_PLUGIN_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "596c48da6244f5039bb947a6386428163275cadf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_get_included_files_size",
+						"t": "size_t (struct Sass_Context *)",
+						"i": "sass_context_get_included_files_size(Sass_Context*)",
+						"r": "size_t sass_context_get_included_files_size(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_GET_INCLUDED_FILES_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4d91e562031e6b8983e2e0ce25a7ecaa00c5ea1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_take_error_json",
+						"t": "char *(struct Sass_Context *)",
+						"i": "sass_context_take_error_json(Sass_Context*)",
+						"r": "char *sass_context_take_error_json(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_TAKE_ERROR_JSON",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb3d413b326a7e113d728f27cca3780bec5ccd9e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_take_error_text",
+						"t": "char *(struct Sass_Context *)",
+						"i": "sass_context_take_error_text(Sass_Context*)",
+						"r": "char *sass_context_take_error_text(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_TAKE_ERROR_TEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d796ec7ebce6c6569262a67138f18421d90bf5b1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_take_error_message",
+						"t": "char *(struct Sass_Context *)",
+						"i": "sass_context_take_error_message(Sass_Context*)",
+						"r": "char *sass_context_take_error_message(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_TAKE_ERROR_MESSAGE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c9f83786ad56edcb90b88fcf03c74f31f9bbef8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_take_error_file",
+						"t": "char *(struct Sass_Context *)",
+						"i": "sass_context_take_error_file(Sass_Context*)",
+						"r": "char *sass_context_take_error_file(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_TAKE_ERROR_FILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ebada6fac15ef500f3a9a4ac91ef00f2f8b35bda"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_take_error_src",
+						"t": "char *(struct Sass_Context *)",
+						"i": "sass_context_take_error_src(Sass_Context*)",
+						"r": "char *sass_context_take_error_src(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_TAKE_ERROR_SRC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9be8a816076497fcfef4ee3dcbec7fc2aa5bc6f1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_take_output_string",
+						"t": "char *(struct Sass_Context *)",
+						"i": "sass_context_take_output_string(Sass_Context*)",
+						"r": "char *sass_context_take_output_string(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_TAKE_OUTPUT_STRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d5f9d662e1ec8e5484bf2ab1422fb98920bba4e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_take_source_map_string",
+						"t": "char *(struct Sass_Context *)",
+						"i": "sass_context_take_source_map_string(Sass_Context*)",
+						"r": "char *sass_context_take_source_map_string(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_TAKE_SOURCE_MAP_STRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1ec627fc5fe5874d97d12c6e1f70640a73ac3738"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_context_take_included_files",
+						"t": "char **(struct Sass_Context *)",
+						"i": "sass_context_take_included_files(Sass_Context*)",
+						"r": "char **sass_context_take_included_files(Sass_Context *ctx)",
+						"s": "",
+						"u": "SASS_CONTEXT_TAKE_INCLUDED_FILES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "637ada50add01faedb10d488ae93ec6ad7ee1f49"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_state",
+						"t": "enum Sass_Compiler_State (struct Sass_Compiler *)",
+						"i": "sass_compiler_get_state(Sass_Compiler*)",
+						"r": "enum Sass_Compiler_State sass_compiler_get_state(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_STATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd1db15d2966f4ed305b825a7a1fc38d677450a0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_context",
+						"t": "struct Sass_Context *(struct Sass_Compiler *)",
+						"i": "sass_compiler_get_context(Sass_Compiler*)",
+						"r": "Sass_Context *sass_compiler_get_context(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_CONTEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb926bfc29c5bd7abfd23f2645b9605aca05a915"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_options",
+						"t": "struct Sass_Options *(struct Sass_Compiler *)",
+						"i": "sass_compiler_get_options(Sass_Compiler*)",
+						"r": "Sass_Options *sass_compiler_get_options(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_OPTIONS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa4d1a195d3a120cddb56a308eacd34de3de1d01"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_import_stack_size",
+						"t": "size_t (struct Sass_Compiler *)",
+						"i": "sass_compiler_get_import_stack_size(Sass_Compiler*)",
+						"r": "size_t sass_compiler_get_import_stack_size(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_IMPORT_STACK_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7bfa938d9a4c8bddf0bb1d70202d88c6d09fb83"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_last_import",
+						"t": "Sass_Import_Entry (struct Sass_Compiler *)",
+						"i": "sass_compiler_get_last_import(Sass_Compiler*)",
+						"r": "Sass_Import_Entry sass_compiler_get_last_import(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_LAST_IMPORT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f2a63ba885443bb0c4518338147c53dee29416ee"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_import_entry",
+						"t": "Sass_Import_Entry (struct Sass_Compiler *, size_t)",
+						"i": "sass_compiler_get_import_entry(Sass_Compiler*,size_t)",
+						"r": "Sass_Import_Entry sass_compiler_get_import_entry(Sass_Compiler *compiler, size_t idx)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_IMPORT_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e7ec53e2089ed4ef01668e0be1326298c7e25da"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_callee_stack_size",
+						"t": "size_t (struct Sass_Compiler *)",
+						"i": "sass_compiler_get_callee_stack_size(Sass_Compiler*)",
+						"r": "size_t sass_compiler_get_callee_stack_size(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_CALLEE_STACK_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45dafa4add24167bdc0d56b82343dc9d75c07846"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_last_callee",
+						"t": "Sass_Callee_Entry (struct Sass_Compiler *)",
+						"i": "sass_compiler_get_last_callee(Sass_Compiler*)",
+						"r": "Sass_Callee_Entry sass_compiler_get_last_callee(Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_LAST_CALLEE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ddaa45009069d8940ce939049e103a0534fa8511"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_get_callee_entry",
+						"t": "Sass_Callee_Entry (struct Sass_Compiler *, size_t)",
+						"i": "sass_compiler_get_callee_entry(Sass_Compiler*,size_t)",
+						"r": "Sass_Callee_Entry sass_compiler_get_callee_entry(Sass_Compiler *compiler, size_t idx)",
+						"s": "",
+						"u": "SASS_COMPILER_GET_CALLEE_ENTRY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dee7d42d493ce3e7ae7c4df1583e391b26d6f73f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_push_plugin_path",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_push_plugin_path(Sass_Options*,const char*)",
+						"r": "void sass_option_push_plugin_path(Sass_Options *options, const char *path)",
+						"s": "",
+						"u": "SASS_OPTION_PUSH_PLUGIN_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27cc14c85ee9f52af3dfca36236394a6498cc5a0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_option_push_include_path",
+						"t": "void (struct Sass_Options *, const char *)",
+						"i": "sass_option_push_include_path(Sass_Options*,const char*)",
+						"r": "void sass_option_push_include_path(Sass_Options *options, const char *path)",
+						"s": "",
+						"u": "SASS_OPTION_PUSH_INCLUDE_PATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a75e6b0f45530239dcf1932d6d36ae670c09fc43"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_find_file",
+						"t": "char *(const char *, struct Sass_Options *)",
+						"i": "sass_find_file(const char*,Sass_Options*)",
+						"r": "char *sass_find_file(const char *path, Sass_Options *opt)",
+						"s": "",
+						"u": "SASS_FIND_FILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "62409b0f3f75b66406fc29336c03ae2ba4150784"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_find_include",
+						"t": "char *(const char *, struct Sass_Options *)",
+						"i": "sass_find_include(const char*,Sass_Options*)",
+						"r": "char *sass_find_include(const char *path, Sass_Options *opt)",
+						"s": "",
+						"u": "SASS_FIND_INCLUDE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e4aaf782b6989396e25e80e2bdd29af6e3eab5e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_find_file",
+						"t": "char *(const char *, struct Sass_Compiler *)",
+						"i": "sass_compiler_find_file(const char*,Sass_Compiler*)",
+						"r": "char *sass_compiler_find_file(const char *path, Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_FIND_FILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "09b20bacce5ca9f1a5d9abd23e3b0ab65285d763"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sass_compiler_find_include",
+						"t": "char *(const char *, struct Sass_Compiler *)",
+						"i": "sass_compiler_find_include(const char*,Sass_Compiler*)",
+						"r": "char *sass_compiler_find_include(const char *path, Sass_Compiler *compiler)",
+						"s": "",
+						"u": "SASS_COMPILER_FIND_INCLUDE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ff82bb568e0fcd09f12f12e635486ba1761b3fbd"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

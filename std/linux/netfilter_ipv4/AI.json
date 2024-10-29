@@ -1,0 +1,2508 @@
+{
+	"saved_hash": "69963c19a794d691eae13532213d1cad2d3838e9",
+	"files": [
+		{
+			"key": "linux/netfilter_ipv4/ip_tables.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_IPTABLES_H",
+						"t": "",
+						"i": "_IPTABLES_H",
+						"r": "_IPTABLES_H",
+						"s": "",
+						"u": "_IPTABLES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b720fe5b34c8751831e281605f4effa0f81f80cf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_FUNCTION_MAXNAMELEN",
+						"t": "",
+						"i": "IPT_FUNCTION_MAXNAMELEN",
+						"r": "IPT_FUNCTION_MAXNAMELEN",
+						"s": "",
+						"u": "IPT_FUNCTION_MAXNAMELEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f720773c3eaa1247cfafeeadc13501498f9280f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_TABLE_MAXNAMELEN",
+						"t": "",
+						"i": "IPT_TABLE_MAXNAMELEN",
+						"r": "IPT_TABLE_MAXNAMELEN",
+						"s": "",
+						"u": "IPT_TABLE_MAXNAMELEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f7120f144c5434956dd1b16da1f3b32c3e0493b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_match",
+						"t": "",
+						"i": "ipt_match",
+						"r": "ipt_match",
+						"s": "",
+						"u": "IPT_MATCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd0a4a5530c026e615042482c5842a24a6870227"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "ipt_target",
+						"t": "",
+						"i": "ipt_target",
+						"r": "ipt_target",
+						"s": "",
+						"u": "IPT_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4a62e1ad73e9868e1014cb2279fe6fd208687c49"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_table",
+						"t": "",
+						"i": "ipt_table",
+						"r": "ipt_table",
+						"s": "",
+						"u": "IPT_TABLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02c60f6c4633e6a8c3f2b58c4b5d8d949a8f5a80"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_get_revision",
+						"t": "",
+						"i": "ipt_get_revision",
+						"r": "ipt_get_revision",
+						"s": "",
+						"u": "IPT_GET_REVISION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1a915e3d7b7cdc68ab6721d3f9446fcbdd39b70a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_entry_match",
+						"t": "",
+						"i": "ipt_entry_match",
+						"r": "ipt_entry_match",
+						"s": "",
+						"u": "IPT_ENTRY_MATCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "708dd5659c2143d3efe7779834c968b044473ebd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_entry_target",
+						"t": "",
+						"i": "ipt_entry_target",
+						"r": "ipt_entry_target",
+						"s": "",
+						"u": "IPT_ENTRY_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf00d6a0a8c273ec5f48d13f212ee5a24086e378"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_standard_target",
+						"t": "",
+						"i": "ipt_standard_target",
+						"r": "ipt_standard_target",
+						"s": "",
+						"u": "IPT_STANDARD_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e9307b1a873527946125faeff82ac0b6455b37c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_error_target",
+						"t": "",
+						"i": "ipt_error_target",
+						"r": "ipt_error_target",
+						"s": "",
+						"u": "IPT_ERROR_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7998ab72895158693de41d6e41917fbba70b2223"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_counters",
+						"t": "",
+						"i": "ipt_counters",
+						"r": "ipt_counters",
+						"s": "",
+						"u": "IPT_COUNTERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "43927354faa3a18b0aad90ee3b431ffb9742a805"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_CONTINUE",
+						"t": "",
+						"i": "IPT_CONTINUE",
+						"r": "IPT_CONTINUE",
+						"s": "",
+						"u": "IPT_CONTINUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fc70d128cb81718348e2412c1317496e14af5ff5"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_RETURN",
+						"t": "",
+						"i": "IPT_RETURN",
+						"r": "IPT_RETURN",
+						"s": "",
+						"u": "IPT_RETURN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ccc95a040dcce0b29eece2915262c7e478159e19"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_udp",
+						"t": "",
+						"i": "ipt_udp",
+						"r": "ipt_udp",
+						"s": "",
+						"u": "IPT_UDP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "550b128dfb5845436c5b1fdf3c818fb5b91fa97a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_tcp",
+						"t": "",
+						"i": "ipt_tcp",
+						"r": "ipt_tcp",
+						"s": "",
+						"u": "IPT_TCP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0360b21cab47e3e2556f645de4f64e3877476fe1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_TCP_INV_SRCPT",
+						"t": "",
+						"i": "IPT_TCP_INV_SRCPT",
+						"r": "IPT_TCP_INV_SRCPT",
+						"s": "",
+						"u": "IPT_TCP_INV_SRCPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "133cdf8c83c4a677a3d627ff5146fc96a2351823"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_TCP_INV_DSTPT",
+						"t": "",
+						"i": "IPT_TCP_INV_DSTPT",
+						"r": "IPT_TCP_INV_DSTPT",
+						"s": "",
+						"u": "IPT_TCP_INV_DSTPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bcc575d62d3e0d69dc988dad16392993b7888c30"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_TCP_INV_FLAGS",
+						"t": "",
+						"i": "IPT_TCP_INV_FLAGS",
+						"r": "IPT_TCP_INV_FLAGS",
+						"s": "",
+						"u": "IPT_TCP_INV_FLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "780c8a62135652af33ee9020a3592a9354368d6d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_TCP_INV_OPTION",
+						"t": "",
+						"i": "IPT_TCP_INV_OPTION",
+						"r": "IPT_TCP_INV_OPTION",
+						"s": "",
+						"u": "IPT_TCP_INV_OPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ae15cb91771cf692f7d1bb4c85aab1b04665aa7d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_TCP_INV_MASK",
+						"t": "",
+						"i": "IPT_TCP_INV_MASK",
+						"r": "IPT_TCP_INV_MASK",
+						"s": "",
+						"u": "IPT_TCP_INV_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "69677ab110aa948a5bf35335e75124097548cd8e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_UDP_INV_SRCPT",
+						"t": "",
+						"i": "IPT_UDP_INV_SRCPT",
+						"r": "IPT_UDP_INV_SRCPT",
+						"s": "",
+						"u": "IPT_UDP_INV_SRCPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4739b7e9b28c21338cc7b6f0ebe021aca7ff2a4b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_UDP_INV_DSTPT",
+						"t": "",
+						"i": "IPT_UDP_INV_DSTPT",
+						"r": "IPT_UDP_INV_DSTPT",
+						"s": "",
+						"u": "IPT_UDP_INV_DSTPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b0cffe4c76310fb5bdf483be5c4cbb55c9dfc88c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_UDP_INV_MASK",
+						"t": "",
+						"i": "IPT_UDP_INV_MASK",
+						"r": "IPT_UDP_INV_MASK",
+						"s": "",
+						"u": "IPT_UDP_INV_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6380dd618bc9edc082517a52fe93a69825f43e6b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ipt_counters_info",
+						"t": "",
+						"i": "ipt_counters_info",
+						"r": "ipt_counters_info",
+						"s": "",
+						"u": "IPT_COUNTERS_INFO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dba87a43fd0420b72e57ea74fbb543f8af88f322"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_STANDARD_TARGET",
+						"t": "",
+						"i": "IPT_STANDARD_TARGET",
+						"r": "IPT_STANDARD_TARGET",
+						"s": "",
+						"u": "IPT_STANDARD_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6397a651302c72342181a827acd8564e8fedde25"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_ERROR_TARGET",
+						"t": "",
+						"i": "IPT_ERROR_TARGET",
+						"r": "IPT_ERROR_TARGET",
+						"s": "",
+						"u": "IPT_ERROR_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "21ac4536c2d4a789b9f1396b7c94c79e0538860e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_MATCH_ITERATE",
+						"t": "",
+						"i": "IPT_MATCH_ITERATE",
+						"r": "IPT_MATCH_ITERATE",
+						"s": "",
+						"u": "IPT_MATCH_ITERATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c62fba5d8e9737709d1a73a47ac68cba204ad958"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_ENTRY_ITERATE",
+						"t": "",
+						"i": "IPT_ENTRY_ITERATE",
+						"r": "IPT_ENTRY_ITERATE",
+						"s": "",
+						"u": "IPT_ENTRY_ITERATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8f4b4de71f9a209aa8619db8f55017515693431"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ipt_ip",
+						"t": "ipt_ip",
+						"i": "ipt_ip",
+						"r": "ipt_ip",
+						"s": "",
+						"u": "IPT_IP",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29bb4e138823342422b845201b15fd718a673e43"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "src",
+						"t": "struct in_addr",
+						"i": "ipt_ip::src",
+						"r": "in_addr src",
+						"s": "",
+						"u": "SRC",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcbb10aadf82a2b8651a11308d799a44de3d1211"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dst",
+						"t": "struct in_addr",
+						"i": "ipt_ip::dst",
+						"r": "in_addr dst",
+						"s": "",
+						"u": "DST",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8ddf678a141983223b4e03aee2b9ce5ba211b827"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "smsk",
+						"t": "struct in_addr",
+						"i": "ipt_ip::smsk",
+						"r": "in_addr smsk",
+						"s": "",
+						"u": "SMSK",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9093c05fdb08e4d08db31bba638480674612af9"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dmsk",
+						"t": "struct in_addr",
+						"i": "ipt_ip::dmsk",
+						"r": "in_addr dmsk",
+						"s": "",
+						"u": "DMSK",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e9278be2edcd4e2f530a8912b6692d2a710aaf38"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "iniface",
+						"t": "char[16]",
+						"i": "ipt_ip::iniface",
+						"r": "char iniface[16]",
+						"s": "",
+						"u": "INIFACE",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "734840fe7553562cc89d5cc7338e98d4ffc7db18"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "outiface",
+						"t": "char[16]",
+						"i": "ipt_ip::outiface",
+						"r": "char outiface[16]",
+						"s": "",
+						"u": "OUTIFACE",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d80d5c4ddb8b8fdde10832db7f9a5831f1b14ac"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "iniface_mask",
+						"t": "unsigned char[16]",
+						"i": "ipt_ip::iniface_mask",
+						"r": "unsigned char iniface_mask[16]",
+						"s": "",
+						"u": "INIFACE_MASK",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "441818b4dbb52c31d3aef4c19600d8affe893999"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "outiface_mask",
+						"t": "unsigned char[16]",
+						"i": "ipt_ip::outiface_mask",
+						"r": "unsigned char outiface_mask[16]",
+						"s": "",
+						"u": "OUTIFACE_MASK",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d749f070fb6a8a1ae7bb26e8612fca01a6296948"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "proto",
+						"t": "__u16",
+						"i": "ipt_ip::proto",
+						"r": "__u16 proto",
+						"s": "",
+						"u": "PROTO",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2231979c6ae5dbedf34623cc5d20b69ce0ed8744"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "flags",
+						"t": "__u8",
+						"i": "ipt_ip::flags",
+						"r": "__u8 flags",
+						"s": "",
+						"u": "FLAGS",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1fb25298a9ce66018ebbc29df8e3b31720a35f87"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "invflags",
+						"t": "__u8",
+						"i": "ipt_ip::invflags",
+						"r": "__u8 invflags",
+						"s": "",
+						"u": "INVFLAGS",
+						"q": "ipt_ip",
+						"w": "IPT_IP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4f6fa488a85b95e0c83e69228547945a2fd5db9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_F_FRAG",
+						"t": "",
+						"i": "IPT_F_FRAG",
+						"r": "IPT_F_FRAG",
+						"s": "",
+						"u": "IPT_F_FRAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e3db00f4611003c8edf34933760ccabf04100a95"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_F_GOTO",
+						"t": "",
+						"i": "IPT_F_GOTO",
+						"r": "IPT_F_GOTO",
+						"s": "",
+						"u": "IPT_F_GOTO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "80ab252df16aa3417d3955f08c6e24097648f10a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_F_MASK",
+						"t": "",
+						"i": "IPT_F_MASK",
+						"r": "IPT_F_MASK",
+						"s": "",
+						"u": "IPT_F_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b6c20aa00fb3a731ad0b0a99f9a0797e7cfded1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_INV_VIA_IN",
+						"t": "",
+						"i": "IPT_INV_VIA_IN",
+						"r": "IPT_INV_VIA_IN",
+						"s": "",
+						"u": "IPT_INV_VIA_IN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0479eed4d12c310eb11f8e5b9a7bad63d1342808"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_INV_VIA_OUT",
+						"t": "",
+						"i": "IPT_INV_VIA_OUT",
+						"r": "IPT_INV_VIA_OUT",
+						"s": "",
+						"u": "IPT_INV_VIA_OUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9761db0b23b33c792684a19ccceb60f69fc0dec"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_INV_TOS",
+						"t": "",
+						"i": "IPT_INV_TOS",
+						"r": "IPT_INV_TOS",
+						"s": "",
+						"u": "IPT_INV_TOS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1c994645089abbe780965deb2991703c66bc35b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_INV_SRCIP",
+						"t": "",
+						"i": "IPT_INV_SRCIP",
+						"r": "IPT_INV_SRCIP",
+						"s": "",
+						"u": "IPT_INV_SRCIP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "169c817d5433d0bc2b9cc00d30559645095f15e6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_INV_DSTIP",
+						"t": "",
+						"i": "IPT_INV_DSTIP",
+						"r": "IPT_INV_DSTIP",
+						"s": "",
+						"u": "IPT_INV_DSTIP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "541f1358e8f14acbe7afc65acb1b489a09484f56"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_INV_FRAG",
+						"t": "",
+						"i": "IPT_INV_FRAG",
+						"r": "IPT_INV_FRAG",
+						"s": "",
+						"u": "IPT_INV_FRAG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0a37462875253cb8dd44591f1fadf81501d9850a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_INV_PROTO",
+						"t": "",
+						"i": "IPT_INV_PROTO",
+						"r": "IPT_INV_PROTO",
+						"s": "",
+						"u": "IPT_INV_PROTO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "988215d4ddeee259b3904cf05d09afcdf4349df9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_INV_MASK",
+						"t": "",
+						"i": "IPT_INV_MASK",
+						"r": "IPT_INV_MASK",
+						"s": "",
+						"u": "IPT_INV_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e9bc30b9b4f9f56e0694203a1bba14bcf325d8cc"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ipt_entry",
+						"t": "ipt_entry",
+						"i": "ipt_entry",
+						"r": "ipt_entry",
+						"s": "",
+						"u": "IPT_ENTRY",
+						"q": "ipt_entry",
+						"w": "IPT_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5aa4459a4c43515e5fd9fdf226080aaa150ab78b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ip",
+						"t": "struct ipt_ip",
+						"i": "ipt_entry::ip",
+						"r": "ipt_ip ip",
+						"s": "",
+						"u": "IP",
+						"q": "ipt_entry",
+						"w": "IPT_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed201543638e11be834f36e6d6dacc3a85bd93de"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nfcache",
+						"t": "unsigned int",
+						"i": "ipt_entry::nfcache",
+						"r": "unsigned int nfcache",
+						"s": "",
+						"u": "NFCACHE",
+						"q": "ipt_entry",
+						"w": "IPT_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eef8cb7d3588b50aa80ea244daa538c3e51af8eb"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "target_offset",
+						"t": "__u16",
+						"i": "ipt_entry::target_offset",
+						"r": "__u16 target_offset",
+						"s": "",
+						"u": "TARGET_OFFSET",
+						"q": "ipt_entry",
+						"w": "IPT_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3c250af2dd97ac75eb3738ae41a482ad79898dc4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "next_offset",
+						"t": "__u16",
+						"i": "ipt_entry::next_offset",
+						"r": "__u16 next_offset",
+						"s": "",
+						"u": "NEXT_OFFSET",
+						"q": "ipt_entry",
+						"w": "IPT_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "88e94d48402cb087216f33bd773e9f88a7b5189e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "comefrom",
+						"t": "unsigned int",
+						"i": "ipt_entry::comefrom",
+						"r": "unsigned int comefrom",
+						"s": "",
+						"u": "COMEFROM",
+						"q": "ipt_entry",
+						"w": "IPT_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f704a6a7b40326df29d4ff125eaa823f243c58c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "counters",
+						"t": "struct xt_counters",
+						"i": "ipt_entry::counters",
+						"r": "xt_counters counters",
+						"s": "",
+						"u": "COUNTERS",
+						"q": "ipt_entry",
+						"w": "IPT_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8b86b69477f1a67c1e4d904147fd86aecbe51cc"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "elems",
+						"t": "unsigned char[]",
+						"i": "ipt_entry::elems",
+						"r": "unsigned char elems[]",
+						"s": "",
+						"u": "ELEMS",
+						"q": "ipt_entry",
+						"w": "IPT_ENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1998c3d3b3edac8783be437f38ae9b72c6093c9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_BASE_CTL",
+						"t": "",
+						"i": "IPT_BASE_CTL",
+						"r": "IPT_BASE_CTL",
+						"s": "",
+						"u": "IPT_BASE_CTL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "244d6febbcc91299b5ec5fddffd06518ba112dcd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_SO_SET_REPLACE",
+						"t": "",
+						"i": "IPT_SO_SET_REPLACE",
+						"r": "IPT_SO_SET_REPLACE",
+						"s": "",
+						"u": "IPT_SO_SET_REPLACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "925596c9524fee5a29bdf60421abeb604a17a3de"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_SO_SET_ADD_COUNTERS",
+						"t": "",
+						"i": "IPT_SO_SET_ADD_COUNTERS",
+						"r": "IPT_SO_SET_ADD_COUNTERS",
+						"s": "",
+						"u": "IPT_SO_SET_ADD_COUNTERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "57d788ce7c3e5c7e93f967504ba1ef1ad0eb8590"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "IPT_SO_SET_MAX",
+						"t": "",
+						"i": "IPT_SO_SET_MAX",
+						"r": "IPT_SO_SET_MAX",
+						"s": "",
+						"u": "IPT_SO_SET_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "edc347e75f2c98b6788b6108fc08951ce6ebdd9f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_SO_GET_INFO",
+						"t": "",
+						"i": "IPT_SO_GET_INFO",
+						"r": "IPT_SO_GET_INFO",
+						"s": "",
+						"u": "IPT_SO_GET_INFO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36f8b85bc300af7c7d0df030589dbbecfed4fbe9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_SO_GET_ENTRIES",
+						"t": "",
+						"i": "IPT_SO_GET_ENTRIES",
+						"r": "IPT_SO_GET_ENTRIES",
+						"s": "",
+						"u": "IPT_SO_GET_ENTRIES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "509851e4727cfbd2348324865705674ea9099adf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_SO_GET_REVISION_MATCH",
+						"t": "",
+						"i": "IPT_SO_GET_REVISION_MATCH",
+						"r": "IPT_SO_GET_REVISION_MATCH",
+						"s": "",
+						"u": "IPT_SO_GET_REVISION_MATCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "549f10455ac5d2157980848992b6bdae3e795421"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_SO_GET_REVISION_TARGET",
+						"t": "",
+						"i": "IPT_SO_GET_REVISION_TARGET",
+						"r": "IPT_SO_GET_REVISION_TARGET",
+						"s": "",
+						"u": "IPT_SO_GET_REVISION_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ca8085b894eaada44f668ff6a86b71cda527e54"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_SO_GET_MAX",
+						"t": "",
+						"i": "IPT_SO_GET_MAX",
+						"r": "IPT_SO_GET_MAX",
+						"s": "",
+						"u": "IPT_SO_GET_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "788aa2cd13fec40e4966cc1a78773142bd8f5423"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ipt_icmp",
+						"t": "ipt_icmp",
+						"i": "ipt_icmp",
+						"r": "ipt_icmp",
+						"s": "",
+						"u": "IPT_ICMP",
+						"q": "ipt_icmp",
+						"w": "IPT_ICMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "25ccaa379fa1761a107f4cb59523ca3f14a63449"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "__u8",
+						"i": "ipt_icmp::type",
+						"r": "__u8 type",
+						"s": "",
+						"u": "TYPE",
+						"q": "ipt_icmp",
+						"w": "IPT_ICMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b285baedb48e87ebc4ba814b73164d75b0342fd4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "code",
+						"t": "__u8[2]",
+						"i": "ipt_icmp::code",
+						"r": "__u8 code[2]",
+						"s": "",
+						"u": "CODE",
+						"q": "ipt_icmp",
+						"w": "IPT_ICMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31c7e0b52d634b8cb3235b087e076790c564cc25"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "invflags",
+						"t": "__u8",
+						"i": "ipt_icmp::invflags",
+						"r": "__u8 invflags",
+						"s": "",
+						"u": "INVFLAGS",
+						"q": "ipt_icmp",
+						"w": "IPT_ICMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4f6fa488a85b95e0c83e69228547945a2fd5db9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IPT_ICMP_INV",
+						"t": "",
+						"i": "IPT_ICMP_INV",
+						"r": "IPT_ICMP_INV",
+						"s": "",
+						"u": "IPT_ICMP_INV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b73cd941e1fdf1be28577b019c83ca559f26e847"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ipt_getinfo",
+						"t": "ipt_getinfo",
+						"i": "ipt_getinfo",
+						"r": "ipt_getinfo",
+						"s": "",
+						"u": "IPT_GETINFO",
+						"q": "ipt_getinfo",
+						"w": "IPT_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94ae9a394fcbd8dd537738ee5aa64281a128b46b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "char[32]",
+						"i": "ipt_getinfo::name",
+						"r": "char name[32]",
+						"s": "",
+						"u": "NAME",
+						"q": "ipt_getinfo",
+						"w": "IPT_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1914d237387220e0af00fe41bd0b94ff96e1e5b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "valid_hooks",
+						"t": "unsigned int",
+						"i": "ipt_getinfo::valid_hooks",
+						"r": "unsigned int valid_hooks",
+						"s": "",
+						"u": "VALID_HOOKS",
+						"q": "ipt_getinfo",
+						"w": "IPT_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "90ee11b19612d0edb1fafe5f3222b2395f065ae7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hook_entry",
+						"t": "unsigned int[5]",
+						"i": "ipt_getinfo::hook_entry",
+						"r": "unsigned int hook_entry[5]",
+						"s": "",
+						"u": "HOOK_ENTRY",
+						"q": "ipt_getinfo",
+						"w": "IPT_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d6b2c32790280b61b849dc48086a2ccdd2fb6bb"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "underflow",
+						"t": "unsigned int[5]",
+						"i": "ipt_getinfo::underflow",
+						"r": "unsigned int underflow[5]",
+						"s": "",
+						"u": "UNDERFLOW",
+						"q": "ipt_getinfo",
+						"w": "IPT_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4492627fb0347d41f2ee62a49aac702bd5d6d2d6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "num_entries",
+						"t": "unsigned int",
+						"i": "ipt_getinfo::num_entries",
+						"r": "unsigned int num_entries",
+						"s": "",
+						"u": "NUM_ENTRIES",
+						"q": "ipt_getinfo",
+						"w": "IPT_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04ae6a93457b76ab7028f03ab280ebc9d38cadfd"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "unsigned int",
+						"i": "ipt_getinfo::size",
+						"r": "unsigned int size",
+						"s": "",
+						"u": "SIZE",
+						"q": "ipt_getinfo",
+						"w": "IPT_GETINFO",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcb85e95895d324d2a0251e64d3a38b8af7f6594"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ipt_replace",
+						"t": "ipt_replace",
+						"i": "ipt_replace",
+						"r": "ipt_replace",
+						"s": "",
+						"u": "IPT_REPLACE",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cd04ac31bb60e83b441779af60353760ddfcc027"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "char[32]",
+						"i": "ipt_replace::name",
+						"r": "char name[32]",
+						"s": "",
+						"u": "NAME",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1914d237387220e0af00fe41bd0b94ff96e1e5b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "valid_hooks",
+						"t": "unsigned int",
+						"i": "ipt_replace::valid_hooks",
+						"r": "unsigned int valid_hooks",
+						"s": "",
+						"u": "VALID_HOOKS",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "90ee11b19612d0edb1fafe5f3222b2395f065ae7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "num_entries",
+						"t": "unsigned int",
+						"i": "ipt_replace::num_entries",
+						"r": "unsigned int num_entries",
+						"s": "",
+						"u": "NUM_ENTRIES",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04ae6a93457b76ab7028f03ab280ebc9d38cadfd"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "unsigned int",
+						"i": "ipt_replace::size",
+						"r": "unsigned int size",
+						"s": "",
+						"u": "SIZE",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcb85e95895d324d2a0251e64d3a38b8af7f6594"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hook_entry",
+						"t": "unsigned int[5]",
+						"i": "ipt_replace::hook_entry",
+						"r": "unsigned int hook_entry[5]",
+						"s": "",
+						"u": "HOOK_ENTRY",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d6b2c32790280b61b849dc48086a2ccdd2fb6bb"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "underflow",
+						"t": "unsigned int[5]",
+						"i": "ipt_replace::underflow",
+						"r": "unsigned int underflow[5]",
+						"s": "",
+						"u": "UNDERFLOW",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4492627fb0347d41f2ee62a49aac702bd5d6d2d6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "num_counters",
+						"t": "unsigned int",
+						"i": "ipt_replace::num_counters",
+						"r": "unsigned int num_counters",
+						"s": "",
+						"u": "NUM_COUNTERS",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e3ad99336751b23837215154cbdc700541e63b89"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "counters",
+						"t": "struct xt_counters *",
+						"i": "ipt_replace::counters",
+						"r": "xt_counters *counters",
+						"s": "",
+						"u": "COUNTERS",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "949c64cd11c29e8a5c01e9206efacace175af53d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "entries",
+						"t": "struct ipt_entry[]",
+						"i": "ipt_replace::entries",
+						"r": "ipt_entry entries[]",
+						"s": "",
+						"u": "ENTRIES",
+						"q": "ipt_replace",
+						"w": "IPT_REPLACE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f53eba0fc2406a91bc68d5e521e351c989771524"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ipt_get_entries",
+						"t": "ipt_get_entries",
+						"i": "ipt_get_entries",
+						"r": "ipt_get_entries",
+						"s": "",
+						"u": "IPT_GET_ENTRIES",
+						"q": "ipt_get_entries",
+						"w": "IPT_GET_ENTRIES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d77f49dea525956eaea5ad344039fe685fe0767"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "char[32]",
+						"i": "ipt_get_entries::name",
+						"r": "char name[32]",
+						"s": "",
+						"u": "NAME",
+						"q": "ipt_get_entries",
+						"w": "IPT_GET_ENTRIES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1914d237387220e0af00fe41bd0b94ff96e1e5b7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "unsigned int",
+						"i": "ipt_get_entries::size",
+						"r": "unsigned int size",
+						"s": "",
+						"u": "SIZE",
+						"q": "ipt_get_entries",
+						"w": "IPT_GET_ENTRIES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcb85e95895d324d2a0251e64d3a38b8af7f6594"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "entrytable",
+						"t": "struct ipt_entry[]",
+						"i": "ipt_get_entries::entrytable",
+						"r": "ipt_entry entrytable[]",
+						"s": "",
+						"u": "ENTRYTABLE",
+						"q": "ipt_get_entries",
+						"w": "IPT_GET_ENTRIES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dcc7d39c6a9921b4d13d83a1ad215cd35dc078ad"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ipt_get_target",
+						"t": "struct xt_entry_target *(struct ipt_entry *)",
+						"i": "ipt_get_target(ipt_entry*)",
+						"r": "static xt_entry_target *ipt_get_target(ipt_entry *e)",
+						"s": "",
+						"u": "IPT_GET_TARGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb0cf2dd44ee18a32bc50a7ff578a28943d15d51"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

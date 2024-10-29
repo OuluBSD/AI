@@ -1,0 +1,37 @@
+{
+	"saved_hash": "558cef933ea206ffa433b4069f43345014db995e",
+	"files": [
+		{
+			"key": "ncursesw/ncurses.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "ncursesw/ncurses_dll.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "ncursesw/unctrl.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "ncursesw/curses.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

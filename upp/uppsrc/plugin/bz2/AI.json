@@ -1,0 +1,2375 @@
+{
+	"saved_hash": "a04e79e172d0b9e833a5d7dc8f305e91c4cc6eab",
+	"files": [
+		{
+			"key": "bz2.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__Plugin_BZ2__",
+						"t": "",
+						"i": "__Plugin_BZ2__",
+						"r": "__Plugin_BZ2__",
+						"s": "",
+						"u": "__PLUGIN_BZ2__",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4cd95ffab9bb75320e58fe8169885ea8d85059e8"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Lib",
+						"t": "Upp::bz2::Lib",
+						"i": "Upp::bz2::Lib",
+						"r": "Lib",
+						"s": "Upp::bz2",
+						"u": "LIB",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6935e719863c3141a936462894839119431e933b"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/bz2/bz2.h:14:3)",
+						"t": "Upp::bz2::Lib::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/bz2/bz2.h:14:3)",
+						"i": "Upp::bz2::Lib::(unnamed at/home/sblo/ai-upp/uppsrc/plugin/bz2/bz2.)",
+						"r": "enum",
+						"s": "Upp::bz2",
+						"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/PLUGIN/BZ2/BZ2.H:14:3)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d42621059f9f65b4658c0890c598b2ef3ab056f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "NONE",
+						"t": "Upp::bz2::Lib::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/bz2/bz2.h:14:3)",
+						"i": "Upp::bz2::Lib::NONE",
+						"r": "NONE",
+						"s": "Upp::bz2",
+						"u": "NONE",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0654a028e5aea48c8fbb09871b8f397a186c883b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DEFLATE",
+						"t": "Upp::bz2::Lib::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/bz2/bz2.h:14:3)",
+						"i": "Upp::bz2::Lib::DEFLATE",
+						"r": "DEFLATE",
+						"s": "Upp::bz2",
+						"u": "DEFLATE",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e7c04b715904c637f7ddd819ed0ef3bc55f8a67d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "INFLATE",
+						"t": "Upp::bz2::Lib::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/bz2/bz2.h:14:3)",
+						"i": "Upp::bz2::Lib::INFLATE",
+						"r": "INFLATE",
+						"s": "Upp::bz2",
+						"u": "INFLATE",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6fc3d3019c49f2d2470f6b7aeb6782a1aba859f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z",
+						"t": "bz_stream",
+						"i": "Upp::bz2::Lib::z",
+						"r": "bz_stream z",
+						"s": "Upp::bz2",
+						"u": "Z",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb9e87ed949eb10f2b8e993be30830406ef6a026"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "output",
+						"t": "Buffer<char>",
+						"i": "Upp::bz2::Lib::output",
+						"r": "Buffer<char> output",
+						"s": "Upp::bz2",
+						"u": "OUTPUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c5a01e45fe6d7b4316d05bafd01faf71329f645"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "chunk",
+						"t": "int",
+						"i": "Upp::bz2::Lib::chunk",
+						"r": "int chunk",
+						"s": "Upp::bz2",
+						"u": "CHUNK",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "555064580711dbbf14f2a6076059c7bdc35056f3"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "mode",
+						"t": "int",
+						"i": "Upp::bz2::Lib::mode",
+						"r": "int mode",
+						"s": "Upp::bz2",
+						"u": "MODE",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d6a183901437aba4931d515d4ce9dd148beaf0b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "total",
+						"t": "int",
+						"i": "Upp::bz2::Lib::total",
+						"r": "int total",
+						"s": "Upp::bz2",
+						"u": "TOTAL",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a9c49adfa109c94c5f3043ff076b894bea04988"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "compression_level",
+						"t": "int",
+						"i": "Upp::bz2::Lib::compression_level",
+						"r": "int compression_level",
+						"s": "Upp::bz2",
+						"u": "COMPRESSION_LEVEL",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45aea7617b32ff94d7c52b41e540c3d1e92159f4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error",
+						"t": "bool",
+						"i": "Upp::bz2::Lib::error",
+						"r": "bool error",
+						"s": "Upp::bz2",
+						"u": "ERROR",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b98fbb80207623df513dc918fb8f1f29b6d5fc5"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rdall",
+						"t": "bool",
+						"i": "Upp::bz2::Lib::rdall",
+						"r": "bool rdall",
+						"s": "Upp::bz2",
+						"u": "RDALL",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aea5cbdb68beacb454d58c4dbf5e2330100670d4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "eos",
+						"t": "bool",
+						"i": "Upp::bz2::Lib::eos",
+						"r": "bool eos",
+						"s": "Upp::bz2",
+						"u": "EOS",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d29e387d508ade9f6dae0e2e024390a7539c6460"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "out",
+						"t": "String",
+						"i": "Upp::bz2::Lib::out",
+						"r": "Upp::String out",
+						"s": "Upp::bz2",
+						"u": "OUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77694721900f3cd2af9ac1d8d221d0af580ea062"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetError",
+						"t": "void (bool)",
+						"i": "Upp::bz2::Lib::SetError(bool)",
+						"r": "void SetError(bool v)",
+						"s": "Upp::bz2",
+						"u": "SETERROR",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d6797ca40921015d9a8841e3b936a52ecf024aa3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "PutOut",
+						"t": "void (const void *, int)",
+						"i": "Upp::bz2::Lib::PutOut(const void*,int)",
+						"r": "void PutOut(const void *ptr, int size)",
+						"s": "Upp::bz2",
+						"u": "PUTOUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7d542f1e3faad873b3033c8e15023a707c8daa9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Pump",
+						"t": "void (bool)",
+						"i": "Upp::bz2::Lib::Pump(bool)",
+						"r": "void Pump(bool finish)",
+						"s": "Upp::bz2",
+						"u": "PUMP",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7be7ee725296ac69782952ed88ca6d1c06b3f3d8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Begin",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Begin()",
+						"r": "void Begin()",
+						"s": "Upp::bz2",
+						"u": "BEGIN",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a70ca689a9e8193631525b24f31bff29034a939"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Free",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Free()",
+						"r": "void Free()",
+						"s": "Upp::bz2",
+						"u": "FREE",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "278ebec3b8eab22d21f1090f302f51f006998ff8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GzipHeader",
+						"t": "int (const char *, int)",
+						"i": "Upp::bz2::Lib::GzipHeader(const char*,int)",
+						"r": "int GzipHeader(const char *ptr, int size)",
+						"s": "Upp::bz2",
+						"u": "GZIPHEADER",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b0669911531fba86d2c0b64fb4fd9af9a2521bb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Init",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Init()",
+						"r": "void Init()",
+						"s": "Upp::bz2",
+						"u": "INIT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c853b0252bc06b071dd1f0af30470bd957d8b31e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "WhenOut",
+						"t": "Event<const void *, int>",
+						"i": "Upp::bz2::Lib::WhenOut",
+						"r": "Event<const void *, int> WhenOut",
+						"s": "Upp::bz2",
+						"u": "WHENOUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3dbc95b0369a32e2a9db5165cd9f2278804e3b83"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Compress",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Compress()",
+						"r": "void Compress()",
+						"s": "Upp::bz2",
+						"u": "COMPRESS",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9cf6f84ff1d37435a54625d823f477de60b50c54"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Decompress",
+						"t": "void (bool)",
+						"i": "Upp::bz2::Lib::Decompress(bool)",
+						"r": "void Decompress(bool all = true)",
+						"s": "Upp::bz2",
+						"u": "DECOMPRESS",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0cb847f43f2accc6ac2137c49ccfffd04f88b686"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Put",
+						"t": "void (const void *, int)",
+						"i": "Upp::bz2::Lib::Put(const void*,int)",
+						"r": "void Put(const void *ptr, int size)",
+						"s": "Upp::bz2",
+						"u": "PUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cd708b9efe016ef629bef0dac47044e9f9c20e2b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Put",
+						"t": "void (const String &)",
+						"i": "Upp::bz2::Lib::Put(const String&)",
+						"r": "void Put(const Upp::String& s)",
+						"s": "Upp::bz2",
+						"u": "PUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "88d72640b22506ff4ef935db88abfa8671c35a63"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "End",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::End()",
+						"r": "void End()",
+						"s": "Upp::bz2",
+						"u": "END",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c03fec13cc78a28c8094fca4a8a25e355f0c302d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Clear",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Clear()",
+						"r": "void Clear()",
+						"s": "Upp::bz2",
+						"u": "CLEAR",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "56766c399cb93bacc209e4c3e9b70b078f6f4e2d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Get",
+						"t": "const String &() const",
+						"i": "Upp::bz2::Lib::Get()const",
+						"r": "const Upp::String& Get() const",
+						"s": "Upp::bz2",
+						"u": "GET",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c43a8be589b0fcd09861f41e662896f11c47faac"
+							}
+						]
+					},
+					{
+						"k": 26,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator const Upp::String &",
+						"t": "const String &() const",
+						"i": "Upp::bz2::Lib::operator const String&()const",
+						"r": "operator const String&() const",
+						"s": "Upp::bz2",
+						"u": "OPERATOR CONST UPP::STRING &",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60cad9b67a594a45d749568b5c2038e9166cd423"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator~",
+						"t": "const String &() const",
+						"i": "Upp::bz2::Lib::operator~()const",
+						"r": "const Upp::String& operator~() const",
+						"s": "Upp::bz2",
+						"u": "OPERATOR~",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c73dab813519c3a45e8c8358973f531281bde2a4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ClearOut",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::ClearOut()",
+						"r": "void ClearOut()",
+						"s": "Upp::bz2",
+						"u": "CLEAROUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d5f0a3f4f9dbd54618258491b502243973a060c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "IsError",
+						"t": "bool () const",
+						"i": "Upp::bz2::Lib::IsError()const",
+						"r": "bool IsError() const",
+						"s": "Upp::bz2",
+						"u": "ISERROR",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "399c3af87f05e688ad6576cf13330f92065fd282"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "IsEOS",
+						"t": "bool () const",
+						"i": "Upp::bz2::Lib::IsEOS()const",
+						"r": "bool IsEOS() const",
+						"s": "Upp::bz2",
+						"u": "ISEOS",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "434a20b208513ca5074ecbd0062c0c7b0f214495"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ChunkSize",
+						"t": "Lib &(int)",
+						"i": "Upp::bz2::Lib::ChunkSize(int)",
+						"r": "Upp::bz2::Lib& ChunkSize(int n)",
+						"s": "Upp::bz2",
+						"u": "CHUNKSIZE",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "190e158165dac39c1afe8685819b3d79e2cc3185"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Level",
+						"t": "Lib &(int)",
+						"i": "Upp::bz2::Lib::Level(int)",
+						"r": "Upp::bz2::Lib& Level(int compression_lvl)",
+						"s": "Upp::bz2",
+						"u": "LEVEL",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b7a44395430d0e1ccfba187a8ae571404bd7ebe"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Lib",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Lib()",
+						"r": "Lib()",
+						"s": "Upp::bz2",
+						"u": "LIB",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82429c9bcd100b4e541f012d3fa3c69d6b54f8bb"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~Lib",
+						"t": "void () noexcept",
+						"i": "Upp::bz2::Lib::~()",
+						"r": "~Lib()",
+						"s": "Upp::bz2",
+						"u": "~LIB",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ff82d36d424cb18b288121760f8e4a224ba0eb9"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CompressStream",
+						"t": "Upp::bz2::CompressStream",
+						"i": "Upp::bz2::CompressStream",
+						"r": "CompressStream : public Upp::OutFilterStream",
+						"s": "Upp::bz2",
+						"u": "COMPRESSSTREAM",
+						"q": "Upp::bz2::CompressStream",
+						"w": "UPP::BZ2::COMPRESSSTREAM",
+						"y": "Upp::OutFilterStream",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c30d620a18be90bdb694e39857f99bc762dbb6a5"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z",
+						"t": "Lib",
+						"i": "Upp::bz2::CompressStream::z",
+						"r": "Upp::bz2::Lib z",
+						"s": "Upp::bz2",
+						"u": "Z",
+						"q": "Upp::bz2::CompressStream",
+						"w": "UPP::BZ2::COMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54548b3a0162a46cb56a9f148c48a969ceca1278"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Open",
+						"t": "void (Stream &)",
+						"i": "Upp::bz2::CompressStream::Open(Stream&)",
+						"r": "void Open(Upp::Stream& out)",
+						"s": "Upp::bz2",
+						"u": "OPEN",
+						"q": "Upp::bz2::CompressStream",
+						"w": "UPP::BZ2::COMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b27dee4a937ebd64705be82e672a57060dbe954"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ChunkSize",
+						"t": "Lib &(int)",
+						"i": "Upp::bz2::CompressStream::ChunkSize(int)",
+						"r": "Upp::bz2::Lib& ChunkSize(int n)",
+						"s": "Upp::bz2",
+						"u": "CHUNKSIZE",
+						"q": "Upp::bz2::CompressStream",
+						"w": "UPP::BZ2::COMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b443650ea68c2ef6d1a4cee48b3f99fec6b26f1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Level",
+						"t": "Lib &(int)",
+						"i": "Upp::bz2::CompressStream::Level(int)",
+						"r": "Upp::bz2::Lib& Level(int compression_lvl)",
+						"s": "Upp::bz2",
+						"u": "LEVEL",
+						"q": "Upp::bz2::CompressStream",
+						"w": "UPP::BZ2::COMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de2ad166c8dae95fa17fad89cce254f0671f805c"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CompressStream",
+						"t": "void ()",
+						"i": "Upp::bz2::CompressStream::CompressStream()",
+						"r": "CompressStream()",
+						"s": "Upp::bz2",
+						"u": "COMPRESSSTREAM",
+						"q": "Upp::bz2::CompressStream",
+						"w": "UPP::BZ2::COMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3bd6cb02ee6e16643af8e1a48d3d656feab770ba"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CompressStream",
+						"t": "void (Stream &)",
+						"i": "Upp::bz2::CompressStream::CompressStream(Stream&)",
+						"r": "CompressStream(Upp::Stream& out)",
+						"s": "Upp::bz2",
+						"u": "COMPRESSSTREAM",
+						"q": "Upp::bz2::CompressStream",
+						"w": "UPP::BZ2::COMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "012253e60fbc62464dc78489388b22011da596d9"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~CompressStream",
+						"t": "void () noexcept",
+						"i": "Upp::bz2::CompressStream::~()",
+						"r": "~CompressStream()",
+						"s": "Upp::bz2",
+						"u": "~COMPRESSSTREAM",
+						"q": "Upp::bz2::CompressStream",
+						"w": "UPP::BZ2::COMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3302934ac3a067bb29487a3fd94ce81815f38f37"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DecompressStream",
+						"t": "Upp::bz2::DecompressStream",
+						"i": "Upp::bz2::DecompressStream",
+						"r": "DecompressStream : public Upp::InFilterStream",
+						"s": "Upp::bz2",
+						"u": "DECOMPRESSSTREAM",
+						"q": "Upp::bz2::DecompressStream",
+						"w": "UPP::BZ2::DECOMPRESSSTREAM",
+						"y": "Upp::InFilterStream",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d08da7c0925fc4fb20627719f3f25e845ff089e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z",
+						"t": "Lib",
+						"i": "Upp::bz2::DecompressStream::z",
+						"r": "Upp::bz2::Lib z",
+						"s": "Upp::bz2",
+						"u": "Z",
+						"q": "Upp::bz2::DecompressStream",
+						"w": "UPP::BZ2::DECOMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54548b3a0162a46cb56a9f148c48a969ceca1278"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Open",
+						"t": "void (Stream &, bool)",
+						"i": "Upp::bz2::DecompressStream::Open(Stream&,bool)",
+						"r": "void Open(Upp::Stream& in, bool all = true)",
+						"s": "Upp::bz2",
+						"u": "OPEN",
+						"q": "Upp::bz2::DecompressStream",
+						"w": "UPP::BZ2::DECOMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3d8cd3cd2410202885ea1e43791ff13990cd96f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ChunkSize",
+						"t": "Lib &(int)",
+						"i": "Upp::bz2::DecompressStream::ChunkSize(int)",
+						"r": "Upp::bz2::Lib& ChunkSize(int n)",
+						"s": "Upp::bz2",
+						"u": "CHUNKSIZE",
+						"q": "Upp::bz2::DecompressStream",
+						"w": "UPP::BZ2::DECOMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b443650ea68c2ef6d1a4cee48b3f99fec6b26f1"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DecompressStream",
+						"t": "void ()",
+						"i": "Upp::bz2::DecompressStream::DecompressStream()",
+						"r": "DecompressStream()",
+						"s": "Upp::bz2",
+						"u": "DECOMPRESSSTREAM",
+						"q": "Upp::bz2::DecompressStream",
+						"w": "UPP::BZ2::DECOMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9128f774f94436abb666ac674fb59d499713584f"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DecompressStream",
+						"t": "void (Stream &, bool)",
+						"i": "Upp::bz2::DecompressStream::DecompressStream(Stream&,bool)",
+						"r": "DecompressStream(Upp::Stream& out, bool all = true)",
+						"s": "Upp::bz2",
+						"u": "DECOMPRESSSTREAM",
+						"q": "Upp::bz2::DecompressStream",
+						"w": "UPP::BZ2::DECOMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5c1c018d992a9a2c9add06579b75037528faca56"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~DecompressStream",
+						"t": "void () noexcept",
+						"i": "Upp::bz2::DecompressStream::~()",
+						"r": "~DecompressStream()",
+						"s": "Upp::bz2",
+						"u": "~DECOMPRESSSTREAM",
+						"q": "Upp::bz2::DecompressStream",
+						"w": "UPP::BZ2::DECOMPRESSSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8c5deda29854c795f196246cdc7ff06e03b7755"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2CompressStream",
+						"t": "Upp::BZ2CompressStream",
+						"i": "Upp::BZ2CompressStream",
+						"r": "typedef Upp::bz2::CompressStream BZ2CompressStream",
+						"s": "Upp",
+						"u": "BZ2COMPRESSSTREAM",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "Upp::bz2::CompressStream",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eef91b43d324187a5d8731ddc480306276fe52bf"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2DecompressStream",
+						"t": "Upp::BZ2DecompressStream",
+						"i": "Upp::BZ2DecompressStream",
+						"r": "typedef Upp::bz2::DecompressStream BZ2DecompressStream",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESSSTREAM",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "Upp::bz2::DecompressStream",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94e0915917f75fa3ff4da1df25336fbbeb9d601f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Compress",
+						"t": "void (Stream &, Stream &, Gate<int, int>)",
+						"i": "Upp::BZ2Compress(Stream&,Stream&,Gate)",
+						"r": "void BZ2Compress(Upp::Stream& out, Upp::Stream& in, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2COMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e495d464d5152e74affe1508ae579aca5352fe03"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Decompress",
+						"t": "void (Stream &, Stream &, Gate<int, int>)",
+						"i": "Upp::BZ2Decompress(Stream&,Stream&,Gate)",
+						"r": "void BZ2Decompress(Upp::Stream& out, Upp::Stream& in, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f98e8244caed7f46278f80da3b3a7b34f3210b1f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Compress",
+						"t": "String (Stream &, Gate<int, int>)",
+						"i": "Upp::BZ2Compress(Stream&,Gate)",
+						"r": "Upp::String BZ2Compress(Upp::Stream& in, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2COMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f7e632622f755ecf96f4d87c572471de1070577"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Decompress",
+						"t": "String (Stream &, Gate<int, int>)",
+						"i": "Upp::BZ2Decompress(Stream&,Gate)",
+						"r": "Upp::String BZ2Decompress(Upp::Stream& in, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f6d6be92ece5f3303a9b8cfe4faadfae59775982"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Compress",
+						"t": "String (const void *, int64, Gate<int, int>)",
+						"i": "Upp::BZ2Compress(const void*,int64,Gate)",
+						"r": "Upp::String BZ2Compress(const void *data, Upp::int64 len, Gate<int, int> progress)",
+						"s": "Upp",
+						"u": "BZ2COMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4eca0abb064165e80f872e15526ad0b4dcc7accc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Decompress",
+						"t": "String (const void *, int64, Gate<int, int>)",
+						"i": "Upp::BZ2Decompress(const void*,int64,Gate)",
+						"r": "Upp::String BZ2Decompress(const void *data, Upp::int64 len, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "650ecfbc4f482b98c810560ada96882a3c532ef9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Compress",
+						"t": "String (const String &, Gate<int, int>)",
+						"i": "Upp::BZ2Compress(const String&,Gate)",
+						"r": "Upp::String BZ2Compress(const Upp::String& data, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2COMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b34d57dbf3d3d6148e4c85b18c264dec78176be"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Decompress",
+						"t": "String (const String &, Gate<int, int>)",
+						"i": "Upp::BZ2Decompress(const String&,Gate)",
+						"r": "Upp::String BZ2Decompress(const Upp::String& data, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fba89d51d88ec3836916915cfe90e314589bff59"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "bzlib.c",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "lib/bzlib.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "bz2upp.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LDUMP",
+						"t": "",
+						"i": "LDUMP",
+						"r": "LDUMP",
+						"s": "",
+						"u": "LDUMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ea08c3f31df288e30ec5c02db16b3d948516e1c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LLOG",
+						"t": "",
+						"i": "LLOG",
+						"r": "LLOG",
+						"s": "",
+						"u": "LLOG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d83c43df219c111fa516fe33b765574dc658780b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "bzalloc_new",
+						"t": "void *(void *, int, int)",
+						"i": "Upp::bz2::bzalloc_new(void*,int,int)",
+						"r": "static void *bzalloc_new(void *opaque, int items, int size)",
+						"s": "Upp::bz2",
+						"u": "BZALLOC_NEW",
+						"q": "Upp::bz2",
+						"w": "UPP::BZ2",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b5e3f3950b1ded2551b7bdca63a26df83a1f8e0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "bzfree_new",
+						"t": "void (void *, void *)",
+						"i": "Upp::bz2::bzfree_new(void*,void*)",
+						"r": "static void bzfree_new(void *opaque, void *addr)",
+						"s": "Upp::bz2",
+						"u": "BZFREE_NEW",
+						"q": "Upp::bz2",
+						"w": "UPP::BZ2",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de0368effe68bdd94d094d97bfd1f11024e9d273"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Begin",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Begin()",
+						"r": "void Begin()",
+						"s": "Upp::bz2",
+						"u": "BEGIN",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6373d567169edf09072657331c92e0d9efe0acc3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Compress",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Compress()",
+						"r": "void Compress()",
+						"s": "Upp::bz2",
+						"u": "COMPRESS",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d89b8f4eeccf58fb95277cbbae961a84f83db21"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Decompress",
+						"t": "void (bool)",
+						"i": "Upp::bz2::Lib::Decompress(bool)",
+						"r": "void Decompress(bool all = true)",
+						"s": "Upp::bz2",
+						"u": "DECOMPRESS",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ac3e6bf31ec6044fb34823f9738456228fa99c15"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Pump",
+						"t": "void (bool)",
+						"i": "Upp::bz2::Lib::Pump(bool)",
+						"r": "void Pump(bool finish)",
+						"s": "Upp::bz2",
+						"u": "PUMP",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f152d644addaf6b7a9fff1a864a02ffd3dfca1a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Put",
+						"t": "void (const void *, int)",
+						"i": "Upp::bz2::Lib::Put(const void*,int)",
+						"r": "void Put(const void *ptr, int size)",
+						"s": "Upp::bz2",
+						"u": "PUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b4fb9c209691e4b519ad268318edfb609456fbf"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PutOut",
+						"t": "void (const void *, int)",
+						"i": "Upp::bz2::Lib::PutOut(const void*,int)",
+						"r": "void PutOut(const void *ptr, int size)",
+						"s": "Upp::bz2",
+						"u": "PUTOUT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a3fb53793a76736f8e45fd29557da85024d810e4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "End",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::End()",
+						"r": "void End()",
+						"s": "Upp::bz2",
+						"u": "END",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3a58f9f74dc83824dc0f83933baea0a75c2f272"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Free",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Free()",
+						"r": "void Free()",
+						"s": "Upp::bz2",
+						"u": "FREE",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31d30102c3d94287b4fc39f135c9dd6e8b8d7717"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Init",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Init()",
+						"r": "void Init()",
+						"s": "Upp::bz2",
+						"u": "INIT",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fac21cf6365cc6ce5cb42f13b3d1281623643d92"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Clear",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Clear()",
+						"r": "void Clear()",
+						"s": "Upp::bz2",
+						"u": "CLEAR",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2e5abdbc063f3c415055361e9fd7bbcf1900aacb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ChunkSize",
+						"t": "Lib &(int)",
+						"i": "Upp::bz2::Lib::ChunkSize(int)",
+						"r": "Upp::bz2::Lib& ChunkSize(int n)",
+						"s": "Upp::bz2",
+						"u": "CHUNKSIZE",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8087896b7bb728b2a28c95b705198f912472fc28"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Lib",
+						"t": "void ()",
+						"i": "Upp::bz2::Lib::Lib()",
+						"r": "Lib()",
+						"s": "Upp::bz2",
+						"u": "LIB",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5710ff949bc7ff1fa6d081fd5c50b9172e6ee82e"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~Lib",
+						"t": "void () noexcept",
+						"i": "Upp::bz2::Lib::~()",
+						"r": "~Lib()",
+						"s": "Upp::bz2",
+						"u": "~LIB",
+						"q": "Upp::bz2::Lib",
+						"w": "UPP::BZ2::LIB",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14d9ca70fc478688eb8aced3aa13aa35155454ae"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Decompress",
+						"t": "void (Stream &, Stream &, Gate<int, int>)",
+						"i": "Upp::BZ2Decompress(Stream&,Stream&,Gate)",
+						"r": "void BZ2Decompress(Upp::Stream& out, Upp::Stream& in, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f5ddd9a4dd9dca81fd417c47ff032f8f0ffc0a35"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Compress",
+						"t": "void (Stream &, Stream &, Gate<int, int>)",
+						"i": "Upp::BZ2Compress(Stream&,Stream&,Gate)",
+						"r": "void BZ2Compress(Upp::Stream& out, Upp::Stream& in, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2COMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c008828a4eb0e2abf46bb661d45cbb6b56bdb60c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Compress",
+						"t": "String (Stream &, Gate<int, int>)",
+						"i": "Upp::BZ2Compress(Stream&,Gate)",
+						"r": "Upp::String BZ2Compress(Upp::Stream& in, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2COMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f2e6eb02b01ed3a4658fdab9a262a8b24f866175"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Decompress",
+						"t": "String (Stream &, Gate<int, int>)",
+						"i": "Upp::BZ2Decompress(Stream&,Gate)",
+						"r": "Upp::String BZ2Decompress(Upp::Stream& in, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d37ecd6b0e70a8b3fb8306b32db3a152b9cde9f7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Compress",
+						"t": "String (const void *, int64, Gate<int, int>)",
+						"i": "Upp::BZ2Compress(const void*,int64,Gate)",
+						"r": "Upp::String BZ2Compress(const void *data, Upp::int64 len, Gate<int, int> progress)",
+						"s": "Upp",
+						"u": "BZ2COMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "88197da2e9e19d9b9caf129060a23868f6ee8798"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Decompress",
+						"t": "String (const void *, int64, Gate<int, int>)",
+						"i": "Upp::BZ2Decompress(const void*,int64,Gate)",
+						"r": "Upp::String BZ2Decompress(const void *data, Upp::int64 len, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f26e79a033d353065f28b7af28a38ca5a4a4173e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Compress",
+						"t": "String (const String &, Gate<int, int>)",
+						"i": "Upp::BZ2Compress(const String&,Gate)",
+						"r": "Upp::String BZ2Compress(const Upp::String& data, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2COMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9e0d8c55cd5c82a7d308baf38caaa9678e8e443"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "BZ2Decompress",
+						"t": "String (const String &, Gate<int, int>)",
+						"i": "Upp::BZ2Decompress(const String&,Gate)",
+						"r": "Upp::String BZ2Decompress(const Upp::String& data, Gate<int, int> progress = Null)",
+						"s": "Upp",
+						"u": "BZ2DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e79f501bdee22084761c287ecf3932b9116e637a"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}
