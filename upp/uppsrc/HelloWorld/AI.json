@@ -1,0 +1,402 @@
+{
+	"saved_hash": "eeae0cc71de6c29811d8bf7f6c5a0e3509b2b262",
+	"files": [
+		{
+			"key": "hello.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "HelloWorld",
+						"t": "HelloWorld",
+						"i": "HelloWorld",
+						"r": "HelloWorld : public Upp::TopWindow",
+						"s": "",
+						"u": "HELLOWORLD",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "Upp::TopWindow",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d55da8ef323211b70e1c99a1b44b13097e223ad0"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "menu",
+						"t": "MenuBar",
+						"i": "HelloWorld::menu",
+						"r": "Upp::MenuBar menu",
+						"s": "",
+						"u": "MENU",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d878d33cc717923f1fbdb8c0adf3712ea4d4f94e"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "status",
+						"t": "StatusBar",
+						"i": "HelloWorld::status",
+						"r": "Upp::StatusBar status",
+						"s": "",
+						"u": "STATUS",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d60d8e0d842eefc5e54f587d12a2902ca0487a0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FileMenu",
+						"t": "void (Bar &)",
+						"i": "HelloWorld::FileMenu(Bar&)",
+						"r": "void FileMenu(Upp::Bar& bar)",
+						"s": "",
+						"u": "FILEMENU",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f2f685608700f672b41cee19a6cc3a909e1b8a6"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "MainMenu",
+						"t": "void (Bar &)",
+						"i": "HelloWorld::MainMenu(Bar&)",
+						"r": "void MainMenu(Upp::Bar& bar)",
+						"s": "",
+						"u": "MAINMENU",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "90e3a700599c7226ecad8dd2a89335ed9ca3332f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "About",
+						"t": "void ()",
+						"i": "HelloWorld::About()",
+						"r": "void About()",
+						"s": "",
+						"u": "ABOUT",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe1a00938eb691bdf95f4b81b1fe8db6d30db488"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CLASSNAME",
+						"t": "HelloWorld::CLASSNAME",
+						"i": "HelloWorld::CLASSNAME",
+						"r": "typedef HelloWorld CLASSNAME",
+						"s": "",
+						"u": "CLASSNAME",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "HelloWorld",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9852e429808dadb01448e930a82880efff999a7c"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "HelloWorld",
+						"t": "void ()",
+						"i": "HelloWorld::HelloWorld()",
+						"r": "HelloWorld()",
+						"s": "",
+						"u": "HELLOWORLD",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b79d548bce067373eb8ab5e9e17cf185d52a884"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "About",
+						"t": "void ()",
+						"i": "HelloWorld::About()",
+						"r": "void About()",
+						"s": "",
+						"u": "ABOUT",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9ca40f4d5ef2985cfde7edf767de554fb3070518"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FileMenu",
+						"t": "void (Bar &)",
+						"i": "HelloWorld::FileMenu(Bar&)",
+						"r": "void FileMenu(Upp::Bar& bar)",
+						"s": "",
+						"u": "FILEMENU",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df4cea8a9e074196c64c3bdf7c54c1084e74b22d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "MainMenu",
+						"t": "void (Bar &)",
+						"i": "HelloWorld::MainMenu(Bar&)",
+						"r": "void MainMenu(Upp::Bar& bar)",
+						"s": "",
+						"u": "MAINMENU",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ff91f770d77107b30aeee661d818cda57d0cf821"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "HelloWorld",
+						"t": "void ()",
+						"i": "HelloWorld::HelloWorld()",
+						"r": "HelloWorld()",
+						"s": "",
+						"u": "HELLOWORLD",
+						"q": "HelloWorld",
+						"w": "HELLOWORLD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0c591b9c6043c63b76a32a5157ec6063eed5f923"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GuiMainFn_",
+						"t": "void ()",
+						"i": "GuiMainFn_()",
+						"r": "void GuiMainFn_()",
+						"s": "",
+						"u": "GUIMAINFN_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "486dd2cbca74172a0773a325c3f2321a87413e34"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "main",
+						"t": "int (int, char **, const char **)",
+						"i": "main(int,char**,const char**)",
+						"r": "int main(int argc, char **argv, const char **envptr)",
+						"s": "",
+						"u": "MAIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9486b9be7ef88a32751b2fa5f0b94b5335fa4bb8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GuiMainFn_",
+						"t": "void ()",
+						"i": "GuiMainFn_()",
+						"r": "void GuiMainFn_()",
+						"s": "",
+						"u": "GUIMAINFN_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9486b9be7ef88a32751b2fa5f0b94b5335fa4bb8"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

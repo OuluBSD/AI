@@ -1,5 +1,5 @@
 {
-	"saved_hash": "c050e2ab952dd8c67b0ff0db68601812005006e6",
+	"saved_hash": "5282f8f2ec8edd57dd0901a51505c1a6e74fa2d9",
 	"files": [
 		{
 			"key": "lz4.h",
@@ -2271,6 +2271,12 @@
 
 								],
 								"h": "117c465a5959f78c98fd659cadd0ce8a7219df19"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c3fdbed5941b7a3e993d3d9e62acd76321961cd6"
 							}
 						]
 					},
@@ -2297,6 +2303,12 @@
 
 								],
 								"h": "7e4fe49d35271432b4aeb3bcd2f4d5d20624163c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "8ac9a4bb4716c9c423c00ded63e18af871073082"
 							}
 						]
 					},
@@ -2323,6 +2335,12 @@
 
 								],
 								"h": "6552d46f49a6bae3d25c6552eab8f2e98438c118"
+							},
+							{
+								"items": [
+
+								],
+								"h": "7bf4f83934aa52f4cfb58d34f40d7049e300efe8"
 							}
 						]
 					},
@@ -2349,6 +2367,12 @@
 
 								],
 								"h": "38792d3b99261591021e2d684097c3904f868a41"
+							},
+							{
+								"items": [
+
+								],
+								"h": "2192e74470abbc0744b3028743bc59f30998367a"
 							}
 						]
 					},
@@ -2375,6 +2399,12 @@
 
 								],
 								"h": "ff80c9c2af67a49e25568a72e963934b63b63df7"
+							},
+							{
+								"items": [
+
+								],
+								"h": "08b047b6e092f7330ff8cd659e0036fe302c4878"
 							}
 						]
 					},
@@ -2401,6 +2431,12 @@
 
 								],
 								"h": "51a579e7a31139b21114a7dcb98336956fc3d004"
+							},
+							{
+								"items": [
+
+								],
+								"h": "694281c4cd6f7bcbb62bb9a0745a99517564102b"
 							}
 						]
 					},
@@ -2427,6 +2463,12 @@
 
 								],
 								"h": "93f3e6c2c7ca0e4cb3cc7cd92b3440be3969b77a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "521bc37f618f78b6b56336ce773a7a64ec585448"
 							}
 						]
 					},
@@ -2453,6 +2495,12 @@
 
 								],
 								"h": "11f74a4c89f3165cf032f21f1e8fc86afe8fe429"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5c366e194f078a1a6bee724888155479fae1a0d6"
 							}
 						]
 					},
@@ -2479,6 +2527,12 @@
 
 								],
 								"h": "93cc21b24ad8e7333cea02e90739332c5d1f0baa"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5470f8725fe1cf6685bfc37c8c1917bce58c4762"
 							}
 						]
 					},
@@ -2505,6 +2559,12 @@
 
 								],
 								"h": "0b31dda7fefe9c1ba5a938d0a131dce169e7ae21"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d4122c2d2d9e95b862224bd751135429a6073f81"
 							}
 						]
 					}
@@ -2564,6 +2624,12 @@
 
 								],
 								"h": "f4f2210fb1f933bdb97aad2c82faad78ccd8fbe9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c3799a8cfc019a3c5154ba991c13b5ecbfed9425"
 							}
 						]
 					},
@@ -2590,6 +2656,12 @@
 
 								],
 								"h": "5a7a52b2e9d83607f48bc2e9c21050bdd6b3a65a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "7941e2fe13541dc55fe13d3f530fe6d837d36804"
 							}
 						]
 					},
@@ -2616,6 +2688,12 @@
 
 								],
 								"h": "51e4c150a1aa58afdc5cd1250a36b1da562a6388"
+							},
+							{
+								"items": [
+
+								],
+								"h": "59a3db05b52c90ab783ef2ba0726a36299ab5d05"
 							}
 						]
 					},
@@ -2642,6 +2720,12 @@
 
 								],
 								"h": "89fff122ba4ef92eaceabcdc387fc714ce48684f"
+							},
+							{
+								"items": [
+
+								],
+								"h": "aae6dbb378bf7386ef356edd5756b5d827316857"
 							}
 						]
 					},
@@ -2668,6 +2752,12 @@
 
 								],
 								"h": "cd31374d9753206814a96abc47e434cea51474e2"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ccc4e0a8fd113c64533a9fb131fd750d4ed05947"
 							}
 						]
 					},
@@ -2694,6 +2784,12 @@
 
 								],
 								"h": "3208aa8d479d30d481f5063161a8b9ac203382a6"
+							},
+							{
+								"items": [
+
+								],
+								"h": "68b7063399d0cbf7cae92c59a611a3cfe8b53c81"
 							}
 						]
 					},
@@ -2720,6 +2816,12 @@
 
 								],
 								"h": "01076c0cb80e9c485df043946310574b2713b516"
+							},
+							{
+								"items": [
+
+								],
+								"h": "8483c495083ef8860959b1e279bf880349c9ad87"
 							}
 						]
 					},
@@ -2746,6 +2848,12 @@
 
 								],
 								"h": "713df81af8031f94ab2751900f9557395128910a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "f5bcae8bd85633a25bd9f39059129e1ab8afc355"
 							}
 						]
 					},
@@ -2772,6 +2880,12 @@
 
 								],
 								"h": "3cb1b9857778f28fc603ba660a5af5aca7b37d01"
+							},
+							{
+								"items": [
+
+								],
+								"h": "83879c33afb12fb41fdf24a02c838dfc69399ed0"
 							}
 						]
 					},
@@ -2798,6 +2912,12 @@
 
 								],
 								"h": "5edcad80ef1b525fa953a003ad9476dad6b20ed8"
+							},
+							{
+								"items": [
+
+								],
+								"h": "494c97a31f52fd2ceb15572a80d6232af41f4b02"
 							}
 						]
 					},
@@ -2824,6 +2944,12 @@
 
 								],
 								"h": "421d72de42fe123e47d5eb734211276ced9800f0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5d0e2afacc708c729cc303bb76c2c1822b790e09"
 							}
 						]
 					}
@@ -2883,6 +3009,12 @@
 
 								],
 								"h": "96b2ec931efcc59ffdee6b5aec4c56590f7576a4"
+							},
+							{
+								"items": [
+
+								],
+								"h": "9d9f9bc25b0b3f671f36f07ce5bb6f8eb291f141"
 							}
 						]
 					},
@@ -2909,6 +3041,12 @@
 
 								],
 								"h": "58c1f0bc58bd6168a68ea3a50809f51faa88e03c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "bd40a20325a0e79e2ed94338cb8f780bb9b4e269"
 							}
 						]
 					},
@@ -2935,6 +3073,12 @@
 
 								],
 								"h": "b44d7358dea6a7c0b2b5029d46335dd11089da46"
+							},
+							{
+								"items": [
+
+								],
+								"h": "b64b3c71d4dc1636115eb36adb7c1c5761e719f4"
 							}
 						]
 					},
@@ -2961,6 +3105,12 @@
 
 								],
 								"h": "2b0000ff8549d92db38b7f5e16cf40c9eeee0188"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d4f7dfa527a9d388a275de1d65bb142543a50697"
 							}
 						]
 					},
@@ -2987,6 +3137,12 @@
 
 								],
 								"h": "e6a952accb7ba3d41d3e628cfbbee007d87c68f7"
+							},
+							{
+								"items": [
+
+								],
+								"h": "3f434c07ba793bf7d5111f07a15d9422d2620f6b"
 							}
 						]
 					},
@@ -3013,6 +3169,12 @@
 
 								],
 								"h": "8fb60b85fb0d78e0d2cbce8c17dc6d4d1c53a144"
+							},
+							{
+								"items": [
+
+								],
+								"h": "334944ab47e39d220d0e890107e03ecb12cf82a6"
 							}
 						]
 					},
@@ -3039,6 +3201,12 @@
 
 								],
 								"h": "994311370af046be7b3f28446eb4a5d0c0e10545"
+							},
+							{
+								"items": [
+
+								],
+								"h": "729ff163feeca10492ed35dc6324eafed135aed4"
 							}
 						]
 					},
@@ -3065,6 +3233,12 @@
 
 								],
 								"h": "18774c159d8b3cac57f0fa3679aff1170d5e9400"
+							},
+							{
+								"items": [
+
+								],
+								"h": "159565eb34534c0d621d4be8e14d614b04f515a2"
 							}
 						]
 					},
@@ -3091,6 +3265,12 @@
 
 								],
 								"h": "0320139c59e8281d166698944cb862ce5534cbb2"
+							},
+							{
+								"items": [
+
+								],
+								"h": "64005115058695bcf138421c60d869c4cc01d6ac"
 							}
 						]
 					},
@@ -3117,6 +3297,12 @@
 
 								],
 								"h": "ee564ccc04901ec9e9927034ed1f9c1e4fd1310f"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e9b2726b1d852bc2a30f8e86b32514c0fb0bc530"
 							}
 						]
 					},
@@ -3143,6 +3329,12 @@
 
 								],
 								"h": "5b0b7ce37a4946ad4c5071774dc278af69ba0599"
+							},
+							{
+								"items": [
+
+								],
+								"h": "565692b69fa2bb8e1503751beff250a25cb90415"
 							}
 						]
 					},
@@ -3169,6 +3361,12 @@
 
 								],
 								"h": "660070a108112024ad7c78f4873016f7e93001d8"
+							},
+							{
+								"items": [
+
+								],
+								"h": "54e1d052c27091cebef1c6eb2f3c7622106e7255"
 							}
 						]
 					},
@@ -3195,6 +3393,12 @@
 
 								],
 								"h": "8c046193fc3ea07b4a7cf30d08cf7f6f3fd6c5b9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "70ec2805c167662ad1ec3875ba5f1070881f8172"
 							}
 						]
 					},
@@ -3221,6 +3425,12 @@
 
 								],
 								"h": "caaf7bb58fece3b6a5102965a53f6805894c32f6"
+							},
+							{
+								"items": [
+
+								],
+								"h": "b5df86c7f7e0e4ed3c85c26b996d242d70e7ff05"
 							}
 						]
 					},
@@ -3247,6 +3457,12 @@
 
 								],
 								"h": "6d22ee81719f777d8291d06caf5a1c4a4b6487e0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "61568e6a82f460b66fddf1e0b7076ddaf12ded4c"
 							}
 						]
 					},
@@ -3273,6 +3489,12 @@
 
 								],
 								"h": "1ab3435d8765ed6230802efafddb4b304cbe70ec"
+							},
+							{
+								"items": [
+
+								],
+								"h": "b7452c9e8bb331ebc6d2b879ee47db48bf9f4739"
 							}
 						]
 					},
@@ -3282,54 +3504,4 @@
 						"iv": false,
 						"is": false,
 						"n": "CoLZ4Decompress",
-						"t": "String (const void *, int64, Gate<int64, int64>)",
-						"i": "Upp::CoLZ4Decompress(const void*,int64,Gate)",
-						"r": "Upp::String CoLZ4Decompress(const void *data, Upp::int64 len, Gate<int64, int64> progress = Null)",
-						"s": "Upp",
-						"u": "COLZ4DECOMPRESS",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "328a3d26687015cbaefbf1c46dd3fe5a2216d058"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "CoLZ4Decompress",
-						"t": "String (const String &, Gate<int64, int64>)",
-						"i": "Upp::CoLZ4Decompress(const String&,Gate)",
-						"r": "Upp::String CoLZ4Decompress(const Upp::String& s, Gate<int64, int64> progress = Null)",
-						"s": "Upp",
-						"u": "COLZ4DECOMPRESS",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "2aa5aaa08e378c94336f00cba4e4f61c745ecbef"
-							}
-						]
-					}
-				]
-			}
-		}
-	]
-}
+						"t": "String (const void *, int64, Gate<int64, in

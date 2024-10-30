@@ -1,13 +1,225 @@
 {
-	"saved_hash": "b3185f63c23889e12a42faf163935d76d026cd57",
+	"saved_hash": "479e0ef03e09318a89c437cac02f0e0d4f75e9b6",
 	"files": [
 		{
 			"key": "freetype2/freetype/config/ftheader.h",
 			"value": {
 				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FTHEADER_H_",
+						"t": "",
+						"i": "FTHEADER_H_",
+						"r": "FTHEADER_H_",
+						"s": "",
+						"u": "FTHEADER_H_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
 
-				]
-			}
-		}
-	]
-}
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6bae6aa6acda05b291fdc2a1c3aae910f62ccff2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_BEGIN_HEADER",
+						"t": "",
+						"i": "FT_BEGIN_HEADER",
+						"r": "FT_BEGIN_HEADER",
+						"s": "",
+						"u": "FT_BEGIN_HEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "455324db25be54a4a40553a6cb105bf4171a284b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_END_HEADER",
+						"t": "",
+						"i": "FT_END_HEADER",
+						"r": "FT_END_HEADER",
+						"s": "",
+						"u": "FT_END_HEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4760289848957e3a397cd2a2af2a766b63e72cd8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CONFIG_CONFIG_H",
+						"t": "",
+						"i": "FT_CONFIG_CONFIG_H",
+						"r": "FT_CONFIG_CONFIG_H",
+						"s": "",
+						"u": "FT_CONFIG_CONFIG_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "788dc4a705de3de8d6171757f673ec6dffd1b99d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CONFIG_STANDARD_LIBRARY_H",
+						"t": "",
+						"i": "FT_CONFIG_STANDARD_LIBRARY_H",
+						"r": "FT_CONFIG_STANDARD_LIBRARY_H",
+						"s": "",
+						"u": "FT_CONFIG_STANDARD_LIBRARY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82a8a0824ca74242185b1cf574efc5bfb70d45bd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CONFIG_OPTIONS_H",
+						"t": "",
+						"i": "FT_CONFIG_OPTIONS_H",
+						"r": "FT_CONFIG_OPTIONS_H",
+						"s": "",
+						"u": "FT_CONFIG_OPTIONS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4dd0851c481af43541caea9164ce90ece0bc9109"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CONFIG_MODULES_H",
+						"t": "",
+						"i": "FT_CONFIG_MODULES_H",
+						"r": "FT_CONFIG_MODULES_H",
+						"s": "",
+						"u": "FT_CONFIG_MODULES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "124efeb148a2c6363977a19e90f04fb8304b1a07"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_FREETYPE_H",
+						"t": "",
+						"i": "FT_FREETYPE_H",
+						"r": "FT_FREETYPE_H",
+						"s": "",
+						"u": "FT_FREETYPE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96d1712b19e782d0d3c54d705d64c8643d5bfb9d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_ERRORS_H",
+						"t": "",
+						"i": "FT_ERRORS_H",
+						"r": "FT_ERRORS_H",
+						"s": "",

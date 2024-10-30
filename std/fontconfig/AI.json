@@ -1,5 +1,5 @@
 {
-	"saved_hash": "49b3ee69bb1a552c0cd63598cda9ec11195d126d",
+	"saved_hash": "968c70af646e2384bba39a6e2f58a04cd7b817f3",
 	"files": [
 		{
 			"key": "fontconfig/fcfreetype.h",
@@ -174,29 +174,4 @@
 						"u": "FCFREETYPEQUERYFACE",
 						"q": "",
 						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "a90a1a7c998b00b37bc546ff9b6794374a9c56e5"
-							}
-						]
-					}
-				]
-			}
-		},
-		{
-			"key": "fontconfig/fontconfig.h",
-			"value": {
-				"items": [
-
-				]
-			}
-		}
-	]
-}
+					

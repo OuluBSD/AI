@@ -1,5 +1,5 @@
 {
-	"saved_hash": "6fe981cee36804cd5d47002628449b080d898e54",
+	"saved_hash": "0c05e174e69bce9ca6935a0286d88767e25cba13",
 	"files": [
 		{
 			"key": "Designers.h",
@@ -5171,6 +5171,12 @@
 
 								],
 								"h": "14b4095e7955925952ea30017b121bc3c44cfb6b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e468921828b32493c2d1b7be88ebfd1279258ad6"
 							}
 						]
 					},
@@ -5223,6 +5229,12 @@
 
 								],
 								"h": "dfbad4a40718bc5bf4ba64329cce503aaf7bcc0b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "78eb9a1c4efc895b5b1786c2c4ab35d6fafbecc6"
 							}
 						]
 					},
@@ -5249,6 +5261,12 @@
 
 								],
 								"h": "ef0bcb033c2f257d81ecf775b0d882705060f513"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c5daa089c008572c3bc431d2bb7c6b614549ddae"
 							}
 						]
 					},
@@ -5275,6 +5293,12 @@
 
 								],
 								"h": "0f8c08a712c639f0b9162feb923b3a25f41c5b20"
+							},
+							{
+								"items": [
+
+								],
+								"h": "3ea4afcec8e94842a1a1c7f148da617b387f7024"
 							}
 						]
 					},
@@ -5301,6 +5325,12 @@
 
 								],
 								"h": "8c30822dd2b45c7f29db11ffa6703a03ab8eccbb"
+							},
+							{
+								"items": [
+
+								],
+								"h": "120cd7b4f1e63714cc6d541bb6f928c4e332b8db"
 							}
 						]
 					},
@@ -5327,6 +5357,12 @@
 
 								],
 								"h": "1721e9a80ab4f6491f09216f151d73d6a8b0c589"
+							},
+							{
+								"items": [
+
+								],
+								"h": "14e030d78388871eb5504b109222d5755804b0d5"
 							}
 						]
 					},
@@ -5353,6 +5389,12 @@
 
 								],
 								"h": "9fb231650121a379aa29b05b859a9a707bab4338"
+							},
+							{
+								"items": [
+
+								],
+								"h": "dcca6326e6e82d791c02a94c30960c279fda429c"
 							}
 						]
 					},
@@ -5379,6 +5421,12 @@
 
 								],
 								"h": "76a07299abccc92876c88ca6f1e97435d6da6a6e"
+							},
+							{
+								"items": [
+
+								],
+								"h": "28b1587b192b1c6b34e5630a86dacb13d52d8481"
 							}
 						]
 					},
@@ -5405,6 +5453,12 @@
 
 								],
 								"h": "ade613996f5fe7c1b2702d65b24ae4dfa6bff7ed"
+							},
+							{
+								"items": [
+
+								],
+								"h": "987486aa175ebaf964e80cd8d6316569c2074f88"
 							}
 						]
 					},
@@ -5431,6 +5485,12 @@
 
 								],
 								"h": "5f2ebe8446466b711a86de01e0fc3977754eea2a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "33fe3b99b5259cdb46797d9a5fee4489ee6d85f3"
 							}
 						]
 					},
@@ -7631,6 +7691,12 @@
 
 								],
 								"h": "71a3ae3ee5d5efdbba02e2cf28485294cb1b1175"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ad43d595b468814c7cd79a7dcfbf01fae4f50ab5"
 							}
 						]
 					},
@@ -7657,6 +7723,12 @@
 
 								],
 								"h": "015c380b7102777b7dfdcbe86260ae48eb1d37e6"
+							},
+							{
+								"items": [
+
+								],
+								"h": "8ec7d8ab6dd9e80b3920305078a39af65e5592be"
 							}
 						]
 					},
@@ -7668,26 +7740,4 @@
 						"n": "Create",
 						"t": "void (const char *)",
 						"i": "IdePngDes::Create(const char*)",
-						"r": "void Create(const char *_filename)",
-						"s": "",
-						"u": "CREATE",
-						"q": "IdePngDes",
-						"w": "IDEPNGDES",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "124364ab2b1eb11927a57e4adb482882df2a5b71"
-							}
-						]
-					}
-				]
-			}
-		}
-	]
-}
+						"r": "

@@ -1,0 +1,1780 @@
+{
+	"saved_hash": "ccccab7764b6e4c251e43a4efccbdca2e423cac6",
+	"files": [
+		{
+			"key": "freetype2/freetype/config/ftheader.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FTHEADER_H_",
+						"t": "",
+						"i": "FTHEADER_H_",
+						"r": "FTHEADER_H_",
+						"s": "",
+						"u": "FTHEADER_H_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6bae6aa6acda05b291fdc2a1c3aae910f62ccff2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_BEGIN_HEADER",
+						"t": "",
+						"i": "FT_BEGIN_HEADER",
+						"r": "FT_BEGIN_HEADER",
+						"s": "",
+						"u": "FT_BEGIN_HEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "455324db25be54a4a40553a6cb105bf4171a284b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_END_HEADER",
+						"t": "",
+						"i": "FT_END_HEADER",
+						"r": "FT_END_HEADER",
+						"s": "",
+						"u": "FT_END_HEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4760289848957e3a397cd2a2af2a766b63e72cd8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CONFIG_CONFIG_H",
+						"t": "",
+						"i": "FT_CONFIG_CONFIG_H",
+						"r": "FT_CONFIG_CONFIG_H",
+						"s": "",
+						"u": "FT_CONFIG_CONFIG_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "788dc4a705de3de8d6171757f673ec6dffd1b99d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CONFIG_STANDARD_LIBRARY_H",
+						"t": "",
+						"i": "FT_CONFIG_STANDARD_LIBRARY_H",
+						"r": "FT_CONFIG_STANDARD_LIBRARY_H",
+						"s": "",
+						"u": "FT_CONFIG_STANDARD_LIBRARY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82a8a0824ca74242185b1cf574efc5bfb70d45bd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CONFIG_OPTIONS_H",
+						"t": "",
+						"i": "FT_CONFIG_OPTIONS_H",
+						"r": "FT_CONFIG_OPTIONS_H",
+						"s": "",
+						"u": "FT_CONFIG_OPTIONS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4dd0851c481af43541caea9164ce90ece0bc9109"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CONFIG_MODULES_H",
+						"t": "",
+						"i": "FT_CONFIG_MODULES_H",
+						"r": "FT_CONFIG_MODULES_H",
+						"s": "",
+						"u": "FT_CONFIG_MODULES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "124efeb148a2c6363977a19e90f04fb8304b1a07"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_FREETYPE_H",
+						"t": "",
+						"i": "FT_FREETYPE_H",
+						"r": "FT_FREETYPE_H",
+						"s": "",
+						"u": "FT_FREETYPE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96d1712b19e782d0d3c54d705d64c8643d5bfb9d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_ERRORS_H",
+						"t": "",
+						"i": "FT_ERRORS_H",
+						"r": "FT_ERRORS_H",
+						"s": "",
+						"u": "FT_ERRORS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0cd499c869bb52c1b662cf945a4f4a9e53fb66d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_MODULE_ERRORS_H",
+						"t": "",
+						"i": "FT_MODULE_ERRORS_H",
+						"r": "FT_MODULE_ERRORS_H",
+						"s": "",
+						"u": "FT_MODULE_ERRORS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8d358c2929a2266519fc6e844f23cb6cb877c3ca"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_SYSTEM_H",
+						"t": "",
+						"i": "FT_SYSTEM_H",
+						"r": "FT_SYSTEM_H",
+						"s": "",
+						"u": "FT_SYSTEM_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa98c5287ca5dc1f9fc2ab14a16ba24ac7cd73ec"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_IMAGE_H",
+						"t": "",
+						"i": "FT_IMAGE_H",
+						"r": "FT_IMAGE_H",
+						"s": "",
+						"u": "FT_IMAGE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b744c703c3c1b112f84e6ffbceea4ea9df594bfe"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_TYPES_H",
+						"t": "",
+						"i": "FT_TYPES_H",
+						"r": "FT_TYPES_H",
+						"s": "",
+						"u": "FT_TYPES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca79d3b9e3d7682a0f401e3729f744360d55f90c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_LIST_H",
+						"t": "",
+						"i": "FT_LIST_H",
+						"r": "FT_LIST_H",
+						"s": "",
+						"u": "FT_LIST_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3cef739cec4d3a5964f688c83e30d54562bd72bc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_OUTLINE_H",
+						"t": "",
+						"i": "FT_OUTLINE_H",
+						"r": "FT_OUTLINE_H",
+						"s": "",
+						"u": "FT_OUTLINE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9793b16b478e37340302e619fbcfd3afb8c8bf3d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_SIZES_H",
+						"t": "",
+						"i": "FT_SIZES_H",
+						"r": "FT_SIZES_H",
+						"s": "",
+						"u": "FT_SIZES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cfbee018bcac8037f18d85cdb41f8fe393c9b3ed"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_MODULE_H",
+						"t": "",
+						"i": "FT_MODULE_H",
+						"r": "FT_MODULE_H",
+						"s": "",
+						"u": "FT_MODULE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb4564fea8f12e6da937d0beca7a4da2afe9af6c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_RENDER_H",
+						"t": "",
+						"i": "FT_RENDER_H",
+						"r": "FT_RENDER_H",
+						"s": "",
+						"u": "FT_RENDER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b5b1e8d742b08a15da6bcf2530c3798cf0688c13"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_DRIVER_H",
+						"t": "",
+						"i": "FT_DRIVER_H",
+						"r": "FT_DRIVER_H",
+						"s": "",
+						"u": "FT_DRIVER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "813f436a4a2ee11b71073b8a888c7e206d7495ed"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_AUTOHINTER_H",
+						"t": "",
+						"i": "FT_AUTOHINTER_H",
+						"r": "FT_AUTOHINTER_H",
+						"s": "",
+						"u": "FT_AUTOHINTER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0fd5a43e5c16a7e71612b93b9ad957c44c3c0e2a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CFF_DRIVER_H",
+						"t": "",
+						"i": "FT_CFF_DRIVER_H",
+						"r": "FT_CFF_DRIVER_H",
+						"s": "",
+						"u": "FT_CFF_DRIVER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7811e91fa098f8b245d165252f70feecd868245c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_TRUETYPE_DRIVER_H",
+						"t": "",
+						"i": "FT_TRUETYPE_DRIVER_H",
+						"r": "FT_TRUETYPE_DRIVER_H",
+						"s": "",
+						"u": "FT_TRUETYPE_DRIVER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "76794fc17501d8954fb167b535456677ada042ca"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_PCF_DRIVER_H",
+						"t": "",
+						"i": "FT_PCF_DRIVER_H",
+						"r": "FT_PCF_DRIVER_H",
+						"s": "",
+						"u": "FT_PCF_DRIVER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5763e4302977cb26fbc74d469cb7afcccd205af2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_TYPE1_TABLES_H",
+						"t": "",
+						"i": "FT_TYPE1_TABLES_H",
+						"r": "FT_TYPE1_TABLES_H",
+						"s": "",
+						"u": "FT_TYPE1_TABLES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6a1e6d340e1a1ddac85f9e7ae1d4dad6ea875a24"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_TRUETYPE_IDS_H",
+						"t": "",
+						"i": "FT_TRUETYPE_IDS_H",
+						"r": "FT_TRUETYPE_IDS_H",
+						"s": "",
+						"u": "FT_TRUETYPE_IDS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34800746d8963e8cd492947c1cb798619f402d74"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_TRUETYPE_TABLES_H",
+						"t": "",
+						"i": "FT_TRUETYPE_TABLES_H",
+						"r": "FT_TRUETYPE_TABLES_H",
+						"s": "",
+						"u": "FT_TRUETYPE_TABLES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fc610693f087af58bbe8e4afc5f68b3576906844"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_TRUETYPE_TAGS_H",
+						"t": "",
+						"i": "FT_TRUETYPE_TAGS_H",
+						"r": "FT_TRUETYPE_TAGS_H",
+						"s": "",
+						"u": "FT_TRUETYPE_TAGS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de4c9f7d60b031004da36852f62c635a1dfbde2e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_BDF_H",
+						"t": "",
+						"i": "FT_BDF_H",
+						"r": "FT_BDF_H",
+						"s": "",
+						"u": "FT_BDF_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c1b044dd62282fdd34dd83cde70e6bb7314ab378"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CID_H",
+						"t": "",
+						"i": "FT_CID_H",
+						"r": "FT_CID_H",
+						"s": "",
+						"u": "FT_CID_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d3e2e3950905a6d5009be20321fc2aba5e3f0a6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_GZIP_H",
+						"t": "",
+						"i": "FT_GZIP_H",
+						"r": "FT_GZIP_H",
+						"s": "",
+						"u": "FT_GZIP_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e89db0e122c4d01a3eab08896cb661ccdc1a46f2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "FT_LZW_H",
+						"t": "",
+						"i": "FT_LZW_H",
+						"r": "FT_LZW_H",
+						"s": "",
+						"u": "FT_LZW_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0abcb0253dd71fef3b9a9d7fb020a4f02aba049f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_BZIP2_H",
+						"t": "",
+						"i": "FT_BZIP2_H",
+						"r": "FT_BZIP2_H",
+						"s": "",
+						"u": "FT_BZIP2_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4644a0b45871c3a6abc2c7ac601a86d113988b71"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_WINFONTS_H",
+						"t": "",
+						"i": "FT_WINFONTS_H",
+						"r": "FT_WINFONTS_H",
+						"s": "",
+						"u": "FT_WINFONTS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2e6fbe16af9b25ecc169af569c44223dcb8b10a3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_GLYPH_H",
+						"t": "",
+						"i": "FT_GLYPH_H",
+						"r": "FT_GLYPH_H",
+						"s": "",
+						"u": "FT_GLYPH_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f286a5ae5dc57cb55c0461feee4237934995f2b4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_BITMAP_H",
+						"t": "",
+						"i": "FT_BITMAP_H",
+						"r": "FT_BITMAP_H",
+						"s": "",
+						"u": "FT_BITMAP_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2da22762bdab526878321da250f12e1edd0b047f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_BBOX_H",
+						"t": "",
+						"i": "FT_BBOX_H",
+						"r": "FT_BBOX_H",
+						"s": "",
+						"u": "FT_BBOX_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "338d701667f929291e76cbf031cd1f7a98ac1e91"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_H",
+						"t": "",
+						"i": "FT_CACHE_H",
+						"r": "FT_CACHE_H",
+						"s": "",
+						"u": "FT_CACHE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "65bd4231ba7fb74180da9a52eb2f3d5fd7e27377"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_MAC_H",
+						"t": "",
+						"i": "FT_MAC_H",
+						"r": "FT_MAC_H",
+						"s": "",
+						"u": "FT_MAC_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f040f175ef672940bdc7d6b79755899488bbce7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_MULTIPLE_MASTERS_H",
+						"t": "",
+						"i": "FT_MULTIPLE_MASTERS_H",
+						"r": "FT_MULTIPLE_MASTERS_H",
+						"s": "",
+						"u": "FT_MULTIPLE_MASTERS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29e049774fd7b58722e3a6f71fde4f9e1aa1fd01"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_SFNT_NAMES_H",
+						"t": "",
+						"i": "FT_SFNT_NAMES_H",
+						"r": "FT_SFNT_NAMES_H",
+						"s": "",
+						"u": "FT_SFNT_NAMES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0bd97f51635bffeca43c9bb4fbc17106b64288c2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_OPENTYPE_VALIDATE_H",
+						"t": "",
+						"i": "FT_OPENTYPE_VALIDATE_H",
+						"r": "FT_OPENTYPE_VALIDATE_H",
+						"s": "",
+						"u": "FT_OPENTYPE_VALIDATE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bcec8a91a9b6cc74ae284a2ad7b028906414c794"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_GX_VALIDATE_H",
+						"t": "",
+						"i": "FT_GX_VALIDATE_H",
+						"r": "FT_GX_VALIDATE_H",
+						"s": "",
+						"u": "FT_GX_VALIDATE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6859ee5ba001c76a321bc3b7b11d0a20e5bb8175"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_PFR_H",
+						"t": "",
+						"i": "FT_PFR_H",
+						"r": "FT_PFR_H",
+						"s": "",
+						"u": "FT_PFR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "05d5e544c3bfaaa5859f7979b8b34b96b8bca5dd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_STROKER_H",
+						"t": "",
+						"i": "FT_STROKER_H",
+						"r": "FT_STROKER_H",
+						"s": "",
+						"u": "FT_STROKER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c15912c0915226b5dc47a888ad16fc0ad50faf52"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_SYNTHESIS_H",
+						"t": "",
+						"i": "FT_SYNTHESIS_H",
+						"r": "FT_SYNTHESIS_H",
+						"s": "",
+						"u": "FT_SYNTHESIS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e21dbbe6f5e2d83a8d9c3d104a38953e3590cca"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_FONT_FORMATS_H",
+						"t": "",
+						"i": "FT_FONT_FORMATS_H",
+						"r": "FT_FONT_FORMATS_H",
+						"s": "",
+						"u": "FT_FONT_FORMATS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "862b90d03aebacde67eefabb16cf31ae4b61c90a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_XFREE86_H",
+						"t": "",
+						"i": "FT_XFREE86_H",
+						"r": "FT_XFREE86_H",
+						"s": "",
+						"u": "FT_XFREE86_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3205b37b2b3a3a30ef229e18d25d99a0395d9ab3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_TRIGONOMETRY_H",
+						"t": "",
+						"i": "FT_TRIGONOMETRY_H",
+						"r": "FT_TRIGONOMETRY_H",
+						"s": "",
+						"u": "FT_TRIGONOMETRY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49722093245ffc18934e1c734a76681e004803a1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_LCD_FILTER_H",
+						"t": "",
+						"i": "FT_LCD_FILTER_H",
+						"r": "FT_LCD_FILTER_H",
+						"s": "",
+						"u": "FT_LCD_FILTER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1138a8bc938dd5d6766adff29a739668ecf8e4a7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_INCREMENTAL_H",
+						"t": "",
+						"i": "FT_INCREMENTAL_H",
+						"r": "FT_INCREMENTAL_H",
+						"s": "",
+						"u": "FT_INCREMENTAL_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "86a8a579e7639c59211e634568e916f9de8a689b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_GASP_H",
+						"t": "",
+						"i": "FT_GASP_H",
+						"r": "FT_GASP_H",
+						"s": "",
+						"u": "FT_GASP_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d860fa11b44a7a2626df537d493ab509fc4cb3fa"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_ADVANCES_H",
+						"t": "",
+						"i": "FT_ADVANCES_H",
+						"r": "FT_ADVANCES_H",
+						"s": "",
+						"u": "FT_ADVANCES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a095a556ae09779f3fcf0325faecc565f6b7835a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_COLOR_H",
+						"t": "",
+						"i": "FT_COLOR_H",
+						"r": "FT_COLOR_H",
+						"s": "",
+						"u": "FT_COLOR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f12d366816dcc9a0662e0d5e04540d44421451af"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_OTSVG_H",
+						"t": "",
+						"i": "FT_OTSVG_H",
+						"r": "FT_OTSVG_H",
+						"s": "",
+						"u": "FT_OTSVG_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71208bfc7ede8478fd9d6d2237762aa7eba5d1af"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_ERROR_DEFINITIONS_H",
+						"t": "",
+						"i": "FT_ERROR_DEFINITIONS_H",
+						"r": "FT_ERROR_DEFINITIONS_H",
+						"s": "",
+						"u": "FT_ERROR_DEFINITIONS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "021cf2ca69101e565a8e7c62d83f4defeb04dda6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_PARAMETER_TAGS_H",
+						"t": "",
+						"i": "FT_PARAMETER_TAGS_H",
+						"r": "FT_PARAMETER_TAGS_H",
+						"s": "",
+						"u": "FT_PARAMETER_TAGS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5ad89527f831e354ac116dc806c0ddaaba00213f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_UNPATENTED_HINTING_H",
+						"t": "",
+						"i": "FT_UNPATENTED_HINTING_H",
+						"r": "FT_UNPATENTED_HINTING_H",
+						"s": "",
+						"u": "FT_UNPATENTED_HINTING_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "efd3ad12e8be65e585674950f8401ed82184ca15"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_TRUETYPE_UNPATENTED_H",
+						"t": "",
+						"i": "FT_TRUETYPE_UNPATENTED_H",
+						"r": "FT_TRUETYPE_UNPATENTED_H",
+						"s": "",
+						"u": "FT_TRUETYPE_UNPATENTED_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eff07c4fb179335bd74f48232ad8dacb9f0ca820"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_IMAGE_H",
+						"t": "",
+						"i": "FT_CACHE_IMAGE_H",
+						"r": "FT_CACHE_IMAGE_H",
+						"s": "",
+						"u": "FT_CACHE_IMAGE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa83c4fddf7521448f4e64e8d83008decc3e998f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_SMALL_BITMAPS_H",
+						"t": "",
+						"i": "FT_CACHE_SMALL_BITMAPS_H",
+						"r": "FT_CACHE_SMALL_BITMAPS_H",
+						"s": "",
+						"u": "FT_CACHE_SMALL_BITMAPS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f3e9adc67f2264c06236f74eadee2670a3a6bba"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_CHARMAP_H",
+						"t": "",
+						"i": "FT_CACHE_CHARMAP_H",
+						"r": "FT_CACHE_CHARMAP_H",
+						"s": "",
+						"u": "FT_CACHE_CHARMAP_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "456e46569c5ca61d95952a981dff0cab853d2cfd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_MANAGER_H",
+						"t": "",
+						"i": "FT_CACHE_MANAGER_H",
+						"r": "FT_CACHE_MANAGER_H",
+						"s": "",
+						"u": "FT_CACHE_MANAGER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3026fe220c6bce58dd62ea64021906d1eb62882e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "FT_CACHE_INTERNAL_MRU_H",
+						"t": "",
+						"i": "FT_CACHE_INTERNAL_MRU_H",
+						"r": "FT_CACHE_INTERNAL_MRU_H",
+						"s": "",
+						"u": "FT_CACHE_INTERNAL_MRU_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a33a2ecbc275103fe80fa036a34c2eebcb4a0729"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_INTERNAL_MANAGER_H",
+						"t": "",
+						"i": "FT_CACHE_INTERNAL_MANAGER_H",
+						"r": "FT_CACHE_INTERNAL_MANAGER_H",
+						"s": "",
+						"u": "FT_CACHE_INTERNAL_MANAGER_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3ab0db4c64992887e815a3f8e37b496f16df4fd"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_INTERNAL_CACHE_H",
+						"t": "",
+						"i": "FT_CACHE_INTERNAL_CACHE_H",
+						"r": "FT_CACHE_INTERNAL_CACHE_H",
+						"s": "",
+						"u": "FT_CACHE_INTERNAL_CACHE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4cc06446d77d305063ec26c2204715b5fc70cac6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_INTERNAL_GLYPH_H",
+						"t": "",
+						"i": "FT_CACHE_INTERNAL_GLYPH_H",
+						"r": "FT_CACHE_INTERNAL_GLYPH_H",
+						"s": "",
+						"u": "FT_CACHE_INTERNAL_GLYPH_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "84292bf4de1553f0f112c419d6ed6b30712cdc18"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_INTERNAL_IMAGE_H",
+						"t": "",
+						"i": "FT_CACHE_INTERNAL_IMAGE_H",
+						"r": "FT_CACHE_INTERNAL_IMAGE_H",
+						"s": "",
+						"u": "FT_CACHE_INTERNAL_IMAGE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41628695e9eadc46fd3bb73170ff62598f25c301"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FT_CACHE_INTERNAL_SBITS_H",
+						"t": "",
+						"i": "FT_CACHE_INTERNAL_SBITS_H",
+						"r": "FT_CACHE_INTERNAL_SBITS_H",
+						"s": "",
+						"u": "FT_CACHE_INTERNAL_SBITS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f24712d582b042078dfce2a44b681a65b664d3c"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

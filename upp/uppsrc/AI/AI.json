@@ -1,5 +1,5 @@
 {
-	"saved_hash": "a966584c024832be89786e8014384042788507f9",
+	"saved_hash": "cbeef388920093e0e93640e3be1575742553ad5d",
 	"files": [
 		{
 			"key": "AI.h",
@@ -841,6 +841,12 @@
 
 								],
 								"h": "011dc44349faee02cea7aa757f0389aab54a9d04"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d3a23d7f7d63f30a579feb42b61db181c185aa85"
 							}
 						]
 					},
@@ -2921,6 +2927,110 @@
 
 								],
 								"h": "823a1d63bf520089be1ca725f74fb63711292ce9"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "source_ranges",
+						"t": "Array<SourceRange>",
+						"i": "Upp::AiAnnotationItem::source_ranges",
+						"r": "Array<SourceRange> source_ranges",
+						"s": "Upp",
+						"u": "SOURCE_RANGES",
+						"q": "Upp::AiAnnotationItem",
+						"w": "UPP::AIANNOTATIONITEM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "104523e0f1dc1f66786740e40534acf9928e263a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FindAnySourceRange",
+						"t": "SourceRange *()",
+						"i": "Upp::AiAnnotationItem::FindAnySourceRange()",
+						"r": "Upp::AiAnnotationItem::SourceRange *FindAnySourceRange()",
+						"s": "Upp",
+						"u": "FINDANYSOURCERANGE",
+						"q": "Upp::AiAnnotationItem",
+						"w": "UPP::AIANNOTATIONITEM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d535adcbe17db22e3a047b24a80b335b8349915d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "UpdateAiFileInfo",
+						"t": "bool (AiFileInfo &, const String &)",
+						"i": "Upp::UpdateAiFileInfo(AiFileInfo&,const String&)",
+						"r": "bool UpdateAiFileInfo(Upp::AiFileInfo& f, const Upp::String& path)",
+						"s": "Upp",
+						"u": "UPDATEAIFILEINFO",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b57d1158ed3606ec47f7bf6c243bdd3501d52284"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "RangeContains",
+						"t": "bool (Point, Point, Point)",
+						"i": "Upp::RangeContains(Point,Point,Point)",
+						"r": "bool RangeContains(Upp::Point pos, Upp::Point begin, Upp::Point end)",
+						"s": "Upp",
+						"u": "RANGECONTAINS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29b7e6aa6f369c3de6e9e4a692a0faee34f629e5"
 							}
 						]
 					}
@@ -6414,6 +6524,12 @@
 
 								],
 								"h": "10ddf4753d17e23adee84e332f1da7a717964f0b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c2872439fa3a1afd8f57a7c8d2e41db976ce2bb8"
 							}
 						]
 					},
@@ -14992,6 +15108,12 @@
 
 								],
 								"h": "4eeb26a01b4e4deaedf6f9c041ddc27d3208eeb9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ca29a8cc1e1877e55a70636879e172bf9d34b04d"
 							}
 						]
 					},
@@ -15018,6 +15140,12 @@
 
 								],
 								"h": "b3a7e9a8c7fd169253e9b0d2e1d22a19b38cdd12"
+							},
+							{
+								"items": [
+
+								],
+								"h": "cadfbd0abe95d2c1736c0c2cbe1414566e08b393"
 							}
 						]
 					},
@@ -15252,6 +15380,12 @@
 
 								],
 								"h": "3303343b1a3485487f9fe567eb09106880662fb8"
+							},
+							{
+								"items": [
+
+								],
+								"h": "a868aa9928fc611451b9aae18ac8713e1eb1b889"
 							}
 						]
 					},
@@ -15330,6 +15464,12 @@
 
 								],
 								"h": "4391161f199fc52d6ead7dc39f7c6d7ef744ea2a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "baede25f05297d7b9f0f93379b2179baa6573e13"
 							}
 						]
 					},
@@ -16339,6 +16479,12 @@
 
 								],
 								"h": "63fe0c3a904d33de1d37cbd6f4cec08eca5b00fd"
+							},
+							{
+								"items": [
+
+								],
+								"h": "b6699af4412b9abdd1180dc8dfe274a1f09dc7e3"
 							}
 						]
 					},
@@ -19144,6 +19290,12 @@
 
 								],
 								"h": "2f2da1edf7268f6ea9f89964bd4bc9a75d944ad9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "baa122c608a1cb14825b45b0d2b83669cab4d9b4"
 							}
 						]
 					},
@@ -19170,6 +19322,12 @@
 
 								],
 								"h": "8f055427b45fe1c27ce7f8d977daa6e82d7fa23d"
+							},
+							{
+								"items": [
+
+								],
+								"h": "1e9821b1fac8bd36da5381a4cad9a7914cff5e0e"
 							}
 						]
 					},
@@ -19326,6 +19484,12 @@
 
 								],
 								"h": "484bd4ed1083981d20b3a5741d2ff356486ad60b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "8152b43741451df9d1928c348dc769255be75e63"
 							}
 						]
 					},
@@ -19352,6 +19516,12 @@
 
 								],
 								"h": "818efa2a2ea12b1876e46c6e8b5959cb5e513e7e"
+							},
+							{
+								"items": [
+
+								],
+								"h": "28e6add6234767db23f4b13144b168bdfd914a43"
 							}
 						]
 					},
@@ -19378,6 +19548,12 @@
 
 								],
 								"h": "0965c6c2dbbf5ad79fc942dc703d76fc3c48f64a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e08c2e6ea4a4dc1212b6f2428004a9b8d2bd6200"
 							}
 						]
 					},
@@ -19404,6 +19580,12 @@
 
 								],
 								"h": "c9d50ef5a9bd1e15cfe4095e0a0d0b24a5a997ae"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ac81040dca61d274f7f9d0b7e2c3e307b70c6f58"
 							}
 						]
 					},
@@ -19456,6 +19638,12 @@
 
 								],
 								"h": "b8e22ba4634c90b8c56733238c38a315857fc8f6"
+							},
+							{
+								"items": [
+
+								],
+								"h": "4a306b5688cc9bcf654de85b5141fb3b01d65cdd"
 							}
 						]
 					},
@@ -19820,6 +20008,12 @@
 
 								],
 								"h": "33b2af2a22383f39dd5b1cbdc2800aa04f5df2c5"
+							},
+							{
+								"items": [
+
+								],
+								"h": "542db3ebddbf8154d2c89dafae91654aba85e4b7"
 							}
 						]
 					},
@@ -19897,38 +20091,4 @@
 								"items": [
 
 								],
-								"h": "a1628ed488d040ccd7e50b6fff8f574aef688e95"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "GetStringRange",
-						"t": "String (String, Point, Point)",
-						"i": "Upp::GetStringRange(String,Point,Point)",
-						"r": "Upp::String GetStringRange(Upp::String content, Upp::Point begin, Upp::Point end)",
-						"s": "Upp",
-						"u": "GETSTRINGRANGE",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b279cf1d01cfbc156dc073336dd657edae2c6f30"
-							}
-						]
-					}
-				]
-			}
-		}
-	]
-}
+								"h"
