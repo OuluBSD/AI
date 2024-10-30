@@ -1,0 +1,2924 @@
+{
+	"saved_hash": "2a62d3ce5c7dc033bf79d10adb53379dfb52338b",
+	"files": [
+		{
+			"key": "c++/v1/__support/win32/locale_win32.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___SUPPORT_WIN32_LOCALE_WIN32_H",
+						"t": "",
+						"i": "_LIBCPP___SUPPORT_WIN32_LOCALE_WIN32_H",
+						"r": "_LIBCPP___SUPPORT_WIN32_LOCALE_WIN32_H",
+						"s": "",
+						"u": "_LIBCPP___SUPPORT_WIN32_LOCALE_WIN32_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d2afa5333d6d7abf9f48a0550c00678a4e1d6a2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_X_ALL",
+						"t": "",
+						"i": "_X_ALL",
+						"r": "_X_ALL",
+						"s": "",
+						"u": "_X_ALL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02ad5111145e51f11af23d9242d1b6e81b6afe7c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_X_COLLATE",
+						"t": "",
+						"i": "_X_COLLATE",
+						"r": "_X_COLLATE",
+						"s": "",
+						"u": "_X_COLLATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f090947a8083666e8e8933a0911bbd42abcb6b7"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_X_CTYPE",
+						"t": "",
+						"i": "_X_CTYPE",
+						"r": "_X_CTYPE",
+						"s": "",
+						"u": "_X_CTYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f5d2a4d959d7ec455266c76140693ede5288b0cc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_X_MONETARY",
+						"t": "",
+						"i": "_X_MONETARY",
+						"r": "_X_MONETARY",
+						"s": "",
+						"u": "_X_MONETARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e5b560269c177a104c25a89e45c351d0c6902872"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_X_NUMERIC",
+						"t": "",
+						"i": "_X_NUMERIC",
+						"r": "_X_NUMERIC",
+						"s": "",
+						"u": "_X_NUMERIC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe34b01e09d05b616b24790630f87edb906769bf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_X_TIME",
+						"t": "",
+						"i": "_X_TIME",
+						"r": "_X_TIME",
+						"s": "",
+						"u": "_X_TIME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "33bb6cfa69a72f5be1cdda3659f33eb31fa4e611"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_X_MAX",
+						"t": "",
+						"i": "_X_MAX",
+						"r": "_X_MAX",
+						"s": "",
+						"u": "_X_MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1113b5d7404b35c91b4317764624ecbfbde09fc4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_X_MESSAGES",
+						"t": "",
+						"i": "_X_MESSAGES",
+						"r": "_X_MESSAGES",
+						"s": "",
+						"u": "_X_MESSAGES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "599672a8a70f76cc9cb272db4f9f24e9f0b0fffa"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_NCAT",
+						"t": "",
+						"i": "_NCAT",
+						"r": "_NCAT",
+						"s": "",
+						"u": "_NCAT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "740052b590192972d0bb57be571c974b525ab590"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_CATMASK",
+						"t": "",
+						"i": "_CATMASK",
+						"r": "_CATMASK",
+						"s": "",
+						"u": "_CATMASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5721f5a5200074c85e72580564b6aa872d00debe"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_M_COLLATE",
+						"t": "",
+						"i": "_M_COLLATE",
+						"r": "_M_COLLATE",
+						"s": "",
+						"u": "_M_COLLATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "656e62d9df38233eeb49d24545198c63a393a821"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_M_CTYPE",
+						"t": "",
+						"i": "_M_CTYPE",
+						"r": "_M_CTYPE",
+						"s": "",
+						"u": "_M_CTYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a2d37614fdc767e44440b316f0bb514093918323"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_M_MONETARY",
+						"t": "",
+						"i": "_M_MONETARY",
+						"r": "_M_MONETARY",
+						"s": "",
+						"u": "_M_MONETARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3699f5da58238bb089dad50e66041283b384b586"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_M_NUMERIC",
+						"t": "",
+						"i": "_M_NUMERIC",
+						"r": "_M_NUMERIC",
+						"s": "",
+						"u": "_M_NUMERIC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eeb5f723bf6a68c5ca508436156faadf04927ff3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "_M_TIME",
+						"t": "",
+						"i": "_M_TIME",
+						"r": "_M_TIME",
+						"s": "",
+						"u": "_M_TIME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d16173f3b4ea85c3d0ab904bb81fab809fd6f2d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_M_MESSAGES",
+						"t": "",
+						"i": "_M_MESSAGES",
+						"r": "_M_MESSAGES",
+						"s": "",
+						"u": "_M_MESSAGES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d827987efc1317e6eeefe0734c79366251b386ec"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_M_ALL",
+						"t": "",
+						"i": "_M_ALL",
+						"r": "_M_ALL",
+						"s": "",
+						"u": "_M_ALL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "628e48c32af3f8a3229ace38596ea6c62b582a94"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LC_COLLATE_MASK",
+						"t": "",
+						"i": "LC_COLLATE_MASK",
+						"r": "LC_COLLATE_MASK",
+						"s": "",
+						"u": "LC_COLLATE_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "acdfcd94ee6939506181c55d2a977134be3d2e5b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LC_CTYPE_MASK",
+						"t": "",
+						"i": "LC_CTYPE_MASK",
+						"r": "LC_CTYPE_MASK",
+						"s": "",
+						"u": "LC_CTYPE_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8f3b0ac554eb1e34129ad4fda4751da458df011"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LC_MONETARY_MASK",
+						"t": "",
+						"i": "LC_MONETARY_MASK",
+						"r": "LC_MONETARY_MASK",
+						"s": "",
+						"u": "LC_MONETARY_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e52b5dcdf1e91fe557dc1a458f4012dad5907ce3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LC_NUMERIC_MASK",
+						"t": "",
+						"i": "LC_NUMERIC_MASK",
+						"r": "LC_NUMERIC_MASK",
+						"s": "",
+						"u": "LC_NUMERIC_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e0ef9a9bbd2bb3269403519122371ba8969469ce"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "LC_TIME_MASK",
+						"t": "",
+						"i": "LC_TIME_MASK",
+						"r": "LC_TIME_MASK",
+						"s": "",
+						"u": "LC_TIME_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b85d6224a357c7194529b06a3594ca5294de01a9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LC_MESSAGES_MASK",
+						"t": "",
+						"i": "LC_MESSAGES_MASK",
+						"r": "LC_MESSAGES_MASK",
+						"s": "",
+						"u": "LC_MESSAGES_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96b682e1eb990141d99766504c50918a22dd2d40"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "LC_ALL_MASK",
+						"t": "",
+						"i": "LC_ALL_MASK",
+						"r": "LC_ALL_MASK",
+						"s": "",
+						"u": "LC_ALL_MASK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9807b6d02b803657f891b03a2646b7fadc93906"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__lconv_storage",
+						"t": "__lconv_storage",
+						"i": "__lconv_storage",
+						"r": "__lconv_storage",
+						"s": "",
+						"u": "__LCONV_STORAGE",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "80d14f12b2458998c2e8d6b0fb83eef9c36e5a0d"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__lconv_storage",
+						"t": "void (const lconv *)",
+						"i": "__lconv_storage::__lconv_storage(const lconv*)",
+						"r": "__lconv_storage(const lconv *__lc_input)",
+						"s": "",
+						"u": "__LCONV_STORAGE",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9799dd4e83eeed7aed6383144908023dfc1d47e5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__get",
+						"t": "lconv *()",
+						"i": "__lconv_storage::__get()",
+						"r": "lconv *__get()",
+						"s": "",
+						"u": "__GET",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d89c3ddaacf578851827bad292793c424c6dc2be"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__lc_",
+						"t": "lconv",
+						"i": "__lconv_storage::__lc_",
+						"r": "lconv __lc_",
+						"s": "",
+						"u": "__LC_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e1c204bfc0dde8eb6c40a66378088b4a14af5ff2"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__decimal_point_",
+						"t": "std::string",
+						"i": "__lconv_storage::__decimal_point_",
+						"r": "std::string __decimal_point_",
+						"s": "",
+						"u": "__DECIMAL_POINT_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f2f14c00b8fdd98b9c2e692abc9933a46131cfa4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__thousands_sep_",
+						"t": "std::string",
+						"i": "__lconv_storage::__thousands_sep_",
+						"r": "std::string __thousands_sep_",
+						"s": "",
+						"u": "__THOUSANDS_SEP_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f985bc35afbc2b37c82d5aaa6aca6e091dc707d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__grouping_",
+						"t": "std::string",
+						"i": "__lconv_storage::__grouping_",
+						"r": "std::string __grouping_",
+						"s": "",
+						"u": "__GROUPING_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27fa1a5718d4804a6c992e6779db2960cf3f1c7f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__int_curr_symbol_",
+						"t": "std::string",
+						"i": "__lconv_storage::__int_curr_symbol_",
+						"r": "std::string __int_curr_symbol_",
+						"s": "",
+						"u": "__INT_CURR_SYMBOL_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f6d8e7af362713b087b50259b70db7580ef6afbc"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__currency_symbol_",
+						"t": "std::string",
+						"i": "__lconv_storage::__currency_symbol_",
+						"r": "std::string __currency_symbol_",
+						"s": "",
+						"u": "__CURRENCY_SYMBOL_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d5d8a45dde64b162b4ece95f17b643063dbb53b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__mon_decimal_point_",
+						"t": "std::string",
+						"i": "__lconv_storage::__mon_decimal_point_",
+						"r": "std::string __mon_decimal_point_",
+						"s": "",
+						"u": "__MON_DECIMAL_POINT_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d4b184dfa40556074e9d6f54e8a1b7d094318c4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__mon_thousands_sep_",
+						"t": "std::string",
+						"i": "__lconv_storage::__mon_thousands_sep_",
+						"r": "std::string __mon_thousands_sep_",
+						"s": "",
+						"u": "__MON_THOUSANDS_SEP_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "816411819ff4a5d052754e6da557392525eaa4bf"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__mon_grouping_",
+						"t": "std::string",
+						"i": "__lconv_storage::__mon_grouping_",
+						"r": "std::string __mon_grouping_",
+						"s": "",
+						"u": "__MON_GROUPING_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "25ead5848385a4b005da2dc793681670d0b199ef"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__positive_sign_",
+						"t": "std::string",
+						"i": "__lconv_storage::__positive_sign_",
+						"r": "std::string __positive_sign_",
+						"s": "",
+						"u": "__POSITIVE_SIGN_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c8948a18cc8b61db60da9ec4f45a075874037e2"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__negative_sign_",
+						"t": "std::string",
+						"i": "__lconv_storage::__negative_sign_",
+						"r": "std::string __negative_sign_",
+						"s": "",
+						"u": "__NEGATIVE_SIGN_",
+						"q": "__lconv_storage",
+						"w": "__LCONV_STORAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7a5c8d154542c29a9a7360dd0f5a0b408b66472"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "locale_t",
+						"t": "locale_t",
+						"i": "locale_t",
+						"r": "locale_t",
+						"s": "",
+						"u": "LOCALE_T",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7b8a4f05ea742da788ff6cab3f8087585e1411b"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "locale_t",
+						"t": "void ()",
+						"i": "locale_t::locale_t()",
+						"r": "locale_t()",
+						"s": "",
+						"u": "LOCALE_T",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cddfde5d1322c20e78e1b1f0fcf16b0bc7863365"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "locale_t",
+						"t": "void (std::nullptr_t)",
+						"i": "locale_t::locale_t(std::nullptr_t)",
+						"r": "locale_t(std::nullptr_t)",
+						"s": "",
+						"u": "LOCALE_T",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed5eb95959911f93a888059c0add5748279ea53d"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "locale_t",
+						"t": "void (_locale_t, const char *)",
+						"i": "locale_t::locale_t(_locale_t,const char*)",
+						"r": "locale_t(_locale_t __xlocale, const char *__xlocale_str)",
+						"s": "",
+						"u": "LOCALE_T",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2a2ef047987cb9fb1cd851dc598638b4a81e131"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "locale_t",
+						"t": "void (const locale_t &)",
+						"i": "locale_t::locale_t(const locale_t&)",
+						"r": "locale_t(const locale_t& __l)",
+						"s": "",
+						"u": "LOCALE_T",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c94bf150f588bae80fb8132a368f92924445c55b"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~locale_t",
+						"t": "void () noexcept",
+						"i": "locale_t::~()",
+						"r": "~locale_t()",
+						"s": "",
+						"u": "~LOCALE_T",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f0142395ca039d7eb264188ef70fa78161dd926"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "locale_t &(const locale_t &)",
+						"i": "locale_t::operator=(const locale_t&)",
+						"r": "locale_t& operator",
+						"s": "",
+						"u": "OPERATOR=",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5de6ebb251177340f1101d18e143eed80b762508"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const locale_t &, const locale_t &)",
+						"i": "operator==(const locale_t&,const locale_t&)",
+						"r": "bool operator",
+						"s": "",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e07c64a392775dc0b341d00ab1d519a38909f984"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const locale_t &, int)",
+						"i": "operator==(const locale_t&,int)",
+						"r": "bool operator",
+						"s": "",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "75b9bd9177e1f7999997e6623ad847d67170d8c5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const locale_t &, long long)",
+						"i": "operator==(const locale_t&,long long)",
+						"r": "bool operator",
+						"s": "",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a73d2ebc9fe1eb91fa297c54db3bfbf85949f036"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const locale_t &, std::nullptr_t)",
+						"i": "operator==(const locale_t&,std::nullptr_t)",
+						"r": "bool operator",
+						"s": "",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60891b8ebc0913c20c4e50d68b8ee2b0f56c7d93"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (int, const locale_t &)",
+						"i": "operator==(int,const locale_t&)",
+						"r": "bool operator",
+						"s": "",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47155ab48037fd916d441d6f55b7c1bbbb33ca97"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (std::nullptr_t, const locale_t &)",
+						"i": "operator==(std::nullptr_t,const locale_t&)",
+						"r": "bool operator",
+						"s": "",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93be1a462792bc196e4edb70e973cafdcfffd40b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const locale_t &, const locale_t &)",
+						"i": "operator!=(const locale_t&,const locale_t&)",
+						"r": "bool operator!",
+						"s": "",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb9a4a7eb6a88a1f92385f457f3f2ec24c2d0650"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const locale_t &, int)",
+						"i": "operator!=(const locale_t&,int)",
+						"r": "bool operator!",
+						"s": "",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b719ee191e59a8729f739d0ff81b775b3edadbd4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const locale_t &, long long)",
+						"i": "operator!=(const locale_t&,long long)",
+						"r": "bool operator!",
+						"s": "",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc02f9d82da27228a3a48fef7f3e87871152f597"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const locale_t &, std::nullptr_t)",
+						"i": "operator!=(const locale_t&,std::nullptr_t)",
+						"r": "bool operator!",
+						"s": "",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f3a2e92ad7358a430397a46de727afdd5c767dc5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (int, const locale_t &)",
+						"i": "operator!=(int,const locale_t&)",
+						"r": "bool operator!",
+						"s": "",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bec973e5d31a259b2dcfcfff8a87d6ad9a8e437b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (std::nullptr_t, const locale_t &)",
+						"i": "operator!=(std::nullptr_t,const locale_t&)",
+						"r": "bool operator!",
+						"s": "",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46c886f794c96abf24e2306abaafb5ca27608fbd"
+							}
+						]
+					},
+					{
+						"k": 26,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator bool",
+						"t": "bool () const",
+						"i": "locale_t::operator bool()const",
+						"r": "operator bool() const",
+						"s": "",
+						"u": "OPERATOR BOOL",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "260db8c0dc775b3c6124ccab76b04d8ab82afced"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__get_locale",
+						"t": "const char *() const",
+						"i": "locale_t::__get_locale()const",
+						"r": "const char *__get_locale() const",
+						"s": "",
+						"u": "__GET_LOCALE",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "57c4e1064863c6548d368e71b8d8bf21290dcfca"
+							}
+						]
+					},
+					{
+						"k": 26,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator localeinfo_struct *",
+						"t": "_locale_t () const",
+						"i": "locale_t::operator _locale_t()const",
+						"r": "operator _locale_t() const",
+						"s": "",
+						"u": "OPERATOR LOCALEINFO_STRUCT *",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb76bbb25cd78e61118677c05a33b60119053e9d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__store_lconv",
+						"t": "lconv *(const lconv *)",
+						"i": "locale_t::__store_lconv(const lconv*)",
+						"r": "lconv *__store_lconv(const lconv *__input_lc)",
+						"s": "",
+						"u": "__STORE_LCONV",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fe6e45e545e39941030a920a9c1849087b1336d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__locale_",
+						"t": "_locale_t",
+						"i": "locale_t::__locale_",
+						"r": "_locale_t __locale_",
+						"s": "",
+						"u": "__LOCALE_",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9df9b14302a40cff365fa73a2340fece851c478"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__locale_str_",
+						"t": "const char *",
+						"i": "locale_t::__locale_str_",
+						"r": "const char *__locale_str_",
+						"s": "",
+						"u": "__LOCALE_STR_",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1de00b87ccdae67d73fd46b258c6930071ca7cf7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__lc_",
+						"t": "__lconv_storage *",
+						"i": "locale_t::__lc_",
+						"r": "__lconv_storage *__lc_",
+						"s": "",
+						"u": "__LC_",
+						"q": "locale_t",
+						"w": "LOCALE_T",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d7c440104196fe55fed98b4bd7569e5d170593a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "freelocale",
+						"t": "",
+						"i": "freelocale",
+						"r": "freelocale",
+						"s": "",
+						"u": "FREELOCALE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e6ccd771007307d4265d9441517ba61c055d008"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "newlocale",
+						"t": "locale_t (int, const char *, locale_t)",
+						"i": "newlocale(int,const char*,locale_t)",
+						"r": "locale_t newlocale(int __mask, const char *__locale, locale_t __base)",
+						"s": "",
+						"u": "NEWLOCALE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b86a3155b9c0f25677203342efd4879102cdb120"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "localeconv_l",
+						"t": "lconv *(locale_t &)",
+						"i": "localeconv_l(locale_t&)",
+						"r": "lconv *localeconv_l(locale_t& __loc)",
+						"s": "",
+						"u": "LOCALECONV_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "26ae6b25224d4e0d9b6ca948a6eda5d40df6c1dd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "mbrlen_l",
+						"t": "size_t (const char *__restrict, size_t, mbstate_t *__restrict, locale_t)",
+						"i": "mbrlen_l(const char*__restrict,size_t,mbstate_t*__restrict,locale_t)",
+						"r": "size_t mbrlen_l(const char *__restrict __s, size_t __n, mbstate_t *__restrict __ps, locale_t __loc)",
+						"s": "",
+						"u": "MBRLEN_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8419b2d3a2c165b9747759e7551866519c2af883"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "mbsrtowcs_l",
+						"t": "size_t (wchar_t *__restrict, const char **__restrict, size_t, mbstate_t *__restrict, locale_t)",
+						"i": "mbsrtowcs_l(wchar_t*__restrict,const char**__restrict,size_t,mbstate_t*__restrict,locale_t)",
+						"r": "size_t mbsrtowcs_l(wchar_t *__restrict __dst, const char **__restrict __src, size_t __len, mbstate_t *__restrict __ps, locale_t __loc)",
+						"s": "",
+						"u": "MBSRTOWCS_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "38007c745d71143af66cdbaa99e7845252a7fe4a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wcrtomb_l",
+						"t": "size_t (char *__restrict, wchar_t, mbstate_t *__restrict, locale_t)",
+						"i": "wcrtomb_l(char*__restrict,wchar_t,mbstate_t*__restrict,locale_t)",
+						"r": "size_t wcrtomb_l(char *__restrict __s, wchar_t __wc, mbstate_t *__restrict __ps, locale_t __loc)",
+						"s": "",
+						"u": "WCRTOMB_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed949f97fb60e14efca5c88a44216281c5327679"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "mbrtowc_l",
+						"t": "size_t (wchar_t *__restrict, const char *__restrict, size_t, mbstate_t *__restrict, locale_t)",
+						"i": "mbrtowc_l(wchar_t*__restrict,const char*__restrict,size_t,mbstate_t*__restrict,locale_t)",
+						"r": "size_t mbrtowc_l(wchar_t *__restrict __pwc, const char *__restrict __s, size_t __n, mbstate_t *__restrict __ps, locale_t __loc)",
+						"s": "",
+						"u": "MBRTOWC_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ff885270858f2d318abee6043e1835ebc93d187"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "mbsnrtowcs_l",
+						"t": "size_t (wchar_t *__restrict, const char **__restrict, size_t, size_t, mbstate_t *__restrict, locale_t)",
+						"i": "mbsnrtowcs_l(wchar_t*__restrict,const char**__restrict,size_t,size_t,mbstate_t*__restrict,locale_t)",
+						"r": "size_t mbsnrtowcs_l(wchar_t *__restrict __dst, const char **__restrict __src, size_t __nms, size_t __len, mbstate_t *__restrict __ps, locale_t __loc)",
+						"s": "",
+						"u": "MBSNRTOWCS_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e8d361b6caeb2ca779b5ded012fc1ff2ba653b5a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wcsnrtombs_l",
+						"t": "size_t (char *__restrict, const wchar_t **__restrict, size_t, size_t, mbstate_t *__restrict, locale_t)",
+						"i": "wcsnrtombs_l(char*__restrict,const wchar_t**__restrict,size_t,size_t,mbstate_t*__restrict,locale_t)",
+						"r": "size_t wcsnrtombs_l(char *__restrict __dst, const wchar_t **__restrict __src, size_t __nwc, size_t __len, mbstate_t *__restrict __ps, locale_t __loc)",
+						"s": "",
+						"u": "WCSNRTOMBS_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bc0057343965211164baaa952f6cf65e75185c82"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "btowc_l",
+						"t": "wint_t (int, locale_t)",
+						"i": "btowc_l(int,locale_t)",
+						"r": "wint_t btowc_l(int __c, locale_t __loc)",
+						"s": "",
+						"u": "BTOWC_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9373d7631a01e4f8233cbd4b0438d5f6584f36b6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wctob_l",
+						"t": "int (wint_t, locale_t)",
+						"i": "wctob_l(wint_t,locale_t)",
+						"r": "int wctob_l(wint_t __c, locale_t __loc)",
+						"s": "",
+						"u": "WCTOB_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "216479a059ee31c488acd483f5e1a5a3618773ab"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "MB_CUR_MAX_L",
+						"t": "decltype(___mb_cur_max_func()) (locale_t)",
+						"i": "decltype(___mb_cur_max_func())MB_CUR_MAX_L(locale_t)",
+						"r": "decltype(___mb_cur_max_func()) MB_CUR_MAX_L(locale_t __l)",
+						"s": "",
+						"u": "MB_CUR_MAX_L",
+						"q": "decltype(___mb_cur_max_func())",
+						"w": "DECLTYPE(___MB_CUR_MAX_FUNC())",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1e200f4172d4ce33d201d61c0c2a34fe8e778d43"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "mbtowc_l",
+						"t": "",
+						"i": "mbtowc_l",
+						"r": "mbtowc_l",
+						"s": "",
+						"u": "MBTOWC_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60bc7f83370ed8e34b42029873cae7a7e580ca66"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "strtoll_l",
+						"t": "",
+						"i": "strtoll_l",
+						"r": "strtoll_l",
+						"s": "",
+						"u": "STRTOLL_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f247d265cc60e4d84d8138d9ce652c14f6199cda"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "strtoull_l",
+						"t": "",
+						"i": "strtoull_l",
+						"r": "strtoull_l",
+						"s": "",
+						"u": "STRTOULL_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ae73c9043c26bf22ddfdf2be4ad2d64c7f09306a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "strtod_l",
+						"t": "",
+						"i": "strtod_l",
+						"r": "strtod_l",
+						"s": "",
+						"u": "STRTOD_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bc67fa56be478db6bd695a5c57189f71dea32711"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "strtof_l",
+						"t": "float (const char *, char **, locale_t)",
+						"i": "strtof_l(const char*,char**,locale_t)",
+						"r": "float strtof_l(const char *, char **, locale_t)",
+						"s": "",
+						"u": "STRTOF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1d0517d6d55bbce88f2d94aa5dd64487e3a852c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "strtold_l",
+						"t": "long double (const char *, char **, locale_t)",
+						"i": "strtold_l(const char*,char**,locale_t)",
+						"r": "long double strtold_l(const char *, char **, locale_t)",
+						"s": "",
+						"u": "STRTOLD_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f9931e6376dc1022e96d718f86d52121605239f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "isdigit_l",
+						"t": "",
+						"i": "isdigit_l",
+						"r": "isdigit_l",
+						"s": "",
+						"u": "ISDIGIT_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ce48d9409268acb9b2bede6b0aefcd2cb70d8336"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "isxdigit_l",
+						"t": "",
+						"i": "isxdigit_l",
+						"r": "isxdigit_l",
+						"s": "",
+						"u": "ISXDIGIT_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5551b5260b183a64bc34ddfe4fe1eb22b56ba7bc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "strcoll_l",
+						"t": "",
+						"i": "strcoll_l",
+						"r": "strcoll_l",
+						"s": "",
+						"u": "STRCOLL_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d347d08175bf303055e2deb206a311ef770ec820"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "strxfrm_l",
+						"t": "",
+						"i": "strxfrm_l",
+						"r": "strxfrm_l",
+						"s": "",
+						"u": "STRXFRM_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9292bdb682c5ac68e7bb78b2becd0c882d71f0e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wcscoll_l",
+						"t": "",
+						"i": "wcscoll_l",
+						"r": "wcscoll_l",
+						"s": "",
+						"u": "WCSCOLL_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "827344e51839227aa143d2fa1cd7e2ecbd68a15b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wcsxfrm_l",
+						"t": "",
+						"i": "wcsxfrm_l",
+						"r": "wcsxfrm_l",
+						"s": "",
+						"u": "WCSXFRM_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6a3c8f0a9a93454b8c1761e0d470c33029fb9031"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "toupper_l",
+						"t": "",
+						"i": "toupper_l",
+						"r": "toupper_l",
+						"s": "",
+						"u": "TOUPPER_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2fd0fb91b7629be8f718aaea233f38a3cefaf7b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "tolower_l",
+						"t": "",
+						"i": "tolower_l",
+						"r": "tolower_l",
+						"s": "",
+						"u": "TOLOWER_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2cb59259cbae59568a26f4e1b9a1b6d3594b289"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "iswspace_l",
+						"t": "",
+						"i": "iswspace_l",
+						"r": "iswspace_l",
+						"s": "",
+						"u": "ISWSPACE_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6708ecb84f26762a1e564057e0dd9810bdab4f8d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "iswprint_l",
+						"t": "",
+						"i": "iswprint_l",
+						"r": "iswprint_l",
+						"s": "",
+						"u": "ISWPRINT_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4e0f1a3df75d29c3502eac6a749dcd72eff0100"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "iswcntrl_l",
+						"t": "",
+						"i": "iswcntrl_l",
+						"r": "iswcntrl_l",
+						"s": "",
+						"u": "ISWCNTRL_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "99e748c432714c01eb228b3b6e058ad1fcad2e66"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "iswupper_l",
+						"t": "",
+						"i": "iswupper_l",
+						"r": "iswupper_l",
+						"s": "",
+						"u": "ISWUPPER_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b915af30e9e71d89d6c0d3ed8c1a429e420cc6da"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "iswlower_l",
+						"t": "",
+						"i": "iswlower_l",
+						"r": "iswlower_l",
+						"s": "",
+						"u": "ISWLOWER_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eec569559788220fc92114cf00f81e23c1a27622"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "iswalpha_l",
+						"t": "",
+						"i": "iswalpha_l",
+						"r": "iswalpha_l",
+						"s": "",
+						"u": "ISWALPHA_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c57fd9be4a1e3b0bfd1cdc1fbd1df3804492614d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "iswdigit_l",
+						"t": "",
+						"i": "iswdigit_l",
+						"r": "iswdigit_l",
+						"s": "",
+						"u": "ISWDIGIT_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "120613d4fbb5ee05a1b445c966493d953dccbd55"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "iswpunct_l",
+						"t": "",
+						"i": "iswpunct_l",
+						"r": "iswpunct_l",
+						"s": "",
+						"u": "ISWPUNCT_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d0ae1bc8ca980c9bf66dac02e508cb04ebc1afb0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "iswxdigit_l",
+						"t": "",
+						"i": "iswxdigit_l",
+						"r": "iswxdigit_l",
+						"s": "",
+						"u": "ISWXDIGIT_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fbf6e75bb1ac679e8c1114a9b98f94251123f04"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "towupper_l",
+						"t": "",
+						"i": "towupper_l",
+						"r": "towupper_l",
+						"s": "",
+						"u": "TOWUPPER_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed5775686f8b5333646d2eceb2c14751d0ceed20"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "towlower_l",
+						"t": "",
+						"i": "towlower_l",
+						"r": "towlower_l",
+						"s": "",
+						"u": "TOWLOWER_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a2bcaf5a60797d82eb656a9a2bbb36ae6725c43b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "strftime_l",
+						"t": "size_t (char *, size_t, const char *, const struct tm *, locale_t)",
+						"i": "strftime_l(char*,size_t,const char*,const tm*,locale_t)",
+						"r": "size_t strftime_l(char *ret, size_t n, const char *format, const tm *tm, locale_t loc)",
+						"s": "",
+						"u": "STRFTIME_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "995d9512410c3762208f7250d344cd68107fad53"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sscanf_l",
+						"t": "",
+						"i": "sscanf_l",
+						"r": "sscanf_l",
+						"s": "",
+						"u": "SSCANF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36700b6f7f0fd8dfc0a2501002ae5afe1d0e4091"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "sprintf_l",
+						"t": "",
+						"i": "sprintf_l",
+						"r": "sprintf_l",
+						"s": "",
+						"u": "SPRINTF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "666e54449a43ad400b797a6abb81f6d56bbab192"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "vsprintf_l",
+						"t": "",
+						"i": "vsprintf_l",
+						"r": "vsprintf_l",
+						"s": "",
+						"u": "VSPRINTF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c6f6c440b9b31dfa1c39e709faab7ffa691081e3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "vsnprintf_l",
+						"t": "",
+						"i": "vsnprintf_l",
+						"r": "vsnprintf_l",
+						"s": "",
+						"u": "VSNPRINTF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2171d419662cd5a1bdb9c67bddd7a2f0c491aaca"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "snprintf_l",
+						"t": "int (char *, size_t, locale_t, const char *, ...)",
+						"i": "snprintf_l(char*,size_t,locale_t,const char*,...)",
+						"r": "int snprintf_l(char *__ret, size_t __n, locale_t __loc, const char *__format, ...)",
+						"s": "",
+						"u": "SNPRINTF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c604b67a5a7fdccd29de18a692da1468764cb217"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "asprintf_l",
+						"t": "int (char **, locale_t, const char *, ...)",
+						"i": "asprintf_l(char**,locale_t,const char*,...)",
+						"r": "int asprintf_l(char **__ret, locale_t __loc, const char *__format, ...)",
+						"s": "",
+						"u": "ASPRINTF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ad43d41b83ff2126db04c1788f7f8692835f1c9b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "vasprintf_l",
+						"t": "int (char **, locale_t, const char *, va_list)",
+						"i": "vasprintf_l(char**,locale_t,const char*,va_list)",
+						"r": "int vasprintf_l(char **__ret, locale_t __loc, const char *__format, va_list __ap)",
+						"s": "",
+						"u": "VASPRINTF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d6db7340331673671c9b51370d70efd8277e6761"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "isblank_l",
+						"t": "int (int, locale_t)",
+						"i": "isblank_l(int,locale_t)",
+						"r": "int isblank_l(int __c, locale_t)",
+						"s": "",
+						"u": "ISBLANK_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "53abc13932270615655fc3f3ed3dc918435ec9a2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "iswblank_l",
+						"t": "int (wint_t, locale_t)",
+						"i": "iswblank_l(wint_t,locale_t)",
+						"r": "int iswblank_l(wint_t __c, locale_t)",
+						"s": "",
+						"u": "ISWBLANK_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4a0bb104ba5c1703ae9dab72fa3c5affed4f60d1"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

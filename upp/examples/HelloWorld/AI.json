@@ -1,5 +1,5 @@
 {
-	"saved_hash": "33198ea38fb16d89cac8ed55bf4ffc62430060fc",
+	"saved_hash": "305854d730bf64585fdb6675d3a85384fe3f313b",
 	"files": [
 		{
 			"key": "hello.cpp",
@@ -46,6 +46,39 @@
 							},
 							{
 								"s": "HelloWorld();"
+							},
+							{
+								"s": "this line defines the class/struct \"HelloWorld\" that inherits from the base class \"TopWindow\""
+							},
+							{
+								"s": "this line declares the MenuBar object \"menu\""
+							},
+							{
+								"s": "this line declares the StatusBar object named \"status\""
+							},
+							{
+								"s": "this line creates a blank line for readability"
+							},
+							{
+								"s": "this line declares a function called \"FileMenu\" that takes a reference to a Bar object as a parameter"
+							},
+							{
+								"s": "this line declares a function called \"MainMenu\" that takes a reference to a Bar object as a parameter"
+							},
+							{
+								"s": "this line declares a function called \"About\""
+							},
+							{
+								"s": "this line declares the public section of the class/struct"
+							},
+							{
+								"s": "this line creates a type definition for the class/struct \"HelloWorld\" and sets the typedef to the CLASSNAME"
+							},
+							{
+								"s": "this line declares the constructor for the class/struct \"HelloWorld\""
+							},
+							{
+								"s": "this line ends the class/struct definition"
 							}
 						],
 						"sf": [
@@ -107,7 +140,71 @@
 							},
 							{
 								"items": [
-
+									{
+										"k": 0,
+										"l": 0,
+										"d": 9
+									},
+									{
+										"k": 0,
+										"l": 1,
+										"d": 10
+									},
+									{
+										"k": 0,
+										"l": 2,
+										"d": 11
+									},
+									{
+										"k": 0,
+										"l": 3,
+										"d": 12
+									},
+									{
+										"k": 0,
+										"l": 4,
+										"d": 13
+									},
+									{
+										"k": 0,
+										"l": 5,
+										"d": 14
+									},
+									{
+										"k": 0,
+										"l": 6,
+										"d": 15
+									},
+									{
+										"k": 0,
+										"l": 7,
+										"d": 12
+									},
+									{
+										"k": 0,
+										"l": 8,
+										"d": 16
+									},
+									{
+										"k": 0,
+										"l": 9,
+										"d": 17
+									},
+									{
+										"k": 0,
+										"l": 10,
+										"d": 12
+									},
+									{
+										"k": 0,
+										"l": 11,
+										"d": 18
+									},
+									{
+										"k": 0,
+										"l": 12,
+										"d": 19
+									}
 								],
 								"h": "ea0f98bf5d44080a0d001661e3e3065147619542"
 							}
@@ -704,6 +801,30 @@
 
 								],
 								"h": "77896a8fe2be4ffcb0d5b5990aad0eee75a063d0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "681303fcf4ae7d0b54e3cc89c8b963ec5db9a444"
+							},
+							{
+								"items": [
+
+								],
+								"h": "30fab9b9ad9bb6d44bd8b44eb00233b637c81426"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d258537bc696a0cc4cfb4049458f06380f476d7d"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d57d053c900b46e9f54386411fc204118ca8d7d3"
 							}
 						]
 					},

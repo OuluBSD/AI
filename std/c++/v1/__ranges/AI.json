@@ -1,0 +1,467 @@
+{
+	"saved_hash": "20d9fdfe8841b71f05ed9c45f4343870814901b5",
+	"files": [
+		{
+			"key": "c++/v1/__ranges/access.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_ACCESS_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_ACCESS_H",
+						"r": "_LIBCPP___RANGES_ACCESS_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_ACCESS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "464c40cc640e7830474e14fd005550016c8222b0"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/enable_borrowed_range.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_ENABLE_BORROWED_RANGE_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_ENABLE_BORROWED_RANGE_H",
+						"r": "_LIBCPP___RANGES_ENABLE_BORROWED_RANGE_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_ENABLE_BORROWED_RANGE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f8b44ef0dba4164fc806f730da43cc586a3cc33"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/concepts.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_CONCEPTS_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_CONCEPTS_H",
+						"r": "_LIBCPP___RANGES_CONCEPTS_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_CONCEPTS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7164b13f1e34d0df02cc3557aaf8c40d7061fb1b"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/data.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_DATA_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_DATA_H",
+						"r": "_LIBCPP___RANGES_DATA_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_DATA_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36ec707ad6eb431f9a413f676ef31e34b55301e9"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/enable_view.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_ENABLE_VIEW_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_ENABLE_VIEW_H",
+						"r": "_LIBCPP___RANGES_ENABLE_VIEW_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_ENABLE_VIEW_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "db11db411f72ac078c36523f86189ab702a98119"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/size.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_SIZE_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_SIZE_H",
+						"r": "_LIBCPP___RANGES_SIZE_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_SIZE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "702411ec7defe9ca81aa83beb9aa8cacf051f36c"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/subrange.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_SUBRANGE_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_SUBRANGE_H",
+						"r": "_LIBCPP___RANGES_SUBRANGE_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_SUBRANGE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6cb82a1318ef95f70cbdc16a78e144483c2eb14d"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/dangling.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_DANGLING_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_DANGLING_H",
+						"r": "_LIBCPP___RANGES_DANGLING_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_DANGLING_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2fafc99ec1e7efc1b5d64067bcabcfbf7c0a8a64"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/view_interface.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "_LIBCPP___RANGES_VIEW_INTERFACE_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_VIEW_INTERFACE_H",
+						"r": "_LIBCPP___RANGES_VIEW_INTERFACE_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_VIEW_INTERFACE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "42bdda316abc1a9a645b16ef3a9b5bf849d5bf8c"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/empty.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_EMPTY_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_EMPTY_H",
+						"r": "_LIBCPP___RANGES_EMPTY_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_EMPTY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bb3bb7fbc2d6a20cb339a8516f0a809b1e98afd8"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/movable_box.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_MOVABLE_BOX_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_MOVABLE_BOX_H",
+						"r": "_LIBCPP___RANGES_MOVABLE_BOX_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_MOVABLE_BOX_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "37f1d9717fb76cd3ff4e44457196f294fb132b4e"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/container_compatible_range.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_CONTAINER_COMPATIBLE_RANGE_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_CONTAINER_COMPATIBLE_RANGE_H",
+						"r": "_LIBCPP___RANGES_CONTAINER_COMPATIBLE_RANGE_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_CONTAINER_COMPATIBLE_RANGE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bead197d8b036ec4666d66dda65abdee9d191e92"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/from_range.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_FROM_RANGE_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_FROM_RANGE_H",
+						"r": "_LIBCPP___RANGES_FROM_RANGE_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_FROM_RANGE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5882448b6f747812fbac36321868c4a8a24ac9a2"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__ranges/ref_view.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANGES_REF_VIEW_H",
+						"t": "",
+						"i": "_LIBCPP___RANGES_REF_VIEW_H",
+						"r": "_LIBCPP___RANGES_REF_VIEW_H",
+						"s": "",
+						"u": "_LIBCPP___RANGES_REF_VIEW_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31a03848edf1a768ec1d27c3b2b2cd405f36936b"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,721 @@
+{
+	"saved_hash": "a5f9997e2fe6ac20c7d8d2224b75406031337e5f",
+	"files": [
+		{
+			"key": "c++/v1/__thread/poll_with_backoff.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___THREAD_POLL_WITH_BACKOFF_H",
+						"t": "",
+						"i": "_LIBCPP___THREAD_POLL_WITH_BACKOFF_H",
+						"r": "_LIBCPP___THREAD_POLL_WITH_BACKOFF_H",
+						"s": "",
+						"u": "_LIBCPP___THREAD_POLL_WITH_BACKOFF_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f547edcceca14bc419daff0d8335ad372e5ab68e"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "__libcpp_polling_count",
+						"t": "const int",
+						"i": "std::__1::__libcpp_polling_count",
+						"r": "static constexpr int __libcpp_polling_count",
+						"s": "std::__1",
+						"u": "__LIBCPP_POLLING_COUNT",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30ce8463ac03ac5322775cf2e015a11d230889bc"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_thread_poll_with_backoff",
+						"t": "bool (_Fn &&, _BFn &&, chrono::nanoseconds)",
+						"i": "std::__1::",
+						"r": "template <class _Fn, class _BFn> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool __libcpp_thread_poll_with_backoff(_Fn&& __f, _BFn&& __bf, chrono::nanoseconds __max_elapsed = chrono::nanoseconds::zero())",
+						"s": "std::__1",
+						"u": "__LIBCPP_THREAD_POLL_WITH_BACKOFF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cccfca7f3ecf95b986505640138b665ffdc8dfb7"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__spinning_backoff_policy",
+						"t": "std::__spinning_backoff_policy",
+						"i": "std::__spinning_backoff_policy",
+						"r": "__spinning_backoff_policy",
+						"s": "std::__1",
+						"u": "__SPINNING_BACKOFF_POLICY",
+						"q": "std::__spinning_backoff_policy",
+						"w": "STD::__SPINNING_BACKOFF_POLICY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9e9839b3792af0faef4a5b63317f1a09f16fc9ec"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "bool (const chrono::nanoseconds &) const",
+						"i": "std::__1::__spinning_backoff_policy::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator()(const chrono::nanoseconds&) const",
+						"s": "std::__1",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9bdeaf0ea61a76e600662e64eaacf73c2bd84352"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__thread/id.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___THREAD_ID_H",
+						"t": "",
+						"i": "_LIBCPP___THREAD_ID_H",
+						"r": "_LIBCPP___THREAD_ID_H",
+						"s": "",
+						"u": "_LIBCPP___THREAD_ID_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b1367b36abefa71e5b224e80ec66d071ebd4058d"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__thread_id",
+						"t": "std::__thread_id",
+						"i": "std::__thread_id",
+						"r": "__thread_id",
+						"s": "std::__1",
+						"u": "__THREAD_ID",
+						"q": "std::__thread_id",
+						"w": "STD::__THREAD_ID",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32ee9f52301c77cac0d8b0f11f619a122db4fd18"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "get_id",
+						"t": "__thread_id () noexcept",
+						"i": "std::__1::this_thread::get_id()",
+						"r": "__thread_id get_id() __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1::this_thread",
+						"u": "GET_ID",
+						"q": "std::__1::this_thread",
+						"w": "STD::__1::THIS_THREAD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e9df07dc15a7dc4c8447200282de838097cd27be"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "hash",
+						"t": "std::hash<__thread_id>",
+						"i": "std::hash",
+						"r": "template<> hash<__thread_id>",
+						"s": "std::__1",
+						"u": "HASH",
+						"q": "std::hash",
+						"w": "STD::HASH",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "44be42c9f6d82b28a1802b581af2d13ab18e0afd"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__thread_id",
+						"t": "std::__thread_id",
+						"i": "std::__thread_id",
+						"r": "__thread_id",
+						"s": "std::__1",
+						"u": "__THREAD_ID",
+						"q": "std::__thread_id",
+						"w": "STD::__THREAD_ID",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4b4ff278759e5fa096f0dd131a7d1732e39ce74"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__id_",
+						"t": "__libcpp_thread_id",
+						"i": "std::__1::__thread_id::__id_",
+						"r": "__libcpp_thread_id __id_",
+						"s": "std::__1",
+						"u": "__ID_",
+						"q": "std::__1::__thread_id",
+						"w": "STD::__1::__THREAD_ID",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68e4bd61263913877380fba1b68f258f0cacbd0c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "__lt_impl",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::__thread_id::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static bool __lt_impl(__thread_id __x, __thread_id __y)",
+						"s": "std::__1",
+						"u": "__LT_IMPL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f831ef552bd85d08da26191dd4c85bb1b3b6caea"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__thread_id",
+						"t": "void () noexcept",
+						"i": "std::__1::__thread_id::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) __thread_id()",
+						"s": "std::__1",
+						"u": "__THREAD_ID",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "715f8f3bc07a5eef900bdb68c6bbdb64e8a78481"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__reset",
+						"t": "void ()",
+						"i": "std::__1::__thread_id::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void __reset()",
+						"s": "std::__1",
+						"u": "__RESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8d56dd328e136336ead282fd499b06ca0108ee73"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::operator==(__thread_id,__thread_id)",
+						"r": "bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9fefb0845656242695eaa817be6f04d14c853f40"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator<",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::operator<(__thread_id,__thread_id)",
+						"r": "bool operator<(__thread_id __x, __thread_id __y) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1",
+						"u": "OPERATOR<",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd32701d3265eead1516f96579b9c3841ef0c626"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator<<",
+						"t": "basic_ostream<_CharT, _Traits> &(basic_ostream<_CharT, _Traits> &, __thread_id)",
+						"i": "std::__1::operator<<(basic_ostream&,__thread_id)",
+						"r": "template <class _CharT, class _Traits> basic_ostream<_CharT, _Traits>& operator<<(basic_ostream<_CharT, _Traits>& __os, __thread_id __id) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1",
+						"u": "OPERATOR<<",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3c46d6fbf209b826bdf37fff516d41ad1cddd852"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__thread_id",
+						"t": "void (__libcpp_thread_id)",
+						"i": "std::__1::__thread_id::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) __thread_id(__libcpp_thread_id __id)",
+						"s": "std::__1",
+						"u": "__THREAD_ID",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2aaacaec0962a7e9021c1d01a8c0b0280f91d7c0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__get_underlying_id",
+						"t": "__libcpp_thread_id (const __thread_id)",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) __libcpp_thread_id __get_underlying_id(const __thread_id __id)",
+						"s": "std::__1",
+						"u": "__GET_UNDERLYING_ID",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2dd66b2630ad0788c89735c8697aa99fbb6504ff"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "get_id",
+						"t": "__thread_id () noexcept",
+						"i": "std::__1::this_thread::this_thread::get_id()",
+						"r": "__thread_id get_id()",
+						"s": "std::__1::this_thread",
+						"u": "GET_ID",
+						"q": "std::__1::this_thread::this_thread",
+						"w": "STD::__1::THIS_THREAD::THIS_THREAD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96fdf0cf70013fcc2b700405389dc145973e9ef0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dc50de5455ade93720b9400d4571d1df9552b665"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aa5680700b4e302e7a3127725602187267e1b775"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator<(__thread_id __x, __thread_id __y)",
+						"s": "std::__1",
+						"u": "OPERATOR<",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d30c7a899a3f0010146c89a5f56bdddca60cfd0c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<=",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator<",
+						"s": "std::__1",
+						"u": "OPERATOR<=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f8bd9a2cab1b136091a237fd0d56079ed512a41e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator>",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator>(__thread_id __x, __thread_id __y)",
+						"s": "std::__1",
+						"u": "OPERATOR>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d15d2fef0c07ebb3c2ac629d42a61561b766cd96"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator>=",
+						"t": "bool (__thread_id, __thread_id) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator>",
+						"s": "std::__1",
+						"u": "OPERATOR>=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5d2948abefd658b31a5c8b7ccfe08e03a83ba1e7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "get_id",
+						"t": "__thread_id () noexcept",
+						"i": "std::__1::this_thread::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) __thread_id get_id()",
+						"s": "std::__1::this_thread",
+						"u": "GET_ID",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d6bfd2d465d53a5da3f1d8b61949a6ca8deb823c"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

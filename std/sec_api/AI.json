@@ -1,0 +1,38 @@
+{
+	"saved_hash": "fcb4d6bfe12262bfa6e89111baf78aa8c8197a5a",
+	"files": [
+		{
+			"key": "sec_api/stralign_s.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__STRALIGN_H_S_",
+						"t": "",
+						"i": "__STRALIGN_H_S_",
+						"r": "__STRALIGN_H_S_",
+						"s": "",
+						"u": "__STRALIGN_H_S_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c5661cabc552c4cb3ec15c7ee950cf88877e6baf"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

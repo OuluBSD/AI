@@ -1,0 +1,324 @@
+{
+	"saved_hash": "10243ab9233b17e71dbd8237ab3c55053b384bd9",
+	"files": [
+		{
+			"key": "c++/v1/__variant/monostate.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___VARIANT_MONOSTATE_H",
+						"t": "",
+						"i": "_LIBCPP___VARIANT_MONOSTATE_H",
+						"r": "_LIBCPP___VARIANT_MONOSTATE_H",
+						"s": "",
+						"u": "_LIBCPP___VARIANT_MONOSTATE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7573cc567a1f632c9b5966cfad5230039f235862"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "monostate",
+						"t": "std::monostate",
+						"i": "std::monostate",
+						"r": "monostate",
+						"s": "std::__1",
+						"u": "MONOSTATE",
+						"q": "std::monostate",
+						"w": "STD::MONOSTATE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "838033d0b8545cab9c1e92ef164957662e050206"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (monostate, monostate) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e51e092187ca75d2a745d9a3a19b47fe2ead8505"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (monostate, monostate) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10204bfd612cad5643cfb231f625346d7233f7c1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<",
+						"t": "bool (monostate, monostate) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator<(monostate, monostate)",
+						"s": "std::__1",
+						"u": "OPERATOR<",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2eb8faaaddc4fd6506c67df3c34c6efa53524213"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator>",
+						"t": "bool (monostate, monostate) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator>(monostate, monostate)",
+						"s": "std::__1",
+						"u": "OPERATOR>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eeb00936d3c6af092e09ac7ce74500a0ff65df1b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<=",
+						"t": "bool (monostate, monostate) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator<",
+						"s": "std::__1",
+						"u": "OPERATOR<=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c29b8e231014b14f21045dd128271e86dd10b981"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator>=",
+						"t": "bool (monostate, monostate) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator>",
+						"s": "std::__1",
+						"u": "OPERATOR>=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f204413c18f4507a645f02384bf799f29fe6bb3b"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hash",
+						"t": "std::hash<monostate>",
+						"i": "std::hash",
+						"r": "template<> hash<monostate>",
+						"s": "std::__1",
+						"u": "HASH",
+						"q": "std::hash",
+						"w": "STD::HASH",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ec6e65e027e2d57f9aaf5432468b77b6a598f9d"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "argument_type",
+						"t": "std::hash<std::monostate>::argument_type",
+						"i": "std::hash::argument_type",
+						"r": "using argument_type",
+						"s": "std::__1",
+						"u": "ARGUMENT_TYPE",
+						"q": "std::hash",
+						"w": "STD::HASH",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2cc52c364d21feeae67fe605daa964e8c0f4595e"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "result_type",
+						"t": "std::hash<std::monostate>::result_type",
+						"i": "std::hash::result_type",
+						"r": "using result_type",
+						"s": "std::__1",
+						"u": "RESULT_TYPE",
+						"q": "std::hash",
+						"w": "STD::HASH",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a5d145998ed3b961de0b58a32449bdb6b0ece898"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "result_type (const argument_type &) const noexcept",
+						"i": "std::__1::hash::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type operator()(const argument_type&) const",
+						"s": "std::__1",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab886c517326f3fa46b5395efffe053e0045eee4"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

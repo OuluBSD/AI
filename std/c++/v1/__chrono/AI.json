@@ -1,0 +1,4437 @@
+{
+	"saved_hash": "aaa7d3de852e7ae3d516a445396a076131b600ba",
+	"files": [
+		{
+			"key": "c++/v1/__chrono/duration.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_DURATION_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_DURATION_H",
+						"r": "_LIBCPP___CHRONO_DURATION_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_DURATION_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13db8ee09ad2f6f69e1fad9952797e52c0c2d797"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "duration",
+						"t": "",
+						"i": "std::__1::chrono::duration",
+						"r": "template <class _Rep, class _Period",
+						"s": "std::__1::chrono",
+						"u": "DURATION",
+						"q": "std::__1::chrono::duration",
+						"w": "STD::__1::CHRONO::DURATION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d879dc5ba2001fd056c819d63e0df5ba616f6e7b"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__is_duration",
+						"t": "",
+						"i": "std::__1::chrono::__is_duration",
+						"r": "template <class _Tp> __is_duration : false_type",
+						"s": "std::__1::chrono",
+						"u": "__IS_DURATION",
+						"q": "std::__1::chrono::__is_duration",
+						"w": "STD::__1::CHRONO::__IS_DURATION",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b720a32ff0b64f042310072f8785219d079a707"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::common_type<duration<type-parameter-0-0, type-parameter-0-1>, duration<type-parameter-0-2, type-parameter-0-3>>::type",
+						"i": "std::common_type::type",
+						"r": "typedef chrono::duration<typename common_type<_Rep1, _Rep2>::type, typename __ratio_gcd<_Period1, _Period2>::type> type",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::common_type",
+						"w": "STD::COMMON_TYPE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f63b78e565f2ac3ad3353c7df53af16771c330bb"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__duration_cast",
+						"t": "",
+						"i": "std::__1::chrono::__duration_cast",
+						"r": "template <class _FromDuration, class _ToDuration, class _Period",
+						"s": "std::__1::chrono",
+						"u": "__DURATION_CAST",
+						"q": "std::__1::chrono::__duration_cast",
+						"w": "STD::__1::CHRONO::__DURATION_CAST",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7481fc70b4945f479c04203820c29dc9222be96c"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration_cast",
+						"t": "_ToDuration (const duration<_Rep, _Period> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _ToDuration, class _Rep, class _Period, __enable_if_t<__is_duration<_ToDuration>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "DURATION_CAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be2db9ad06fe87486fb4f90d200daa80add2c9f1"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "treat_as_floating_point",
+						"t": "",
+						"i": "std::__1::chrono::treat_as_floating_point",
+						"r": "template <class _Rep> treat_as_floating_point : is_floating_point<_Rep>",
+						"s": "std::__1::chrono",
+						"u": "TREAT_AS_FLOATING_POINT",
+						"q": "std::__1::chrono::treat_as_floating_point",
+						"w": "STD::__1::CHRONO::TREAT_AS_FLOATING_POINT",
+						"y": "std::__1::is_floating_point",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d46ac6f85b240f0d03cc6f035eb248ebb99dc2ae"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration_values",
+						"t": "",
+						"i": "std::__1::chrono::duration_values",
+						"r": "template <class _Rep> duration_values",
+						"s": "std::__1::chrono",
+						"u": "DURATION_VALUES",
+						"q": "std::__1::chrono::duration_values",
+						"w": "STD::__1::CHRONO::DURATION_VALUES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e0a21082506126671eebd94bb1ee0014ff44044"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "zero",
+						"t": "_Rep () noexcept",
+						"i": "std::__1::chrono::duration_values::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr _Rep zero()",
+						"s": "std::__1::chrono",
+						"u": "ZERO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d04d809122ce0173c12b89ac58c220e801d5129"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "max",
+						"t": "_Rep () noexcept",
+						"i": "std::__1::chrono::duration_values::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr _Rep max()",
+						"s": "std::__1::chrono",
+						"u": "MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ff8776c1a90df08aec151c28330753f41e31d85b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "min",
+						"t": "_Rep () noexcept",
+						"i": "std::__1::chrono::duration_values::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr _Rep min()",
+						"s": "std::__1::chrono",
+						"u": "MIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b6e02244de6bc74a3ef0574bfdb58394224386d"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "floor",
+						"t": "_ToDuration (const duration<_Rep, _Period> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _ToDuration, class _Rep, class _Period, enable_if_t<__is_duration<_ToDuration>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "FLOOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "56b8a85c0950c87cfe3200721bdd27fdb9ddcd24"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ceil",
+						"t": "_ToDuration (const duration<_Rep, _Period> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _ToDuration, class _Rep, class _Period, enable_if_t<__is_duration<_ToDuration>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "CEIL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f97871f4a2832afeb163c57682a9dae2c55840f"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "round",
+						"t": "_ToDuration (const duration<_Rep, _Period> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _ToDuration, class _Rep, class _Period, enable_if_t<__is_duration<_ToDuration>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "ROUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77f68afa7b39fb6347927e007d943bdb27d6ff2b"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration",
+						"t": "",
+						"i": "std::__1::chrono::duration",
+						"r": "template <class _Rep, class _Period",
+						"s": "std::__1::chrono",
+						"u": "DURATION",
+						"q": "std::__1::chrono::duration",
+						"w": "STD::__1::CHRONO::DURATION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e224ae3263116a5864a8187898d11d509f1c4018"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__no_overflow",
+						"t": "",
+						"i": "std::__1::chrono::duration::__no_overflow",
+						"r": "template <class _R1, class _R2> __no_overflow",
+						"s": "std::__1::chrono",
+						"u": "__NO_OVERFLOW",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a61f0e7305513e1986b9a3bd6c8bc990a44a7b64"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "__gcd_n1_n2",
+						"t": "const intmax_t",
+						"i": "std::__1::chrono::duration::__no_overflow::__gcd_n1_n2",
+						"r": "static const intmax_t __gcd_n1_n2",
+						"s": "std::__1::chrono",
+						"u": "__GCD_N1_N2",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bf4148b0373000dfbf08a260e6c0b926adcf386a"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "__gcd_d1_d2",
+						"t": "const intmax_t",
+						"i": "std::__1::chrono::duration::__no_overflow::__gcd_d1_d2",
+						"r": "static const intmax_t __gcd_d1_d2",
+						"s": "std::__1::chrono",
+						"u": "__GCD_D1_D2",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "75b0a4af199746429f7909d1d1de2a096f7dcab7"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "__n1",
+						"t": "const intmax_t",
+						"i": "std::__1::chrono::duration::__no_overflow::__n1",
+						"r": "static const intmax_t __n1",
+						"s": "std::__1::chrono",
+						"u": "__N1",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4fd4ba5027ca8b72eac8bd9e3951fc8f3870a2e"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "__d1",
+						"t": "const intmax_t",
+						"i": "std::__1::chrono::duration::__no_overflow::__d1",
+						"r": "static const intmax_t __d1",
+						"s": "std::__1::chrono",
+						"u": "__D1",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f38d1f044594030c980580f4f9992e73144d4508"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "__n2",
+						"t": "const intmax_t",
+						"i": "std::__1::chrono::duration::__no_overflow::__n2",
+						"r": "static const intmax_t __n2",
+						"s": "std::__1::chrono",
+						"u": "__N2",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "febb8a91dd61bcec89e81f4012d91158e92f582c"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "__d2",
+						"t": "const intmax_t",
+						"i": "std::__1::chrono::duration::__no_overflow::__d2",
+						"r": "static const intmax_t __d2",
+						"s": "std::__1::chrono",
+						"u": "__D2",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b5a30d5a6ba82d26f7ee7ce57e2e66332929ff0"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "max",
+						"t": "const intmax_t",
+						"i": "std::__1::chrono::duration::__no_overflow::max",
+						"r": "static const intmax_t max",
+						"s": "std::__1::chrono",
+						"u": "MAX",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68f6368ebe34a602ee26ee49ff2fbc7b06ad6d36"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__mul",
+						"t": "",
+						"i": "std::__1::chrono::duration::__no_overflow::__mul",
+						"r": "template <intmax_t _Xp, intmax_t _Yp, bool __overflow> __mul",
+						"s": "std::__1::chrono",
+						"u": "__MUL",
+						"q": "std::__1::chrono::duration::__no_overflow::__mul",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW::__MUL",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "20945cabc8a9d2ffc6861abf279405615bf5fb05"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "value",
+						"t": "const intmax_t",
+						"i": "std::__1::chrono::duration::__no_overflow::__mul::value",
+						"r": "static const intmax_t value",
+						"s": "std::__1::chrono",
+						"u": "VALUE",
+						"q": "std::__1::chrono::duration::__no_overflow::__mul",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW::__MUL",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e285db89440ab722bfccdbb70e91c53e2639599d"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "value",
+						"t": "const intmax_t",
+						"i": "value",
+						"r": "static const intmax_t value",
+						"s": "",
+						"u": "VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1ddc56754e46dcfc20d99f992f8f481d8e2c4dd4"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "value",
+						"t": "const bool",
+						"i": "std::__1::chrono::duration::__no_overflow::value",
+						"r": "static const bool value",
+						"s": "std::__1::chrono",
+						"u": "VALUE",
+						"q": "std::__1::chrono::duration::__no_overflow",
+						"w": "STD::__1::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a9a065f8a7c04838148fbfe32d9bbb757751db1"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::chrono::duration::__no_overflow::type",
+						"i": "std::chrono::duration::__no_overflow::type",
+						"r": "typedef ratio<__mul<__n1, __d2, !value>::value, __mul<__n2, __d1, !value>::value> type",
+						"s": "std::__1::chrono",
+						"u": "TYPE",
+						"q": "std::chrono::duration::__no_overflow",
+						"w": "STD::CHRONO::DURATION::__NO_OVERFLOW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "57453fc8fc2ea4154d2c6474baec53c2fa3b5452"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rep",
+						"t": "std::chrono::duration::rep",
+						"i": "std::chrono::duration::rep",
+						"r": "typedef _Rep rep",
+						"s": "std::__1::chrono",
+						"u": "REP",
+						"q": "std::chrono::duration",
+						"w": "STD::CHRONO::DURATION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "97199ee9f4c994eda68388d69882d2e4f15cc923"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "period",
+						"t": "std::chrono::duration::period",
+						"i": "std::chrono::duration::period",
+						"r": "typedef typename _Period::type period",
+						"s": "std::__1::chrono",
+						"u": "PERIOD",
+						"q": "std::chrono::duration",
+						"w": "STD::CHRONO::DURATION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec3fd688f3c96282ace23f4fff9845908b77ae9c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__rep_",
+						"t": "rep",
+						"i": "std::__1::chrono::duration::__rep_",
+						"r": "rep __rep_",
+						"s": "std::__1::chrono",
+						"u": "__REP_",
+						"q": "std::__1::chrono::duration",
+						"w": "STD::__1::CHRONO::DURATION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "84c77ba2c568454be595103876dbfc3b88721f46"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "duration<_Rep, _Period>",
+						"t": "void ()",
+						"i": "std::__1::chrono::duration::duration()=default",
+						"r": "duration<_Rep, _Period>()",
+						"s": "std::__1::chrono",
+						"u": "DURATION<_REP, _PERIOD>",
+						"q": "std::__1::chrono::duration",
+						"w": "STD::__1::CHRONO::DURATION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "069c8917623faec2f261df34663b1a4af94b2bac"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration<_Rep, _Period>",
+						"t": "void (const _Rep2 &)",
+						"i": "std::__1::chrono::duration::",
+						"r": "template <class _Rep2, __enable_if_t<is_convertible<const _Rep2&, rep>::value&& (treat_as_floating_point<rep>::value || !treat_as_floating_point<_Rep2>::value), int>",
+						"s": "std::__1::chrono",
+						"u": "DURATION<_REP, _PERIOD>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4bee2a8914852a998153efa5bdeae1a1b291cd41"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration<_Rep, _Period>",
+						"t": "void (const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::duration::",
+						"r": "template <class _Rep2, class _Period2, __enable_if_t<__no_overflow<_Period2, period>::value&& (treat_as_floating_point<rep>::value || (__no_overflow<_Period2, period>::type::den == 1&& !treat_as_floating_point<_Rep2>::value)), int>",
+						"s": "std::__1::chrono",
+						"u": "DURATION<_REP, _PERIOD>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "826f944156a153620bd999e648cf451e664abbe6"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "count",
+						"t": "rep () const",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr rep count() const",
+						"s": "std::__1::chrono",
+						"u": "COUNT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60182793eef566e65b250df78fe45708cddbc8d9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator+",
+						"t": "typename common_type<duration<_Rep, _Period>>::type () const",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr typename common_type<duration<_Rep, _Period>>::type operator+() const",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR+",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f0b4969cec8fe1f94db4852cbb6273a6068b0df"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator-",
+						"t": "typename common_type<duration<_Rep, _Period>>::type () const",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr typename common_type<duration<_Rep, _Period>>::type operator-() const",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR-",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf116d1d8f24a75241482f5b21f8bb14f111104a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator++",
+						"t": "duration<_Rep, _Period> &()",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period>& operator++()",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR++",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2a5ca96a0ca394f5dca3ecf3c5506b1bdae1319"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator++",
+						"t": "duration<_Rep, _Period> (int)",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period> operator++(int)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR++",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b326878cb8a41264e50ad28c6ce9f3990b78f94"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator--",
+						"t": "duration<_Rep, _Period> &()",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period>& operator--()",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR--",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d17b3255e9f738bcdaab6782ee247c6773e1af8a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator--",
+						"t": "duration<_Rep, _Period> (int)",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period> operator--(int)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR--",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c2408967769a7abfc158e31893bc215e9357355"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator+=",
+						"t": "duration<_Rep, _Period> &(const duration<_Rep, _Period> &)",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period>& operator+",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR+=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f57cebf7a4599f6e0519ba9900721f6d569f1bb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator-=",
+						"t": "duration<_Rep, _Period> &(const duration<_Rep, _Period> &)",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period>& operator-",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR-=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96aa73b319f86c38de46d0b179e8b0e35b11607b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator*=",
+						"t": "duration<_Rep, _Period> &(const rep &)",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period>& operator*",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR*=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "975db98b5bc803eb16c7520ebb865fd690f0720a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator/=",
+						"t": "duration<_Rep, _Period> &(const rep &)",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period>& operator/",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR/=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e004fa4c93f06344957ce12daba600a48db3660a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%=",
+						"t": "duration<_Rep, _Period> &(const rep &)",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period>& operator%",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR%=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "547089d649e234583f32d510be78a5afba2601c7"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%=",
+						"t": "duration<_Rep, _Period> &(const duration<_Rep, _Period> &)",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration<_Rep, _Period>& operator%",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR%=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a364bc7330962bb37d0863ea0fb565adb1bbc61b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "zero",
+						"t": "duration<_Rep, _Period> () noexcept",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr duration<_Rep, _Period> zero()",
+						"s": "std::__1::chrono",
+						"u": "ZERO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98e5788f7fa47bb4428d3ec3a60469e5fa91a835"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "min",
+						"t": "duration<_Rep, _Period> () noexcept",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr duration<_Rep, _Period> min()",
+						"s": "std::__1::chrono",
+						"u": "MIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16639c0f7ba1b8a45172f2ed55de7adc002a789d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "max",
+						"t": "duration<_Rep, _Period> () noexcept",
+						"i": "std::__1::chrono::duration::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr duration<_Rep, _Period> max()",
+						"s": "std::__1::chrono",
+						"u": "MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d912fabe95ccf9bc65707364bf12e69df508d868"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nanoseconds",
+						"t": "std::chrono::nanoseconds",
+						"i": "std::chrono::nanoseconds",
+						"r": "typedef duration<long long, nano> nanoseconds",
+						"s": "std::__1::chrono",
+						"u": "NANOSECONDS",
+						"q": "std::chrono",
+						"w": "STD::CHRONO",
+						"y": "std::chrono::duration",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e68ec06344152c6860ba33c2cf2115687305283"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "microseconds",
+						"t": "std::chrono::microseconds",
+						"i": "std::chrono::microseconds",
+						"r": "typedef duration<long long, micro> microseconds",
+						"s": "std::__1::chrono",
+						"u": "MICROSECONDS",
+						"q": "std::chrono",
+						"w": "STD::CHRONO",
+						"y": "std::chrono::duration",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32ab8c66ff9b5a1ff6555b44b5f58aa92176bf88"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "milliseconds",
+						"t": "std::chrono::milliseconds",
+						"i": "std::chrono::milliseconds",
+						"r": "typedef duration<long long, milli> milliseconds",
+						"s": "std::__1::chrono",
+						"u": "MILLISECONDS",
+						"q": "std::chrono",
+						"w": "STD::CHRONO",
+						"y": "std::chrono::duration",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ef184567aab103a4cde4abf0f227f8f9dba1a7b2"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "seconds",
+						"t": "std::chrono::seconds",
+						"i": "std::chrono::seconds",
+						"r": "typedef duration<long long> seconds",
+						"s": "std::__1::chrono",
+						"u": "SECONDS",
+						"q": "std::chrono",
+						"w": "STD::CHRONO",
+						"y": "std::chrono::duration",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dccbf0d02564a986eb3d9086518297f6620943a6"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "minutes",
+						"t": "std::chrono::minutes",
+						"i": "std::chrono::minutes",
+						"r": "typedef duration<long, ratio<60>> minutes",
+						"s": "std::__1::chrono",
+						"u": "MINUTES",
+						"q": "std::chrono",
+						"w": "STD::CHRONO",
+						"y": "std::chrono::duration",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1fa4553912abab07cdf4ded07d7d392a1dc31fe2"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hours",
+						"t": "std::chrono::hours",
+						"i": "std::chrono::hours",
+						"r": "typedef duration<long, ratio<3600>> hours",
+						"s": "std::__1::chrono",
+						"u": "HOURS",
+						"q": "std::chrono",
+						"w": "STD::CHRONO",
+						"y": "std::chrono::duration",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4beb6506c420ab0a25f8edae09448471392d18b6"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__duration_eq",
+						"t": "",
+						"i": "std::__1::chrono::__duration_eq",
+						"r": "template <class _LhsDuration, class _RhsDuration> __duration_eq",
+						"s": "std::__1::chrono",
+						"u": "__DURATION_EQ",
+						"q": "std::__1::chrono::__duration_eq",
+						"w": "STD::__1::CHRONO::__DURATION_EQ",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1374c4b1b607ba87a08b092ea0e66cb188e4f0a8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "bool (const _LhsDuration &, const _RhsDuration &) const",
+						"i": "std::__1::chrono::__duration_eq::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator()(const _LhsDuration& __lhs, const _RhsDuration& __rhs) const",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8514b00434cf95ff79d2af5ab1efd71bb2d7649"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c573c5ea8cbfc6c4948427cf32af6e6b3834d6e"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator!",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a5a9530cf07ee0edf05c07fd2ceedfe77103d4f"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__duration_lt",
+						"t": "",
+						"i": "std::__1::chrono::__duration_lt",
+						"r": "template <class _LhsDuration, class _RhsDuration> __duration_lt",
+						"s": "std::__1::chrono",
+						"u": "__DURATION_LT",
+						"q": "std::__1::chrono::__duration_lt",
+						"w": "STD::__1::CHRONO::__DURATION_LT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f86b2a9dc107f768dc6095fb388ac1242fb4c48b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "bool (const _LhsDuration &, const _RhsDuration &) const",
+						"i": "std::__1::chrono::__duration_lt::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator()(const _LhsDuration& __lhs, const _RhsDuration& __rhs) const",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41fa569fc2b0ca968461a5829960b1038f5f1b2e"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<",
+						"t": "bool (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator<(const duration<_Rep1, _Period1>& __lhs, const duration<_Rep2, _Period2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR<",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "48da42fbfa930d903fe14332b3006bb984dfb7fa"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator>",
+						"t": "bool (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator>(const duration<_Rep1, _Period1>& __lhs, const duration<_Rep2, _Period2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14caaf09fc1222f4cd2c19bc462bbf0eb1cb201a"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<=",
+						"t": "bool (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator<",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR<=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "97c60fb612f2e5f4bac56dff09c9a7d6bda50bc5"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator>=",
+						"t": "bool (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator>",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR>=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e063b9529925421079803a471b5b607e7d76d0e0"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator+",
+						"t": "typename common_type<duration<_Rep1, _Period1>, duration<_Rep2, _Period2>>::type (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr typename common_type<duration<_Rep1, _Period1>, duration<_Rep2, _Period2>>::type operator+(const duration<_Rep1, _Period1>& __lhs, const duration<_Rep2, _Period2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR+",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "da5da75c90ce4e471736b706f200eaebe3f0fd18"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator-",
+						"t": "typename common_type<duration<_Rep1, _Period1>, duration<_Rep2, _Period2>>::type (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr typename common_type<duration<_Rep1, _Period1>, duration<_Rep2, _Period2>>::type operator-(const duration<_Rep1, _Period1>& __lhs, const duration<_Rep2, _Period2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR-",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "83adefd87999ec167aeee1bd8bdf56ec44470511"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator*",
+						"t": "duration<typename common_type<_Rep1, _Rep2>::type, _Period> (const duration<_Rep1, _Period> &, const _Rep2 &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period, class _Rep2, __enable_if_t<is_convertible<_Rep2, typename common_type<_Rep1, _Rep2>::type>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR*",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c14e33d72f1fafb2c1d934a2c9112574e5954347"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator*",
+						"t": "duration<typename common_type<_Rep1, _Rep2>::type, _Period> (const _Rep1 &, const duration<_Rep2, _Period> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period, class _Rep2, __enable_if_t<is_convertible<_Rep1, typename common_type<_Rep1, _Rep2>::type>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR*",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0cb3c789d7d4311f063378207e4b0eb601760801"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator/",
+						"t": "duration<typename common_type<_Rep1, _Rep2>::type, _Period> (const duration<_Rep1, _Period> &, const _Rep2 &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period, class _Rep2, __enable_if_t<!__is_duration<_Rep2>::value&& is_convertible<_Rep2, typename common_type<_Rep1, _Rep2>::type>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR/",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "479782f0bdfe8e7544625ac3138c7bffecd0fed4"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator/",
+						"t": "typename common_type<_Rep1, _Rep2>::type (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr typename common_type<_Rep1, _Rep2>::type operator/(const duration<_Rep1, _Period1>& __lhs, const duration<_Rep2, _Period2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR/",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b9d92e6862b0fc5a31a39a38d9bf0e7504c649f5"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%",
+						"t": "duration<typename common_type<_Rep1, _Rep2>::type, _Period> (const duration<_Rep1, _Period> &, const _Rep2 &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period, class _Rep2, __enable_if_t<!__is_duration<_Rep2>::value&& is_convertible<_Rep2, typename common_type<_Rep1, _Rep2>::type>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR%",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c24653b75b5151c48afd7cd17194e391db552921"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%",
+						"t": "typename common_type<duration<_Rep1, _Period1>, duration<_Rep2, _Period2>>::type (const duration<_Rep1, _Period1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr typename common_type<duration<_Rep1, _Period1>, duration<_Rep2, _Period2>>::type operator%(const duration<_Rep1, _Period1>& __lhs, const duration<_Rep2, _Period2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR%",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b8036b97aec8b334b82808a4d8d0fb3281de933"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"h",
+						"t": "chrono::hours (unsigned long long)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::hours operator\"\"h(unsigned long long __h)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30ad185bc5d69174816c111d96a7e73a52a2a336"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"h",
+						"t": "chrono::duration<long double, ratio<3600, 1>> (long double)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::duration<long double, ratio<3600, 1>> operator\"\"h(long double __h)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8cb239562199bb2247e8a58cc29f981782ccfd0a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"min",
+						"t": "chrono::minutes (unsigned long long)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::minutes operator\"\"min(unsigned long long __m)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"MIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e3b9cd7008482e0fdb2ad83dae3eb3e2f20d957a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"min",
+						"t": "chrono::duration<long double, ratio<60, 1>> (long double)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::duration<long double, ratio<60, 1>> operator\"\"min(long double __m)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"MIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bfbc126fbdd6a3b50729ab1521bc5d27caf4eec6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"s",
+						"t": "chrono::seconds (unsigned long long)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::seconds operator\"\"s(unsigned long long __s)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"S",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5a3e720787333765591cc8a0aa76f521a04cdd42"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"s",
+						"t": "chrono::duration<long double> (long double)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::duration<long double> operator\"\"s(long double __s)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"S",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ced96b8f09504fed4783c554526878d82693149d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"ms",
+						"t": "chrono::milliseconds (unsigned long long)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::milliseconds operator\"\"ms(unsigned long long __ms)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"MS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a60b7fa308fbe6d8b9ce5a12547870351fc88c7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"ms",
+						"t": "chrono::duration<long double, milli> (long double)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::duration<long double, milli> operator\"\"ms(long double __ms)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"MS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e9562fc6d8e802b3a40d770119b5d6ef51f63af0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"us",
+						"t": "chrono::microseconds (unsigned long long)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::microseconds operator\"\"us(unsigned long long __us)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"US",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5730d486a884324d97abda262270c5fe72e41161"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"us",
+						"t": "chrono::duration<long double, micro> (long double)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::duration<long double, micro> operator\"\"us(long double __us)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"US",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1177fdfc92564b83a8cbbcca69c15376dbab3ebc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"ns",
+						"t": "chrono::nanoseconds (unsigned long long)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::nanoseconds operator\"\"ns(unsigned long long __ns)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"NS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2cf5fe17146920a52a4914ad1e9296bb63c2acf4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator\"\"ns",
+						"t": "chrono::duration<long double, nano> (long double)",
+						"i": "std::__1::literals::chrono_literals::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr chrono::duration<long double, nano> operator\"\"ns(long double __ns)",
+						"s": "std::__1::literals::chrono_literals",
+						"u": "OPERATOR\"\"NS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b90cb3419368b76663de1c6a5f2b8de2f91f0d35"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/high_resolution_clock.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_HIGH_RESOLUTION_CLOCK_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_HIGH_RESOLUTION_CLOCK_H",
+						"r": "_LIBCPP___CHRONO_HIGH_RESOLUTION_CLOCK_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_HIGH_RESOLUTION_CLOCK_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "522ad1581d15a6fb354a78a1b0b2aafa44b76b38"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "high_resolution_clock",
+						"t": "std::chrono::high_resolution_clock",
+						"i": "std::chrono::high_resolution_clock",
+						"r": "typedef steady_clock high_resolution_clock",
+						"s": "std::__1::chrono",
+						"u": "HIGH_RESOLUTION_CLOCK",
+						"q": "std::chrono",
+						"w": "STD::CHRONO",
+						"y": "std::chrono::steady_clock",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "932d044b0117c9ec15b5dd9c92335ef6b28dc7ac"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/steady_clock.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_STEADY_CLOCK_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_STEADY_CLOCK_H",
+						"r": "_LIBCPP___CHRONO_STEADY_CLOCK_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_STEADY_CLOCK_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7511c414626716498557b9ed36f735dbe49ed08"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "steady_clock",
+						"t": "std::chrono::steady_clock",
+						"i": "std::chrono::steady_clock",
+						"r": "steady_clock",
+						"s": "std::__1::chrono",
+						"u": "STEADY_CLOCK",
+						"q": "std::chrono::steady_clock",
+						"w": "STD::CHRONO::STEADY_CLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "425901714fd9759918ddb752290955ac5da717dc"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration",
+						"t": "std::chrono::steady_clock::duration",
+						"i": "std::chrono::steady_clock::duration",
+						"r": "typedef nanoseconds duration",
+						"s": "std::__1::chrono",
+						"u": "DURATION",
+						"q": "std::chrono::steady_clock",
+						"w": "STD::CHRONO::STEADY_CLOCK",
+						"y": "std::chrono::nanoseconds",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71cf07db82b99c5f604d92d1b7aab0aed70fed44"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rep",
+						"t": "std::chrono::steady_clock::rep",
+						"i": "std::chrono::steady_clock::rep",
+						"r": "typedef duration::rep rep",
+						"s": "std::__1::chrono",
+						"u": "REP",
+						"q": "std::chrono::steady_clock",
+						"w": "STD::CHRONO::STEADY_CLOCK",
+						"y": "std::chrono::duration::rep",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e418d21ac8c959d2e88f6f0c62ebb88b26fdb98f"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "period",
+						"t": "std::chrono::steady_clock::period",
+						"i": "std::chrono::steady_clock::period",
+						"r": "typedef duration::period period",
+						"s": "std::__1::chrono",
+						"u": "PERIOD",
+						"q": "std::chrono::steady_clock",
+						"w": "STD::CHRONO::STEADY_CLOCK",
+						"y": "std::chrono::duration::period",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8dedf79a4cd275083e911dc100653a539f64e6ba"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_point",
+						"t": "std::chrono::steady_clock::time_point",
+						"i": "std::chrono::steady_clock::time_point",
+						"r": "typedef chrono::time_point<steady_clock, duration> time_point",
+						"s": "std::__1::chrono",
+						"u": "TIME_POINT",
+						"q": "std::chrono::steady_clock",
+						"w": "STD::CHRONO::STEADY_CLOCK",
+						"y": "std::chrono::time_point",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1eca9f67b50f68f13b2516c880b6a7727ee93cc8"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "is_steady",
+						"t": "const bool",
+						"i": "std::__1::chrono::steady_clock::is_steady",
+						"r": "static constexpr bool is_steady",
+						"s": "std::__1::chrono",
+						"u": "IS_STEADY",
+						"q": "std::__1::chrono::steady_clock",
+						"w": "STD::__1::CHRONO::STEADY_CLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eee1b36242dc6620456720ac0eba4f8e0941ccb9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "now",
+						"t": "time_point () noexcept",
+						"i": "std::__1::chrono::steady_clock::now()",
+						"r": "static time_point now()",
+						"s": "std::__1::chrono",
+						"u": "NOW",
+						"q": "std::__1::chrono::steady_clock",
+						"w": "STD::__1::CHRONO::STEADY_CLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "18017f86dc038b1474559b7a5aa309718b8d5c03"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/time_point.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_TIME_POINT_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_TIME_POINT_H",
+						"r": "_LIBCPP___CHRONO_TIME_POINT_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_TIME_POINT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "425b76838e83789b3869a3412ff73e95a6028a1c"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_point",
+						"t": "",
+						"i": "std::__1::chrono::time_point",
+						"r": "template <class _Clock, class _Duration",
+						"s": "std::__1::chrono",
+						"u": "TIME_POINT",
+						"q": "std::__1::chrono::time_point",
+						"w": "STD::__1::CHRONO::TIME_POINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "adef399f8073894b3fa25fe83a996a07ecec61ff"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "clock",
+						"t": "std::chrono::time_point::clock",
+						"i": "std::chrono::time_point::clock",
+						"r": "typedef _Clock clock",
+						"s": "std::__1::chrono",
+						"u": "CLOCK",
+						"q": "std::chrono::time_point",
+						"w": "STD::CHRONO::TIME_POINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f5966f004477e0ea0a4c7261e95a3fbd090d1fdd"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration",
+						"t": "std::chrono::time_point::duration",
+						"i": "std::chrono::time_point::duration",
+						"r": "typedef _Duration duration",
+						"s": "std::__1::chrono",
+						"u": "DURATION",
+						"q": "std::chrono::time_point",
+						"w": "STD::CHRONO::TIME_POINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9b396b88203105477d6a2c6f1d00deb5a10eb41"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rep",
+						"t": "std::chrono::time_point::rep",
+						"i": "std::chrono::time_point::rep",
+						"r": "typedef typename duration::rep rep",
+						"s": "std::__1::chrono",
+						"u": "REP",
+						"q": "std::chrono::time_point",
+						"w": "STD::CHRONO::TIME_POINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f722a867727d0d20b10407c67459e4270ea6457"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "period",
+						"t": "std::chrono::time_point::period",
+						"i": "std::chrono::time_point::period",
+						"r": "typedef typename duration::period period",
+						"s": "std::__1::chrono",
+						"u": "PERIOD",
+						"q": "std::chrono::time_point",
+						"w": "STD::CHRONO::TIME_POINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b7a78f538302f3cab775f0899b818ac10f2c40a7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__d_",
+						"t": "duration",
+						"i": "std::__1::chrono::time_point::__d_",
+						"r": "duration __d_",
+						"s": "std::__1::chrono",
+						"u": "__D_",
+						"q": "std::__1::chrono::time_point",
+						"w": "STD::__1::CHRONO::TIME_POINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "568c76b444fb683768deed19ca5dbe70084f74f1"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_point<_Clock, _Duration>",
+						"t": "void ()",
+						"i": "std::__1::chrono::time_point::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr time_point<_Clock, _Duration>()",
+						"s": "std::__1::chrono",
+						"u": "TIME_POINT<_CLOCK, _DURATION>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b544689128c1d146a09efc17e504b366ef5b30e"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_point<_Clock, _Duration>",
+						"t": "void (const duration &)",
+						"i": "std::__1::chrono::time_point::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr explicit time_point<_Clock, _Duration>(const duration& __d)",
+						"s": "std::__1::chrono",
+						"u": "TIME_POINT<_CLOCK, _DURATION>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93c6081c07a5ed386b4e3782b4122f83ec748eb9"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_point<_Clock, _Duration>",
+						"t": "void (const time_point<clock, _Duration2> &)",
+						"i": "std::__1::chrono::time_point::",
+						"r": "template <class _Duration2, __enable_if_t<is_convertible<_Duration2, duration>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "TIME_POINT<_CLOCK, _DURATION>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e09e3c638421fe4e26e58a91d019be93ddc3932"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_since_epoch",
+						"t": "duration () const",
+						"i": "std::__1::chrono::time_point::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr duration time_since_epoch() const",
+						"s": "std::__1::chrono",
+						"u": "TIME_SINCE_EPOCH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f19a9fd47d89e4e1cb7546558eb0dd7b13c5f9c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator+=",
+						"t": "time_point<_Clock, _Duration> &(const duration &)",
+						"i": "std::__1::chrono::time_point::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr time_point<_Clock, _Duration>& operator+",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR+=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b94b55980890e66fba368f9ee78419a5480a3204"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator-=",
+						"t": "time_point<_Clock, _Duration> &(const duration &)",
+						"i": "std::__1::chrono::time_point::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr time_point<_Clock, _Duration>& operator-",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR-=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de03686e4bbabba08cae68a89caab261ddd4c4b3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "min",
+						"t": "time_point<_Clock, _Duration> () noexcept",
+						"i": "std::__1::chrono::time_point::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr time_point<_Clock, _Duration> min()",
+						"s": "std::__1::chrono",
+						"u": "MIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a83797332be41b858d260566a0a23c0f5e4f62f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "max",
+						"t": "time_point<_Clock, _Duration> () noexcept",
+						"i": "std::__1::chrono::time_point::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr time_point<_Clock, _Duration> max()",
+						"s": "std::__1::chrono",
+						"u": "MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "089c85748ee0754e05e3d3106b48cb26869a4ea5"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::common_type<time_point<type-parameter-0-0, type-parameter-0-1>, time_point<type-parameter-0-0, type-parameter-0-2>>::type",
+						"i": "std::common_type::type",
+						"r": "typedef chrono::time_point<_Clock, typename common_type<_Duration1, _Duration2>::type> type",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::common_type",
+						"w": "STD::COMMON_TYPE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e5561a3b1d817de7e5dababa7d08221199f4085"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_point_cast",
+						"t": "time_point<_Clock, _ToDuration> (const time_point<_Clock, _Duration> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _ToDuration, class _Clock, class _Duration> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr time_point<_Clock, _ToDuration> time_point_cast(const time_point<_Clock, _Duration>& __t)",
+						"s": "std::__1::chrono",
+						"u": "TIME_POINT_CAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ad23e486b9ce2cef8f37cfc00c173d4c696992c6"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "floor",
+						"t": "time_point<_Clock, _ToDuration> (const time_point<_Clock, _Duration> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _ToDuration, class _Clock, class _Duration, enable_if_t<__is_duration<_ToDuration>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "FLOOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "86d008d08f16a4f900a13b74fe11cf35e4b97a98"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ceil",
+						"t": "time_point<_Clock, _ToDuration> (const time_point<_Clock, _Duration> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _ToDuration, class _Clock, class _Duration, enable_if_t<__is_duration<_ToDuration>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "CEIL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a20659b36f69697c158be0a5d61d583be580e6e8"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "round",
+						"t": "time_point<_Clock, _ToDuration> (const time_point<_Clock, _Duration> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _ToDuration, class _Clock, class _Duration, enable_if_t<__is_duration<_ToDuration>::value, int>",
+						"s": "std::__1::chrono",
+						"u": "ROUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "004bff2ec07777f1c4f91ecaeb8de5104f3d2484"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "abs",
+						"t": "duration<_Rep, _Period> (duration<_Rep, _Period>)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep, class _Period, enable_if_t<numeric_limits<_Rep>::is_signed, int>",
+						"s": "std::__1::chrono",
+						"u": "ABS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "35511c1e0cd8adf1020c0fa78015c27ba6abf133"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const time_point<_Clock, _Duration1> &, const time_point<_Clock, _Duration2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Duration2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "66b50e872b0f4f961e66896259f1709b4aca7ff9"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const time_point<_Clock, _Duration1> &, const time_point<_Clock, _Duration2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Duration2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator!",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af99db9a70a0b99e473cf044626ba4ae2c82d0c9"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<",
+						"t": "bool (const time_point<_Clock, _Duration1> &, const time_point<_Clock, _Duration2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Duration2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator<(const time_point<_Clock, _Duration1>& __lhs, const time_point<_Clock, _Duration2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR<",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "03720dce7910f0bb3a005db2a81ef7db88895991"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator>",
+						"t": "bool (const time_point<_Clock, _Duration1> &, const time_point<_Clock, _Duration2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Duration2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator>(const time_point<_Clock, _Duration1>& __lhs, const time_point<_Clock, _Duration2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "baad6bbdb95d0896d9b31f4a49679982e11728e9"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<=",
+						"t": "bool (const time_point<_Clock, _Duration1> &, const time_point<_Clock, _Duration2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Duration2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator<",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR<=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3c51a20c1e6197dfc0ce1f0b0e388603780dfc9d"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator>=",
+						"t": "bool (const time_point<_Clock, _Duration1> &, const time_point<_Clock, _Duration2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Duration2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr bool operator>",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR>=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5df78c46eac5df89f6cef9c77706f7d58da08805"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator+",
+						"t": "time_point<_Clock, typename common_type<_Duration1, duration<_Rep2, _Period2>>::type> (const time_point<_Clock, _Duration1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr time_point<_Clock, typename common_type<_Duration1, duration<_Rep2, _Period2>>::type> operator+(const time_point<_Clock, _Duration1>& __lhs, const duration<_Rep2, _Period2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR+",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "433fcdf8efb10a97c6633ea23bf80e11d0e38f08"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator+",
+						"t": "time_point<_Clock, typename common_type<duration<_Rep1, _Period1>, _Duration2>::type> (const duration<_Rep1, _Period1> &, const time_point<_Clock, _Duration2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Rep1, class _Period1, class _Clock, class _Duration2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr time_point<_Clock, typename common_type<duration<_Rep1, _Period1>, _Duration2>::type> operator+(const duration<_Rep1, _Period1>& __lhs, const time_point<_Clock, _Duration2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR+",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e06b2d6783f93e73e5f7057451c99877bf1ca2fb"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator-",
+						"t": "time_point<_Clock, typename common_type<_Duration1, duration<_Rep2, _Period2>>::type> (const time_point<_Clock, _Duration1> &, const duration<_Rep2, _Period2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Rep2, class _Period2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr time_point<_Clock, typename common_type<_Duration1, duration<_Rep2, _Period2>>::type> operator-(const time_point<_Clock, _Duration1>& __lhs, const duration<_Rep2, _Period2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR-",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b8ff62883e57b480c44ec929fb39eb6e1eac3ea"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator-",
+						"t": "typename common_type<_Duration1, _Duration2>::type (const time_point<_Clock, _Duration1> &, const time_point<_Clock, _Duration2> &)",
+						"i": "std::__1::chrono::",
+						"r": "template <class _Clock, class _Duration1, class _Duration2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) constexpr typename common_type<_Duration1, _Duration2>::type operator-(const time_point<_Clock, _Duration1>& __lhs, const time_point<_Clock, _Duration2>& __rhs)",
+						"s": "std::__1::chrono",
+						"u": "OPERATOR-",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4725d612ad6046103d3db5ad4b33c4fc8dccc30"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/system_clock.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_SYSTEM_CLOCK_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_SYSTEM_CLOCK_H",
+						"r": "_LIBCPP___CHRONO_SYSTEM_CLOCK_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_SYSTEM_CLOCK_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "52bca21bcc8c27a408680244beeaafed44ba9513"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "system_clock",
+						"t": "std::chrono::system_clock",
+						"i": "std::chrono::system_clock",
+						"r": "system_clock",
+						"s": "std::__1::chrono",
+						"u": "SYSTEM_CLOCK",
+						"q": "std::chrono::system_clock",
+						"w": "STD::CHRONO::SYSTEM_CLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "97caff6ee75abdfc1bcc7aef394f9e8e6b2a730b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration",
+						"t": "std::chrono::system_clock::duration",
+						"i": "std::chrono::system_clock::duration",
+						"r": "typedef microseconds duration",
+						"s": "std::__1::chrono",
+						"u": "DURATION",
+						"q": "std::chrono::system_clock",
+						"w": "STD::CHRONO::SYSTEM_CLOCK",
+						"y": "std::chrono::microseconds",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b189669258032c74213efe09cdf9135a9a3e4d34"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rep",
+						"t": "std::chrono::system_clock::rep",
+						"i": "std::chrono::system_clock::rep",
+						"r": "typedef duration::rep rep",
+						"s": "std::__1::chrono",
+						"u": "REP",
+						"q": "std::chrono::system_clock",
+						"w": "STD::CHRONO::SYSTEM_CLOCK",
+						"y": "std::chrono::duration::rep",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e418d21ac8c959d2e88f6f0c62ebb88b26fdb98f"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "period",
+						"t": "std::chrono::system_clock::period",
+						"i": "std::chrono::system_clock::period",
+						"r": "typedef duration::period period",
+						"s": "std::__1::chrono",
+						"u": "PERIOD",
+						"q": "std::chrono::system_clock",
+						"w": "STD::CHRONO::SYSTEM_CLOCK",
+						"y": "std::chrono::duration::period",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8dedf79a4cd275083e911dc100653a539f64e6ba"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_point",
+						"t": "std::chrono::system_clock::time_point",
+						"i": "std::chrono::system_clock::time_point",
+						"r": "typedef chrono::time_point<system_clock> time_point",
+						"s": "std::__1::chrono",
+						"u": "TIME_POINT",
+						"q": "std::chrono::system_clock",
+						"w": "STD::CHRONO::SYSTEM_CLOCK",
+						"y": "std::chrono::time_point",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c8776a23149e9539e1042b2196e4509a66bc6196"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "is_steady",
+						"t": "const bool",
+						"i": "std::__1::chrono::system_clock::is_steady",
+						"r": "static constexpr bool is_steady",
+						"s": "std::__1::chrono",
+						"u": "IS_STEADY",
+						"q": "std::__1::chrono::system_clock",
+						"w": "STD::__1::CHRONO::SYSTEM_CLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8094bb7f28ab88ae8f636001de1d971cbd1e5480"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "now",
+						"t": "time_point () noexcept",
+						"i": "std::__1::chrono::system_clock::now()",
+						"r": "static time_point now()",
+						"s": "std::__1::chrono",
+						"u": "NOW",
+						"q": "std::__1::chrono::system_clock",
+						"w": "STD::__1::CHRONO::SYSTEM_CLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "18017f86dc038b1474559b7a5aa309718b8d5c03"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "to_time_t",
+						"t": "time_t (const time_point &) noexcept",
+						"i": "std::__1::chrono::system_clock::to_time_t(const time_point&)",
+						"r": "static time_t to_time_t(const time_point& __t)",
+						"s": "std::__1::chrono",
+						"u": "TO_TIME_T",
+						"q": "std::__1::chrono::system_clock",
+						"w": "STD::__1::CHRONO::SYSTEM_CLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "795838f7105fc00342d480d451f2c04de7f56832"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "from_time_t",
+						"t": "time_point (time_t) noexcept",
+						"i": "std::__1::chrono::system_clock::from_time_t(time_t)",
+						"r": "static time_point from_time_t(time_t __t)",
+						"s": "std::__1::chrono",
+						"u": "FROM_TIME_T",
+						"q": "std::__1::chrono::system_clock",
+						"w": "STD::__1::CHRONO::SYSTEM_CLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64c2c4d08d86376ce3b973746f1f356611bd48a2"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/convert_to_timespec.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_CONVERT_TO_TIMESPEC_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_CONVERT_TO_TIMESPEC_H",
+						"r": "_LIBCPP___CHRONO_CONVERT_TO_TIMESPEC_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_CONVERT_TO_TIMESPEC_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "285527a13ad9c869d33d2fb2cdd30dde71207318"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__convert_to_timespec",
+						"t": "_TimeSpec (const chrono::nanoseconds &)",
+						"i": "std::__1::",
+						"r": "template <class _TimeSpec> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _TimeSpec __convert_to_timespec(const chrono::nanoseconds& __ns)",
+						"s": "std::__1",
+						"u": "__CONVERT_TO_TIMESPEC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "beedea0c801f84e5d730d410b2804f70784a7719"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/statically_widen.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_STATICALLY_WIDEN_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_STATICALLY_WIDEN_H",
+						"r": "_LIBCPP___CHRONO_STATICALLY_WIDEN_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_STATICALLY_WIDEN_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd29f8e4a4f4960b64f18f4572a4c7fd0ee03165"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/calendar.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_CALENDAR_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_CALENDAR_H",
+						"r": "_LIBCPP___CHRONO_CALENDAR_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_CALENDAR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10caa156bc154d5e5d5c1e729429a3876e4ad44a"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/convert_to_tm.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_CONVERT_TO_TM_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_CONVERT_TO_TM_H",
+						"r": "_LIBCPP___CHRONO_CONVERT_TO_TM_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_CONVERT_TO_TM_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "095960d53f525228044accfe198b919919c76a13"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/concepts.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_CONCEPTS_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_CONCEPTS_H",
+						"r": "_LIBCPP___CHRONO_CONCEPTS_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_CONCEPTS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a0074104bc05d501200b8970c3be05ab499b881c"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/hh_mm_ss.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_HH_MM_SS_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_HH_MM_SS_H",
+						"r": "_LIBCPP___CHRONO_HH_MM_SS_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_HH_MM_SS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3921c46afef97131c497a82f42dec485d860c9a6"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/day.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_DAY_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_DAY_H",
+						"r": "_LIBCPP___CHRONO_DAY_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_DAY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81aafd260131355afaa7f4fe6b47e5daa4d9c0c1"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/file_clock.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_FILE_CLOCK_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_FILE_CLOCK_H",
+						"r": "_LIBCPP___CHRONO_FILE_CLOCK_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_FILE_CLOCK_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28141deb0922badaa883f970bb56a70256ff0781"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_FilesystemClock",
+						"t": "std::filesystem::_FilesystemClock",
+						"i": "std::filesystem::_FilesystemClock",
+						"r": "_FilesystemClock",
+						"s": "std::__1::__fs::filesystem",
+						"u": "_FILESYSTEMCLOCK",
+						"q": "std::filesystem::_FilesystemClock",
+						"w": "STD::FILESYSTEM::_FILESYSTEMCLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c47b7334aa89dfacd9787d80782035d7b70ad6a"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "_FilesystemClock",
+						"t": "std::filesystem::_FilesystemClock",
+						"i": "std::filesystem::_FilesystemClock",
+						"r": "_FilesystemClock",
+						"s": "std::__1::__fs::filesystem",
+						"u": "_FILESYSTEMCLOCK",
+						"q": "std::filesystem::_FilesystemClock",
+						"w": "STD::FILESYSTEM::_FILESYSTEMCLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e47119781f06f4f2829a29cfd28358dda3183d8e"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rep",
+						"t": "std::filesystem::_FilesystemClock::rep",
+						"i": "std::filesystem::_FilesystemClock::rep",
+						"r": "typedef __int128_t rep",
+						"s": "std::__1::__fs::filesystem",
+						"u": "REP",
+						"q": "std::filesystem::_FilesystemClock",
+						"w": "STD::FILESYSTEM::_FILESYSTEMCLOCK",
+						"y": "__int128_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bfb6856a2eed82a80015bed104140778826b2928"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "period",
+						"t": "std::filesystem::_FilesystemClock::period",
+						"i": "std::filesystem::_FilesystemClock::period",
+						"r": "typedef nano period",
+						"s": "std::__1::__fs::filesystem",
+						"u": "PERIOD",
+						"q": "std::filesystem::_FilesystemClock",
+						"w": "STD::FILESYSTEM::_FILESYSTEMCLOCK",
+						"y": "std::nano",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14d1409e919751e004028b9b160caee4ad832fb0"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "duration",
+						"t": "std::filesystem::_FilesystemClock::duration",
+						"i": "std::filesystem::_FilesystemClock::duration",
+						"r": "typedef chrono::duration<rep, period> duration",
+						"s": "std::__1::__fs::filesystem",
+						"u": "DURATION",
+						"q": "std::filesystem::_FilesystemClock",
+						"w": "STD::FILESYSTEM::_FILESYSTEMCLOCK",
+						"y": "std::chrono::duration",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c25051b1bb6e2b0ae061e24d96c683e010db855"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time_point",
+						"t": "std::filesystem::_FilesystemClock::time_point",
+						"i": "std::filesystem::_FilesystemClock::time_point",
+						"r": "typedef chrono::time_point<_FilesystemClock> time_point",
+						"s": "std::__1::__fs::filesystem",
+						"u": "TIME_POINT",
+						"q": "std::filesystem::_FilesystemClock",
+						"w": "STD::FILESYSTEM::_FILESYSTEMCLOCK",
+						"y": "std::chrono::time_point",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c5817929ca08de2a853158331f0ba37a3c577a27"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "is_steady",
+						"t": "const bool",
+						"i": "std::__1::__fs::filesystem::_FilesystemClock::is_steady",
+						"r": "static constexpr bool is_steady",
+						"s": "std::__1::__fs::filesystem",
+						"u": "IS_STEADY",
+						"q": "std::__1::__fs::filesystem::_FilesystemClock",
+						"w": "STD::__1::__FS::FILESYSTEM::_FILESYSTEMCLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8094bb7f28ab88ae8f636001de1d971cbd1e5480"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "now",
+						"t": "time_point () noexcept",
+						"i": "std::__1::__fs::filesystem::_FilesystemClock::now()",
+						"r": "static time_point now()",
+						"s": "std::__1::__fs::filesystem",
+						"u": "NOW",
+						"q": "std::__1::__fs::filesystem::_FilesystemClock",
+						"w": "STD::__1::__FS::FILESYSTEM::_FILESYSTEMCLOCK",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "09373e97b6fb84225d34bdab6ae47cf0dec510d2"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/month.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_MONTH_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_MONTH_H",
+						"r": "_LIBCPP___CHRONO_MONTH_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_MONTH_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e548dd6a45fc413f814e5f488cf149424627e42c"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/month_weekday.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_MONTH_WEEKDAY_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_MONTH_WEEKDAY_H",
+						"r": "_LIBCPP___CHRONO_MONTH_WEEKDAY_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_MONTH_WEEKDAY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0dd5bffdd572333506838684d61b6a3bb1ee35b1"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/weekday.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_WEEKDAY_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_WEEKDAY_H",
+						"r": "_LIBCPP___CHRONO_WEEKDAY_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_WEEKDAY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "865b3be0d059631a333af888e55c28b8ca2f6522"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/monthday.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_MONTHDAY_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_MONTHDAY_H",
+						"r": "_LIBCPP___CHRONO_MONTHDAY_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_MONTHDAY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2308d21fb455b26b2a0c28128f583bc9bbd1fde2"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/year.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_YEAR_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_YEAR_H",
+						"r": "_LIBCPP___CHRONO_YEAR_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_YEAR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ff7c4bc9688f1b57999d5758390304ab8bd4898c"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/year_month.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_YEAR_MONTH_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_YEAR_MONTH_H",
+						"r": "_LIBCPP___CHRONO_YEAR_MONTH_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_YEAR_MONTH_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "37699732aadf7f01dabc90d9f735262e707d3824"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/year_month_day.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_YEAR_MONTH_DAY_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_YEAR_MONTH_DAY_H",
+						"r": "_LIBCPP___CHRONO_YEAR_MONTH_DAY_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_YEAR_MONTH_DAY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08c51020ebef9ecfe5224fcbe9c4ac26e2b54972"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/year_month_weekday.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_YEAR_MONTH_WEEKDAY_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_YEAR_MONTH_WEEKDAY_H",
+						"r": "_LIBCPP___CHRONO_YEAR_MONTH_WEEKDAY_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_YEAR_MONTH_WEEKDAY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd1e58f6446240485ef1ab1289c3ce11cfdf2ba8"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/literals.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CHRONO_LITERALS_H",
+						"t": "",
+						"i": "_LIBCPP___CHRONO_LITERALS_H",
+						"r": "_LIBCPP___CHRONO_LITERALS_H",
+						"s": "",
+						"u": "_LIBCPP___CHRONO_LITERALS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96ebc4320ff0a26a6b66be7f1491cd6bed9e8ec3"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/formatter.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/ostream.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/parser_std_format_spec.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/tzdb.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__chrono/tzdb_list.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

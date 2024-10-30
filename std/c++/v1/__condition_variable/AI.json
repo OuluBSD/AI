@@ -1,0 +1,792 @@
+{
+	"saved_hash": "3bd0b86a954a6f56c138c0ffb70e0cc7a180fd60",
+	"files": [
+		{
+			"key": "c++/v1/__condition_variable/condition_variable.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___CONDITION_VARIABLE_CONDITION_VARIABLE_H",
+						"t": "",
+						"i": "_LIBCPP___CONDITION_VARIABLE_CONDITION_VARIABLE_H",
+						"r": "_LIBCPP___CONDITION_VARIABLE_CONDITION_VARIABLE_H",
+						"s": "",
+						"u": "_LIBCPP___CONDITION_VARIABLE_CONDITION_VARIABLE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0dae0f6ac06084a6f673804207b0b3aaf12daba1"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cv_status",
+						"t": "std::cv_status",
+						"i": "std::cv_status",
+						"r": "enum cv_status : int",
+						"s": "std::__1",
+						"u": "CV_STATUS",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5135233097b2b897ca8ba06fd7cc15ff9326175a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_timeout",
+						"t": "std::cv_status",
+						"i": "std::__1::no_timeout",
+						"r": "no_timeout",
+						"s": "std::__1",
+						"u": "NO_TIMEOUT",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b9d478991a71a50fd2f179aac36c441901787382"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "timeout",
+						"t": "std::cv_status",
+						"i": "std::__1::timeout",
+						"r": "timeout",
+						"s": "std::__1",
+						"u": "TIMEOUT",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "56d3c9490be2608ac36f5a4805bfec2f21f7f982"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "condition_variable",
+						"t": "std::condition_variable",
+						"i": "std::condition_variable",
+						"r": "condition_variable",
+						"s": "std::__1",
+						"u": "CONDITION_VARIABLE",
+						"q": "std::condition_variable",
+						"w": "STD::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61d66ef51aecbecbec5c5466e22ecaf9324f883a"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__cv_",
+						"t": "__libcpp_condvar_t",
+						"i": "std::__1::condition_variable::__cv_",
+						"r": "__libcpp_condvar_t __cv_",
+						"s": "std::__1",
+						"u": "__CV_",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7eabcbe65bf57ad45dfe1fe1a4b94fba81dcaf44"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "condition_variable",
+						"t": "void () noexcept",
+						"i": "std::__1::condition_variable::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) condition_variable()",
+						"s": "std::__1",
+						"u": "CONDITION_VARIABLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6cb1509c72114fb16f0898a156eeceaa0e950a4e"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~condition_variable",
+						"t": "void ()",
+						"i": "std::__1::condition_variable::~()=default",
+						"r": "~condition_variable()",
+						"s": "std::__1",
+						"u": "~CONDITION_VARIABLE",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d6ed687ed0158f35774254388d7755b141d7d7a"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "condition_variable",
+						"t": "void (const condition_variable &)",
+						"i": "std::__1::condition_variable::condition_variable(const condition_variable&)=delete",
+						"r": "condition_variable(const condition_variable&)",
+						"s": "std::__1",
+						"u": "CONDITION_VARIABLE",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe9a5dd690b3f1e167950356d1f1676817de0fa8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "condition_variable &(const condition_variable &)",
+						"i": "std::__1::condition_variable::operator=(const condition_variable&)=delete",
+						"r": "condition_variable& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee7608d8f9e4255e8cec0f212d2bd65373665387"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "notify_one",
+						"t": "void () noexcept",
+						"i": "std::__1::condition_variable::notify_one()",
+						"r": "void notify_one()",
+						"s": "std::__1",
+						"u": "NOTIFY_ONE",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b05152b7cf0741b7593da04f12bc644276429ee"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "notify_all",
+						"t": "void () noexcept",
+						"i": "std::__1::condition_variable::notify_all()",
+						"r": "void notify_all()",
+						"s": "std::__1",
+						"u": "NOTIFY_ALL",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d38cf83364e0b00cf0495ff9d6c414300cab73b0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait",
+						"t": "void (unique_lock<mutex> &) noexcept",
+						"i": "std::__1::condition_variable::wait(unique_lock&)",
+						"r": "void wait(unique_lock<mutex>& __lk)",
+						"s": "std::__1",
+						"u": "WAIT",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1bfac57f535551b7c3ee407965eb3fd09fa6912c"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait",
+						"t": "void (unique_lock<mutex> &, _Predicate)",
+						"i": "std::__1::condition_variable::wait(unique_lock&,_Predicate)",
+						"r": "template <class _Predicate> void wait(unique_lock<mutex>& __lk, _Predicate __pred)",
+						"s": "std::__1",
+						"u": "WAIT",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "35f224c87b7251278a3edc7c35dd429938a91140"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait_until",
+						"t": "cv_status (unique_lock<mutex> &, const chrono::time_point<_Clock, _Duration> &)",
+						"i": "std::__1::condition_variable::wait_until(unique_lock&,const chrono::time_point&)",
+						"r": "template <class _Clock, class _Duration> cv_status wait_until(unique_lock<mutex>& __lk, const chrono::time_point<_Clock, _Duration>& __t)",
+						"s": "std::__1",
+						"u": "WAIT_UNTIL",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af7d5f1b9fc08a4ce27c0b3ec04531c62c5f3ec5"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait_until",
+						"t": "bool (unique_lock<mutex> &, const chrono::time_point<_Clock, _Duration> &, _Predicate)",
+						"i": "std::__1::condition_variable::wait_until(unique_lock&,const chrono::time_point&,_Predicate)",
+						"r": "template <class _Clock, class _Duration, class _Predicate> bool wait_until(unique_lock<mutex>& __lk, const chrono::time_point<_Clock, _Duration>& __t, _Predicate __pred)",
+						"s": "std::__1",
+						"u": "WAIT_UNTIL",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2be4cd61b29c91a3c2ffe828986d42b6bc640a96"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait_for",
+						"t": "cv_status (unique_lock<mutex> &, const chrono::duration<_Rep, _Period> &)",
+						"i": "std::__1::condition_variable::wait_for(unique_lock&,const chrono::duration&)",
+						"r": "template <class _Rep, class _Period> cv_status wait_for(unique_lock<mutex>& __lk, const chrono::duration<_Rep, _Period>& __d)",
+						"s": "std::__1",
+						"u": "WAIT_FOR",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71e51c221e3255c0af198e1d9dfaf320c4602b57"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait_for",
+						"t": "bool (unique_lock<mutex> &, const chrono::duration<_Rep, _Period> &, _Predicate)",
+						"i": "std::__1::condition_variable::wait_for(unique_lock&,const chrono::duration&,_Predicate)",
+						"r": "template <class _Rep, class _Period, class _Predicate> bool wait_for(unique_lock<mutex>& __lk, const chrono::duration<_Rep, _Period>& __d, _Predicate __pred) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1",
+						"u": "WAIT_FOR",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31326d0cb09a192acd947a73e161cab9079ed5da"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "native_handle_type",
+						"t": "std::condition_variable::native_handle_type",
+						"i": "std::condition_variable::native_handle_type",
+						"r": "typedef __libcpp_condvar_t *native_handle_type",
+						"s": "std::__1",
+						"u": "NATIVE_HANDLE_TYPE",
+						"q": "std::condition_variable",
+						"w": "STD::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b548563928aceade68f19e9650728282bde9182"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "native_handle",
+						"t": "native_handle_type ()",
+						"i": "std::__1::condition_variable::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) native_handle_type native_handle()",
+						"s": "std::__1",
+						"u": "NATIVE_HANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7259f38d8dbe9274f65031f1382f01ed0d0e5afc"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__do_timed_wait",
+						"t": "void (unique_lock<mutex> &, chrono::time_point<chrono::system_clock, chrono::nanoseconds>) noexcept",
+						"i": "std::__1::condition_variable::__do_timed_wait(unique_lock&,chrono::time_point)",
+						"r": "void __do_timed_wait(unique_lock<mutex>& __lk, chrono::time_point<chrono::system_clock, chrono::nanoseconds>)",
+						"s": "std::__1",
+						"u": "__DO_TIMED_WAIT",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "adae92d83a419cd42861959f4087d615418de9a9"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__do_timed_wait",
+						"t": "void (unique_lock<mutex> &, chrono::time_point<_Clock, chrono::nanoseconds>) noexcept",
+						"i": "std::__1::condition_variable::__do_timed_wait(unique_lock&,chrono::time_point)",
+						"r": "template <class _Clock> void __do_timed_wait(unique_lock<mutex>& __lk, chrono::time_point<_Clock, chrono::nanoseconds>) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1",
+						"u": "__DO_TIMED_WAIT",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "57fdf10666f72e039fa2992cf4632a0b6a1d1fff"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__safe_nanosecond_cast",
+						"t": "chrono::nanoseconds (chrono::duration<_Rep, _Period>)",
+						"i": "std::__1::",
+						"r": "template <class _Rep, class _Period, __enable_if_t<is_floating_point<_Rep>::value, int>",
+						"s": "std::__1",
+						"u": "__SAFE_NANOSECOND_CAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fba38144761ff591dc0870d454ae4d95a41a029e"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__safe_nanosecond_cast",
+						"t": "chrono::nanoseconds (chrono::duration<_Rep, _Period>)",
+						"i": "std::__1::",
+						"r": "template <class _Rep, class _Period, __enable_if_t<!is_floating_point<_Rep>::value, int>",
+						"s": "std::__1",
+						"u": "__SAFE_NANOSECOND_CAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a82e0e8b7e496d72c2077a28e386cd2bb9892f64"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait",
+						"t": "void (unique_lock<mutex> &, _Predicate)",
+						"i": "std::__1::condition_variable::wait(unique_lock&,_Predicate)",
+						"r": "template <class _Predicate> void wait(unique_lock<mutex>& __lk, _Predicate __pred)",
+						"s": "std::__1",
+						"u": "WAIT",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb3b160b7badaafd5121678dbd1820fb0875b231"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait_until",
+						"t": "cv_status (unique_lock<mutex> &, const chrono::time_point<_Clock, _Duration> &)",
+						"i": "std::__1::condition_variable::wait_until(unique_lock&,const chrono::time_point&)",
+						"r": "template <class _Clock, class _Duration> cv_status wait_until(unique_lock<mutex>& __lk, const chrono::time_point<_Clock, _Duration>& __t)",
+						"s": "std::__1",
+						"u": "WAIT_UNTIL",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "705cb4a09ef379fe6fa769ed4a92be425b985b7a"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait_until",
+						"t": "bool (unique_lock<mutex> &, const chrono::time_point<_Clock, _Duration> &, _Predicate)",
+						"i": "std::__1::condition_variable::wait_until(unique_lock&,const chrono::time_point&,_Predicate)",
+						"r": "template <class _Clock, class _Duration, class _Predicate> bool wait_until(unique_lock<mutex>& __lk, const chrono::time_point<_Clock, _Duration>& __t, _Predicate __pred)",
+						"s": "std::__1",
+						"u": "WAIT_UNTIL",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe19b8bdc9ede4fa5fb360b47becfdb6505814f4"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait_for",
+						"t": "cv_status (unique_lock<mutex> &, const chrono::duration<_Rep, _Period> &)",
+						"i": "std::__1::condition_variable::wait_for(unique_lock&,const chrono::duration&)",
+						"r": "template <class _Rep, class _Period> cv_status wait_for(unique_lock<mutex>& __lk, const chrono::duration<_Rep, _Period>& __d)",
+						"s": "std::__1",
+						"u": "WAIT_FOR",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab963104d4e5b671846ed976982539fa8a240087"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wait_for",
+						"t": "bool (unique_lock<mutex> &, const chrono::duration<_Rep, _Period> &, _Predicate)",
+						"i": "std::__1::condition_variable::wait_for(unique_lock&,const chrono::duration&,_Predicate)",
+						"r": "template <class _Rep, class _Period, class _Predicate> bool wait_for(unique_lock<mutex>& __lk, const chrono::duration<_Rep, _Period>& __d, _Predicate __pred)",
+						"s": "std::__1",
+						"u": "WAIT_FOR",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13019af9b53dfd383f2bead4b8ec4d9be028fc0d"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__do_timed_wait",
+						"t": "void (unique_lock<mutex> &, chrono::time_point<_Clock, chrono::nanoseconds>) noexcept",
+						"i": "std::__1::condition_variable::__do_timed_wait(unique_lock&,chrono::time_point)",
+						"r": "template <class _Clock> void __do_timed_wait(unique_lock<mutex>& __lk, chrono::time_point<_Clock, chrono::nanoseconds> __tp)",
+						"s": "std::__1",
+						"u": "__DO_TIMED_WAIT",
+						"q": "std::__1::condition_variable",
+						"w": "STD::__1::CONDITION_VARIABLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aafadeee24b04f2ee7a9bb8e45bb15f51cc5d7e7"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

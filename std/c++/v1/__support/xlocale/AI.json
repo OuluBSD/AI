@@ -1,0 +1,29 @@
+{
+	"saved_hash": "5fd4d10d44390511090da8fe576a9dc12bc2e8d2",
+	"files": [
+		{
+			"key": "c++/v1/__support/xlocale/__posix_l_fallback.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__support/xlocale/__strtonum_fallback.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__support/xlocale/__nop_locale_mgmt.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

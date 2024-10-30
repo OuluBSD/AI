@@ -1,0 +1,2356 @@
+{
+	"saved_hash": "f6bf33777d903dc1ee45065ec0bcdb5247381606",
+	"files": [
+		{
+			"key": "c++/v1/__tuple/tuple_element.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_TUPLE_ELEMENT_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_TUPLE_ELEMENT_H",
+						"r": "_LIBCPP___TUPLE_TUPLE_ELEMENT_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_TUPLE_ELEMENT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb40ad6a76e5fcd16428cc7722a5f4fca16b0167"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "tuple_element",
+						"t": "",
+						"i": "std::__1::tuple_element",
+						"r": "template <size_t _Ip, class _Tp> tuple_element",
+						"s": "std::__1",
+						"u": "TUPLE_ELEMENT",
+						"q": "std::__1::tuple_element",
+						"w": "STD::__1::TUPLE_ELEMENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a48b8b2d320fe1154a6bf016b0cbb28f194402f3"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::tuple_element<_Ip, const type-parameter-0-1>::type",
+						"i": "std::tuple_element::type",
+						"r": "typedef typename add_const<typename tuple_element<_Ip, _Tp>::type>::type type __attribute__((nodebug))",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::tuple_element",
+						"w": "STD::TUPLE_ELEMENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a72c1e19771365ecc607ca98a0afbcd9f5915463"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::tuple_element<_Ip, volatile type-parameter-0-1>::type",
+						"i": "std::tuple_element::type",
+						"r": "typedef typename add_volatile<typename tuple_element<_Ip, _Tp>::type>::type type __attribute__((nodebug))",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::tuple_element",
+						"w": "STD::TUPLE_ELEMENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d3cc3f6dbf2e982f673857f066f81ac354f4860"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::tuple_element<_Ip, const volatile type-parameter-0-1>::type",
+						"i": "std::tuple_element::type",
+						"r": "typedef typename add_cv<typename tuple_element<_Ip, _Tp>::type>::type type __attribute__((nodebug))",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::tuple_element",
+						"w": "STD::TUPLE_ELEMENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ddbf3a5cdfa2258a879716ee5cc4bd6e25201578"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::tuple_element<_Ip, __tuple_types<type-parameter-0-1...>>::type",
+						"i": "std::tuple_element::type",
+						"r": "typedef __type_pack_element<_Ip, _Types...> type __attribute__((nodebug))",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::tuple_element",
+						"w": "STD::TUPLE_ELEMENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c903f50152185e9291f5380b811d813992e3754e"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "tuple_element_t",
+						"t": "std::tuple_element_t",
+						"i": "std::tuple_element_t",
+						"r": "using tuple_element_t __attribute__((nodebug))",
+						"s": "std::__1",
+						"u": "TUPLE_ELEMENT_T",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9e7e35e296d439b6c863e4d7b40913d0be65cb11"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__tuple/tuple_indices.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_MAKE_TUPLE_INDICES_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_MAKE_TUPLE_INDICES_H",
+						"r": "_LIBCPP___TUPLE_MAKE_TUPLE_INDICES_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_MAKE_TUPLE_INDICES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "894c979ea8fe17b404bf6452cda3c3a62e928c84"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__tuple_indices",
+						"t": "",
+						"i": "std::__1::__tuple_indices",
+						"r": "template <size_t ...> __tuple_indices",
+						"s": "std::__1",
+						"u": "__TUPLE_INDICES",
+						"q": "std::__1::__tuple_indices",
+						"w": "STD::__1::__TUPLE_INDICES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1df76be8ad9e086c81c8260bd020b23a2570054a"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__make_tuple_indices",
+						"t": "",
+						"i": "std::__1::__make_tuple_indices",
+						"r": "template <size_t _Ep, size_t _Sp",
+						"s": "std::__1",
+						"u": "__MAKE_TUPLE_INDICES",
+						"q": "std::__1::__make_tuple_indices",
+						"w": "STD::__1::__MAKE_TUPLE_INDICES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ff3ad4e53f4039d2e77a8648f65115eb0b68bbaf"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::__make_tuple_indices::type",
+						"i": "std::__make_tuple_indices::type",
+						"r": "typedef __make_indices_imp<_Ep, _Sp> type",
+						"s": "std::__1",
+						"u": "TYPE",
+						"q": "std::__make_tuple_indices",
+						"w": "STD::__MAKE_TUPLE_INDICES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "750fb0c2376c96eade5a7bd4e641cbdb3d9c247e"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__tuple/tuple_types.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_TUPLE_TYPES_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_TUPLE_TYPES_H",
+						"r": "_LIBCPP___TUPLE_TUPLE_TYPES_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_TUPLE_TYPES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca8a412242d5ad7bdcad363b12869b2a4ef4e34b"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__tuple_types",
+						"t": "",
+						"i": "std::__1::__tuple_types",
+						"r": "template <class ..._Tp> __tuple_types",
+						"s": "std::__1",
+						"u": "__TUPLE_TYPES",
+						"q": "std::__1::__tuple_types",
+						"w": "STD::__1::__TUPLE_TYPES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10b719e585c2fe2c6f2b793e31f5faeac66573b9"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__tuple/pair_like.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_PAIR_LIKE_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_PAIR_LIKE_H",
+						"r": "_LIBCPP___TUPLE_PAIR_LIKE_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_PAIR_LIKE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8f072db4e749784b9d74d4efe436c8246f00fa3c"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__tuple/tuple_like.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_TUPLE_LIKE_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_TUPLE_LIKE_H",
+						"r": "_LIBCPP___TUPLE_TUPLE_LIKE_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_TUPLE_LIKE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46d79fb3b0dbb3ce59514543c29335db38934f46"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__tuple/tuple_size.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_TUPLE_SIZE_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_TUPLE_SIZE_H",
+						"r": "_LIBCPP___TUPLE_TUPLE_SIZE_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_TUPLE_SIZE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "09b31f648cb8f9eeee7198c8049da4ae29833419"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "tuple_size",
+						"t": "",
+						"i": "std::__1::tuple_size",
+						"r": "template <class _Tp> tuple_size",
+						"s": "std::__1",
+						"u": "TUPLE_SIZE",
+						"q": "std::__1::tuple_size",
+						"w": "STD::__1::TUPLE_SIZE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "793783a7c139c621ba2c38021df5efa4602d54f5"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__enable_if_tuple_size_imp",
+						"t": "std::__enable_if_tuple_size_imp",
+						"i": "std::__enable_if_tuple_size_imp",
+						"r": "using __enable_if_tuple_size_imp",
+						"s": "std::__1",
+						"u": "__ENABLE_IF_TUPLE_SIZE_IMP",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a4695127ef4a7faa44fae2d71dc3f4b6705f2f52"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__tuple/sfinae_helpers.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_SFINAE_HELPERS_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_SFINAE_HELPERS_H",
+						"r": "_LIBCPP___TUPLE_SFINAE_HELPERS_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_SFINAE_HELPERS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f9b36d0fbee75b2ad526be63799e0bf3c16b3e4"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__all_dummy",
+						"t": "",
+						"i": "std::__1::__all_dummy",
+						"r": "template <bool ..._Preds> __all_dummy",
+						"s": "std::__1",
+						"u": "__ALL_DUMMY",
+						"q": "std::__1::__all_dummy",
+						"w": "STD::__1::__ALL_DUMMY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "948dfee85d66694d1c2ad0881bfbf015abd26381"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__all",
+						"t": "",
+						"i": "std::__1::__all",
+						"r": "template <bool ..._Pred> __all : _IsSame<__all_dummy<_Pred...>, __all_dummy<((void)_Pred , true)...>>",
+						"s": "std::__1",
+						"u": "__ALL",
+						"q": "std::__1::__all",
+						"w": "STD::__1::__ALL",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb5f393fd5aaa6490bafb48690b847f645fc94eb"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__tuple_sfinae_base",
+						"t": "std::__tuple_sfinae_base",
+						"i": "std::__tuple_sfinae_base",
+						"r": "__tuple_sfinae_base",
+						"s": "std::__1",
+						"u": "__TUPLE_SFINAE_BASE",
+						"q": "std::__tuple_sfinae_base",
+						"w": "STD::__TUPLE_SFINAE_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0fc5b8103ead8f526b833f88289b9eaa75051475"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__do_test",
+						"t": "auto (__tuple_types<_LArgs...>, __tuple_types<_RArgs...>) -> __all<__enable_if_t<_Trait<_LArgs, _RArgs>::value, bool>{true}...>",
+						"i": "std::__1::__tuple_sfinae_base::__do_test(__tuple_types,__tuple_types)",
+						"r": "template <template <class, class ...> class _Trait, class ..._LArgs, class ..._RArgs> static auto __do_test(__tuple_types<_LArgs...>, __tuple_types<_RArgs...>)",
+						"s": "std::__1",
+						"u": "__DO_TEST",
+						"q": "std::__1::__tuple_sfinae_base",
+						"w": "STD::__1::__TUPLE_SFINAE_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7559ccfc3d7863311b2472b012dd34517844b227"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__do_test",
+						"t": "auto (...) -> false_type",
+						"i": "std::__1::__tuple_sfinae_base::__do_test(...)",
+						"r": "template <template <class ...> class> static auto __do_test(...)",
+						"s": "std::__1",
+						"u": "__DO_TEST",
+						"q": "std::__1::__tuple_sfinae_base",
+						"w": "STD::__1::__TUPLE_SFINAE_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e07409a70211ad167c344e3e7fab98523aaf08e"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__constructible",
+						"t": "std::__tuple_sfinae_base::__constructible",
+						"i": "std::__tuple_sfinae_base::__constructible",
+						"r": "using __constructible",
+						"s": "std::__1",
+						"u": "__CONSTRUCTIBLE",
+						"q": "std::__tuple_sfinae_base",
+						"w": "STD::__TUPLE_SFINAE_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e836ed69f4a670d499fb677eb68707c80953169"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__convertible",
+						"t": "std::__tuple_sfinae_base::__convertible",
+						"i": "std::__tuple_sfinae_base::__convertible",
+						"r": "using __convertible",
+						"s": "std::__1",
+						"u": "__CONVERTIBLE",
+						"q": "std::__tuple_sfinae_base",
+						"w": "STD::__TUPLE_SFINAE_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "074a1eef4b510a5403e0a69ad286a9f86e2a7293"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__assignable",
+						"t": "std::__tuple_sfinae_base::__assignable",
+						"i": "std::__tuple_sfinae_base::__assignable",
+						"r": "using __assignable",
+						"s": "std::__1",
+						"u": "__ASSIGNABLE",
+						"q": "std::__tuple_sfinae_base",
+						"w": "STD::__TUPLE_SFINAE_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ff8e7c5f6f1dc5b291a078f927bf9c787bd38598"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__tuple_convertible",
+						"t": "",
+						"i": "std::__1::__tuple_convertible",
+						"r": "template <class _Tp, class _Up, bool",
+						"s": "std::__1",
+						"u": "__TUPLE_CONVERTIBLE",
+						"q": "std::__1::__tuple_convertible",
+						"w": "STD::__1::__TUPLE_CONVERTIBLE",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "690cd92449117201a642a64400d698f1be3263ac"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__tuple_constructible",
+						"t": "",
+						"i": "std::__1::__tuple_constructible",
+						"r": "template <class _Tp, class _Up, bool",
+						"s": "std::__1",
+						"u": "__TUPLE_CONSTRUCTIBLE",
+						"q": "std::__1::__tuple_constructible",
+						"w": "STD::__1::__TUPLE_CONSTRUCTIBLE",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d547bddf64817a480a375792470adee6e2baa904"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__tuple_assignable",
+						"t": "",
+						"i": "std::__1::__tuple_assignable",
+						"r": "template <class _Tp, class _Up, bool",
+						"s": "std::__1",
+						"u": "__TUPLE_ASSIGNABLE",
+						"q": "std::__1::__tuple_assignable",
+						"w": "STD::__1::__TUPLE_ASSIGNABLE",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5c5b9642af78645087f80d30061220e86d5459c5"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::tuple_element<_Ip, tuple<type-parameter-0-1...>>::type",
+						"i": "std::tuple_element::type",
+						"r": "typedef typename tuple_element<_Ip, __tuple_types<_Tp...>>::type type __attribute__((nodebug))",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::tuple_element",
+						"w": "STD::TUPLE_ELEMENT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0767a5d98d286470a5dffb863ada1a1b5a40de66"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__check_tuple_constructor_fail",
+						"t": "std::__check_tuple_constructor_fail",
+						"i": "std::__check_tuple_constructor_fail",
+						"r": "__check_tuple_constructor_fail",
+						"s": "std::__1",
+						"u": "__CHECK_TUPLE_CONSTRUCTOR_FAIL",
+						"q": "std::__check_tuple_constructor_fail",
+						"w": "STD::__CHECK_TUPLE_CONSTRUCTOR_FAIL",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5082d5855960b86622fd354af90c3a2d32f8bfb4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "__enable_explicit_default",
+						"t": "bool ()",
+						"i": "std::__1::__check_tuple_constructor_fail::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr bool __enable_explicit_default()",
+						"s": "std::__1",
+						"u": "__ENABLE_EXPLICIT_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f66e108c294e15124489cf535143efa04fdea1c8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "__enable_implicit_default",
+						"t": "bool ()",
+						"i": "std::__1::__check_tuple_constructor_fail::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr bool __enable_implicit_default()",
+						"s": "std::__1",
+						"u": "__ENABLE_IMPLICIT_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "58c254fd35d8eadfa40f0c2bf141c152d932200c"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__enable_explicit",
+						"t": "bool ()",
+						"i": "std::__1::__check_tuple_constructor_fail::",
+						"r": "template <class ...> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr bool __enable_explicit()",
+						"s": "std::__1",
+						"u": "__ENABLE_EXPLICIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e1d7a26e4750c84e7ee9b595de0a486e2ee8966"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__enable_implicit",
+						"t": "bool ()",
+						"i": "std::__1::__check_tuple_constructor_fail::",
+						"r": "template <class ...> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr bool __enable_implicit()",
+						"s": "std::__1",
+						"u": "__ENABLE_IMPLICIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "20102ea03017c71115a5469ea244efa4108aadb1"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__enable_assign",
+						"t": "bool ()",
+						"i": "std::__1::__check_tuple_constructor_fail::",
+						"r": "template <class ...> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) static constexpr bool __enable_assign()",
+						"s": "std::__1",
+						"u": "__ENABLE_ASSIGN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b47ace5169ff37bbfb1bee4ed0527df0c2f58691"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "",
+						"i": "std::__1::__sfinae_ctor_base",
+						"r": "template <bool _CanCopy, bool _CanMove> __sfinae_ctor_base",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77ec2d5f7753e6cbc646ad9f38c8a637ba047a01"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "std::__sfinae_ctor_base<false, false>",
+						"i": "std::__sfinae_ctor_base",
+						"r": "template<> __sfinae_ctor_base<false, false>",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__sfinae_ctor_base",
+						"w": "STD::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45f92b5ae38c0726cb30fea4c01c527a82da8464"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void ()",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base()=default",
+						"r": "__sfinae_ctor_base()",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7f844f8ebbf9a38916bf6f7c47dfd16331d245e3"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void (const __sfinae_ctor_base<false, false> &)",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base(const __sfinae_ctor_base&)=delete",
+						"r": "__sfinae_ctor_base(const __sfinae_ctor_base<false, false>&)",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "38c2213e5b9502c5bc9a57cdfca5c4da4d9818c9"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void (__sfinae_ctor_base<false, false> &&)",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base(__sfinae_ctor_base&&)=delete",
+						"r": "__sfinae_ctor_base(__sfinae_ctor_base<false, false>&&)",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c061dc574f401784db0fe1b14a854749b222f4e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_ctor_base<false, false> &(const __sfinae_ctor_base<false, false> &)",
+						"i": "std::__1::__sfinae_ctor_base::operator=(const __sfinae_ctor_base&)=default",
+						"r": "__sfinae_ctor_base<false, false>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1ca85f14f2cbd7ca95219f23add0e482b15710ad"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_ctor_base<false, false> &(__sfinae_ctor_base<false, false> &&)",
+						"i": "std::__1::__sfinae_ctor_base::operator=(__sfinae_ctor_base&&)=default",
+						"r": "__sfinae_ctor_base<false, false>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93243ed4b170abb9d7ee95a0da3892a50f5b43f9"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "std::__sfinae_ctor_base<true, false>",
+						"i": "std::__sfinae_ctor_base",
+						"r": "template<> __sfinae_ctor_base<true, false>",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__sfinae_ctor_base",
+						"w": "STD::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b18ca9bd986ca1425fd03e37c3da86806cb299b4"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void ()",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base()=default",
+						"r": "__sfinae_ctor_base()",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7f844f8ebbf9a38916bf6f7c47dfd16331d245e3"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void (const __sfinae_ctor_base<true, false> &)",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base(const __sfinae_ctor_base&)=default",
+						"r": "__sfinae_ctor_base(const __sfinae_ctor_base<true, false>&)",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c47d295e90dee5177f3c6d7e479b85627aebd7a"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void (__sfinae_ctor_base<true, false> &&)",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base(__sfinae_ctor_base&&)=delete",
+						"r": "__sfinae_ctor_base(__sfinae_ctor_base<true, false>&&)",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c061dc574f401784db0fe1b14a854749b222f4e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_ctor_base<true, false> &(const __sfinae_ctor_base<true, false> &)",
+						"i": "std::__1::__sfinae_ctor_base::operator=(const __sfinae_ctor_base&)=default",
+						"r": "__sfinae_ctor_base<true, false>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1ca85f14f2cbd7ca95219f23add0e482b15710ad"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_ctor_base<true, false> &(__sfinae_ctor_base<true, false> &&)",
+						"i": "std::__1::__sfinae_ctor_base::operator=(__sfinae_ctor_base&&)=default",
+						"r": "__sfinae_ctor_base<true, false>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93243ed4b170abb9d7ee95a0da3892a50f5b43f9"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "std::__sfinae_ctor_base<false, true>",
+						"i": "std::__sfinae_ctor_base",
+						"r": "template<> __sfinae_ctor_base<false, true>",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__sfinae_ctor_base",
+						"w": "STD::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d12ab4d0dfe123110ebc9752cb9a4a1a69fd47c"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void ()",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base()=default",
+						"r": "__sfinae_ctor_base()",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7f844f8ebbf9a38916bf6f7c47dfd16331d245e3"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void (const __sfinae_ctor_base<false, true> &)",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base(const __sfinae_ctor_base&)=delete",
+						"r": "__sfinae_ctor_base(const __sfinae_ctor_base<false, true>&)",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "38c2213e5b9502c5bc9a57cdfca5c4da4d9818c9"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_ctor_base",
+						"t": "void (__sfinae_ctor_base<false, true> &&)",
+						"i": "std::__1::__sfinae_ctor_base::__sfinae_ctor_base(__sfinae_ctor_base&&)=default",
+						"r": "__sfinae_ctor_base(__sfinae_ctor_base<false, true>&&)",
+						"s": "std::__1",
+						"u": "__SFINAE_CTOR_BASE",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "72930ee92c33cfac6136db656d022ef395a7a409"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_ctor_base<false, true> &(const __sfinae_ctor_base<false, true> &)",
+						"i": "std::__1::__sfinae_ctor_base::operator=(const __sfinae_ctor_base&)=default",
+						"r": "__sfinae_ctor_base<false, true>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1ca85f14f2cbd7ca95219f23add0e482b15710ad"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_ctor_base<false, true> &(__sfinae_ctor_base<false, true> &&)",
+						"i": "std::__1::__sfinae_ctor_base::operator=(__sfinae_ctor_base&&)=default",
+						"r": "__sfinae_ctor_base<false, true>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_ctor_base",
+						"w": "STD::__1::__SFINAE_CTOR_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93243ed4b170abb9d7ee95a0da3892a50f5b43f9"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "",
+						"i": "std::__1::__sfinae_assign_base",
+						"r": "template <bool _CanCopy, bool _CanMove> __sfinae_assign_base",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7642c8548d53b40383cdfe5da209b90c5cf28677"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "std::__sfinae_assign_base<false, false>",
+						"i": "std::__sfinae_assign_base",
+						"r": "template<> __sfinae_assign_base<false, false>",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__sfinae_assign_base",
+						"w": "STD::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a9064e0e34b99a75085f84b63ba980785dc14ccc"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void ()",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base()=default",
+						"r": "__sfinae_assign_base()",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ffd0b16ac8a16529e2a4c7fd34aea8fed6f55097"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void (const __sfinae_assign_base<false, false> &)",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base(const __sfinae_assign_base&)=default",
+						"r": "__sfinae_assign_base(const __sfinae_assign_base<false, false>&)",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be36530d1f4344814b553a4d2f949ae1ecb92d46"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void (__sfinae_assign_base<false, false> &&)",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base(__sfinae_assign_base&&)=default",
+						"r": "__sfinae_assign_base(__sfinae_assign_base<false, false>&&)",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61e4bd9d9ec935c6022f0d8cc242d29063f51c45"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_assign_base<false, false> &(const __sfinae_assign_base<false, false> &)",
+						"i": "std::__1::__sfinae_assign_base::operator=(const __sfinae_assign_base&)=delete",
+						"r": "__sfinae_assign_base<false, false>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0fa1458f9314738a0bc66d6f628289f26947ebbb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_assign_base<false, false> &(__sfinae_assign_base<false, false> &&)",
+						"i": "std::__1::__sfinae_assign_base::operator=(__sfinae_assign_base&&)=delete",
+						"r": "__sfinae_assign_base<false, false>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "baad4d3e49f83bad42930f5c0e4c9e11271f0400"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "std::__sfinae_assign_base<true, false>",
+						"i": "std::__sfinae_assign_base",
+						"r": "template<> __sfinae_assign_base<true, false>",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__sfinae_assign_base",
+						"w": "STD::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "174a4d1551349bbab5669c308e16432997f841f4"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void ()",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base()=default",
+						"r": "__sfinae_assign_base()",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ffd0b16ac8a16529e2a4c7fd34aea8fed6f55097"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void (const __sfinae_assign_base<true, false> &)",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base(const __sfinae_assign_base&)=default",
+						"r": "__sfinae_assign_base(const __sfinae_assign_base<true, false>&)",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be36530d1f4344814b553a4d2f949ae1ecb92d46"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void (__sfinae_assign_base<true, false> &&)",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base(__sfinae_assign_base&&)=default",
+						"r": "__sfinae_assign_base(__sfinae_assign_base<true, false>&&)",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61e4bd9d9ec935c6022f0d8cc242d29063f51c45"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_assign_base<true, false> &(const __sfinae_assign_base<true, false> &)",
+						"i": "std::__1::__sfinae_assign_base::operator=(const __sfinae_assign_base&)=default",
+						"r": "__sfinae_assign_base<true, false>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "171f127ae6dfe9b778b2ca814f07866690baaee4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_assign_base<true, false> &(__sfinae_assign_base<true, false> &&)",
+						"i": "std::__1::__sfinae_assign_base::operator=(__sfinae_assign_base&&)=delete",
+						"r": "__sfinae_assign_base<true, false>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "baad4d3e49f83bad42930f5c0e4c9e11271f0400"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "std::__sfinae_assign_base<false, true>",
+						"i": "std::__sfinae_assign_base",
+						"r": "template<> __sfinae_assign_base<false, true>",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__sfinae_assign_base",
+						"w": "STD::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f03d8c70479867aec82e678a4a522dec119cd97"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void ()",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base()=default",
+						"r": "__sfinae_assign_base()",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ffd0b16ac8a16529e2a4c7fd34aea8fed6f55097"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void (const __sfinae_assign_base<false, true> &)",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base(const __sfinae_assign_base&)=default",
+						"r": "__sfinae_assign_base(const __sfinae_assign_base<false, true>&)",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be36530d1f4344814b553a4d2f949ae1ecb92d46"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__sfinae_assign_base",
+						"t": "void (__sfinae_assign_base<false, true> &&)",
+						"i": "std::__1::__sfinae_assign_base::__sfinae_assign_base(__sfinae_assign_base&&)=default",
+						"r": "__sfinae_assign_base(__sfinae_assign_base<false, true>&&)",
+						"s": "std::__1",
+						"u": "__SFINAE_ASSIGN_BASE",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61e4bd9d9ec935c6022f0d8cc242d29063f51c45"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_assign_base<false, true> &(const __sfinae_assign_base<false, true> &)",
+						"i": "std::__1::__sfinae_assign_base::operator=(const __sfinae_assign_base&)=delete",
+						"r": "__sfinae_assign_base<false, true>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0fa1458f9314738a0bc66d6f628289f26947ebbb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "__sfinae_assign_base<false, true> &(__sfinae_assign_base<false, true> &&)",
+						"i": "std::__1::__sfinae_assign_base::operator=(__sfinae_assign_base&&)=default",
+						"r": "__sfinae_assign_base<false, true>& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::__sfinae_assign_base",
+						"w": "STD::__1::__SFINAE_ASSIGN_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "30bb493dce50887693abde15bfea13df0ab9a5c0"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__tuple/make_tuple_types.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_MAKE_TUPLE_TYPES_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_MAKE_TUPLE_TYPES_H",
+						"r": "_LIBCPP___TUPLE_MAKE_TUPLE_TYPES_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_MAKE_TUPLE_TYPES_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e10f73b642396ecbc7e19ea9e8f9bf403aebf4f5"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__make_tuple_types_flat",
+						"t": "",
+						"i": "std::__1::__make_tuple_types_flat",
+						"r": "template <class _TupleTypes, class _TupleIndices> __make_tuple_types_flat",
+						"s": "std::__1",
+						"u": "__MAKE_TUPLE_TYPES_FLAT",
+						"q": "std::__1::__make_tuple_types_flat",
+						"w": "STD::__1::__MAKE_TUPLE_TYPES_FLAT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f2f7757d6cadc6c83e894863bace846c9f898d7"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__apply_quals",
+						"t": "std::__make_tuple_types_flat<<type-parameter-0-1...>, __tuple_indices<_Idx...>>::__apply_quals",
+						"i": "std::__make_tuple_types_flat::__apply_quals",
+						"r": "using __apply_quals __attribute__((nodebug))",
+						"s": "",
+						"u": "__APPLY_QUALS",
+						"q": "std::__make_tuple_types_flat",
+						"w": "STD::__MAKE_TUPLE_TYPES_FLAT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "78b9715683190877c339227ddae8fb35d5dc0ce0"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__value_type",
+						"t": "std::__make_tuple_types_flat<array<type-parameter-0-0, _Size>, __tuple_indices<_Idx...>>::__value_type",
+						"i": "std::__make_tuple_types_flat::__value_type",
+						"r": "using __value_type",
+						"s": "",
+						"u": "__VALUE_TYPE",
+						"q": "std::__make_tuple_types_flat",
+						"w": "STD::__MAKE_TUPLE_TYPES_FLAT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b64f97a8db7330f125e00eaca2de356e5fcb11d"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__apply_quals",
+						"t": "std::__make_tuple_types_flat<array<type-parameter-0-0, _Size>, __tuple_indices<_Idx...>>::__apply_quals",
+						"i": "std::__make_tuple_types_flat::__apply_quals",
+						"r": "using __apply_quals",
+						"s": "",
+						"u": "__APPLY_QUALS",
+						"q": "std::__make_tuple_types_flat",
+						"w": "STD::__MAKE_TUPLE_TYPES_FLAT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07bb1b50ea0b5efb5a7affbb2c78a9511012591b"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__make_tuple_types",
+						"t": "",
+						"i": "std::__1::__make_tuple_types",
+						"r": "template <class _Tp, size_t _Ep",
+						"s": "std::__1",
+						"u": "__MAKE_TUPLE_TYPES",
+						"q": "std::__1::__make_tuple_types",
+						"w": "STD::__1::__MAKE_TUPLE_TYPES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82219baad930b04819e50bfe5236230498273fc4"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "_RawTp",
+						"t": "std::__make_tuple_types::_RawTp",
+						"i": "std::__make_tuple_types::_RawTp",
+						"r": "using _RawTp",
+						"s": "std::__1",
+						"u": "_RAWTP",
+						"q": "std::__make_tuple_types",
+						"w": "STD::__MAKE_TUPLE_TYPES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1af47927d4612d403e54c97cd5784e4007a086a7"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "_Maker",
+						"t": "std::__make_tuple_types::_Maker",
+						"i": "std::__make_tuple_types::_Maker",
+						"r": "using _Maker",
+						"s": "std::__1",
+						"u": "_MAKER",
+						"q": "std::__make_tuple_types",
+						"w": "STD::__MAKE_TUPLE_TYPES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5344925192bea29f4d862c6e3540fe00d5fc4ff2"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::__make_tuple_types::type",
+						"i": "std::__make_tuple_types::type",
+						"r": "using type",
+						"s": "std::__1",
+						"u": "TYPE",
+						"q": "std::__make_tuple_types",
+						"w": "STD::__MAKE_TUPLE_TYPES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c0050813a037337842bf052bb549bca4803cd8bc"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::__make_tuple_types<tuple<type-parameter-0-0...>, _Ep, 0, true>::type",
+						"i": "std::__make_tuple_types::type",
+						"r": "typedef __tuple_types<_Types...> type __attribute__((nodebug))",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::__make_tuple_types",
+						"w": "STD::__MAKE_TUPLE_TYPES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ddaea05eecf0acf0dde22f0a25b931080cf329fa"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "std::__make_tuple_types<__tuple_types<type-parameter-0-0...>, _Ep, 0, true>::type",
+						"i": "std::__make_tuple_types::type",
+						"r": "typedef __tuple_types<_Types...> type __attribute__((nodebug))",
+						"s": "",
+						"u": "TYPE",
+						"q": "std::__make_tuple_types",
+						"w": "STD::__MAKE_TUPLE_TYPES",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ddaea05eecf0acf0dde22f0a25b931080cf329fa"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__tuple/tuple_like_ext.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___TUPLE_TUPLE_LIKE_EXT_H",
+						"t": "",
+						"i": "_LIBCPP___TUPLE_TUPLE_LIKE_EXT_H",
+						"r": "_LIBCPP___TUPLE_TUPLE_LIKE_EXT_H",
+						"s": "",
+						"u": "_LIBCPP___TUPLE_TUPLE_LIKE_EXT_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e22794168668a2669b3f6afbac12ddd7ca70b20"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__tuple_like_ext",
+						"t": "",
+						"i": "std::__1::__tuple_like_ext",
+						"r": "template <class _Tp> __tuple_like_ext : false_type",
+						"s": "std::__1",
+						"u": "__TUPLE_LIKE_EXT",
+						"q": "std::__1::__tuple_like_ext",
+						"w": "STD::__1::__TUPLE_LIKE_EXT",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0611bfe3103aa7a6c037a22e78158e2e13ad2cd0"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

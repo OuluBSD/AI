@@ -1,0 +1,1111 @@
+{
+	"saved_hash": "c657611a1bc2a4c0ef379cfeb341843e8020e10d",
+	"files": [
+		{
+			"key": "c++/v1/__memory_resource/polymorphic_allocator.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___MEMORY_RESOURCE_POLYMORPHIC_ALLOCATOR_H",
+						"t": "",
+						"i": "_LIBCPP___MEMORY_RESOURCE_POLYMORPHIC_ALLOCATOR_H",
+						"r": "_LIBCPP___MEMORY_RESOURCE_POLYMORPHIC_ALLOCATOR_H",
+						"s": "",
+						"u": "_LIBCPP___MEMORY_RESOURCE_POLYMORPHIC_ALLOCATOR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b458a722770746601d00fef18e99a37a24e91d4"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "polymorphic_allocator",
+						"t": "",
+						"i": "std::__1::pmr::polymorphic_allocator",
+						"r": "template <class _ValueType> polymorphic_allocator",
+						"s": "std::__1::pmr",
+						"u": "POLYMORPHIC_ALLOCATOR",
+						"q": "std::__1::pmr::polymorphic_allocator",
+						"w": "STD::__1::PMR::POLYMORPHIC_ALLOCATOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ac934c7b2a2f6ea197ae9f455251381d6f87036a"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "value_type",
+						"t": "std::pmr::polymorphic_allocator::value_type",
+						"i": "std::pmr::polymorphic_allocator::value_type",
+						"r": "using value_type",
+						"s": "std::__1::pmr",
+						"u": "VALUE_TYPE",
+						"q": "std::pmr::polymorphic_allocator",
+						"w": "STD::PMR::POLYMORPHIC_ALLOCATOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0661240327541526ebdc5d5c376400b1fb610b19"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "polymorphic_allocator<_ValueType>",
+						"t": "void () noexcept",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) polymorphic_allocator<_ValueType>()",
+						"s": "std::__1::pmr",
+						"u": "POLYMORPHIC_ALLOCATOR<_VALUETYPE>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "883c83adaba2ea4a9d901f1fd760039d4ce51c20"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "polymorphic_allocator<_ValueType>",
+						"t": "void (memory_resource *) noexcept",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) polymorphic_allocator<_ValueType>(memory_resource *__r)",
+						"s": "std::__1::pmr",
+						"u": "POLYMORPHIC_ALLOCATOR<_VALUETYPE>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4dc0f2d65cf46073721ad0773b97ac9be4188c69"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "polymorphic_allocator<_ValueType>",
+						"t": "void (const polymorphic_allocator<_ValueType> &)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) polymorphic_allocator<_ValueType>(const polymorphic_allocator<_ValueType>&)",
+						"s": "std::__1::pmr",
+						"u": "POLYMORPHIC_ALLOCATOR<_VALUETYPE>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0a9020c94b3cac50083c89164a31aee5df981277"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "polymorphic_allocator<_ValueType>",
+						"t": "void (const polymorphic_allocator<_Tp> &) noexcept",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) polymorphic_allocator<_ValueType>(const polymorphic_allocator<_Tp>& __other)",
+						"s": "std::__1::pmr",
+						"u": "POLYMORPHIC_ALLOCATOR<_VALUETYPE>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "914331822d9508a64869c9e53992b3e306898239"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "polymorphic_allocator<_ValueType> &(const polymorphic_allocator<_ValueType> &)",
+						"i": "std::__1::pmr::polymorphic_allocator::operator=(const polymorphic_allocator&)=delete",
+						"r": "polymorphic_allocator<_ValueType>& operator",
+						"s": "std::__1::pmr",
+						"u": "OPERATOR=",
+						"q": "std::__1::pmr::polymorphic_allocator",
+						"w": "STD::__1::PMR::POLYMORPHIC_ALLOCATOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "091470908cda28c9e42e8b7694c96fe17975c8d5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "allocate",
+						"t": "_ValueType *(size_t)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _ValueType *allocate(size_t __n) [[nodiscard(\"\")]]",
+						"s": "std::__1::pmr",
+						"u": "ALLOCATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47fd372f2ca579521c4cb28795ef1ec3a460243c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deallocate",
+						"t": "void (_ValueType *, size_t)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void deallocate(_ValueType *__p, size_t __n)",
+						"s": "std::__1::pmr",
+						"u": "DEALLOCATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf02bd22352e4399d71774c877175e05fca9f257"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "construct",
+						"t": "void (_Tp *, _Ts &&...)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class _Tp, class ..._Ts> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void construct(_Tp *__p, _Ts&&...__args)",
+						"s": "std::__1::pmr",
+						"u": "CONSTRUCT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "836f507d3116e99e722470e44b810f7c8359a62d"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "construct",
+						"t": "void (pair<_T1, _T2> *, piecewise_construct_t, tuple<_Args1...>, tuple<_Args2...>)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class _T1, class _T2, class ..._Args1, class ..._Args2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void construct(pair<_T1, _T2> *__p, piecewise_construct_t, tuple<_Args1...> __x, tuple<_Args2...> __y)",
+						"s": "std::__1::pmr",
+						"u": "CONSTRUCT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb80159cbdb3be5429fc1f48da806b958e5f79a3"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "construct",
+						"t": "void (pair<_T1, _T2> *)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class _T1, class _T2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void construct(pair<_T1, _T2> *__p)",
+						"s": "std::__1::pmr",
+						"u": "CONSTRUCT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ce22565ac2ed443d8734e7379403d78457bd7bc9"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "construct",
+						"t": "void (pair<_T1, _T2> *, _Up &&, _Vp &&)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class _T1, class _T2, class _Up, class _Vp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void construct(pair<_T1, _T2> *__p, _Up&& __u, _Vp&& __v)",
+						"s": "std::__1::pmr",
+						"u": "CONSTRUCT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ad31c393a3eeb7c49925fcb6712b5ff74669b0b6"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "construct",
+						"t": "void (pair<_T1, _T2> *, const pair<_U1, _U2> &)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class _T1, class _T2, class _U1, class _U2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void construct(pair<_T1, _T2> *__p, const pair<_U1, _U2>& __pr)",
+						"s": "std::__1::pmr",
+						"u": "CONSTRUCT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08d10e78bce23bc409421f1ec9215402bd824c0e"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "construct",
+						"t": "void (pair<_T1, _T2> *, pair<_U1, _U2> &&)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class _T1, class _T2, class _U1, class _U2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void construct(pair<_T1, _T2> *__p, pair<_U1, _U2>&& __pr)",
+						"s": "std::__1::pmr",
+						"u": "CONSTRUCT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5dbbc1ac521f9d7bd625afd9236a1c851238c3ab"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "destroy",
+						"t": "void (_Tp *)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void destroy(_Tp *__p)",
+						"s": "std::__1::pmr",
+						"u": "DESTROY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9aa7a675ecfbc5d05326653028a26d84be02493"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "select_on_container_copy_construction",
+						"t": "polymorphic_allocator<_ValueType> () const noexcept",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) polymorphic_allocator<_ValueType> select_on_container_copy_construction() const",
+						"s": "std::__1::pmr",
+						"u": "SELECT_ON_CONTAINER_COPY_CONSTRUCTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de3c41fb235d04f654b614a5bb3542afaf7afb88"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "resource",
+						"t": "memory_resource *() const noexcept",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) memory_resource *resource() const",
+						"s": "std::__1::pmr",
+						"u": "RESOURCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c23a21c21615b5ec2dbfc16a7cda60ace1f7f68"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__transform_tuple",
+						"t": "tuple<_Args &&...> (integral_constant<int, 0>, tuple<_Args...> &&, __tuple_indices<_Is...>)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class ..._Args, size_t ..._Is> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) tuple<_Args&&...> __transform_tuple(integral_constant<int, 0>, tuple<_Args...>&& __t, __tuple_indices<_Is...>)",
+						"s": "std::__1::pmr",
+						"u": "__TRANSFORM_TUPLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07c4eb1861cea10485f3cb7847787759a041b7d2"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__transform_tuple",
+						"t": "tuple<const allocator_arg_t &, polymorphic_allocator<_ValueType> &, _Args &&...> (integral_constant<int, 1>, tuple<_Args...> &&, __tuple_indices<_Is...>)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class ..._Args, size_t ..._Is> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) tuple<const allocator_arg_t&, polymorphic_allocator<_ValueType>&, _Args&&...> __transform_tuple(integral_constant<int, 1>, tuple<_Args...>&& __t, __tuple_indices<_Is...>)",
+						"s": "std::__1::pmr",
+						"u": "__TRANSFORM_TUPLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77fd1d48a41aacc6ce9e0ec2a59614c8f76421aa"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__transform_tuple",
+						"t": "tuple<_Args &&..., polymorphic_allocator<_ValueType> &> (integral_constant<int, 2>, tuple<_Args...> &&, __tuple_indices<_Is...>)",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "template <class ..._Args, size_t ..._Is> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) tuple<_Args&&..., polymorphic_allocator<_ValueType>&> __transform_tuple(integral_constant<int, 2>, tuple<_Args...>&& __t, __tuple_indices<_Is...>)",
+						"s": "std::__1::pmr",
+						"u": "__TRANSFORM_TUPLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "17a81dfd025afdda097ebad65be17bb243757252"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__max_size",
+						"t": "size_t () const noexcept",
+						"i": "std::__1::pmr::polymorphic_allocator::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) size_t __max_size() const",
+						"s": "std::__1::pmr",
+						"u": "__MAX_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c812329b67316deeebe8341becebc7ed0549bde"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__res_",
+						"t": "memory_resource *",
+						"i": "std::__1::pmr::polymorphic_allocator::__res_",
+						"r": "memory_resource *__res_",
+						"s": "std::__1::pmr",
+						"u": "__RES_",
+						"q": "std::__1::pmr::polymorphic_allocator",
+						"w": "STD::__1::PMR::POLYMORPHIC_ALLOCATOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4a3ac372dba0b47518ec0f3fb966bdf1698ee2db"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const polymorphic_allocator<_Tp> &, const polymorphic_allocator<_Up> &) noexcept",
+						"i": "std::__1::pmr::",
+						"r": "template <class _Tp, class _Up> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1::pmr",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ac89091c91112e8d7e60ffda6b11f7880c998f5"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const polymorphic_allocator<_Tp> &, const polymorphic_allocator<_Up> &) noexcept",
+						"i": "std::__1::pmr::",
+						"r": "template <class _Tp, class _Up> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1::pmr",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3db861f4065520df37e260f5794d8aeab79d64a5"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__memory_resource/memory_resource.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___MEMORY_RESOURCE_MEMORY_RESOURCE_H",
+						"t": "",
+						"i": "_LIBCPP___MEMORY_RESOURCE_MEMORY_RESOURCE_H",
+						"r": "_LIBCPP___MEMORY_RESOURCE_MEMORY_RESOURCE_H",
+						"s": "",
+						"u": "_LIBCPP___MEMORY_RESOURCE_MEMORY_RESOURCE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "13539da04671fc49218c9878fc0cb89725395e60"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "memory_resource",
+						"t": "std::pmr::memory_resource",
+						"i": "std::pmr::memory_resource",
+						"r": "memory_resource",
+						"s": "std::__1::pmr",
+						"u": "MEMORY_RESOURCE",
+						"q": "std::pmr::memory_resource",
+						"w": "STD::PMR::MEMORY_RESOURCE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b3b97e3cea6bed39a0d382af6f3d6f5603aae2b"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "__max_align",
+						"t": "const size_t",
+						"i": "std::__1::pmr::memory_resource::__max_align",
+						"r": "static const size_t __max_align",
+						"s": "std::__1::pmr",
+						"u": "__MAX_ALIGN",
+						"q": "std::__1::pmr::memory_resource",
+						"w": "STD::__1::PMR::MEMORY_RESOURCE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "43d0e0de194f02dfb55f4f6231ce146778a4991d"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~memory_resource",
+						"t": "void ()",
+						"i": "std::__1::pmr::memory_resource::~()",
+						"r": "~memory_resource()",
+						"s": "std::__1::pmr",
+						"u": "~MEMORY_RESOURCE",
+						"q": "std::__1::pmr::memory_resource",
+						"w": "STD::__1::PMR::MEMORY_RESOURCE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36fd8750ace63438111e3bc6b7077589357229b0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "allocate",
+						"t": "void *(size_t, size_t)",
+						"i": "std::__1::pmr::memory_resource::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void *allocate(size_t __bytes, size_t __align = __max_align) [[nodiscard(\"\")]] [[gnu::returns_nonnull]] [[gnu::alloc_size(2)]] [[gnu::alloc_align(3)]]",
+						"s": "std::__1::pmr",
+						"u": "ALLOCATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5cce45f300144664e3f637e9d9f4f8e245ef0bae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "deallocate",
+						"t": "void (void *, size_t, size_t)",
+						"i": "std::__1::pmr::memory_resource::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void deallocate(void *__p, size_t __bytes, size_t __align = __max_align) [[gnu::nonnull]]",
+						"s": "std::__1::pmr",
+						"u": "DEALLOCATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd7deb8286357d2bd78bd30dded21b6a6aa834ea"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "is_equal",
+						"t": "bool (const memory_resource &) const noexcept",
+						"i": "std::__1::pmr::memory_resource::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool is_equal(const memory_resource& __other) const",
+						"s": "std::__1::pmr",
+						"u": "IS_EQUAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d84cad0c642af18dfe27d15157c954bd7a3bc743"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "do_allocate",
+						"t": "void *(size_t, size_t)",
+						"i": "std::__1::pmr::memory_resource::do_allocate(size_t,size_t)",
+						"r": "void *do_allocate(size_t, size_t)",
+						"s": "std::__1::pmr",
+						"u": "DO_ALLOCATE",
+						"q": "std::__1::pmr::memory_resource",
+						"w": "STD::__1::PMR::MEMORY_RESOURCE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b035978e4e608db86f8dd0e0ae62f66bb2f4f90b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "do_deallocate",
+						"t": "void (void *, size_t, size_t)",
+						"i": "std::__1::pmr::memory_resource::do_deallocate(void*,size_t,size_t)",
+						"r": "void do_deallocate(void *, size_t, size_t)",
+						"s": "std::__1::pmr",
+						"u": "DO_DEALLOCATE",
+						"q": "std::__1::pmr::memory_resource",
+						"w": "STD::__1::PMR::MEMORY_RESOURCE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c93000f135a9be84092e8123496b708255c7e641"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "do_is_equal",
+						"t": "bool (const memory_resource &) const noexcept",
+						"i": "std::__1::pmr::memory_resource::do_is_equal(const memory_resource&)const",
+						"r": "bool do_is_equal(const memory_resource&) const",
+						"s": "std::__1::pmr",
+						"u": "DO_IS_EQUAL",
+						"q": "std::__1::pmr::memory_resource",
+						"w": "STD::__1::PMR::MEMORY_RESOURCE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ac437276da858ab1b913fa6e61c6fd306b4e2cc2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const memory_resource &, const memory_resource &) noexcept",
+						"i": "std::__1::pmr::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1::pmr",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a11d42b4aaa70662a6068d0e6948b882a891a659"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const memory_resource &, const memory_resource &) noexcept",
+						"i": "std::__1::pmr::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1::pmr",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f3e582e37cd5ec320cf7c6e9b5cddc028b2cc1e6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "get_default_resource",
+						"t": "memory_resource *() noexcept",
+						"i": "std::__1::pmr::get_default_resource()[[gnu::returns_nonnull]]",
+						"r": "memory_resource *get_default_resource() [[gnu::returns_nonnull]]",
+						"s": "std::__1::pmr",
+						"u": "GET_DEFAULT_RESOURCE",
+						"q": "std::__1::pmr",
+						"w": "STD::__1::PMR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "90d7bfade229eabb6deb6afc9c45e2efcb046d76"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "set_default_resource",
+						"t": "memory_resource *(memory_resource *) noexcept",
+						"i": "std::__1::pmr::set_default_resource(memory_resource*)[[gnu::returns_nonnull]]",
+						"r": "memory_resource *set_default_resource(memory_resource *) [[gnu::returns_nonnull]]",
+						"s": "std::__1::pmr",
+						"u": "SET_DEFAULT_RESOURCE",
+						"q": "std::__1::pmr",
+						"w": "STD::__1::PMR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec1804673eeb56b084c216840951b5e8fbe60023"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "new_delete_resource",
+						"t": "memory_resource *() noexcept",
+						"i": "std::__1::pmr::new_delete_resource()[[gnu::returns_nonnull]][[gnu::const]]",
+						"r": "memory_resource *new_delete_resource() [[gnu::returns_nonnull]] [[gnu::const]]",
+						"s": "std::__1::pmr",
+						"u": "NEW_DELETE_RESOURCE",
+						"q": "std::__1::pmr",
+						"w": "STD::__1::PMR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7a72d361ff37f7e8c5447eed6338ec604e3fe77b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "null_memory_resource",
+						"t": "memory_resource *() noexcept",
+						"i": "std::__1::pmr::null_memory_resource()[[gnu::returns_nonnull]][[gnu::const]]",
+						"r": "memory_resource *null_memory_resource() [[gnu::returns_nonnull]] [[gnu::const]]",
+						"s": "std::__1::pmr",
+						"u": "NULL_MEMORY_RESOURCE",
+						"q": "std::__1::pmr",
+						"w": "STD::__1::PMR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "711d6ad54fca85437bd31107ba45068c846dad0d"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"saved_hash": "44da16752556b4626beafcc6c38c715a2b25a03a",
+	"saved_hash": "c9bfb0e71c562d7e1c3e0ed5249e24b08a74cd76",
 	"files": [
 		{
 			"key": "PdfDraw.h",
@@ -39,7 +39,7 @@
 						"n": "PdfDraw__initialize_dummy",
 						"t": "struct PdfDraw__initialize_struct",
 						"i": "Upp::PdfDraw__initialize_dummy",
-						"r": "static Upp::PdfDraw__initialize_struct PdfDraw__initialize_dummy",
+						"r": "static PdfDraw__initialize_struct PdfDraw__initialize_dummy",
 						"s": "Upp",
 						"u": "PDFDRAW__INITIALIZE_DUMMY",
 						"q": "Upp",
@@ -183,12 +183,6 @@
 								"items": [
 
 								],
-								"h": "fb31e949520c87af423c427a3b18ddb1653d23b5"
-							},
-							{
-								"items": [
-
-								],
 								"h": "1a2e9bc2983ccc79cfcd122f00d5efe8f412de30"
 							}
 						]
@@ -211,12 +205,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4a91f0dfe25eda4745337cea02ddf91507cf5340"
-							},
 							{
 								"items": [
 
@@ -285,7 +273,7 @@
 						"n": "operator%",
 						"t": "TTFStream &(byte &)",
 						"i": "Upp::TTFReader::TTFStream::operator%(byte&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::byte& q)",
+						"r": "TTFStream& operator%(byte& q)",
 						"s": "Upp",
 						"u": "OPERATOR%",
 						"q": "Upp::TTFReader::TTFStream",
@@ -311,7 +299,7 @@
 						"n": "operator%",
 						"t": "TTFStream &(int32 &)",
 						"i": "Upp::TTFReader::TTFStream::operator%(int32&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::int32& q)",
+						"r": "TTFStream& operator%(int32& q)",
 						"s": "Upp",
 						"u": "OPERATOR%",
 						"q": "Upp::TTFReader::TTFStream",
@@ -337,7 +325,7 @@
 						"n": "operator%",
 						"t": "TTFStream &(uint32 &)",
 						"i": "Upp::TTFReader::TTFStream::operator%(uint32&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::uint32& q)",
+						"r": "TTFStream& operator%(uint32& q)",
 						"s": "Upp",
 						"u": "OPERATOR%",
 						"q": "Upp::TTFReader::TTFStream",
@@ -363,7 +351,7 @@
 						"n": "operator%",
 						"t": "TTFStream &(int16 &)",
 						"i": "Upp::TTFReader::TTFStream::operator%(int16&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::int16& q)",
+						"r": "TTFStream& operator%(int16& q)",
 						"s": "Upp",
 						"u": "OPERATOR%",
 						"q": "Upp::TTFReader::TTFStream",
@@ -389,7 +377,7 @@
 						"n": "operator%",
 						"t": "TTFStream &(uint16 &)",
 						"i": "Upp::TTFReader::TTFStream::operator%(uint16&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::uint16& q)",
+						"r": "TTFStream& operator%(uint16& q)",
 						"s": "Upp",
 						"u": "OPERATOR%",
 						"q": "Upp::TTFReader::TTFStream",
@@ -441,7 +429,7 @@
 						"n": "TTFStreamIn",
 						"t": "Upp::TTFReader::TTFStreamIn",
 						"i": "Upp::TTFReader::TTFStreamIn",
-						"r": "TTFStreamIn : Upp::TTFReader::TTFStream",
+						"r": "TTFStreamIn : TTFStream",
 						"s": "Upp",
 						"u": "TTFSTREAMIN",
 						"q": "Upp::TTFReader::TTFStreamIn",
@@ -451,12 +439,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5fe82afc43bf64d1c66435fdc24c12126083880b"
-							},
 							{
 								"items": [
 
@@ -681,7 +663,7 @@
 						"n": "Get",
 						"t": "String (int)",
 						"i": "Upp::TTFReader::TTFStreamIn::Get(int)",
-						"r": "Upp::String Get(int n)",
+						"r": "String Get(int n)",
 						"s": "Upp",
 						"u": "GET",
 						"q": "Upp::TTFReader::TTFStreamIn",
@@ -733,7 +715,7 @@
 						"n": "TTFStreamOut",
 						"t": "Upp::TTFReader::TTFStreamOut",
 						"i": "Upp::TTFReader::TTFStreamOut",
-						"r": "TTFStreamOut : Upp::TTFReader::TTFStream",
+						"r": "TTFStreamOut : TTFStream",
 						"s": "Upp",
 						"u": "TTFSTREAMOUT",
 						"q": "Upp::TTFReader::TTFStreamOut",
@@ -743,12 +725,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "c3f9ee40393f7ba75b33ab1219573b557cc72f67"
-							},
 							{
 								"items": [
 
@@ -765,7 +741,7 @@
 						"n": "out",
 						"t": "String",
 						"i": "Upp::TTFReader::TTFStreamOut::out",
-						"r": "Upp::String out",
+						"r": "String out",
 						"s": "Upp",
 						"u": "OUT",
 						"q": "Upp::TTFReader::TTFStreamOut",
@@ -895,7 +871,7 @@
 						"n": "Put",
 						"t": "void (const String &)",
 						"i": "Upp::TTFReader::TTFStreamOut::Put(const String&)",
-						"r": "void Put(const Upp::String& s)",
+						"r": "void Put(const String& s)",
 						"s": "Upp",
 						"u": "PUT",
 						"q": "Upp::TTFReader::TTFStreamOut",
@@ -973,7 +949,7 @@
 						"n": "font",
 						"t": "Font",
 						"i": "Upp::TTFReader::font",
-						"r": "Upp::Font font",
+						"r": "Font font",
 						"s": "Upp",
 						"u": "FONT",
 						"q": "Upp::TTFReader",
@@ -999,7 +975,7 @@
 						"n": "current_table",
 						"t": "String",
 						"i": "Upp::TTFReader::current_table",
-						"r": "Upp::String current_table",
+						"r": "String current_table",
 						"s": "Upp",
 						"u": "CURRENT_TABLE",
 						"q": "Upp::TTFReader",
@@ -1035,12 +1011,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "17df8329b4204952b4e0d715a7c933d5aab1a134"
-							},
 							{
 								"items": [
 
@@ -1175,12 +1145,6 @@
 								"items": [
 
 								],
-								"h": "3eb1d12d9eaaac57807e9a59aa151ad31ced366b"
-							},
-							{
-								"items": [
-
-								],
 								"h": "6d484651ed6e0699eaa9a39e769b8a20c6b9a3bd"
 							}
 						]
@@ -1245,7 +1209,7 @@
 						"n": "advanceWidth",
 						"t": "uint16",
 						"i": "Upp::TTFReader::GlyphInfo::advanceWidth",
-						"r": "Upp::uint16 advanceWidth",
+						"r": "uint16 advanceWidth",
 						"s": "Upp",
 						"u": "ADVANCEWIDTH",
 						"q": "Upp::TTFReader::GlyphInfo",
@@ -1271,7 +1235,7 @@
 						"n": "leftSideBearing",
 						"t": "int16",
 						"i": "Upp::TTFReader::GlyphInfo::leftSideBearing",
-						"r": "Upp::int16 leftSideBearing",
+						"r": "int16 leftSideBearing",
 						"s": "Upp",
 						"u": "LEFTSIDEBEARING",
 						"q": "Upp::TTFReader::GlyphInfo",
@@ -1323,7 +1287,7 @@
 						"n": "SetGlyph",
 						"t": "void (wchar, word)",
 						"i": "Upp::TTFReader::SetGlyph(wchar,word)",
-						"r": "void SetGlyph(Upp::wchar ch, Upp::word glyph)",
+						"r": "void SetGlyph(wchar ch, word glyph)",
 						"s": "Upp",
 						"u": "SETGLYPH",
 						"q": "Upp::TTFReader",
@@ -1635,7 +1599,7 @@
 						"n": "Read",
 						"t": "String (const char *&, int)",
 						"i": "Upp::TTFReader::Read(const char*&,int)",
-						"r": "Upp::String Read(const char *&s, int n)",
+						"r": "String Read(const char *&s, int n)",
 						"s": "Upp",
 						"u": "READ",
 						"q": "Upp::TTFReader",
@@ -1739,7 +1703,7 @@
 						"n": "Seek",
 						"t": "void (const char *, TTFStreamIn &)",
 						"i": "Upp::TTFReader::Seek(const char*,TTFStreamIn&)",
-						"r": "void Seek(const char *tab, Upp::TTFReader::TTFStreamIn& s)",
+						"r": "void Seek(const char *tab, TTFStreamIn& s)",
 						"s": "Upp",
 						"u": "SEEK",
 						"q": "Upp::TTFReader",
@@ -1765,7 +1729,7 @@
 						"n": "GetTable",
 						"t": "String (const char *)",
 						"i": "Upp::TTFReader::GetTable(const char*)",
-						"r": "Upp::String GetTable(const char *tab)",
+						"r": "String GetTable(const char *tab)",
 						"s": "Upp",
 						"u": "GETTABLE",
 						"q": "Upp::TTFReader",
@@ -1788,12 +1752,12 @@
 						"d": true,
 						"iv": false,
 						"is": false,
-						"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
-						"i": "Upp::TTFReader::(unnamed at/home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.)",
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
+						"i": "Upp::TTFReader::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.)",
 						"r": "enum",
 						"s": "Upp",
-						"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/PDFDRAW/PDFDRAW.H:102:2)",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\PDFDRAW\\PDFDRAW.H:102:2)",
 						"q": "",
 						"w": "",
 						"y": "",
@@ -1801,12 +1765,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8634e18f7c4687d061416a02316e5c6307775f2f"
-							},
 							{
 								"items": [
 
@@ -1821,7 +1779,7 @@
 						"iv": false,
 						"is": false,
 						"n": "ARG_1_AND_2_ARE_WORDS",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::ARG_1_AND_2_ARE_WORDS",
 						"r": "ARG_1_AND_2_ARE_WORDS",
 						"s": "Upp",
@@ -1847,7 +1805,7 @@
 						"iv": false,
 						"is": false,
 						"n": "ARGS_ARE_XY_VALUES",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::ARGS_ARE_XY_VALUES",
 						"r": "ARGS_ARE_XY_VALUES",
 						"s": "Upp",
@@ -1873,7 +1831,7 @@
 						"iv": false,
 						"is": false,
 						"n": "ROUND_XY_TO_GRID",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::ROUND_XY_TO_GRID",
 						"r": "ROUND_XY_TO_GRID",
 						"s": "Upp",
@@ -1899,7 +1857,7 @@
 						"iv": false,
 						"is": false,
 						"n": "WE_HAVE_A_SCALE",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::WE_HAVE_A_SCALE",
 						"r": "WE_HAVE_A_SCALE",
 						"s": "Upp",
@@ -1925,7 +1883,7 @@
 						"iv": false,
 						"is": false,
 						"n": "MORE_COMPONENTS",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::MORE_COMPONENTS",
 						"r": "MORE_COMPONENTS",
 						"s": "Upp",
@@ -1951,7 +1909,7 @@
 						"iv": false,
 						"is": false,
 						"n": "WE_HAVE_AN_X_AND_Y_SCALE",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::WE_HAVE_AN_X_AND_Y_SCALE",
 						"r": "WE_HAVE_AN_X_AND_Y_SCALE",
 						"s": "Upp",
@@ -1977,7 +1935,7 @@
 						"iv": false,
 						"is": false,
 						"n": "WE_HAVE_A_TWO_BY_TWO",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::WE_HAVE_A_TWO_BY_TWO",
 						"r": "WE_HAVE_A_TWO_BY_TWO",
 						"s": "Upp",
@@ -2003,7 +1961,7 @@
 						"iv": false,
 						"is": false,
 						"n": "WE_HAVE_INSTRUCTIONS",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::WE_HAVE_INSTRUCTIONS",
 						"r": "WE_HAVE_INSTRUCTIONS",
 						"s": "Upp",
@@ -2029,7 +1987,7 @@
 						"iv": false,
 						"is": false,
 						"n": "USE_MY_METRICS",
-						"t": "Upp::TTFReader::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.h:102:2)",
+						"t": "Upp::TTFReader::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.h:102:2)",
 						"i": "Upp::TTFReader::USE_MY_METRICS",
 						"r": "USE_MY_METRICS",
 						"s": "Upp",
@@ -2071,12 +2029,6 @@
 								"items": [
 
 								],
-								"h": "1aff2ffb13ebc0fd184f9cf4e4120dc14e86ba13"
-							},
-							{
-								"items": [
-
-								],
 								"h": "ae095d8aef18d04cee02066071617a3ee5ac6198"
 							}
 						]
@@ -2089,7 +2041,7 @@
 						"n": "name",
 						"t": "String",
 						"i": "Upp::TTFReader::NewTable::name",
-						"r": "Upp::String name",
+						"r": "String name",
 						"s": "Upp",
 						"u": "NAME",
 						"q": "Upp::TTFReader::NewTable",
@@ -2115,7 +2067,7 @@
 						"n": "data",
 						"t": "String",
 						"i": "Upp::TTFReader::NewTable::data",
-						"r": "Upp::String data",
+						"r": "String data",
 						"s": "Upp",
 						"u": "DATA",
 						"q": "Upp::TTFReader::NewTable",
@@ -2141,7 +2093,7 @@
 						"n": "checksum",
 						"t": "dword",
 						"i": "Upp::TTFReader::NewTable::checksum",
-						"r": "Upp::dword checksum",
+						"r": "dword checksum",
 						"s": "Upp",
 						"u": "CHECKSUM",
 						"q": "Upp::TTFReader::NewTable",
@@ -2167,7 +2119,7 @@
 						"n": "Add",
 						"t": "void (Array<NewTable> &, const char *, const String &)",
 						"i": "Upp::TTFReader::Add(Array&,const char*,const String&)",
-						"r": "static void Add(Array<NewTable>& t, const char *name, const Upp::String& data)",
+						"r": "static void Add(Array<NewTable>& t, const char *name, const String& data)",
 						"s": "Upp",
 						"u": "ADD",
 						"q": "Upp::TTFReader",
@@ -2193,7 +2145,7 @@
 						"n": "Set",
 						"t": "void (NewTable &, const String &)",
 						"i": "Upp::TTFReader::Set(NewTable&,const String&)",
-						"r": "static void Set(Upp::TTFReader::NewTable& m, const Upp::String& data)",
+						"r": "static void Set(NewTable& m, const String& data)",
 						"s": "Upp",
 						"u": "SET",
 						"q": "Upp::TTFReader",
@@ -2219,7 +2171,7 @@
 						"n": "CreateHeader",
 						"t": "String (const Array<NewTable> &)",
 						"i": "Upp::TTFReader::CreateHeader(const Array&)",
-						"r": "static Upp::String CreateHeader(const Array<NewTable>& t)",
+						"r": "static String CreateHeader(const Array<NewTable>& t)",
 						"s": "Upp",
 						"u": "CREATEHEADER",
 						"q": "Upp::TTFReader",
@@ -2245,7 +2197,7 @@
 						"n": "Copy8",
 						"t": "int (TTFStreamOut &, TTFStreamIn &)",
 						"i": "Upp::TTFReader::Copy8(TTFStreamOut&,TTFStreamIn&)",
-						"r": "static int Copy8(Upp::TTFReader::TTFStreamOut& out, Upp::TTFReader::TTFStreamIn& in)",
+						"r": "static int Copy8(TTFStreamOut& out, TTFStreamIn& in)",
 						"s": "Upp",
 						"u": "COPY8",
 						"q": "Upp::TTFReader",
@@ -2255,12 +2207,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "fdf100c69637d3311433bf88e99ea91600edc65a"
-							},
 							{
 								"items": [
 
@@ -2277,7 +2223,7 @@
 						"n": "Copy16",
 						"t": "int (TTFStreamOut &, TTFStreamIn &)",
 						"i": "Upp::TTFReader::Copy16(TTFStreamOut&,TTFStreamIn&)",
-						"r": "static int Copy16(Upp::TTFReader::TTFStreamOut& out, Upp::TTFReader::TTFStreamIn& in)",
+						"r": "static int Copy16(TTFStreamOut& out, TTFStreamIn& in)",
 						"s": "Upp",
 						"u": "COPY16",
 						"q": "Upp::TTFReader",
@@ -2287,12 +2233,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "7718e44f173065bec6ff4a1000f95b5729c7fbe0"
-							},
 							{
 								"items": [
 
@@ -2309,7 +2249,7 @@
 						"n": "Copy32",
 						"t": "int (TTFStreamOut &, TTFStreamIn &)",
 						"i": "Upp::TTFReader::Copy32(TTFStreamOut&,TTFStreamIn&)",
-						"r": "static int Copy32(Upp::TTFReader::TTFStreamOut& out, Upp::TTFReader::TTFStreamIn& in)",
+						"r": "static int Copy32(TTFStreamOut& out, TTFStreamIn& in)",
 						"s": "Upp",
 						"u": "COPY32",
 						"q": "Upp::TTFReader",
@@ -2319,12 +2259,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "34772ea6a5feef32a95b15f4e7c0080932436cfc"
-							},
 							{
 								"items": [
 
@@ -2341,7 +2275,7 @@
 						"n": "Copy",
 						"t": "String (TTFStreamOut &, TTFStreamIn &, int)",
 						"i": "Upp::TTFReader::Copy(TTFStreamOut&,TTFStreamIn&,int)",
-						"r": "static Upp::String Copy(Upp::TTFReader::TTFStreamOut& out, Upp::TTFReader::TTFStreamIn& in, int n)",
+						"r": "static String Copy(TTFStreamOut& out, TTFStreamIn& in, int n)",
 						"s": "Upp",
 						"u": "COPY",
 						"q": "Upp::TTFReader",
@@ -2351,12 +2285,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "2d536171a9cb2ff040ced2b328e0705d466a0ce7"
-							},
 							{
 								"items": [
 
@@ -2387,12 +2315,6 @@
 								"items": [
 
 								],
-								"h": "838c2fe78026ec0cfdfd58f5f4e4aed9dcc3c1e3"
-							},
-							{
-								"items": [
-
-								],
 								"h": "e9a80975f4cc435dfeec5ec4c411c79677ee4edd"
 							}
 						]
@@ -2405,7 +2327,7 @@
 						"n": "version",
 						"t": "dword",
 						"i": "Upp::TTFReader::Head::version",
-						"r": "Upp::dword version",
+						"r": "dword version",
 						"s": "Upp",
 						"u": "VERSION",
 						"q": "Upp::TTFReader::Head",
@@ -2431,7 +2353,7 @@
 						"n": "fontRevision",
 						"t": "dword",
 						"i": "Upp::TTFReader::Head::fontRevision",
-						"r": "Upp::dword fontRevision",
+						"r": "dword fontRevision",
 						"s": "Upp",
 						"u": "FONTREVISION",
 						"q": "Upp::TTFReader::Head",
@@ -2457,7 +2379,7 @@
 						"n": "checkSumAdjustment",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Head::checkSumAdjustment",
-						"r": "Upp::uint32 checkSumAdjustment",
+						"r": "uint32 checkSumAdjustment",
 						"s": "Upp",
 						"u": "CHECKSUMADJUSTMENT",
 						"q": "Upp::TTFReader::Head",
@@ -2483,7 +2405,7 @@
 						"n": "magicNumber",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Head::magicNumber",
-						"r": "Upp::uint32 magicNumber",
+						"r": "uint32 magicNumber",
 						"s": "Upp",
 						"u": "MAGICNUMBER",
 						"q": "Upp::TTFReader::Head",
@@ -2509,7 +2431,7 @@
 						"n": "flags",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Head::flags",
-						"r": "Upp::uint16 flags",
+						"r": "uint16 flags",
 						"s": "Upp",
 						"u": "FLAGS",
 						"q": "Upp::TTFReader::Head",
@@ -2535,7 +2457,7 @@
 						"n": "unitsPerEm",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Head::unitsPerEm",
-						"r": "Upp::uint16 unitsPerEm",
+						"r": "uint16 unitsPerEm",
 						"s": "Upp",
 						"u": "UNITSPEREM",
 						"q": "Upp::TTFReader::Head",
@@ -2561,7 +2483,7 @@
 						"n": "created",
 						"t": "byte[8]",
 						"i": "Upp::TTFReader::Head::created",
-						"r": "Upp::byte created[8]",
+						"r": "byte created[8]",
 						"s": "Upp",
 						"u": "CREATED",
 						"q": "Upp::TTFReader::Head",
@@ -2587,7 +2509,7 @@
 						"n": "modified",
 						"t": "byte[8]",
 						"i": "Upp::TTFReader::Head::modified",
-						"r": "Upp::byte modified[8]",
+						"r": "byte modified[8]",
 						"s": "Upp",
 						"u": "MODIFIED",
 						"q": "Upp::TTFReader::Head",
@@ -2613,7 +2535,7 @@
 						"n": "xMin",
 						"t": "int16",
 						"i": "Upp::TTFReader::Head::xMin",
-						"r": "Upp::int16 xMin",
+						"r": "int16 xMin",
 						"s": "Upp",
 						"u": "XMIN",
 						"q": "Upp::TTFReader::Head",
@@ -2639,7 +2561,7 @@
 						"n": "yMin",
 						"t": "int16",
 						"i": "Upp::TTFReader::Head::yMin",
-						"r": "Upp::int16 yMin",
+						"r": "int16 yMin",
 						"s": "Upp",
 						"u": "YMIN",
 						"q": "Upp::TTFReader::Head",
@@ -2665,7 +2587,7 @@
 						"n": "xMax",
 						"t": "int16",
 						"i": "Upp::TTFReader::Head::xMax",
-						"r": "Upp::int16 xMax",
+						"r": "int16 xMax",
 						"s": "Upp",
 						"u": "XMAX",
 						"q": "Upp::TTFReader::Head",
@@ -2691,7 +2613,7 @@
 						"n": "yMax",
 						"t": "int16",
 						"i": "Upp::TTFReader::Head::yMax",
-						"r": "Upp::int16 yMax",
+						"r": "int16 yMax",
 						"s": "Upp",
 						"u": "YMAX",
 						"q": "Upp::TTFReader::Head",
@@ -2717,7 +2639,7 @@
 						"n": "macStyle",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Head::macStyle",
-						"r": "Upp::uint16 macStyle",
+						"r": "uint16 macStyle",
 						"s": "Upp",
 						"u": "MACSTYLE",
 						"q": "Upp::TTFReader::Head",
@@ -2743,7 +2665,7 @@
 						"n": "lowestRecPPEM",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Head::lowestRecPPEM",
-						"r": "Upp::uint16 lowestRecPPEM",
+						"r": "uint16 lowestRecPPEM",
 						"s": "Upp",
 						"u": "LOWESTRECPPEM",
 						"q": "Upp::TTFReader::Head",
@@ -2769,7 +2691,7 @@
 						"n": "fontDirectionHint",
 						"t": "int16",
 						"i": "Upp::TTFReader::Head::fontDirectionHint",
-						"r": "Upp::int16 fontDirectionHint",
+						"r": "int16 fontDirectionHint",
 						"s": "Upp",
 						"u": "FONTDIRECTIONHINT",
 						"q": "Upp::TTFReader::Head",
@@ -2795,7 +2717,7 @@
 						"n": "indexToLocFormat",
 						"t": "int16",
 						"i": "Upp::TTFReader::Head::indexToLocFormat",
-						"r": "Upp::int16 indexToLocFormat",
+						"r": "int16 indexToLocFormat",
 						"s": "Upp",
 						"u": "INDEXTOLOCFORMAT",
 						"q": "Upp::TTFReader::Head",
@@ -2821,7 +2743,7 @@
 						"n": "glyphDataFormat",
 						"t": "int16",
 						"i": "Upp::TTFReader::Head::glyphDataFormat",
-						"r": "Upp::int16 glyphDataFormat",
+						"r": "int16 glyphDataFormat",
 						"s": "Upp",
 						"u": "GLYPHDATAFORMAT",
 						"q": "Upp::TTFReader::Head",
@@ -2847,7 +2769,7 @@
 						"n": "Serialize",
 						"t": "void (TTFStream &)",
 						"i": "Upp::TTFReader::Head::Serialize(TTFStream&)",
-						"r": "void Serialize(Upp::TTFReader::TTFStream& s)",
+						"r": "void Serialize(TTFStream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::TTFReader::Head",
@@ -2887,12 +2809,6 @@
 								"items": [
 
 								],
-								"h": "e10a76d4e9d41afea9b40aced30432b02ac7757a"
-							},
-							{
-								"items": [
-
-								],
 								"h": "76f8866592bc02523e15124f6972965b37810cbc"
 							}
 						]
@@ -2905,7 +2821,7 @@
 						"n": "version",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Hhea::version",
-						"r": "Upp::uint32 version",
+						"r": "uint32 version",
 						"s": "Upp",
 						"u": "VERSION",
 						"q": "Upp::TTFReader::Hhea",
@@ -2931,7 +2847,7 @@
 						"n": "ascent",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::ascent",
-						"r": "Upp::int16 ascent",
+						"r": "int16 ascent",
 						"s": "Upp",
 						"u": "ASCENT",
 						"q": "Upp::TTFReader::Hhea",
@@ -2957,7 +2873,7 @@
 						"n": "descent",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::descent",
-						"r": "Upp::int16 descent",
+						"r": "int16 descent",
 						"s": "Upp",
 						"u": "DESCENT",
 						"q": "Upp::TTFReader::Hhea",
@@ -2983,7 +2899,7 @@
 						"n": "lineGap",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::lineGap",
-						"r": "Upp::int16 lineGap",
+						"r": "int16 lineGap",
 						"s": "Upp",
 						"u": "LINEGAP",
 						"q": "Upp::TTFReader::Hhea",
@@ -3009,7 +2925,7 @@
 						"n": "advanceWidthMax",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Hhea::advanceWidthMax",
-						"r": "Upp::uint16 advanceWidthMax",
+						"r": "uint16 advanceWidthMax",
 						"s": "Upp",
 						"u": "ADVANCEWIDTHMAX",
 						"q": "Upp::TTFReader::Hhea",
@@ -3035,7 +2951,7 @@
 						"n": "minLeftSideBearing",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::minLeftSideBearing",
-						"r": "Upp::int16 minLeftSideBearing",
+						"r": "int16 minLeftSideBearing",
 						"s": "Upp",
 						"u": "MINLEFTSIDEBEARING",
 						"q": "Upp::TTFReader::Hhea",
@@ -3061,7 +2977,7 @@
 						"n": "minRightSideBearing",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::minRightSideBearing",
-						"r": "Upp::int16 minRightSideBearing",
+						"r": "int16 minRightSideBearing",
 						"s": "Upp",
 						"u": "MINRIGHTSIDEBEARING",
 						"q": "Upp::TTFReader::Hhea",
@@ -3087,7 +3003,7 @@
 						"n": "xMaxExtent",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::xMaxExtent",
-						"r": "Upp::int16 xMaxExtent",
+						"r": "int16 xMaxExtent",
 						"s": "Upp",
 						"u": "XMAXEXTENT",
 						"q": "Upp::TTFReader::Hhea",
@@ -3113,7 +3029,7 @@
 						"n": "caretSlopeRise",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::caretSlopeRise",
-						"r": "Upp::int16 caretSlopeRise",
+						"r": "int16 caretSlopeRise",
 						"s": "Upp",
 						"u": "CARETSLOPERISE",
 						"q": "Upp::TTFReader::Hhea",
@@ -3139,7 +3055,7 @@
 						"n": "caretSlopeRun",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::caretSlopeRun",
-						"r": "Upp::int16 caretSlopeRun",
+						"r": "int16 caretSlopeRun",
 						"s": "Upp",
 						"u": "CARETSLOPERUN",
 						"q": "Upp::TTFReader::Hhea",
@@ -3165,7 +3081,7 @@
 						"n": "caretOffset",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::caretOffset",
-						"r": "Upp::int16 caretOffset",
+						"r": "int16 caretOffset",
 						"s": "Upp",
 						"u": "CARETOFFSET",
 						"q": "Upp::TTFReader::Hhea",
@@ -3191,7 +3107,7 @@
 						"n": "reserved1",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::reserved1",
-						"r": "Upp::int16 reserved1",
+						"r": "int16 reserved1",
 						"s": "Upp",
 						"u": "RESERVED1",
 						"q": "Upp::TTFReader::Hhea",
@@ -3217,7 +3133,7 @@
 						"n": "reserved2",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::reserved2",
-						"r": "Upp::int16 reserved2",
+						"r": "int16 reserved2",
 						"s": "Upp",
 						"u": "RESERVED2",
 						"q": "Upp::TTFReader::Hhea",
@@ -3243,7 +3159,7 @@
 						"n": "reserved3",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::reserved3",
-						"r": "Upp::int16 reserved3",
+						"r": "int16 reserved3",
 						"s": "Upp",
 						"u": "RESERVED3",
 						"q": "Upp::TTFReader::Hhea",
@@ -3269,7 +3185,7 @@
 						"n": "reserved4",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::reserved4",
-						"r": "Upp::int16 reserved4",
+						"r": "int16 reserved4",
 						"s": "Upp",
 						"u": "RESERVED4",
 						"q": "Upp::TTFReader::Hhea",
@@ -3295,7 +3211,7 @@
 						"n": "metricDataFormat",
 						"t": "int16",
 						"i": "Upp::TTFReader::Hhea::metricDataFormat",
-						"r": "Upp::int16 metricDataFormat",
+						"r": "int16 metricDataFormat",
 						"s": "Upp",
 						"u": "METRICDATAFORMAT",
 						"q": "Upp::TTFReader::Hhea",
@@ -3321,7 +3237,7 @@
 						"n": "numOfLongHorMetrics",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Hhea::numOfLongHorMetrics",
-						"r": "Upp::uint16 numOfLongHorMetrics",
+						"r": "uint16 numOfLongHorMetrics",
 						"s": "Upp",
 						"u": "NUMOFLONGHORMETRICS",
 						"q": "Upp::TTFReader::Hhea",
@@ -3347,7 +3263,7 @@
 						"n": "Serialize",
 						"t": "void (TTFStream &)",
 						"i": "Upp::TTFReader::Hhea::Serialize(TTFStream&)",
-						"r": "void Serialize(Upp::TTFReader::TTFStream& s)",
+						"r": "void Serialize(TTFStream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::TTFReader::Hhea",
@@ -3387,12 +3303,6 @@
 								"items": [
 
 								],
-								"h": "ed2ceec973caaab7a73e48d2b39bf99d9b91ebc1"
-							},
-							{
-								"items": [
-
-								],
 								"h": "61bc19e027449480ed25ceee327441293c128672"
 							}
 						]
@@ -3405,7 +3315,7 @@
 						"n": "version",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Maxp::version",
-						"r": "Upp::uint32 version",
+						"r": "uint32 version",
 						"s": "Upp",
 						"u": "VERSION",
 						"q": "Upp::TTFReader::Maxp",
@@ -3431,7 +3341,7 @@
 						"n": "numGlyphs",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::numGlyphs",
-						"r": "Upp::uint16 numGlyphs",
+						"r": "uint16 numGlyphs",
 						"s": "Upp",
 						"u": "NUMGLYPHS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3457,7 +3367,7 @@
 						"n": "maxPoints",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxPoints",
-						"r": "Upp::uint16 maxPoints",
+						"r": "uint16 maxPoints",
 						"s": "Upp",
 						"u": "MAXPOINTS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3483,7 +3393,7 @@
 						"n": "maxContours",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxContours",
-						"r": "Upp::uint16 maxContours",
+						"r": "uint16 maxContours",
 						"s": "Upp",
 						"u": "MAXCONTOURS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3509,7 +3419,7 @@
 						"n": "maxComponentPoints",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxComponentPoints",
-						"r": "Upp::uint16 maxComponentPoints",
+						"r": "uint16 maxComponentPoints",
 						"s": "Upp",
 						"u": "MAXCOMPONENTPOINTS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3535,7 +3445,7 @@
 						"n": "maxComponentContours",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxComponentContours",
-						"r": "Upp::uint16 maxComponentContours",
+						"r": "uint16 maxComponentContours",
 						"s": "Upp",
 						"u": "MAXCOMPONENTCONTOURS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3561,7 +3471,7 @@
 						"n": "maxZones",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxZones",
-						"r": "Upp::uint16 maxZones",
+						"r": "uint16 maxZones",
 						"s": "Upp",
 						"u": "MAXZONES",
 						"q": "Upp::TTFReader::Maxp",
@@ -3587,7 +3497,7 @@
 						"n": "maxTwilightPoints",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxTwilightPoints",
-						"r": "Upp::uint16 maxTwilightPoints",
+						"r": "uint16 maxTwilightPoints",
 						"s": "Upp",
 						"u": "MAXTWILIGHTPOINTS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3613,7 +3523,7 @@
 						"n": "maxStorage",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxStorage",
-						"r": "Upp::uint16 maxStorage",
+						"r": "uint16 maxStorage",
 						"s": "Upp",
 						"u": "MAXSTORAGE",
 						"q": "Upp::TTFReader::Maxp",
@@ -3639,7 +3549,7 @@
 						"n": "maxFunctionDefs",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxFunctionDefs",
-						"r": "Upp::uint16 maxFunctionDefs",
+						"r": "uint16 maxFunctionDefs",
 						"s": "Upp",
 						"u": "MAXFUNCTIONDEFS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3665,7 +3575,7 @@
 						"n": "maxInstructionDefs",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxInstructionDefs",
-						"r": "Upp::uint16 maxInstructionDefs",
+						"r": "uint16 maxInstructionDefs",
 						"s": "Upp",
 						"u": "MAXINSTRUCTIONDEFS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3691,7 +3601,7 @@
 						"n": "maxStackElements",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxStackElements",
-						"r": "Upp::uint16 maxStackElements",
+						"r": "uint16 maxStackElements",
 						"s": "Upp",
 						"u": "MAXSTACKELEMENTS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3717,7 +3627,7 @@
 						"n": "maxSizeOfInstructions",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxSizeOfInstructions",
-						"r": "Upp::uint16 maxSizeOfInstructions",
+						"r": "uint16 maxSizeOfInstructions",
 						"s": "Upp",
 						"u": "MAXSIZEOFINSTRUCTIONS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3743,7 +3653,7 @@
 						"n": "maxComponentElements",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxComponentElements",
-						"r": "Upp::uint16 maxComponentElements",
+						"r": "uint16 maxComponentElements",
 						"s": "Upp",
 						"u": "MAXCOMPONENTELEMENTS",
 						"q": "Upp::TTFReader::Maxp",
@@ -3769,7 +3679,7 @@
 						"n": "maxComponentDepth",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Maxp::maxComponentDepth",
-						"r": "Upp::uint16 maxComponentDepth",
+						"r": "uint16 maxComponentDepth",
 						"s": "Upp",
 						"u": "MAXCOMPONENTDEPTH",
 						"q": "Upp::TTFReader::Maxp",
@@ -3795,7 +3705,7 @@
 						"n": "Serialize",
 						"t": "void (TTFStream &)",
 						"i": "Upp::TTFReader::Maxp::Serialize(TTFStream&)",
-						"r": "void Serialize(Upp::TTFReader::TTFStream& s)",
+						"r": "void Serialize(TTFStream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::TTFReader::Maxp",
@@ -3835,12 +3745,6 @@
 								"items": [
 
 								],
-								"h": "6d206b39a1a8e9918521e82b458e184ba7a654eb"
-							},
-							{
-								"items": [
-
-								],
 								"h": "dddccef3cce20049403aa6d654d0edf2de3a8078"
 							}
 						]
@@ -3853,7 +3757,7 @@
 						"n": "format",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Post::format",
-						"r": "Upp::uint32 format",
+						"r": "uint32 format",
 						"s": "Upp",
 						"u": "FORMAT",
 						"q": "Upp::TTFReader::Post",
@@ -3879,7 +3783,7 @@
 						"n": "italicAngle",
 						"t": "int32",
 						"i": "Upp::TTFReader::Post::italicAngle",
-						"r": "Upp::int32 italicAngle",
+						"r": "int32 italicAngle",
 						"s": "Upp",
 						"u": "ITALICANGLE",
 						"q": "Upp::TTFReader::Post",
@@ -3905,7 +3809,7 @@
 						"n": "underlinePosition",
 						"t": "int16",
 						"i": "Upp::TTFReader::Post::underlinePosition",
-						"r": "Upp::int16 underlinePosition",
+						"r": "int16 underlinePosition",
 						"s": "Upp",
 						"u": "UNDERLINEPOSITION",
 						"q": "Upp::TTFReader::Post",
@@ -3931,7 +3835,7 @@
 						"n": "underlineThickness",
 						"t": "int16",
 						"i": "Upp::TTFReader::Post::underlineThickness",
-						"r": "Upp::int16 underlineThickness",
+						"r": "int16 underlineThickness",
 						"s": "Upp",
 						"u": "UNDERLINETHICKNESS",
 						"q": "Upp::TTFReader::Post",
@@ -3957,7 +3861,7 @@
 						"n": "isFixedPitch",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Post::isFixedPitch",
-						"r": "Upp::uint16 isFixedPitch",
+						"r": "uint16 isFixedPitch",
 						"s": "Upp",
 						"u": "ISFIXEDPITCH",
 						"q": "Upp::TTFReader::Post",
@@ -3983,7 +3887,7 @@
 						"n": "reserved",
 						"t": "uint16",
 						"i": "Upp::TTFReader::Post::reserved",
-						"r": "Upp::uint16 reserved",
+						"r": "uint16 reserved",
 						"s": "Upp",
 						"u": "RESERVED",
 						"q": "Upp::TTFReader::Post",
@@ -4009,7 +3913,7 @@
 						"n": "minMemType42",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Post::minMemType42",
-						"r": "Upp::uint32 minMemType42",
+						"r": "uint32 minMemType42",
 						"s": "Upp",
 						"u": "MINMEMTYPE42",
 						"q": "Upp::TTFReader::Post",
@@ -4035,7 +3939,7 @@
 						"n": "maxMemType42",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Post::maxMemType42",
-						"r": "Upp::uint32 maxMemType42",
+						"r": "uint32 maxMemType42",
 						"s": "Upp",
 						"u": "MAXMEMTYPE42",
 						"q": "Upp::TTFReader::Post",
@@ -4061,7 +3965,7 @@
 						"n": "minMemType1",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Post::minMemType1",
-						"r": "Upp::uint32 minMemType1",
+						"r": "uint32 minMemType1",
 						"s": "Upp",
 						"u": "MINMEMTYPE1",
 						"q": "Upp::TTFReader::Post",
@@ -4087,7 +3991,7 @@
 						"n": "maxMemType1",
 						"t": "uint32",
 						"i": "Upp::TTFReader::Post::maxMemType1",
-						"r": "Upp::uint32 maxMemType1",
+						"r": "uint32 maxMemType1",
 						"s": "Upp",
 						"u": "MAXMEMTYPE1",
 						"q": "Upp::TTFReader::Post",
@@ -4113,7 +4017,7 @@
 						"n": "Serialize",
 						"t": "void (TTFStream &)",
 						"i": "Upp::TTFReader::Post::Serialize(TTFStream&)",
-						"r": "void Serialize(Upp::TTFReader::TTFStream& s)",
+						"r": "void Serialize(TTFStream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::TTFReader::Post",
@@ -4139,7 +4043,7 @@
 						"n": "head",
 						"t": "Head",
 						"i": "Upp::TTFReader::head",
-						"r": "Upp::TTFReader::Head head",
+						"r": "Head head",
 						"s": "Upp",
 						"u": "HEAD",
 						"q": "Upp::TTFReader",
@@ -4165,7 +4069,7 @@
 						"n": "hhea",
 						"t": "Hhea",
 						"i": "Upp::TTFReader::hhea",
-						"r": "Upp::TTFReader::Hhea hhea",
+						"r": "Hhea hhea",
 						"s": "Upp",
 						"u": "HHEA",
 						"q": "Upp::TTFReader",
@@ -4191,7 +4095,7 @@
 						"n": "maxp",
 						"t": "Maxp",
 						"i": "Upp::TTFReader::maxp",
-						"r": "Upp::TTFReader::Maxp maxp",
+						"r": "Maxp maxp",
 						"s": "Upp",
 						"u": "MAXP",
 						"q": "Upp::TTFReader",
@@ -4217,7 +4121,7 @@
 						"n": "post",
 						"t": "Post",
 						"i": "Upp::TTFReader::post",
-						"r": "Upp::TTFReader::Post post",
+						"r": "Post post",
 						"s": "Upp",
 						"u": "POST",
 						"q": "Upp::TTFReader",
@@ -4243,7 +4147,7 @@
 						"n": "ps_name",
 						"t": "String",
 						"i": "Upp::TTFReader::ps_name",
-						"r": "Upp::String ps_name",
+						"r": "String ps_name",
 						"s": "Upp",
 						"u": "PS_NAME",
 						"q": "Upp::TTFReader",
@@ -4269,7 +4173,7 @@
 						"n": "GetGlyph",
 						"t": "int (wchar)",
 						"i": "Upp::TTFReader::GetGlyph(wchar)",
-						"r": "int GetGlyph(Upp::wchar chr)",
+						"r": "int GetGlyph(wchar chr)",
 						"s": "Upp",
 						"u": "GETGLYPH",
 						"q": "Upp::TTFReader",
@@ -4295,7 +4199,7 @@
 						"n": "GetAdvanceWidth",
 						"t": "word (wchar)",
 						"i": "Upp::TTFReader::GetAdvanceWidth(wchar)",
-						"r": "Upp::word GetAdvanceWidth(Upp::wchar chr)",
+						"r": "word GetAdvanceWidth(wchar chr)",
 						"s": "Upp",
 						"u": "GETADVANCEWIDTH",
 						"q": "Upp::TTFReader",
@@ -4321,7 +4225,7 @@
 						"n": "Subset",
 						"t": "String (const Vector<wchar> &, int, bool)",
 						"i": "Upp::TTFReader::Subset(const Vector&,int,bool)",
-						"r": "Upp::String Subset(const Vector<wchar>& chars, int first = 0, bool os2 = false)",
+						"r": "String Subset(const Vector<wchar>& chars, int first = 0, bool os2 = false)",
 						"s": "Upp",
 						"u": "SUBSET",
 						"q": "Upp::TTFReader",
@@ -4347,7 +4251,7 @@
 						"n": "Open",
 						"t": "bool (const Font &, bool, bool)",
 						"i": "Upp::TTFReader::Open(const Font&,bool,bool)",
-						"r": "bool Open(const Upp::Font& fnt, bool symbol = false, bool justcheck = false)",
+						"r": "bool Open(const Font& fnt, bool symbol = false, bool justcheck = false)",
 						"s": "Upp",
 						"u": "OPEN",
 						"q": "Upp::TTFReader",
@@ -4413,12 +4317,6 @@
 								"items": [
 
 								],
-								"h": "b1d48cfcbccbeca0abc61d6aa140c29c38b7a8db"
-							},
-							{
-								"items": [
-
-								],
 								"h": "8bb50ec45af4cd27297d7bfa1c4625298a33192c"
 							}
 						]
@@ -4431,7 +4329,7 @@
 						"n": "pkey",
 						"t": "String",
 						"i": "Upp::PdfSignatureInfo::pkey",
-						"r": "Upp::String pkey",
+						"r": "String pkey",
 						"s": "Upp",
 						"u": "PKEY",
 						"q": "Upp::PdfSignatureInfo",
@@ -4457,7 +4355,7 @@
 						"n": "cert",
 						"t": "String",
 						"i": "Upp::PdfSignatureInfo::cert",
-						"r": "Upp::String cert",
+						"r": "String cert",
 						"s": "Upp",
 						"u": "CERT",
 						"q": "Upp::PdfSignatureInfo",
@@ -4483,7 +4381,7 @@
 						"n": "name",
 						"t": "String",
 						"i": "Upp::PdfSignatureInfo::name",
-						"r": "Upp::String name",
+						"r": "String name",
 						"s": "Upp",
 						"u": "NAME",
 						"q": "Upp::PdfSignatureInfo",
@@ -4509,7 +4407,7 @@
 						"n": "location",
 						"t": "String",
 						"i": "Upp::PdfSignatureInfo::location",
-						"r": "Upp::String location",
+						"r": "String location",
 						"s": "Upp",
 						"u": "LOCATION",
 						"q": "Upp::PdfSignatureInfo",
@@ -4535,7 +4433,7 @@
 						"n": "reason",
 						"t": "String",
 						"i": "Upp::PdfSignatureInfo::reason",
-						"r": "Upp::String reason",
+						"r": "String reason",
 						"s": "Upp",
 						"u": "REASON",
 						"q": "Upp::PdfSignatureInfo",
@@ -4561,7 +4459,7 @@
 						"n": "contact_info",
 						"t": "String",
 						"i": "Upp::PdfSignatureInfo::contact_info",
-						"r": "Upp::String contact_info",
+						"r": "String contact_info",
 						"s": "Upp",
 						"u": "CONTACT_INFO",
 						"q": "Upp::PdfSignatureInfo",
@@ -4587,7 +4485,7 @@
 						"n": "time",
 						"t": "Time",
 						"i": "Upp::PdfSignatureInfo::time",
-						"r": "Upp::Time time",
+						"r": "Time time",
 						"s": "Upp",
 						"u": "TIME",
 						"q": "Upp::PdfSignatureInfo",
@@ -4639,7 +4537,7 @@
 						"n": "PdfDraw",
 						"t": "Upp::PdfDraw",
 						"i": "Upp::PdfDraw",
-						"r": "PdfDraw : public Upp::Draw",
+						"r": "PdfDraw : public Draw",
 						"s": "Upp",
 						"u": "PDFDRAW",
 						"q": "Upp::PdfDraw",
@@ -4649,12 +4547,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "c1968331661b1cc0d07049d8644e60b796d6d634"
-							},
 							{
 								"items": [
 
@@ -4671,7 +4563,7 @@
 						"n": "GetInfo",
 						"t": "dword () const",
 						"i": "Upp::PdfDraw::GetInfo()const",
-						"r": "Upp::dword GetInfo() const",
+						"r": "dword GetInfo() const",
 						"s": "Upp",
 						"u": "GETINFO",
 						"q": "Upp::PdfDraw",
@@ -4697,7 +4589,7 @@
 						"n": "GetPageSize",
 						"t": "Size () const",
 						"i": "Upp::PdfDraw::GetPageSize()const",
-						"r": "Upp::Size GetPageSize() const",
+						"r": "Size GetPageSize() const",
 						"s": "Upp",
 						"u": "GETPAGESIZE",
 						"q": "Upp::PdfDraw",
@@ -4827,7 +4719,7 @@
 						"n": "OffsetOp",
 						"t": "void (Point)",
 						"i": "Upp::PdfDraw::OffsetOp(Point)",
-						"r": "void OffsetOp(Upp::Point p)",
+						"r": "void OffsetOp(Point p)",
 						"s": "Upp",
 						"u": "OFFSETOP",
 						"q": "Upp::PdfDraw",
@@ -4853,7 +4745,7 @@
 						"n": "ClipOp",
 						"t": "bool (const Rect &)",
 						"i": "Upp::PdfDraw::ClipOp(const Rect&)",
-						"r": "bool ClipOp(const Upp::Rect& r)",
+						"r": "bool ClipOp(const Rect& r)",
 						"s": "Upp",
 						"u": "CLIPOP",
 						"q": "Upp::PdfDraw",
@@ -4879,7 +4771,7 @@
 						"n": "ClipoffOp",
 						"t": "bool (const Rect &)",
 						"i": "Upp::PdfDraw::ClipoffOp(const Rect&)",
-						"r": "bool ClipoffOp(const Upp::Rect& r)",
+						"r": "bool ClipoffOp(const Rect& r)",
 						"s": "Upp",
 						"u": "CLIPOFFOP",
 						"q": "Upp::PdfDraw",
@@ -4905,7 +4797,7 @@
 						"n": "ExcludeClipOp",
 						"t": "bool (const Rect &)",
 						"i": "Upp::PdfDraw::ExcludeClipOp(const Rect&)",
-						"r": "bool ExcludeClipOp(const Upp::Rect& r)",
+						"r": "bool ExcludeClipOp(const Rect& r)",
 						"s": "Upp",
 						"u": "EXCLUDECLIPOP",
 						"q": "Upp::PdfDraw",
@@ -4931,7 +4823,7 @@
 						"n": "IntersectClipOp",
 						"t": "bool (const Rect &)",
 						"i": "Upp::PdfDraw::IntersectClipOp(const Rect&)",
-						"r": "bool IntersectClipOp(const Upp::Rect& r)",
+						"r": "bool IntersectClipOp(const Rect& r)",
 						"s": "Upp",
 						"u": "INTERSECTCLIPOP",
 						"q": "Upp::PdfDraw",
@@ -4957,7 +4849,7 @@
 						"n": "IsPaintingOp",
 						"t": "bool (const Rect &) const",
 						"i": "Upp::PdfDraw::IsPaintingOp(const Rect&)const",
-						"r": "bool IsPaintingOp(const Upp::Rect& r) const",
+						"r": "bool IsPaintingOp(const Rect& r) const",
 						"s": "Upp",
 						"u": "ISPAINTINGOP",
 						"q": "Upp::PdfDraw",
@@ -4983,7 +4875,7 @@
 						"n": "DrawRectOp",
 						"t": "void (int, int, int, int, Color)",
 						"i": "Upp::PdfDraw::DrawRectOp(int,int,int,int,Color)",
-						"r": "void DrawRectOp(int x, int y, int cx, int cy, Upp::Color color)",
+						"r": "void DrawRectOp(int x, int y, int cx, int cy, Color color)",
 						"s": "Upp",
 						"u": "DRAWRECTOP",
 						"q": "Upp::PdfDraw",
@@ -5009,7 +4901,7 @@
 						"n": "DrawImageOp",
 						"t": "void (int, int, int, int, const Image &, const Rect &, Color)",
 						"i": "Upp::PdfDraw::DrawImageOp(int,int,int,int,const Image&,const Rect&,Color)",
-						"r": "void DrawImageOp(int x, int y, int cx, int cy, const Upp::Image& img, const Upp::Rect& src, Upp::Color color)",
+						"r": "void DrawImageOp(int x, int y, int cx, int cy, const Image& img, const Rect& src, Color color)",
 						"s": "Upp",
 						"u": "DRAWIMAGEOP",
 						"q": "Upp::PdfDraw",
@@ -5035,7 +4927,7 @@
 						"n": "DrawLineOp",
 						"t": "void (int, int, int, int, int, Color)",
 						"i": "Upp::PdfDraw::DrawLineOp(int,int,int,int,int,Color)",
-						"r": "void DrawLineOp(int x1, int y1, int x2, int y2, int width, Upp::Color color)",
+						"r": "void DrawLineOp(int x1, int y1, int x2, int y2, int width, Color color)",
 						"s": "Upp",
 						"u": "DRAWLINEOP",
 						"q": "Upp::PdfDraw",
@@ -5061,7 +4953,7 @@
 						"n": "DrawPolyPolylineOp",
 						"t": "void (const Point *, int, const int *, int, int, Color, Color)",
 						"i": "Upp::PdfDraw::DrawPolyPolylineOp(const Point*,int,const int*,int,int,Color,Color)",
-						"r": "void DrawPolyPolylineOp(const Upp::Point *vertices, int vertex_count, const int *counts, int count_count, int width, Upp::Color color, Upp::Color doxor)",
+						"r": "void DrawPolyPolylineOp(const Point *vertices, int vertex_count, const int *counts, int count_count, int width, Color color, Color doxor)",
 						"s": "Upp",
 						"u": "DRAWPOLYPOLYLINEOP",
 						"q": "Upp::PdfDraw",
@@ -5071,12 +4963,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "45be26eed3cf89c0257c82a671815b0617ae5987"
-							},
 							{
 								"items": [
 
@@ -5093,7 +4979,7 @@
 						"n": "DrawPolyPolyPolygonOp",
 						"t": "void (const Point *, int, const int *, int, const int *, int, Color, int, Color, uint64, Color)",
 						"i": "Upp::PdfDraw::DrawPolyPolyPolygonOp(const Point*,int,const int*,int,const int*,int,Color,int,Color,uint64,Color)",
-						"r": "void DrawPolyPolyPolygonOp(const Upp::Point *vertices, int vertex_count, const int *subpolygon_counts, int scc, const int *disjunct_polygon_counts, int dpcc, Upp::Color color, int width, Upp::Color outline, Upp::uint64 pattern, Upp::Color doxor)",
+						"r": "void DrawPolyPolyPolygonOp(const Point *vertices, int vertex_count, const int *subpolygon_counts, int scc, const int *disjunct_polygon_counts, int dpcc, Color color, int width, Color outline, uint64 pattern, Color doxor)",
 						"s": "Upp",
 						"u": "DRAWPOLYPOLYPOLYGONOP",
 						"q": "Upp::PdfDraw",
@@ -5103,12 +4989,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4b87e2fb0b6dc2508d36c87cdaad63846bffdd72"
-							},
 							{
 								"items": [
 
@@ -5125,7 +5005,7 @@
 						"n": "DrawEllipseOp",
 						"t": "void (const Rect &, Color, int, Color)",
 						"i": "Upp::PdfDraw::DrawEllipseOp(const Rect&,Color,int,Color)",
-						"r": "void DrawEllipseOp(const Upp::Rect& r, Upp::Color color, int pen, Upp::Color pencolor)",
+						"r": "void DrawEllipseOp(const Rect& r, Color color, int pen, Color pencolor)",
 						"s": "Upp",
 						"u": "DRAWELLIPSEOP",
 						"q": "Upp::PdfDraw",
@@ -5151,7 +5031,7 @@
 						"n": "DrawArcOp",
 						"t": "void (const Rect &, Point, Point, int, Color)",
 						"i": "Upp::PdfDraw::DrawArcOp(const Rect&,Point,Point,int,Color)",
-						"r": "void DrawArcOp(const Upp::Rect& rc, Upp::Point start, Upp::Point end, int width, Upp::Color color)",
+						"r": "void DrawArcOp(const Rect& rc, Point start, Point end, int width, Color color)",
 						"s": "Upp",
 						"u": "DRAWARCOP",
 						"q": "Upp::PdfDraw",
@@ -5177,7 +5057,7 @@
 						"n": "DrawTextOp",
 						"t": "void (int, int, int, const wchar *, Font, Color, int, const int *)",
 						"i": "Upp::PdfDraw::DrawTextOp(int,int,int,const wchar*,Font,Color,int,const int*)",
-						"r": "void DrawTextOp(int x, int y, int angle, const Upp::wchar *text, Upp::Font font, Upp::Color ink, int n, const int *dx)",
+						"r": "void DrawTextOp(int x, int y, int angle, const wchar *text, Font font, Color ink, int n, const int *dx)",
 						"s": "Upp",
 						"u": "DRAWTEXTOP",
 						"q": "Upp::PdfDraw",
@@ -5187,12 +5067,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "059cbdb6e4ac8ff360537d69f9ece887644d8d01"
-							},
 							{
 								"items": [
 
@@ -5209,7 +5083,7 @@
 						"n": "Escape",
 						"t": "void (const String &)",
 						"i": "Upp::PdfDraw::Escape(const String&)",
-						"r": "void Escape(const Upp::String& data)",
+						"r": "void Escape(const String& data)",
 						"s": "Upp",
 						"u": "ESCAPE",
 						"q": "Upp::PdfDraw",
@@ -5261,7 +5135,7 @@
 						"n": "fi",
 						"t": "word",
 						"i": "Upp::PdfDraw::CharPos::fi",
-						"r": "Upp::word fi",
+						"r": "word fi",
 						"s": "Upp",
 						"u": "FI",
 						"q": "Upp::PdfDraw::CharPos",
@@ -5287,7 +5161,7 @@
 						"n": "ci",
 						"t": "word",
 						"i": "Upp::PdfDraw::CharPos::ci",
-						"r": "Upp::word ci",
+						"r": "word ci",
 						"s": "Upp",
 						"u": "CI",
 						"q": "Upp::PdfDraw::CharPos",
@@ -5323,12 +5197,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "9082c0039771317af753093e7e9e29f87b8e9749"
-							},
 							{
 								"items": [
 
@@ -5437,12 +5305,6 @@
 								"items": [
 
 								],
-								"h": "0508f7eeb0f499d349cf76bf3fb34181fd89bb32"
-							},
-							{
-								"items": [
-
-								],
 								"h": "d1bd8885dd9fbcaf76b0bcdbe3dda1f747db189f"
 							}
 						]
@@ -5455,7 +5317,7 @@
 						"n": "rect",
 						"t": "Rectf",
 						"i": "Upp::PdfDraw::UrlInfo::rect",
-						"r": "Upp::Rectf rect",
+						"r": "Rectf rect",
 						"s": "Upp",
 						"u": "RECT",
 						"q": "Upp::PdfDraw::UrlInfo",
@@ -5481,7 +5343,7 @@
 						"n": "url",
 						"t": "String",
 						"i": "Upp::PdfDraw::UrlInfo::url",
-						"r": "Upp::String url",
+						"r": "String url",
 						"s": "Upp",
 						"u": "URL",
 						"q": "Upp::PdfDraw::UrlInfo",
@@ -5663,7 +5525,7 @@
 						"n": "data",
 						"t": "String",
 						"i": "Upp::PdfDraw::data",
-						"r": "Upp::String data",
+						"r": "String data",
 						"s": "Upp",
 						"u": "DATA",
 						"q": "Upp::PdfDraw",
@@ -5741,7 +5603,7 @@
 						"n": "out",
 						"t": "StringBuffer",
 						"i": "Upp::PdfDraw::out",
-						"r": "Upp::StringBuffer out",
+						"r": "StringBuffer out",
 						"s": "Upp",
 						"u": "OUT",
 						"q": "Upp::PdfDraw",
@@ -5767,7 +5629,7 @@
 						"n": "page",
 						"t": "StringBuffer",
 						"i": "Upp::PdfDraw::page",
-						"r": "Upp::StringBuffer page",
+						"r": "StringBuffer page",
 						"s": "Upp",
 						"u": "PAGE",
 						"q": "Upp::PdfDraw",
@@ -5793,7 +5655,7 @@
 						"n": "pgsz",
 						"t": "Size",
 						"i": "Upp::PdfDraw::pgsz",
-						"r": "Upp::Size pgsz",
+						"r": "Size pgsz",
 						"s": "Upp",
 						"u": "PGSZ",
 						"q": "Upp::PdfDraw",
@@ -5819,7 +5681,7 @@
 						"n": "rgcolor",
 						"t": "Color",
 						"i": "Upp::PdfDraw::rgcolor",
-						"r": "Upp::Color rgcolor",
+						"r": "Color rgcolor",
 						"s": "Upp",
 						"u": "RGCOLOR",
 						"q": "Upp::PdfDraw",
@@ -5845,7 +5707,7 @@
 						"n": "RGcolor",
 						"t": "Color",
 						"i": "Upp::PdfDraw::RGcolor",
-						"r": "Upp::Color RGcolor",
+						"r": "Color RGcolor",
 						"s": "Upp",
 						"u": "RGCOLOR",
 						"q": "Upp::PdfDraw",
@@ -5975,7 +5837,7 @@
 						"n": "patternid",
 						"t": "uint64",
 						"i": "Upp::PdfDraw::patternid",
-						"r": "Upp::uint64 patternid",
+						"r": "uint64 patternid",
 						"s": "Upp",
 						"u": "PATTERNID",
 						"q": "Upp::PdfDraw",
@@ -6053,7 +5915,7 @@
 						"n": "url",
 						"t": "String",
 						"i": "Upp::PdfDraw::url",
-						"r": "Upp::String url",
+						"r": "String url",
 						"s": "Upp",
 						"u": "URL",
 						"q": "Upp::PdfDraw",
@@ -6105,7 +5967,7 @@
 						"n": "current_offset",
 						"t": "Point",
 						"i": "Upp::PdfDraw::current_offset",
-						"r": "Upp::Point current_offset",
+						"r": "Point current_offset",
 						"s": "Upp",
 						"u": "CURRENT_OFFSET",
 						"q": "Upp::PdfDraw",
@@ -6157,7 +6019,7 @@
 						"n": "Ptf",
 						"t": "String (double)",
 						"i": "Upp::PdfDraw::Ptf(double)",
-						"r": "Upp::String Ptf(double dot)",
+						"r": "String Ptf(double dot)",
 						"s": "Upp",
 						"u": "PTF",
 						"q": "Upp::PdfDraw",
@@ -6261,7 +6123,7 @@
 						"n": "PutStream",
 						"t": "int (const String &, const String &, bool)",
 						"i": "Upp::PdfDraw::PutStream(const String&,const String&,bool)",
-						"r": "int PutStream(const Upp::String& data, const Upp::String& keys = Null, bool compress = true)",
+						"r": "int PutStream(const String& data, const String& keys = Null, bool compress = true)",
 						"s": "Upp",
 						"u": "PUTSTREAM",
 						"q": "Upp::PdfDraw",
@@ -6287,7 +6149,7 @@
 						"n": "PutRect",
 						"t": "void (const Rect &)",
 						"i": "Upp::PdfDraw::PutRect(const Rect&)",
-						"r": "void PutRect(const Upp::Rect& rc)",
+						"r": "void PutRect(const Rect& rc)",
 						"s": "Upp",
 						"u": "PUTRECT",
 						"q": "Upp::PdfDraw",
@@ -6313,7 +6175,7 @@
 						"n": "PutrgColor",
 						"t": "void (Color, uint64)",
 						"i": "Upp::PdfDraw::PutrgColor(Color,uint64)",
-						"r": "void PutrgColor(Upp::Color rg, Upp::uint64 pattern = 0)",
+						"r": "void PutrgColor(Color rg, uint64 pattern = 0)",
 						"s": "Upp",
 						"u": "PUTRGCOLOR",
 						"q": "Upp::PdfDraw",
@@ -6339,7 +6201,7 @@
 						"n": "PutRGColor",
 						"t": "void (Color)",
 						"i": "Upp::PdfDraw::PutRGColor(Color)",
-						"r": "void PutRGColor(Upp::Color RG)",
+						"r": "void PutRGColor(Color RG)",
 						"s": "Upp",
 						"u": "PUTRGCOLOR",
 						"q": "Upp::PdfDraw",
@@ -6417,7 +6279,7 @@
 						"n": "GetCharPos",
 						"t": "CharPos (Font, wchar)",
 						"i": "Upp::PdfDraw::GetCharPos(Font,wchar)",
-						"r": "Upp::PdfDraw::CharPos GetCharPos(Upp::Font fnt, Upp::wchar chr)",
+						"r": "CharPos GetCharPos(Font fnt, wchar chr)",
 						"s": "Upp",
 						"u": "GETCHARPOS",
 						"q": "Upp::PdfDraw",
@@ -6443,7 +6305,7 @@
 						"n": "FlushText",
 						"t": "void (int, int, int, const String &)",
 						"i": "Upp::PdfDraw::FlushText(int,int,int,const String&)",
-						"r": "void FlushText(int dx, int fi, int height, const Upp::String& txt)",
+						"r": "void FlushText(int dx, int fi, int height, const String& txt)",
 						"s": "Upp",
 						"u": "FLUSHTEXT",
 						"q": "Upp::PdfDraw",
@@ -6469,7 +6331,7 @@
 						"n": "PdfColor",
 						"t": "String (Color)",
 						"i": "Upp::PdfDraw::PdfColor(Color)",
-						"r": "static Upp::String PdfColor(Upp::Color c)",
+						"r": "static String PdfColor(Color c)",
 						"s": "Upp",
 						"u": "PDFCOLOR",
 						"q": "Upp::PdfDraw",
@@ -6495,7 +6357,7 @@
 						"n": "PdfString",
 						"t": "String (const char *)",
 						"i": "Upp::PdfDraw::PdfString(const char*)",
-						"r": "static Upp::String PdfString(const char *s)",
+						"r": "static String PdfString(const char *s)",
 						"s": "Upp",
 						"u": "PDFSTRING",
 						"q": "Upp::PdfDraw",
@@ -6573,7 +6435,7 @@
 						"n": "GetOutlineInfo",
 						"t": "OutlineInfo (Font)",
 						"i": "Upp::PdfDraw::GetOutlineInfo(Font)",
-						"r": "Upp::PdfDraw::OutlineInfo GetOutlineInfo(Upp::Font fnt)",
+						"r": "OutlineInfo GetOutlineInfo(Font fnt)",
 						"s": "Upp",
 						"u": "GETOUTLINEINFO",
 						"q": "Upp::PdfDraw",
@@ -6639,12 +6501,6 @@
 								"items": [
 
 								],
-								"h": "653d3eb8d4ce0ebcdc9a0fae60e57ad4dea94fd2"
-							},
-							{
-								"items": [
-
-								],
 								"h": "e6062edf3b0d85bc5d9f2a1e83f78573b77cc422"
 							}
 						]
@@ -6657,7 +6513,7 @@
 						"n": "data",
 						"t": "String",
 						"i": "Upp::PdfDraw::RGlyph::data",
-						"r": "Upp::String data",
+						"r": "String data",
 						"s": "Upp",
 						"u": "DATA",
 						"q": "Upp::PdfDraw::RGlyph",
@@ -6683,7 +6539,7 @@
 						"n": "sz",
 						"t": "Size",
 						"i": "Upp::PdfDraw::RGlyph::sz",
-						"r": "Upp::Size sz",
+						"r": "Size sz",
 						"s": "Upp",
 						"u": "SZ",
 						"q": "Upp::PdfDraw::RGlyph",
@@ -6775,12 +6631,6 @@
 								"items": [
 
 								],
-								"h": "295d77f5eade35b6b3dca02f625c25f8d6da327b"
-							},
-							{
-								"items": [
-
-								],
 								"h": "e575352b5706fc81ed3fe50f00d345c94e517fb3"
 							}
 						]
@@ -6793,7 +6643,7 @@
 						"n": "sz",
 						"t": "Size",
 						"i": "Upp::PdfDraw::CGlyph::sz",
-						"r": "Upp::Size sz",
+						"r": "Size sz",
 						"s": "Upp",
 						"u": "SZ",
 						"q": "Upp::PdfDraw::CGlyph",
@@ -6897,7 +6747,7 @@
 						"n": "PdfImage",
 						"t": "int (const Image &, const Rect &)",
 						"i": "Upp::PdfDraw::PdfImage(const Image&,const Rect&)",
-						"r": "int PdfImage(const Upp::Image& img, const Upp::Rect& src)",
+						"r": "int PdfImage(const Image& img, const Rect& src)",
 						"s": "Upp",
 						"u": "PDFIMAGE",
 						"q": "Upp::PdfDraw",
@@ -6923,7 +6773,7 @@
 						"n": "ColorGlyph",
 						"t": "CGlyph (Font, int)",
 						"i": "Upp::PdfDraw::ColorGlyph(Font,int)",
-						"r": "Upp::PdfDraw::CGlyph ColorGlyph(Upp::Font fnt, int chr)",
+						"r": "CGlyph ColorGlyph(Font fnt, int chr)",
 						"s": "Upp",
 						"u": "COLORGLYPH",
 						"q": "Upp::PdfDraw",
@@ -6949,7 +6799,7 @@
 						"n": "RasterGlyph",
 						"t": "RGlyph (Font, int)",
 						"i": "Upp::PdfDraw::RasterGlyph(Font,int)",
-						"r": "Upp::PdfDraw::RGlyph RasterGlyph(Upp::Font fnt, int chr)",
+						"r": "RGlyph RasterGlyph(Font fnt, int chr)",
 						"s": "Upp",
 						"u": "RASTERGLYPH",
 						"q": "Upp::PdfDraw",
@@ -6975,7 +6825,7 @@
 						"n": "Finish",
 						"t": "String (const PdfSignatureInfo *)",
 						"i": "Upp::PdfDraw::Finish(const PdfSignatureInfo*)",
-						"r": "Upp::String Finish(const Upp::PdfSignatureInfo *sign = __null)",
+						"r": "String Finish(const PdfSignatureInfo *sign = 0)",
 						"s": "Upp",
 						"u": "FINISH",
 						"q": "Upp::PdfDraw",
@@ -7079,7 +6929,7 @@
 						"n": "PdfDraw",
 						"t": "void (Size, bool)",
 						"i": "Upp::PdfDraw::PdfDraw(Size,bool)",
-						"r": "PdfDraw(Upp::Size pgsz = Upp::Size(5100, 6600), bool pdfa = false)",
+						"r": "PdfDraw(Size pgsz = Size(5100, 6600), bool pdfa = false)",
 						"s": "Upp",
 						"u": "PDFDRAW",
 						"q": "Upp::PdfDraw",
@@ -7105,7 +6955,7 @@
 						"n": "DrawJPEG",
 						"t": "void (Draw &, int, int, int, int, const String &)",
 						"i": "Upp::DrawJPEG(Draw&,int,int,int,int,const String&)",
-						"r": "void DrawJPEG(Upp::Draw& w, int x, int y, int cx, int cy, const Upp::String& jpeg_data)",
+						"r": "void DrawJPEG(Draw& w, int x, int y, int cx, int cy, const String& jpeg_data)",
 						"s": "Upp",
 						"u": "DRAWJPEG",
 						"q": "Upp",
@@ -7131,7 +6981,7 @@
 						"n": "Pdf",
 						"t": "String (const Array<Drawing> &, Size, int, bool, const PdfSignatureInfo *)",
 						"i": "Upp::Pdf(const Array&,Size,int,bool,const PdfSignatureInfo*)",
-						"r": "Upp::String Pdf(const Array<Drawing>& report, Upp::Size pagesize, int margin, bool pdfa = false, const Upp::PdfSignatureInfo *sign = __null)",
+						"r": "String Pdf(const Array<Drawing>& report, Size pagesize, int margin, bool pdfa = false, const PdfSignatureInfo *sign = 0)",
 						"s": "Upp",
 						"u": "PDF",
 						"q": "Upp",
@@ -7145,1174 +6995,7 @@
 								"items": [
 
 								],
-								"h": "3e8abbfd205a6f3afac963bb56d6450b3a31c7a1"
-							},
-							{
-								"items": [
-
-								],
 								"h": "e1ce0765af6f2ad9075ca426f4f6ac8d29b3a327"
-							}
-						]
-					}
-				]
-			}
-		},
-		{
-			"key": "TTFStream.cpp",
-			"value": {
-				"items": [
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "operator%",
-						"t": "TTFReader::TTFStream &(byte &)",
-						"i": "Upp::TTFReader::TTFStream::operator%(byte&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::byte& q)",
-						"s": "Upp",
-						"u": "OPERATOR%",
-						"q": "Upp::TTFReader::TTFStream",
-						"w": "UPP::TTFREADER::TTFSTREAM",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "38e7102e2db076e5e6f4e4e4bb4b0cb14b9f131f"
-							},
-							{
-								"items": [
-
-								],
-								"h": "2996eec0a48f1ee9717aee330f6fe980c9627912"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "operator%",
-						"t": "TTFReader::TTFStream &(int32 &)",
-						"i": "Upp::TTFReader::TTFStream::operator%(int32&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::int32& q)",
-						"s": "Upp",
-						"u": "OPERATOR%",
-						"q": "Upp::TTFReader::TTFStream",
-						"w": "UPP::TTFREADER::TTFSTREAM",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f32153d926bb2c385348458e8cf0bb02afb2e49f"
-							},
-							{
-								"items": [
-
-								],
-								"h": "8420445d1e2837001db992d5e3307895fff24d48"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "operator%",
-						"t": "TTFReader::TTFStream &(uint32 &)",
-						"i": "Upp::TTFReader::TTFStream::operator%(uint32&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::uint32& q)",
-						"s": "Upp",
-						"u": "OPERATOR%",
-						"q": "Upp::TTFReader::TTFStream",
-						"w": "UPP::TTFREADER::TTFSTREAM",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b05c0c903209be7d2bb7348b7812303978dfd43b"
-							},
-							{
-								"items": [
-
-								],
-								"h": "121f4222f5f45cafc0e40ba68568dbe1fdb72448"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "operator%",
-						"t": "TTFReader::TTFStream &(int16 &)",
-						"i": "Upp::TTFReader::TTFStream::operator%(int16&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::int16& q)",
-						"s": "Upp",
-						"u": "OPERATOR%",
-						"q": "Upp::TTFReader::TTFStream",
-						"w": "UPP::TTFREADER::TTFSTREAM",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "c2f4ba602ae3dd859b64a9dcad2433c80686a38e"
-							},
-							{
-								"items": [
-
-								],
-								"h": "49cac7668f694fe360b50d247dc65086ffa5cf1d"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "operator%",
-						"t": "TTFReader::TTFStream &(uint16 &)",
-						"i": "Upp::TTFReader::TTFStream::operator%(uint16&)",
-						"r": "Upp::TTFReader::TTFStream& operator%(Upp::uint16& q)",
-						"s": "Upp",
-						"u": "OPERATOR%",
-						"q": "Upp::TTFReader::TTFStream",
-						"w": "UPP::TTFREADER::TTFSTREAM",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "1a93e2268a41456497bac90ccfd9bb1218284d19"
-							},
-							{
-								"items": [
-
-								],
-								"h": "bbc7e71e60c83a6723ce284c2f5c299147a83841"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Seek",
-						"t": "void (int)",
-						"i": "Upp::TTFReader::TTFStreamIn::Seek(int)",
-						"r": "void Seek(int offset)",
-						"s": "Upp",
-						"u": "SEEK",
-						"q": "Upp::TTFReader::TTFStreamIn",
-						"w": "UPP::TTFREADER::TTFSTREAMIN",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "dd5700d04ed0ad662706a867bf654ac9e3f19420"
-							},
-							{
-								"items": [
-
-								],
-								"h": "4da1d3dff22799ca251764075cbb421cc517543d"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Get8",
-						"t": "int ()",
-						"i": "Upp::TTFReader::TTFStreamIn::Get8()",
-						"r": "int Get8()",
-						"s": "Upp",
-						"u": "GET8",
-						"q": "Upp::TTFReader::TTFStreamIn",
-						"w": "UPP::TTFREADER::TTFSTREAMIN",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "3d97d39578c01f076992f465bbb801383710d864"
-							},
-							{
-								"items": [
-
-								],
-								"h": "dacf0eb03cca98b36773eb0aad0966fc90d8ce29"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Get16",
-						"t": "int ()",
-						"i": "Upp::TTFReader::TTFStreamIn::Get16()",
-						"r": "int Get16()",
-						"s": "Upp",
-						"u": "GET16",
-						"q": "Upp::TTFReader::TTFStreamIn",
-						"w": "UPP::TTFREADER::TTFSTREAMIN",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "9cd0d3077f44f72016173a8a0176afdd69234d51"
-							},
-							{
-								"items": [
-
-								],
-								"h": "d99dfb7dafeda6ba526aa4a4d1b408685aae80fb"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Get32",
-						"t": "int ()",
-						"i": "Upp::TTFReader::TTFStreamIn::Get32()",
-						"r": "int Get32()",
-						"s": "Upp",
-						"u": "GET32",
-						"q": "Upp::TTFReader::TTFStreamIn",
-						"w": "UPP::TTFREADER::TTFSTREAMIN",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "22447426e110d8df12988e0c75687115b784d11a"
-							},
-							{
-								"items": [
-
-								],
-								"h": "4d63a4025ef3b07a4ee77a98efbb1b3b1ef556fa"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Get",
-						"t": "String (int)",
-						"i": "Upp::TTFReader::TTFStreamIn::Get(int)",
-						"r": "Upp::String Get(int n)",
-						"s": "Upp",
-						"u": "GET",
-						"q": "Upp::TTFReader::TTFStreamIn",
-						"w": "UPP::TTFREADER::TTFSTREAMIN",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ba84701c49dbddb36cc166147a5c838682f19583"
-							},
-							{
-								"items": [
-
-								],
-								"h": "3ac70c377ad76630fc32e0b3ba129551558da091"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": true,
-						"is": false,
-						"n": "Raw",
-						"t": "void (void *, int)",
-						"i": "Upp::TTFReader::TTFStreamIn::Raw(void*,int)",
-						"r": "void Raw(void *ptr, int count)",
-						"s": "Upp",
-						"u": "RAW",
-						"q": "Upp::TTFReader::TTFStreamIn",
-						"w": "UPP::TTFREADER::TTFSTREAMIN",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "77bc8585231b4d7b0bb49fba9e14886e9272ef1d"
-							},
-							{
-								"items": [
-
-								],
-								"h": "a31bc865b732ddfefae82cd1374b19545d7a01b1"
-							}
-						]
-					}
-				]
-			}
-		},
-		{
-			"key": "TTFSubset.cpp",
-			"value": {
-				"items": [
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "sCheckSum",
-						"t": "dword (const String &)",
-						"i": "Upp::sCheckSum(const String&)",
-						"r": "Upp::dword sCheckSum(const Upp::String& data)",
-						"s": "Upp",
-						"u": "SCHECKSUM",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "1d8319429a94103df76e1b1a84f84de32a361fab"
-							},
-							{
-								"items": [
-
-								],
-								"h": "8cb06338f2d3f2b1f069fdf229dee980f5fd18da"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Set",
-						"t": "void (NewTable &, const String &)",
-						"i": "Upp::TTFReader::Set(NewTable&,const String&)",
-						"r": "void Set(Upp::TTFReader::NewTable& m, const Upp::String& data)",
-						"s": "Upp",
-						"u": "SET",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "d458d534f76280df88d82cf2f87c72a015fc9948"
-							},
-							{
-								"items": [
-
-								],
-								"h": "b1eaa4c6dee5c0e6fdd51c23248ae394f7df3fa1"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Add",
-						"t": "void (Array<NewTable> &, const char *, const String &)",
-						"i": "Upp::TTFReader::Add(Array&,const char*,const String&)",
-						"r": "void Add(Array<NewTable>& t, const char *name, const Upp::String& data)",
-						"s": "Upp",
-						"u": "ADD",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "40f55d79a7c19a54d44cd2607b95036f483c0b49"
-							},
-							{
-								"items": [
-
-								],
-								"h": "50859ac0b619872bc43c99ee5ce87ca479c1d536"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "CreateHeader",
-						"t": "String (const Array<NewTable> &)",
-						"i": "Upp::TTFReader::CreateHeader(const Array&)",
-						"r": "Upp::String CreateHeader(const Array<NewTable>& t)",
-						"s": "Upp",
-						"u": "CREATEHEADER",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5afc87803f8fa09a71b1af0c403350080edf540e"
-							},
-							{
-								"items": [
-
-								],
-								"h": "f53d2bcf1b16aae3c50afd6cc0c2fbec119fd82e"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Subset",
-						"t": "String (const Vector<wchar> &, int, bool)",
-						"i": "Upp::TTFReader::Subset(const Vector&,int,bool)",
-						"r": "Upp::String Subset(const Vector<wchar>& chars, int first = 0, bool os2 = false)",
-						"s": "Upp",
-						"u": "SUBSET",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "249db739c267b68ec147c306ba8a45a72c6e1853"
-							},
-							{
-								"items": [
-
-								],
-								"h": "e7b68bde4070e527f98c7eea85246de733f07439"
-							}
-						]
-					}
-				]
-			}
-		},
-		{
-			"key": "TTFReader.cpp",
-			"value": {
-				"items": [
-					{
-						"k": 501,
-						"d": false,
-						"iv": false,
-						"is": false,
-						"n": "LLOG",
-						"t": "",
-						"i": "LLOG",
-						"r": "LLOG",
-						"s": "",
-						"u": "LLOG",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "d83c43df219c111fa516fe33b765574dc658780b"
-							}
-						]
-					},
-					{
-						"k": 501,
-						"d": false,
-						"iv": false,
-						"is": false,
-						"n": "LDUMP",
-						"t": "",
-						"i": "LDUMP",
-						"r": "LDUMP",
-						"s": "",
-						"u": "LDUMP",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "2ea08c3f31df288e30ec5c02db16b3d948516e1c"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Peek8",
-						"t": "int (const char *)",
-						"i": "Upp::TTFReader::Peek8(const char*)",
-						"r": "int Peek8(const char *s)",
-						"s": "Upp",
-						"u": "PEEK8",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4e6ff0e7c9120d1e2eb7df072f0f20044eb3e546"
-							},
-							{
-								"items": [
-
-								],
-								"h": "2382f921d955a0ea2ac4fa02ca62c633748d53f1"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Peek16",
-						"t": "int (const char *)",
-						"i": "Upp::TTFReader::Peek16(const char*)",
-						"r": "int Peek16(const char *s)",
-						"s": "Upp",
-						"u": "PEEK16",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5342f7a78ec7a05dda5a33e9992d901ace24012f"
-							},
-							{
-								"items": [
-
-								],
-								"h": "2c76d210a236f50636b0de39a26e5e3cd08cd3fc"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Peek32",
-						"t": "int (const char *)",
-						"i": "Upp::TTFReader::Peek32(const char*)",
-						"r": "int Peek32(const char *s)",
-						"s": "Upp",
-						"u": "PEEK32",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "737d65865fb747d55c3ef30a48d5f2c057078818"
-							},
-							{
-								"items": [
-
-								],
-								"h": "6ea2df13fa0708497c8b91c4ff6ec3ac2c362a01"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Peek8",
-						"t": "int (const char *, int)",
-						"i": "Upp::TTFReader::Peek8(const char*,int)",
-						"r": "int Peek8(const char *s, int i)",
-						"s": "Upp",
-						"u": "PEEK8",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "333351a0ab287aa47a43d2339ae45e6d387ed69f"
-							},
-							{
-								"items": [
-
-								],
-								"h": "789d61e3b391a54b9195c8637c318ae013e67753"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Peek16",
-						"t": "int (const char *, int)",
-						"i": "Upp::TTFReader::Peek16(const char*,int)",
-						"r": "int Peek16(const char *s, int i)",
-						"s": "Upp",
-						"u": "PEEK16",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "005ca90eadbe210f22a00f0e3316fce80dbdf779"
-							},
-							{
-								"items": [
-
-								],
-								"h": "01ae0481e8024dc6696e061c22e8bfa3ce2e7dbd"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Peek32",
-						"t": "int (const char *, int)",
-						"i": "Upp::TTFReader::Peek32(const char*,int)",
-						"r": "int Peek32(const char *s, int i)",
-						"s": "Upp",
-						"u": "PEEK32",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "118252135ab9c795a0bfb6e81677d1a8d31fba97"
-							},
-							{
-								"items": [
-
-								],
-								"h": "389afbc6e0e52084f7d04069ce99a83cb04b8c7c"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Read8",
-						"t": "int (const char *&)",
-						"i": "Upp::TTFReader::Read8(const char*&)",
-						"r": "int Read8(const char *&s)",
-						"s": "Upp",
-						"u": "READ8",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "775c841dc2422eb463c8561fadc9f6699516215c"
-							},
-							{
-								"items": [
-
-								],
-								"h": "435cf46e743fb04e2ae64c1244b5f10019dc5fe6"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Read16",
-						"t": "int (const char *&)",
-						"i": "Upp::TTFReader::Read16(const char*&)",
-						"r": "int Read16(const char *&s)",
-						"s": "Upp",
-						"u": "READ16",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "03fe8c26f36b30251093ece21ad44385cc688660"
-							},
-							{
-								"items": [
-
-								],
-								"h": "31155b53a32a0ba8eea8a7c4ef99e8f02d1dfe8e"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Read32",
-						"t": "int (const char *&)",
-						"i": "Upp::TTFReader::Read32(const char*&)",
-						"r": "int Read32(const char *&s)",
-						"s": "Upp",
-						"u": "READ32",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ffe8f0ae6b31f92c56a525481d72778cf55f1931"
-							},
-							{
-								"items": [
-
-								],
-								"h": "0f603fb182070ee6b27bfa75a55e836a64e6dbb5"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Read",
-						"t": "String (const char *&, int)",
-						"i": "Upp::TTFReader::Read(const char*&,int)",
-						"r": "Upp::String Read(const char *&s, int n)",
-						"s": "Upp",
-						"u": "READ",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b3b4394ba2f3fe8871d71878ec2cc7fb126619dc"
-							},
-							{
-								"items": [
-
-								],
-								"h": "fb97fb725a9cb8eda7a5fe368c46e3bbf7b4ba6a"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Reset",
-						"t": "void ()",
-						"i": "Upp::TTFReader::Reset()",
-						"r": "void Reset()",
-						"s": "Upp",
-						"u": "RESET",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5d89a852d9b7c35c55b8112aaa6025fd26020052"
-							},
-							{
-								"items": [
-
-								],
-								"h": "89c6e825c40de5488a9e4c88091cd04bba72f84a"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "SetGlyph",
-						"t": "void (wchar, word)",
-						"i": "Upp::TTFReader::SetGlyph(wchar,word)",
-						"r": "void SetGlyph(Upp::wchar chr, Upp::word glyph)",
-						"s": "Upp",
-						"u": "SETGLYPH",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ed7352e2ffe2248828b117015651ea927a7827b1"
-							},
-							{
-								"items": [
-
-								],
-								"h": "07feb04a5856d226960b6bea449b45b316ae8a8a"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Seek",
-						"t": "const char *(const char *, int &)",
-						"i": "Upp::TTFReader::Seek(const char*,int&)",
-						"r": "const char *Seek(const char *tab, int& len)",
-						"s": "Upp",
-						"u": "SEEK",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "3468907c5e2e68f0de6083e3277f807662248884"
-							},
-							{
-								"items": [
-
-								],
-								"h": "49105625deaacbcae1cfaa7a015793f8698441d7"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Seek",
-						"t": "const char *(const char *)",
-						"i": "Upp::TTFReader::Seek(const char*)",
-						"r": "const char *Seek(const char *tab)",
-						"s": "Upp",
-						"u": "SEEK",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "3b0764a6ef6e4f97c4b292b64939e88d1e49fac0"
-							},
-							{
-								"items": [
-
-								],
-								"h": "09dd9ef6f620fb52c1db45aca98df6a6e012deed"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Seek",
-						"t": "void (const char *, TTFStreamIn &)",
-						"i": "Upp::TTFReader::Seek(const char*,TTFStreamIn&)",
-						"r": "void Seek(const char *tab, Upp::TTFReader::TTFStreamIn& s)",
-						"s": "Upp",
-						"u": "SEEK",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "fe0f6e1f2b6a646dc655cf8a90c5d4b8c231c7c2"
-							},
-							{
-								"items": [
-
-								],
-								"h": "d095456573b6998f82d8aea616cf787241adc31d"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "GetTable",
-						"t": "String (const char *)",
-						"i": "Upp::TTFReader::GetTable(const char*)",
-						"r": "Upp::String GetTable(const char *tab)",
-						"s": "Upp",
-						"u": "GETTABLE",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "6d8af7ef1321f768df89f2b65b459de6bf747b41"
-							},
-							{
-								"items": [
-
-								],
-								"h": "6e6d1293fab55be1e4d2b1c4b308a303fa9f0003"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Open",
-						"t": "bool (const Font &, bool, bool)",
-						"i": "Upp::TTFReader::Open(const Font&,bool,bool)",
-						"r": "bool Open(const Upp::Font& fnt, bool symbol = false, bool justcheck = false)",
-						"s": "Upp",
-						"u": "OPEN",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "09c2638df6814b75bedd65f01a3fd19df36942bc"
-							},
-							{
-								"items": [
-
-								],
-								"h": "d3933dce4f09f5ec92b1684adc7372ce795a5c96"
-							}
-						]
-					},
-					{
-						"k": 24,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "TTFReader",
-						"t": "void ()",
-						"i": "Upp::TTFReader::TTFReader()",
-						"r": "TTFReader()",
-						"s": "Upp",
-						"u": "TTFREADER",
-						"q": "Upp::TTFReader",
-						"w": "UPP::TTFREADER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0fe3e043b89675f9aaced8c5d63016295bc11f36"
-							},
-							{
-								"items": [
-
-								],
-								"h": "1fada38d0f1d69a1bf6512e4ec5bd3fb21a7ffec"
 							}
 						]
 					}
@@ -8409,7 +7092,7 @@
 						"n": "GetInfo",
 						"t": "dword () const",
 						"i": "Upp::PdfDraw::GetInfo()const",
-						"r": "Upp::dword GetInfo() const",
+						"r": "dword GetInfo() const",
 						"s": "Upp",
 						"u": "GETINFO",
 						"q": "Upp::PdfDraw",
@@ -8419,12 +7102,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "cbcd92d4ed40292d2a0628b9532e9e976b257b8a"
-							},
 							{
 								"items": [
 
@@ -8441,7 +7118,7 @@
 						"n": "GetPageSize",
 						"t": "Size () const",
 						"i": "Upp::PdfDraw::GetPageSize()const",
-						"r": "Upp::Size GetPageSize() const",
+						"r": "Size GetPageSize() const",
 						"s": "Upp",
 						"u": "GETPAGESIZE",
 						"q": "Upp::PdfDraw",
@@ -8451,12 +7128,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0339f329ef63d6a9a4b7b8a036664f31ae651a74"
-							},
 							{
 								"items": [
 
@@ -8487,12 +7158,6 @@
 								"items": [
 
 								],
-								"h": "ba746c7ffbb5faf5142ee7701f090d2fecb4424f"
-							},
-							{
-								"items": [
-
-								],
 								"h": "f4d8df0d55cf036f9c298f345164bd10d68f5371"
 							}
 						]
@@ -8515,12 +7180,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f512f5c3d8e47af7bcda78e92d6963f01dc107aa"
-							},
 							{
 								"items": [
 
@@ -8551,12 +7210,6 @@
 								"items": [
 
 								],
-								"h": "1aff864fa9de6125db6e77cd0e395c3d140cde85"
-							},
-							{
-								"items": [
-
-								],
 								"h": "22dac099532576b23302f74abb919e69c03770f3"
 							}
 						]
@@ -8583,12 +7236,6 @@
 								"items": [
 
 								],
-								"h": "8ce305e58b9581dd3a6758f34fd264fb2c374ab3"
-							},
-							{
-								"items": [
-
-								],
 								"h": "32562e3a3ccaec108d28f2d5e86ba88d528c68be"
 							}
 						]
@@ -8601,7 +7248,7 @@
 						"n": "PutRect",
 						"t": "void (const Rect &)",
 						"i": "Upp::PdfDraw::PutRect(const Rect&)",
-						"r": "void PutRect(const Upp::Rect& rc)",
+						"r": "void PutRect(const Rect& rc)",
 						"s": "Upp",
 						"u": "PUTRECT",
 						"q": "Upp::PdfDraw",
@@ -8611,12 +7258,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "754497619d4fca596100a47919f04de832a85c57"
-							},
 							{
 								"items": [
 
@@ -8633,7 +7274,7 @@
 						"n": "PutStream",
 						"t": "int (const String &, const String &, bool)",
 						"i": "Upp::PdfDraw::PutStream(const String&,const String&,bool)",
-						"r": "int PutStream(const Upp::String& data, const Upp::String& keys = Null, bool compress = true)",
+						"r": "int PutStream(const String& data, const String& keys = Null, bool compress = true)",
 						"s": "Upp",
 						"u": "PUTSTREAM",
 						"q": "Upp::PdfDraw",
@@ -8643,12 +7284,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "706bcdce7e01942bedfca31cc6d0a2eedd02ea96"
-							},
 							{
 								"items": [
 
@@ -8665,7 +7300,7 @@
 						"n": "PutrgColor",
 						"t": "void (Color, uint64)",
 						"i": "Upp::PdfDraw::PutrgColor(Color,uint64)",
-						"r": "void PutrgColor(Upp::Color rg, Upp::uint64 pattern = 0)",
+						"r": "void PutrgColor(Color rg, uint64 pattern = 0)",
 						"s": "Upp",
 						"u": "PUTRGCOLOR",
 						"q": "Upp::PdfDraw",
@@ -8675,12 +7310,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "96b8a4ff9018b8f308259f19cb112d219a17064e"
-							},
 							{
 								"items": [
 
@@ -8697,7 +7326,7 @@
 						"n": "PutRGColor",
 						"t": "void (Color)",
 						"i": "Upp::PdfDraw::PutRGColor(Color)",
-						"r": "void PutRGColor(Upp::Color RG)",
+						"r": "void PutRGColor(Color RG)",
 						"s": "Upp",
 						"u": "PUTRGCOLOR",
 						"q": "Upp::PdfDraw",
@@ -8707,12 +7336,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5b80f0a086b146199d90941daf5da3d30cc11b0e"
-							},
 							{
 								"items": [
 
@@ -8743,12 +7366,6 @@
 								"items": [
 
 								],
-								"h": "3d8b5a895fcfdad8602914df8ac63019ea9b1c0a"
-							},
-							{
-								"items": [
-
-								],
 								"h": "dc1e3ee9b85ae58e7018b82a0912d14fb0440b9e"
 							}
 						]
@@ -8771,12 +7388,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "41685590ceed96ff80c5b9892693973cfeb968c6"
-							},
 							{
 								"items": [
 
@@ -8807,12 +7418,6 @@
 								"items": [
 
 								],
-								"h": "6ed2d14f5b8688581e3c3058053781d4c13aee2d"
-							},
-							{
-								"items": [
-
-								],
 								"h": "6bb798d30335799d1e855573145ee4ebc0b1ae3e"
 							}
 						]
@@ -8835,12 +7440,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "bc01fdf36a82c72e4023b3c217352cb189679962"
-							},
 							{
 								"items": [
 
@@ -8871,12 +7470,6 @@
 								"items": [
 
 								],
-								"h": "c7013cbd0881cc2931b0eb62370637e742e7f657"
-							},
-							{
-								"items": [
-
-								],
 								"h": "fcc4a970f652ce54f9cceee553e47bcdf6fe4c58"
 							}
 						]
@@ -8899,12 +7492,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "02b43311112c088610ee395c4ede342ddad18d2e"
-							},
 							{
 								"items": [
 
@@ -8935,12 +7522,6 @@
 								"items": [
 
 								],
-								"h": "598095621082cd11e03fd5ed291185ce80ee9e20"
-							},
-							{
-								"items": [
-
-								],
 								"h": "578b0fcb2e006f149402dc3363d2c69d04326e9c"
 							}
 						]
@@ -8953,7 +7534,7 @@
 						"n": "OffsetOp",
 						"t": "void (Point)",
 						"i": "Upp::PdfDraw::OffsetOp(Point)",
-						"r": "void OffsetOp(Upp::Point p)",
+						"r": "void OffsetOp(Point p)",
 						"s": "Upp",
 						"u": "OFFSETOP",
 						"q": "Upp::PdfDraw",
@@ -8963,12 +7544,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8061818bd9d6fd1e501ecf159d5ecd87fd921aff"
-							},
 							{
 								"items": [
 
@@ -8985,7 +7560,7 @@
 						"n": "ClipOp",
 						"t": "bool (const Rect &)",
 						"i": "Upp::PdfDraw::ClipOp(const Rect&)",
-						"r": "bool ClipOp(const Upp::Rect& r)",
+						"r": "bool ClipOp(const Rect& r)",
 						"s": "Upp",
 						"u": "CLIPOP",
 						"q": "Upp::PdfDraw",
@@ -8995,12 +7570,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4afb17f309ae279c10e7501c36e23fc192ef6346"
-							},
 							{
 								"items": [
 
@@ -9017,7 +7586,7 @@
 						"n": "ClipoffOp",
 						"t": "bool (const Rect &)",
 						"i": "Upp::PdfDraw::ClipoffOp(const Rect&)",
-						"r": "bool ClipoffOp(const Upp::Rect& r)",
+						"r": "bool ClipoffOp(const Rect& r)",
 						"s": "Upp",
 						"u": "CLIPOFFOP",
 						"q": "Upp::PdfDraw",
@@ -9027,12 +7596,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5f41e2f80ab3c8a0fb041a5d0f19737e7d2d26db"
-							},
 							{
 								"items": [
 
@@ -9049,7 +7612,7 @@
 						"n": "ExcludeClipOp",
 						"t": "bool (const Rect &)",
 						"i": "Upp::PdfDraw::ExcludeClipOp(const Rect&)",
-						"r": "bool ExcludeClipOp(const Upp::Rect& r)",
+						"r": "bool ExcludeClipOp(const Rect& r)",
 						"s": "Upp",
 						"u": "EXCLUDECLIPOP",
 						"q": "Upp::PdfDraw",
@@ -9059,12 +7622,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "67aa81e2fdf093ef825b91ec1221fd58c8461c12"
-							},
 							{
 								"items": [
 
@@ -9081,7 +7638,7 @@
 						"n": "IntersectClipOp",
 						"t": "bool (const Rect &)",
 						"i": "Upp::PdfDraw::IntersectClipOp(const Rect&)",
-						"r": "bool IntersectClipOp(const Upp::Rect& r)",
+						"r": "bool IntersectClipOp(const Rect& r)",
 						"s": "Upp",
 						"u": "INTERSECTCLIPOP",
 						"q": "Upp::PdfDraw",
@@ -9091,12 +7648,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "d42fc5bf9b67142a0c3f1a822d1629f10295a3a5"
-							},
 							{
 								"items": [
 
@@ -9113,7 +7664,7 @@
 						"n": "IsPaintingOp",
 						"t": "bool (const Rect &) const",
 						"i": "Upp::PdfDraw::IsPaintingOp(const Rect&)const",
-						"r": "bool IsPaintingOp(const Upp::Rect&) const",
+						"r": "bool IsPaintingOp(const Rect&) const",
 						"s": "Upp",
 						"u": "ISPAINTINGOP",
 						"q": "Upp::PdfDraw",
@@ -9123,12 +7674,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "90e919fe6c20c3ce543f33439847f597fadeef6d"
-							},
 							{
 								"items": [
 
@@ -9145,7 +7690,7 @@
 						"n": "GetCharPos",
 						"t": "PdfDraw::CharPos (Font, wchar)",
 						"i": "Upp::PdfDraw::GetCharPos(Font,wchar)",
-						"r": "Upp::PdfDraw::CharPos GetCharPos(Upp::Font fnt, Upp::wchar chr)",
+						"r": "PdfDraw::CharPos GetCharPos(Font fnt, wchar chr)",
 						"s": "Upp",
 						"u": "GETCHARPOS",
 						"q": "Upp::PdfDraw",
@@ -9155,12 +7700,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "157f7b7b185d3a10cf7c5e75accaf9cc3d743f8a"
-							},
 							{
 								"items": [
 
@@ -9177,7 +7716,7 @@
 						"n": "FlushText",
 						"t": "void (int, int, int, const String &)",
 						"i": "Upp::PdfDraw::FlushText(int,int,int,const String&)",
-						"r": "void FlushText(int dx, int fi, int height, const Upp::String& txt)",
+						"r": "void FlushText(int dx, int fi, int height, const String& txt)",
 						"s": "Upp",
 						"u": "FLUSHTEXT",
 						"q": "Upp::PdfDraw",
@@ -9187,12 +7726,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "860e552c4b99fc5c7d4555d990ccbac149c7fded"
-							},
 							{
 								"items": [
 
@@ -9209,7 +7742,7 @@
 						"n": "PdfColor",
 						"t": "String (Color)",
 						"i": "Upp::PdfDraw::PdfColor(Color)",
-						"r": "Upp::String PdfColor(Upp::Color c)",
+						"r": "String PdfColor(Color c)",
 						"s": "Upp",
 						"u": "PDFCOLOR",
 						"q": "Upp::PdfDraw",
@@ -9219,12 +7752,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b432130a7776eaefc64852bf882d7b138c68978c"
-							},
 							{
 								"items": [
 
@@ -9241,7 +7768,7 @@
 						"n": "PdfString",
 						"t": "String (const char *)",
 						"i": "Upp::PdfDraw::PdfString(const char*)",
-						"r": "Upp::String PdfString(const char *s)",
+						"r": "String PdfString(const char *s)",
 						"s": "Upp",
 						"u": "PDFSTRING",
 						"q": "Upp::PdfDraw",
@@ -9251,12 +7778,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0e34f1248c01de29200579afaab82aec6c4441d1"
-							},
 							{
 								"items": [
 
@@ -9287,12 +7808,6 @@
 								"items": [
 
 								],
-								"h": "5972734e2402e9c731d51fb24b830e8f1e4060f4"
-							},
-							{
-								"items": [
-
-								],
 								"h": "fece0b273c2f3045d596e1bfcc6b83b247c29b26"
 							}
 						]
@@ -9305,7 +7820,7 @@
 						"n": "GetOutlineInfo",
 						"t": "PdfDraw::OutlineInfo (Font)",
 						"i": "Upp::PdfDraw::GetOutlineInfo(Font)",
-						"r": "Upp::PdfDraw::OutlineInfo GetOutlineInfo(Upp::Font fnt)",
+						"r": "PdfDraw::OutlineInfo GetOutlineInfo(Font fnt)",
 						"s": "Upp",
 						"u": "GETOUTLINEINFO",
 						"q": "Upp::PdfDraw",
@@ -9319,12 +7834,6 @@
 								"items": [
 
 								],
-								"h": "b74b7ca877fc1cd77d924b8ef94776d03c6354a8"
-							},
-							{
-								"items": [
-
-								],
 								"h": "cae63bd1491cb1c86c3fffe3415eb6f93a564c0f"
 							}
 						]
@@ -9334,12 +7843,12 @@
 						"d": true,
 						"iv": false,
 						"is": false,
-						"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.cpp:311:1)",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.cpp:311:1)",
-						"i": "Upp::(unnamed at/home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.)",
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.cpp:311:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.cpp:311:1)",
+						"i": "Upp::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.)",
 						"r": "enum",
 						"s": "Upp",
-						"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/PDFDRAW/PDFDRAW.CPP:311:1)",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\PDFDRAW\\PDFDRAW.CPP:311:1)",
 						"q": "",
 						"w": "",
 						"y": "",
@@ -9361,7 +7870,7 @@
 						"iv": false,
 						"is": false,
 						"n": "FONTHEIGHT_TTF",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/PdfDraw/PdfDraw.cpp:311:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\PdfDraw\\PdfDraw.cpp:311:1)",
 						"i": "Upp::FONTHEIGHT_TTF",
 						"r": "FONTHEIGHT_TTF",
 						"s": "Upp",
@@ -9389,7 +7898,7 @@
 						"n": "RenderGlyph",
 						"t": "Image (int, int, Font, int, int, int, Color, Color)",
 						"i": "Upp::RenderGlyph(int,int,Font,int,int,int,Color,Color)",
-						"r": "Upp::Image RenderGlyph(int cx, int x, Upp::Font font, int chr, int py, int pcy, Upp::Color fg, Upp::Color bg)",
+						"r": "Image RenderGlyph(int cx, int x, Font font, int chr, int py, int pcy, Color fg, Color bg)",
 						"s": "Upp",
 						"u": "RENDERGLYPH",
 						"q": "Upp",
@@ -9415,7 +7924,7 @@
 						"n": "ColorGlyph",
 						"t": "PdfDraw::CGlyph (Font, int)",
 						"i": "Upp::PdfDraw::ColorGlyph(Font,int)",
-						"r": "Upp::PdfDraw::CGlyph ColorGlyph(Upp::Font fnt, int chr)",
+						"r": "PdfDraw::CGlyph ColorGlyph(Font fnt, int chr)",
 						"s": "Upp",
 						"u": "COLORGLYPH",
 						"q": "Upp::PdfDraw",
@@ -9425,12 +7934,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f85a440663f86508c016d6e9db7311692d563be1"
-							},
 							{
 								"items": [
 
@@ -9447,7 +7950,7 @@
 						"n": "DrawTextOp",
 						"t": "void (int, int, int, const wchar *, Font, Color, int, const int *)",
 						"i": "Upp::PdfDraw::DrawTextOp(int,int,int,const wchar*,Font,Color,int,const int*)",
-						"r": "void DrawTextOp(int x, int y, int angle, const Upp::wchar *s, Upp::Font fnt, Upp::Color ink, int n, const int *dx)",
+						"r": "void DrawTextOp(int x, int y, int angle, const wchar *s, Font fnt, Color ink, int n, const int *dx)",
 						"s": "Upp",
 						"u": "DRAWTEXTOP",
 						"q": "Upp::PdfDraw",
@@ -9457,12 +7960,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "894e40734e7a5a8facc023f35497fd10b9f7ae0b"
-							},
 							{
 								"items": [
 
@@ -9479,7 +7976,7 @@
 						"n": "Escape",
 						"t": "void (const String &)",
 						"i": "Upp::PdfDraw::Escape(const String&)",
-						"r": "void Escape(const Upp::String& data)",
+						"r": "void Escape(const String& data)",
 						"s": "Upp",
 						"u": "ESCAPE",
 						"q": "Upp::PdfDraw",
@@ -9489,12 +7986,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ba5a94242289abfabc6c9997d14f045d95cd0b01"
-							},
 							{
 								"items": [
 
@@ -9511,7 +8002,7 @@
 						"n": "RasterGlyph",
 						"t": "PdfDraw::RGlyph (Font, int)",
 						"i": "Upp::PdfDraw::RasterGlyph(Font,int)",
-						"r": "Upp::PdfDraw::RGlyph RasterGlyph(Upp::Font fnt, int chr)",
+						"r": "PdfDraw::RGlyph RasterGlyph(Font fnt, int chr)",
 						"s": "Upp",
 						"u": "RASTERGLYPH",
 						"q": "Upp::PdfDraw",
@@ -9521,12 +8012,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "e0836b798cc6dd32457f35c8c17fc90a494b8ee0"
-							},
 							{
 								"items": [
 
@@ -9543,7 +8028,7 @@
 						"n": "DrawRectOp",
 						"t": "void (int, int, int, int, Color)",
 						"i": "Upp::PdfDraw::DrawRectOp(int,int,int,int,Color)",
-						"r": "void DrawRectOp(int x, int y, int cx, int cy, Upp::Color color)",
+						"r": "void DrawRectOp(int x, int y, int cx, int cy, Color color)",
 						"s": "Upp",
 						"u": "DRAWRECTOP",
 						"q": "Upp::PdfDraw",
@@ -9553,12 +8038,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8cac38baed410526aa02c069cd4c2309ce3333a7"
-							},
 							{
 								"items": [
 
@@ -9575,7 +8054,7 @@
 						"n": "DrawLineOp",
 						"t": "void (int, int, int, int, int, Color)",
 						"i": "Upp::PdfDraw::DrawLineOp(int,int,int,int,int,Color)",
-						"r": "void DrawLineOp(int x1, int y1, int x2, int y2, int width, Upp::Color color)",
+						"r": "void DrawLineOp(int x1, int y1, int x2, int y2, int width, Color color)",
 						"s": "Upp",
 						"u": "DRAWLINEOP",
 						"q": "Upp::PdfDraw",
@@ -9585,12 +8064,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f19dfa6d75592327ddebdae62b10771afd2394d0"
-							},
 							{
 								"items": [
 
@@ -9607,7 +8080,7 @@
 						"n": "sJPEGDummy",
 						"t": "Image ()",
 						"i": "Upp::sJPEGDummy()",
-						"r": "static Upp::Image sJPEGDummy()",
+						"r": "static Image sJPEGDummy()",
 						"s": "Upp",
 						"u": "SJPEGDUMMY",
 						"q": "Upp",
@@ -9617,12 +8090,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "c7a5b19f8e56018866c4c506d0ec02f8bc2e1474"
-							},
 							{
 								"items": [
 
@@ -9639,7 +8106,7 @@
 						"n": "DrawJPEG",
 						"t": "void (Draw &, int, int, int, int, const String &)",
 						"i": "Upp::DrawJPEG(Draw&,int,int,int,int,const String&)",
-						"r": "void DrawJPEG(Upp::Draw& w, int x, int y, int cx, int cy, const Upp::String& jpeg_data)",
+						"r": "void DrawJPEG(Draw& w, int x, int y, int cx, int cy, const String& jpeg_data)",
 						"s": "Upp",
 						"u": "DRAWJPEG",
 						"q": "Upp",
@@ -9649,12 +8116,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b12f2cf95603f8af2d5c9213ec988ec66d572b57"
-							},
 							{
 								"items": [
 
@@ -9671,7 +8132,7 @@
 						"n": "PdfImage",
 						"t": "int (const Image &, const Rect &)",
 						"i": "Upp::PdfDraw::PdfImage(const Image&,const Rect&)",
-						"r": "int PdfImage(const Upp::Image& img, const Upp::Rect& src)",
+						"r": "int PdfImage(const Image& img, const Rect& src)",
 						"s": "Upp",
 						"u": "PDFIMAGE",
 						"q": "Upp::PdfDraw",
@@ -9681,12 +8142,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b3d1bdf8cb2c3fe0b1f44174336d57a123608c93"
-							},
 							{
 								"items": [
 
@@ -9703,7 +8158,7 @@
 						"n": "DrawImageOp",
 						"t": "void (int, int, int, int, const Image &, const Rect &, Color)",
 						"i": "Upp::PdfDraw::DrawImageOp(int,int,int,int,const Image&,const Rect&,Color)",
-						"r": "void DrawImageOp(int x, int y, int cx, int cy, const Upp::Image& _img, const Upp::Rect& src, Upp::Color c)",
+						"r": "void DrawImageOp(int x, int y, int cx, int cy, const Image& _img, const Rect& src, Color c)",
 						"s": "Upp",
 						"u": "DRAWIMAGEOP",
 						"q": "Upp::PdfDraw",
@@ -9713,12 +8168,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "010fa3b34a46557d98c15da3fe558a4aab59473c"
-							},
 							{
 								"items": [
 
@@ -9735,7 +8184,7 @@
 						"n": "DrawPolyPolylineOp",
 						"t": "void (const Point *, int, const int *, int, int, Color, Color)",
 						"i": "Upp::PdfDraw::DrawPolyPolylineOp(const Point*,int,const int*,int,int,Color,Color)",
-						"r": "void DrawPolyPolylineOp(const Upp::Point *vertices, int vertex_count, const int *counts, int count_count, int width, Upp::Color color, Upp::Color doxor)",
+						"r": "void DrawPolyPolylineOp(const Point *vertices, int vertex_count, const int *counts, int count_count, int width, Color color, Color doxor)",
 						"s": "Upp",
 						"u": "DRAWPOLYPOLYLINEOP",
 						"q": "Upp::PdfDraw",
@@ -9745,12 +8194,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "e7ebf6b75f3f5acd60c3bc09caf4e16a84670dea"
-							},
 							{
 								"items": [
 
@@ -9767,7 +8210,7 @@
 						"n": "DrawEllipseOp",
 						"t": "void (const Rect &, Color, int, Color)",
 						"i": "Upp::PdfDraw::DrawEllipseOp(const Rect&,Color,int,Color)",
-						"r": "void DrawEllipseOp(const Upp::Rect& r, Upp::Color color, int pen, Upp::Color outline)",
+						"r": "void DrawEllipseOp(const Rect& r, Color color, int pen, Color outline)",
 						"s": "Upp",
 						"u": "DRAWELLIPSEOP",
 						"q": "Upp::PdfDraw",
@@ -9777,12 +8220,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "a39d4ab0d6501c0ad817eeed44ec485b6c012d49"
-							},
 							{
 								"items": [
 
@@ -9799,4 +8236,1324 @@
 						"n": "DrawArcOp",
 						"t": "void (const Rect &, Point, Point, int, Color)",
 						"i": "Upp::PdfDraw::DrawArcOp(const Rect&,Point,Point,int,Color)",
-						"r": "void DrawArcOp(const Upp::Rect& rc, Upp::Point start, Upp::Point end, int wi
+						"r": "void DrawArcOp(const Rect& rc, Point start, Point end, int width, Color color)",
+						"s": "Upp",
+						"u": "DRAWARCOP",
+						"q": "Upp::PdfDraw",
+						"w": "UPP::PDFDRAW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28cecf1c293657ef7d711054dec83fcb37e70561"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "DrawPolyPolyPolygonOp",
+						"t": "void (const Point *, int, const int *, int, const int *, int, Color, int, Color, uint64, Color)",
+						"i": "Upp::PdfDraw::DrawPolyPolyPolygonOp(const Point*,int,const int*,int,const int*,int,Color,int,Color,uint64,Color)",
+						"r": "void DrawPolyPolyPolygonOp(const Point *vertices, int vertex_count, const int *subpolygon_counts, int subpolygon_count_count, const int *disjunct_polygon_counts, int disjunct_polygon_count_count, Color color, int width, Color outline, uint64 pattern, Color doxor)",
+						"s": "Upp",
+						"u": "DRAWPOLYPOLYPOLYGONOP",
+						"q": "Upp::PdfDraw",
+						"w": "UPP::PDFDRAW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "528972ba0095e684ca8378197c3689e92f74addc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetMonoPdfImage",
+						"t": "String (const Image &, const Rect &)",
+						"i": "Upp::GetMonoPdfImage(const Image&,const Rect&)",
+						"r": "String GetMonoPdfImage(const Image& m, const Rect& sr)",
+						"s": "Upp",
+						"u": "GETMONOPDFIMAGE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f0108276fa9714e24934f20c415e9eb8f755f06"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetGrayPdfImage",
+						"t": "String (const Image &, const Rect &)",
+						"i": "Upp::GetGrayPdfImage(const Image&,const Rect&)",
+						"r": "String GetGrayPdfImage(const Image& m, const Rect& sr)",
+						"s": "Upp",
+						"u": "GETGRAYPDFIMAGE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e7b10c6c77119ff8738cfcd9a1973bfd7e9ba6e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Finish",
+						"t": "String (const PdfSignatureInfo *)",
+						"i": "Upp::PdfDraw::Finish(const PdfSignatureInfo*)",
+						"r": "String Finish(const PdfSignatureInfo *sign = 0)",
+						"s": "Upp",
+						"u": "FINISH",
+						"q": "Upp::PdfDraw",
+						"w": "UPP::PDFDRAW",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c42ac26983af3909b7c3f0cdb1c07b28f4bf1ed6"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "ICCColorSpace.i",
+			"value": {
+				"items": [
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ICC_ColorSpaceInfo",
+						"t": "const char[2575]",
+						"i": "Upp::ICC_ColorSpaceInfo",
+						"r": "static const char ICC_ColorSpaceInfo[]",
+						"s": "Upp",
+						"u": "ICC_COLORSPACEINFO",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "85fe8654b1c07fed93c140ccfcae413d9b2110a2"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "TTFStream.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%",
+						"t": "TTFReader::TTFStream &(byte &)",
+						"i": "Upp::TTFReader::TTFStream::operator%(byte&)",
+						"r": "TTFReader::TTFStream& operator%(byte& q)",
+						"s": "Upp",
+						"u": "OPERATOR%",
+						"q": "Upp::TTFReader::TTFStream",
+						"w": "UPP::TTFREADER::TTFSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2996eec0a48f1ee9717aee330f6fe980c9627912"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%",
+						"t": "TTFReader::TTFStream &(int32 &)",
+						"i": "Upp::TTFReader::TTFStream::operator%(int32&)",
+						"r": "TTFReader::TTFStream& operator%(int32& q)",
+						"s": "Upp",
+						"u": "OPERATOR%",
+						"q": "Upp::TTFReader::TTFStream",
+						"w": "UPP::TTFREADER::TTFSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8420445d1e2837001db992d5e3307895fff24d48"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%",
+						"t": "TTFReader::TTFStream &(uint32 &)",
+						"i": "Upp::TTFReader::TTFStream::operator%(uint32&)",
+						"r": "TTFReader::TTFStream& operator%(uint32& q)",
+						"s": "Upp",
+						"u": "OPERATOR%",
+						"q": "Upp::TTFReader::TTFStream",
+						"w": "UPP::TTFREADER::TTFSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "121f4222f5f45cafc0e40ba68568dbe1fdb72448"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%",
+						"t": "TTFReader::TTFStream &(int16 &)",
+						"i": "Upp::TTFReader::TTFStream::operator%(int16&)",
+						"r": "TTFReader::TTFStream& operator%(int16& q)",
+						"s": "Upp",
+						"u": "OPERATOR%",
+						"q": "Upp::TTFReader::TTFStream",
+						"w": "UPP::TTFREADER::TTFSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49cac7668f694fe360b50d247dc65086ffa5cf1d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator%",
+						"t": "TTFReader::TTFStream &(uint16 &)",
+						"i": "Upp::TTFReader::TTFStream::operator%(uint16&)",
+						"r": "TTFReader::TTFStream& operator%(uint16& q)",
+						"s": "Upp",
+						"u": "OPERATOR%",
+						"q": "Upp::TTFReader::TTFStream",
+						"w": "UPP::TTFREADER::TTFSTREAM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bbc7e71e60c83a6723ce284c2f5c299147a83841"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Seek",
+						"t": "void (int)",
+						"i": "Upp::TTFReader::TTFStreamIn::Seek(int)",
+						"r": "void Seek(int offset)",
+						"s": "Upp",
+						"u": "SEEK",
+						"q": "Upp::TTFReader::TTFStreamIn",
+						"w": "UPP::TTFREADER::TTFSTREAMIN",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4da1d3dff22799ca251764075cbb421cc517543d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Get8",
+						"t": "int ()",
+						"i": "Upp::TTFReader::TTFStreamIn::Get8()",
+						"r": "int Get8()",
+						"s": "Upp",
+						"u": "GET8",
+						"q": "Upp::TTFReader::TTFStreamIn",
+						"w": "UPP::TTFREADER::TTFSTREAMIN",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dacf0eb03cca98b36773eb0aad0966fc90d8ce29"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Get16",
+						"t": "int ()",
+						"i": "Upp::TTFReader::TTFStreamIn::Get16()",
+						"r": "int Get16()",
+						"s": "Upp",
+						"u": "GET16",
+						"q": "Upp::TTFReader::TTFStreamIn",
+						"w": "UPP::TTFREADER::TTFSTREAMIN",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d99dfb7dafeda6ba526aa4a4d1b408685aae80fb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Get32",
+						"t": "int ()",
+						"i": "Upp::TTFReader::TTFStreamIn::Get32()",
+						"r": "int Get32()",
+						"s": "Upp",
+						"u": "GET32",
+						"q": "Upp::TTFReader::TTFStreamIn",
+						"w": "UPP::TTFREADER::TTFSTREAMIN",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d63a4025ef3b07a4ee77a98efbb1b3b1ef556fa"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Get",
+						"t": "String (int)",
+						"i": "Upp::TTFReader::TTFStreamIn::Get(int)",
+						"r": "String Get(int n)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::TTFReader::TTFStreamIn",
+						"w": "UPP::TTFREADER::TTFSTREAMIN",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ac70c377ad76630fc32e0b3ba129551558da091"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Raw",
+						"t": "void (void *, int)",
+						"i": "Upp::TTFReader::TTFStreamIn::Raw(void*,int)",
+						"r": "void Raw(void *ptr, int count)",
+						"s": "Upp",
+						"u": "RAW",
+						"q": "Upp::TTFReader::TTFStreamIn",
+						"w": "UPP::TTFREADER::TTFSTREAMIN",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a31bc865b732ddfefae82cd1374b19545d7a01b1"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "TTFSubset.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sCheckSum",
+						"t": "dword (const String &)",
+						"i": "Upp::sCheckSum(const String&)",
+						"r": "dword sCheckSum(const String& data)",
+						"s": "Upp",
+						"u": "SCHECKSUM",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8cb06338f2d3f2b1f069fdf229dee980f5fd18da"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Set",
+						"t": "void (NewTable &, const String &)",
+						"i": "Upp::TTFReader::Set(NewTable&,const String&)",
+						"r": "void Set(NewTable& m, const String& data)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b1eaa4c6dee5c0e6fdd51c23248ae394f7df3fa1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Add",
+						"t": "void (Array<NewTable> &, const char *, const String &)",
+						"i": "Upp::TTFReader::Add(Array&,const char*,const String&)",
+						"r": "void Add(Array<NewTable>& t, const char *name, const String& data)",
+						"s": "Upp",
+						"u": "ADD",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "50859ac0b619872bc43c99ee5ce87ca479c1d536"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CreateHeader",
+						"t": "String (const Array<NewTable> &)",
+						"i": "Upp::TTFReader::CreateHeader(const Array&)",
+						"r": "String CreateHeader(const Array<NewTable>& t)",
+						"s": "Upp",
+						"u": "CREATEHEADER",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f53d2bcf1b16aae3c50afd6cc0c2fbec119fd82e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Subset",
+						"t": "String (const Vector<wchar> &, int, bool)",
+						"i": "Upp::TTFReader::Subset(const Vector&,int,bool)",
+						"r": "String Subset(const Vector<wchar>& chars, int first = 0, bool os2 = false)",
+						"s": "Upp",
+						"u": "SUBSET",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e7b68bde4070e527f98c7eea85246de733f07439"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "TTFReader.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LLOG",
+						"t": "",
+						"i": "LLOG",
+						"r": "LLOG",
+						"s": "",
+						"u": "LLOG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d83c43df219c111fa516fe33b765574dc658780b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LDUMP",
+						"t": "",
+						"i": "LDUMP",
+						"r": "LDUMP",
+						"s": "",
+						"u": "LDUMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ea08c3f31df288e30ec5c02db16b3d948516e1c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Peek8",
+						"t": "int (const char *)",
+						"i": "Upp::TTFReader::Peek8(const char*)",
+						"r": "int Peek8(const char *s)",
+						"s": "Upp",
+						"u": "PEEK8",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2382f921d955a0ea2ac4fa02ca62c633748d53f1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Peek16",
+						"t": "int (const char *)",
+						"i": "Upp::TTFReader::Peek16(const char*)",
+						"r": "int Peek16(const char *s)",
+						"s": "Upp",
+						"u": "PEEK16",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c76d210a236f50636b0de39a26e5e3cd08cd3fc"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Peek32",
+						"t": "int (const char *)",
+						"i": "Upp::TTFReader::Peek32(const char*)",
+						"r": "int Peek32(const char *s)",
+						"s": "Upp",
+						"u": "PEEK32",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ea2df13fa0708497c8b91c4ff6ec3ac2c362a01"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Peek8",
+						"t": "int (const char *, int)",
+						"i": "Upp::TTFReader::Peek8(const char*,int)",
+						"r": "int Peek8(const char *s, int i)",
+						"s": "Upp",
+						"u": "PEEK8",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "789d61e3b391a54b9195c8637c318ae013e67753"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Peek16",
+						"t": "int (const char *, int)",
+						"i": "Upp::TTFReader::Peek16(const char*,int)",
+						"r": "int Peek16(const char *s, int i)",
+						"s": "Upp",
+						"u": "PEEK16",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "01ae0481e8024dc6696e061c22e8bfa3ce2e7dbd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Peek32",
+						"t": "int (const char *, int)",
+						"i": "Upp::TTFReader::Peek32(const char*,int)",
+						"r": "int Peek32(const char *s, int i)",
+						"s": "Upp",
+						"u": "PEEK32",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "389afbc6e0e52084f7d04069ce99a83cb04b8c7c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Read8",
+						"t": "int (const char *&)",
+						"i": "Upp::TTFReader::Read8(const char*&)",
+						"r": "int Read8(const char *&s)",
+						"s": "Upp",
+						"u": "READ8",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "435cf46e743fb04e2ae64c1244b5f10019dc5fe6"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Read16",
+						"t": "int (const char *&)",
+						"i": "Upp::TTFReader::Read16(const char*&)",
+						"r": "int Read16(const char *&s)",
+						"s": "Upp",
+						"u": "READ16",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31155b53a32a0ba8eea8a7c4ef99e8f02d1dfe8e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Read32",
+						"t": "int (const char *&)",
+						"i": "Upp::TTFReader::Read32(const char*&)",
+						"r": "int Read32(const char *&s)",
+						"s": "Upp",
+						"u": "READ32",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f603fb182070ee6b27bfa75a55e836a64e6dbb5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Read",
+						"t": "String (const char *&, int)",
+						"i": "Upp::TTFReader::Read(const char*&,int)",
+						"r": "String Read(const char *&s, int n)",
+						"s": "Upp",
+						"u": "READ",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb97fb725a9cb8eda7a5fe368c46e3bbf7b4ba6a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Reset",
+						"t": "void ()",
+						"i": "Upp::TTFReader::Reset()",
+						"r": "void Reset()",
+						"s": "Upp",
+						"u": "RESET",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "89c6e825c40de5488a9e4c88091cd04bba72f84a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetGlyph",
+						"t": "void (wchar, word)",
+						"i": "Upp::TTFReader::SetGlyph(wchar,word)",
+						"r": "void SetGlyph(wchar chr, word glyph)",
+						"s": "Upp",
+						"u": "SETGLYPH",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07feb04a5856d226960b6bea449b45b316ae8a8a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Seek",
+						"t": "const char *(const char *, int &)",
+						"i": "Upp::TTFReader::Seek(const char*,int&)",
+						"r": "const char *Seek(const char *tab, int& len)",
+						"s": "Upp",
+						"u": "SEEK",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49105625deaacbcae1cfaa7a015793f8698441d7"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Seek",
+						"t": "const char *(const char *)",
+						"i": "Upp::TTFReader::Seek(const char*)",
+						"r": "const char *Seek(const char *tab)",
+						"s": "Upp",
+						"u": "SEEK",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "09dd9ef6f620fb52c1db45aca98df6a6e012deed"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Seek",
+						"t": "void (const char *, TTFStreamIn &)",
+						"i": "Upp::TTFReader::Seek(const char*,TTFStreamIn&)",
+						"r": "void Seek(const char *tab, TTFStreamIn& s)",
+						"s": "Upp",
+						"u": "SEEK",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d095456573b6998f82d8aea616cf787241adc31d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetTable",
+						"t": "String (const char *)",
+						"i": "Upp::TTFReader::GetTable(const char*)",
+						"r": "String GetTable(const char *tab)",
+						"s": "Upp",
+						"u": "GETTABLE",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e6d1293fab55be1e4d2b1c4b308a303fa9f0003"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Open",
+						"t": "bool (const Font &, bool, bool)",
+						"i": "Upp::TTFReader::Open(const Font&,bool,bool)",
+						"r": "bool Open(const Font& fnt, bool symbol = false, bool justcheck = false)",
+						"s": "Upp",
+						"u": "OPEN",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3933dce4f09f5ec92b1684adc7372ce795a5c96"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "TTFReader",
+						"t": "void ()",
+						"i": "Upp::TTFReader::TTFReader()",
+						"r": "TTFReader()",
+						"s": "Upp",
+						"u": "TTFREADER",
+						"q": "Upp::TTFReader",
+						"w": "UPP::TTFREADER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1fada38d0f1d69a1bf6512e4ec5bd3fb21a7ffec"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "PdfReport.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Pdf",
+						"t": "String (const Array<Drawing> &, Size, int, bool, const PdfSignatureInfo *)",
+						"i": "Upp::Pdf(const Array&,Size,int,bool,const PdfSignatureInfo*)",
+						"r": "String Pdf(const Array<Drawing>& report, Size sz, int margin, bool pdfa = false, const PdfSignatureInfo *sign = 0)",
+						"s": "Upp",
+						"u": "PDF",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b6494c224122b64be52cac1a9ad27d77b404f11b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PdfDraw__initializer_fn",
+						"t": "void ()",
+						"i": "Upp::PdfDraw__initializer_fn()",
+						"r": "void PdfDraw__initializer_fn()",
+						"s": "Upp",
+						"u": "PDFDRAW__INITIALIZER_FN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6084fecfe6370cebb1dff01e048c2aa9387e564d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PdfDraw__initializer",
+						"t": "void ()",
+						"i": "Upp::PdfDraw__initializer()",
+						"r": "void PdfDraw__initializer()",
+						"s": "Upp",
+						"u": "PDFDRAW__INITIALIZER",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "876a4bd9485be464b46d1c692063dbb81d85cd33"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "TTFStruct.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Serialize",
+						"t": "void (TTFStream &)",
+						"i": "Upp::TTFReader::Head::Serialize(TTFStream&)",
+						"r": "void Serialize(TTFStream& s)",
+						"s": "Upp",
+						"u": "SERIALIZE",
+						"q": "Upp::TTFReader::Head",
+						"w": "UPP::TTFREADER::HEAD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4680cb5e462eeaf2d593824a9ac37d07ee462d0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Serialize",
+						"t": "void (TTFStream &)",
+						"i": "Upp::TTFReader::Hhea::Serialize(TTFStream&)",
+						"r": "void Serialize(TTFStream& s)",
+						"s": "Upp",
+						"u": "SERIALIZE",
+						"q": "Upp::TTFReader::Hhea",
+						"w": "UPP::TTFREADER::HHEA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6498c91bc2ee03b331e314c95eaa2f9974dee89d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Serialize",
+						"t": "void (TTFStream &)",
+						"i": "Upp::TTFReader::Maxp::Serialize(TTFStream&)",
+						"r": "void Serialize(TTFStream& s)",
+						"s": "Upp",
+						"u": "SERIALIZE",
+						"q": "Upp::TTFReader::Maxp",
+						"w": "UPP::TTFREADER::MAXP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "efc81c4a43dcd845f66770e3c24f3c32034cc183"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Serialize",
+						"t": "void (TTFStream &)",
+						"i": "Upp::TTFReader::Post::Serialize(TTFStream&)",
+						"r": "void Serialize(TTFStream& s)",
+						"s": "Upp",
+						"u": "SERIALIZE",
+						"q": "Upp::TTFReader::Post",
+						"w": "UPP::TTFREADER::POST",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f692d53d86cbfbfe5d54986d895fb604c63ba491"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "PdfInit.icpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

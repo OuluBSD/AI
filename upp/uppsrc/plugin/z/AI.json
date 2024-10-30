@@ -1,5 +1,5 @@
 {
-	"saved_hash": "d940e1c7a045ffe4ae7f099798c41c083454ed80",
+	"saved_hash": "c37e0bc3a87e6e578b380cd83a27d9db9955e6e8",
 	"files": [
 		{
 			"key": "lib/uncompr.c",
@@ -928,6 +928,12 @@
 
 								],
 								"h": "e7e141a096c1d742e36ff0b452e14d1a20220c26"
+							},
+							{
+								"items": [
+
+								],
+								"h": "b3c2b5fff0d640cfc7e8dd06d285495716d4d754"
 							}
 						]
 					},
@@ -1318,6 +1324,58 @@
 
 								],
 								"h": "f8ef79c0568bb34b91fee172c2796d121012c9b2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "W",
+						"t": "",
+						"i": "W",
+						"r": "W",
+						"s": "",
+						"u": "W",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b3c2b5fff0d640cfc7e8dd06d285495716d4d754"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z_word_t",
+						"t": "z_word_t",
+						"i": "z_word_t",
+						"r": "typedef unsigned int z_word_t",
+						"s": "",
+						"u": "Z_WORD_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1595ad94fa4a8ff0c1e3f1ae42d183b685837f9c"
 							}
 						]
 					}
@@ -5471,7 +5529,4582 @@
 			"key": "lib/zlib.h",
 			"value": {
 				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZLIB_H",
+						"t": "",
+						"i": "ZLIB_H",
+						"r": "ZLIB_H",
+						"s": "",
+						"u": "ZLIB_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
 
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "72c379732363c886f1d34df0a301b982d3dbc64d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZLIB_VERSION",
+						"t": "",
+						"i": "ZLIB_VERSION",
+						"r": "ZLIB_VERSION",
+						"s": "",
+						"u": "ZLIB_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f04a65e9faebd703d371146b26d137e4f4b4f22d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZLIB_VERNUM",
+						"t": "",
+						"i": "ZLIB_VERNUM",
+						"r": "ZLIB_VERNUM",
+						"s": "",
+						"u": "ZLIB_VERNUM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "378adc6798944fcde4ee3830d3a6580db93f08d1"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZLIB_VER_MAJOR",
+						"t": "",
+						"i": "ZLIB_VER_MAJOR",
+						"r": "ZLIB_VER_MAJOR",
+						"s": "",
+						"u": "ZLIB_VER_MAJOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a96390323cc88ae045586fafb07b4d660993722"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZLIB_VER_MINOR",
+						"t": "",
+						"i": "ZLIB_VER_MINOR",
+						"r": "ZLIB_VER_MINOR",
+						"s": "",
+						"u": "ZLIB_VER_MINOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ce3d02b5956bb44819a22d65bcc9c88eb1df547"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZLIB_VER_REVISION",
+						"t": "",
+						"i": "ZLIB_VER_REVISION",
+						"r": "ZLIB_VER_REVISION",
+						"s": "",
+						"u": "ZLIB_VER_REVISION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b0fd177f03eff6606e296c6394df9d557fe4f96"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZLIB_VER_SUBREVISION",
+						"t": "",
+						"i": "ZLIB_VER_SUBREVISION",
+						"r": "ZLIB_VER_SUBREVISION",
+						"s": "",
+						"u": "ZLIB_VER_SUBREVISION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df9224734008bab889c3cf482b8fd597de00d03b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "alloc_func",
+						"t": "alloc_func",
+						"i": "alloc_func",
+						"r": "typedef voidpf (*alloc_func)(voidpf, uInt, uInt)",
+						"s": "",
+						"u": "ALLOC_FUNC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7615abe4c02c575715f59a0b62015c4562918749"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "opaque",
+						"t": "voidpf",
+						"i": "opaque",
+						"r": "voidpf opaque",
+						"s": "",
+						"u": "OPAQUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e95d1b696ffa9d2c74266ae30b2fc4389db147f"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "items",
+						"t": "uInt",
+						"i": "items",
+						"r": "uInt items",
+						"s": "",
+						"u": "ITEMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "482752c9703f67b992e3f628ee694a64f67fe431"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "uInt",
+						"i": "size",
+						"r": "uInt size",
+						"s": "",
+						"u": "SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0cac6830bd7441db845d4968742009d6151ed9dc"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "free_func",
+						"t": "free_func",
+						"i": "free_func",
+						"r": "typedef void (*free_func)(voidpf, voidpf)",
+						"s": "",
+						"u": "FREE_FUNC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "661361453ee8f1b51d0f5dab3ec6b7b08218bbed"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "opaque",
+						"t": "voidpf",
+						"i": "opaque",
+						"r": "voidpf opaque",
+						"s": "",
+						"u": "OPAQUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e95d1b696ffa9d2c74266ae30b2fc4389db147f"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "address",
+						"t": "voidpf",
+						"i": "address",
+						"r": "voidpf address",
+						"s": "",
+						"u": "ADDRESS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "48de0f50104a595209ec3f17809414ea7c78040f"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "internal_state",
+						"t": "internal_state",
+						"i": "internal_state",
+						"r": "internal_state",
+						"s": "",
+						"u": "INTERNAL_STATE",
+						"q": "internal_state",
+						"w": "INTERNAL_STATE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d6a9262f8f2aba08016aeb4403a3288502d1dda7"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z_stream_s",
+						"t": "z_stream_s",
+						"i": "z_stream_s",
+						"r": "z_stream_s",
+						"s": "",
+						"u": "Z_STREAM_S",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07120c22caa8612acbc570fcb53154bdf2d25267"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "next_in",
+						"t": "Bytef *",
+						"i": "z_stream_s::next_in",
+						"r": "Bytef *next_in",
+						"s": "",
+						"u": "NEXT_IN",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0614b2b351719535a63a90b993d9116d8ce244b6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "avail_in",
+						"t": "uInt",
+						"i": "z_stream_s::avail_in",
+						"r": "uInt avail_in",
+						"s": "",
+						"u": "AVAIL_IN",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a3997c905023a1650c2d956ba3bfa5294ce6a6b8"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "total_in",
+						"t": "uLong",
+						"i": "z_stream_s::total_in",
+						"r": "uLong total_in",
+						"s": "",
+						"u": "TOTAL_IN",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a0e0e426c0dab2d7a29d976129b2d4ab7be485cc"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "next_out",
+						"t": "Bytef *",
+						"i": "z_stream_s::next_out",
+						"r": "Bytef *next_out",
+						"s": "",
+						"u": "NEXT_OUT",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1fe090a639c2907319059556d77636b5d7f845fc"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "avail_out",
+						"t": "uInt",
+						"i": "z_stream_s::avail_out",
+						"r": "uInt avail_out",
+						"s": "",
+						"u": "AVAIL_OUT",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "70848e0e04ccccdf5e0515d20e446c709cacc800"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "total_out",
+						"t": "uLong",
+						"i": "z_stream_s::total_out",
+						"r": "uLong total_out",
+						"s": "",
+						"u": "TOTAL_OUT",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d54eade935be1ecb078a4c9818f8c0ff06bcdac"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "msg",
+						"t": "char *",
+						"i": "z_stream_s::msg",
+						"r": "char *msg",
+						"s": "",
+						"u": "MSG",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "90ffa70e566e0c2886ffcb425afbf8c4a2e3b3e7"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "state",
+						"t": "struct internal_state *",
+						"i": "z_stream_s::state",
+						"r": "internal_state *state",
+						"s": "",
+						"u": "STATE",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a080b3837ec17fc53d55130a0bcc386e7bd8c21"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "zalloc",
+						"t": "alloc_func",
+						"i": "z_stream_s::zalloc",
+						"r": "alloc_func zalloc",
+						"s": "",
+						"u": "ZALLOC",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c017bdc97c6b9f1d78beb5120379489cb49539a1"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "zfree",
+						"t": "free_func",
+						"i": "z_stream_s::zfree",
+						"r": "free_func zfree",
+						"s": "",
+						"u": "ZFREE",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54aaf70f9b1a56104dfc95a6f4d42f306468651d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "opaque",
+						"t": "voidpf",
+						"i": "z_stream_s::opaque",
+						"r": "voidpf opaque",
+						"s": "",
+						"u": "OPAQUE",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4b5645b7934057107fcce547837df19e8564418"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data_type",
+						"t": "int",
+						"i": "z_stream_s::data_type",
+						"r": "int data_type",
+						"s": "",
+						"u": "DATA_TYPE",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a15c56c686f6fee44475bda7a10b26a9597aef4"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "adler",
+						"t": "uLong",
+						"i": "z_stream_s::adler",
+						"r": "uLong adler",
+						"s": "",
+						"u": "ADLER",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2940122d99b4dada7a79c93c6842b424402da28b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "reserved",
+						"t": "uLong",
+						"i": "z_stream_s::reserved",
+						"r": "uLong reserved",
+						"s": "",
+						"u": "RESERVED",
+						"q": "z_stream_s",
+						"w": "Z_STREAM_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3cbb25247c52bc26ad7ccc4f385e45942973a50d"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z_stream",
+						"t": "z_stream",
+						"i": "z_stream",
+						"r": "typedef z_stream_s z_stream",
+						"s": "",
+						"u": "Z_STREAM",
+						"q": "",
+						"w": "",
+						"y": "z_stream_s",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d505a0f0cb525103a4dd11bf014fef5737cc6aa0"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z_streamp",
+						"t": "z_streamp",
+						"i": "z_streamp",
+						"r": "typedef z_stream *z_streamp",
+						"s": "",
+						"u": "Z_STREAMP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e5c71925b7cfed6cb526866b79d7ca0bdaefd3c7"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "gz_header_s",
+						"t": "gz_header_s",
+						"i": "gz_header_s",
+						"r": "gz_header_s",
+						"s": "",
+						"u": "GZ_HEADER_S",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3c2704dc7d3436a31e858b7a750c2b56c7422d99"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "text",
+						"t": "int",
+						"i": "gz_header_s::text",
+						"r": "int text",
+						"s": "",
+						"u": "TEXT",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "044f3562f4e463756bcc6dfba59e41119021416c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "time",
+						"t": "uLong",
+						"i": "gz_header_s::time",
+						"r": "uLong time",
+						"s": "",
+						"u": "TIME",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9688c4dacc95930a0750c78936ea38cfb0519fc6"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "xflags",
+						"t": "int",
+						"i": "gz_header_s::xflags",
+						"r": "int xflags",
+						"s": "",
+						"u": "XFLAGS",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "96db718ce6b31061396592632f8fe83ee5bb414b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "os",
+						"t": "int",
+						"i": "gz_header_s::os",
+						"r": "int os",
+						"s": "",
+						"u": "OS",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca702d0cce05d4625df1ec1cff4b4b39101058be"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "extra",
+						"t": "Bytef *",
+						"i": "gz_header_s::extra",
+						"r": "Bytef *extra",
+						"s": "",
+						"u": "EXTRA",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c39afb80ff21342c8614f4d85a72d841829be5c2"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "extra_len",
+						"t": "uInt",
+						"i": "gz_header_s::extra_len",
+						"r": "uInt extra_len",
+						"s": "",
+						"u": "EXTRA_LEN",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2fc1df8e01dd2bfc5bd1df81ba810437eb0232ac"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "extra_max",
+						"t": "uInt",
+						"i": "gz_header_s::extra_max",
+						"r": "uInt extra_max",
+						"s": "",
+						"u": "EXTRA_MAX",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "678ce3eedd0d9ef548cf2e270b2160637bfadb98"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name",
+						"t": "Bytef *",
+						"i": "gz_header_s::name",
+						"r": "Bytef *name",
+						"s": "",
+						"u": "NAME",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16768f8fb6df18673bb0534b546ef0171736b8c5"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "name_max",
+						"t": "uInt",
+						"i": "gz_header_s::name_max",
+						"r": "uInt name_max",
+						"s": "",
+						"u": "NAME_MAX",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "244b43df3a038166d6c56fb9bd69aa39fb131fa0"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "comment",
+						"t": "Bytef *",
+						"i": "gz_header_s::comment",
+						"r": "Bytef *comment",
+						"s": "",
+						"u": "COMMENT",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b0c4667216ae00100920a96039122b36c0cc54d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "comm_max",
+						"t": "uInt",
+						"i": "gz_header_s::comm_max",
+						"r": "uInt comm_max",
+						"s": "",
+						"u": "COMM_MAX",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "29d6c6ba0ae874d52d31b2d954dbfd59669ee49d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hcrc",
+						"t": "int",
+						"i": "gz_header_s::hcrc",
+						"r": "int hcrc",
+						"s": "",
+						"u": "HCRC",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54e65c553e49598b4cd0345acd57e91d64484a96"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "done",
+						"t": "int",
+						"i": "gz_header_s::done",
+						"r": "int done",
+						"s": "",
+						"u": "DONE",
+						"q": "gz_header_s",
+						"w": "GZ_HEADER_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b3b683b710e527a71ccf9f5e938898221013636"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "gz_header",
+						"t": "gz_header",
+						"i": "gz_header",
+						"r": "typedef gz_header_s gz_header",
+						"s": "",
+						"u": "GZ_HEADER",
+						"q": "",
+						"w": "",
+						"y": "gz_header_s",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "20f0cbe2754c22454573bbc81617ab82c9b549cb"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "gz_headerp",
+						"t": "gz_headerp",
+						"i": "gz_headerp",
+						"r": "typedef gz_header *gz_headerp",
+						"s": "",
+						"u": "GZ_HEADERP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f76784a5c3e792b94c51a4a0702a99e14417b08"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_NO_FLUSH",
+						"t": "",
+						"i": "Z_NO_FLUSH",
+						"r": "Z_NO_FLUSH",
+						"s": "",
+						"u": "Z_NO_FLUSH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6a9262dac202db3dcf3c571e2ffe3bb002f0712"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_PARTIAL_FLUSH",
+						"t": "",
+						"i": "Z_PARTIAL_FLUSH",
+						"r": "Z_PARTIAL_FLUSH",
+						"s": "",
+						"u": "Z_PARTIAL_FLUSH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b372eaf508fd8d3d176c8fa21d8cdde261c72044"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_SYNC_FLUSH",
+						"t": "",
+						"i": "Z_SYNC_FLUSH",
+						"r": "Z_SYNC_FLUSH",
+						"s": "",
+						"u": "Z_SYNC_FLUSH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9dc7efca581284b6ca0c154a13427f2ec448cdcb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_FULL_FLUSH",
+						"t": "",
+						"i": "Z_FULL_FLUSH",
+						"r": "Z_FULL_FLUSH",
+						"s": "",
+						"u": "Z_FULL_FLUSH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f5aae2eff98fcd42ee6b5e60405628653b07ca09"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_FINISH",
+						"t": "",
+						"i": "Z_FINISH",
+						"r": "Z_FINISH",
+						"s": "",
+						"u": "Z_FINISH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "469ca9f993066cb700ae9ce41e7c5d5fdafa4953"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_BLOCK",
+						"t": "",
+						"i": "Z_BLOCK",
+						"r": "Z_BLOCK",
+						"s": "",
+						"u": "Z_BLOCK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb61bd854b896518f36c17e0c4363f412f209249"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_TREES",
+						"t": "",
+						"i": "Z_TREES",
+						"r": "Z_TREES",
+						"s": "",
+						"u": "Z_TREES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6158f7c3777b958d22676ed138c7337b4fe4cc8a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_OK",
+						"t": "",
+						"i": "Z_OK",
+						"r": "Z_OK",
+						"s": "",
+						"u": "Z_OK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8e2948eb4b3c1bf8e79cd8cda34b6002c227cd9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_STREAM_END",
+						"t": "",
+						"i": "Z_STREAM_END",
+						"r": "Z_STREAM_END",
+						"s": "",
+						"u": "Z_STREAM_END",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e4cad452ffa3f5a116ad7749e6b12a44704e29e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_NEED_DICT",
+						"t": "",
+						"i": "Z_NEED_DICT",
+						"r": "Z_NEED_DICT",
+						"s": "",
+						"u": "Z_NEED_DICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b39a7ab9fd5216b6a9f248f05f64335fe2f1c44d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_ERRNO",
+						"t": "",
+						"i": "Z_ERRNO",
+						"r": "Z_ERRNO",
+						"s": "",
+						"u": "Z_ERRNO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e00597b430e47e3fb65d40d95677461fac7f1bb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_STREAM_ERROR",
+						"t": "",
+						"i": "Z_STREAM_ERROR",
+						"r": "Z_STREAM_ERROR",
+						"s": "",
+						"u": "Z_STREAM_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ea8461644aad61e6a0c17c7f4ee31076650e00f8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_DATA_ERROR",
+						"t": "",
+						"i": "Z_DATA_ERROR",
+						"r": "Z_DATA_ERROR",
+						"s": "",
+						"u": "Z_DATA_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94c1b568bda9855413671abad07490eaea7f9ffc"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_MEM_ERROR",
+						"t": "",
+						"i": "Z_MEM_ERROR",
+						"r": "Z_MEM_ERROR",
+						"s": "",
+						"u": "Z_MEM_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba30b72a170254f9917922dcae77e8c58c458a93"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_BUF_ERROR",
+						"t": "",
+						"i": "Z_BUF_ERROR",
+						"r": "Z_BUF_ERROR",
+						"s": "",
+						"u": "Z_BUF_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9366bb4397590d0ceab46aced740837d843f8cf0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_VERSION_ERROR",
+						"t": "",
+						"i": "Z_VERSION_ERROR",
+						"r": "Z_VERSION_ERROR",
+						"s": "",
+						"u": "Z_VERSION_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "78dc86e3c132e9a5f2804926e7709c5fce741e50"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_NO_COMPRESSION",
+						"t": "",
+						"i": "Z_NO_COMPRESSION",
+						"r": "Z_NO_COMPRESSION",
+						"s": "",
+						"u": "Z_NO_COMPRESSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a359b1b246540908b5e356a89e093b0775546f3b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Z_BEST_SPEED",
+						"t": "",
+						"i": "Z_BEST_SPEED",
+						"r": "Z_BEST_SPEED",
+						"s": "",
+						"u": "Z_BEST_SPEED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6783203fbb18a1e723158d47c539b946e3e7bc87"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_BEST_COMPRESSION",
+						"t": "",
+						"i": "Z_BEST_COMPRESSION",
+						"r": "Z_BEST_COMPRESSION",
+						"s": "",
+						"u": "Z_BEST_COMPRESSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8e1aedda53332b8ca1a125e9d6fdf2b5e809e960"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_DEFAULT_COMPRESSION",
+						"t": "",
+						"i": "Z_DEFAULT_COMPRESSION",
+						"r": "Z_DEFAULT_COMPRESSION",
+						"s": "",
+						"u": "Z_DEFAULT_COMPRESSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a5614522c5e860d5488b83be9f29b49416e8ae92"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Z_FILTERED",
+						"t": "",
+						"i": "Z_FILTERED",
+						"r": "Z_FILTERED",
+						"s": "",
+						"u": "Z_FILTERED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fde7a5886c55fc9a363b8646ef5f83411e4d66a3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_HUFFMAN_ONLY",
+						"t": "",
+						"i": "Z_HUFFMAN_ONLY",
+						"r": "Z_HUFFMAN_ONLY",
+						"s": "",
+						"u": "Z_HUFFMAN_ONLY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d5a1e616a310a9ea66c42918e78348e4d5f3642"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_RLE",
+						"t": "",
+						"i": "Z_RLE",
+						"r": "Z_RLE",
+						"s": "",
+						"u": "Z_RLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9b154528e6618a5d3d7bd3f7a6bb454374931723"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_FIXED",
+						"t": "",
+						"i": "Z_FIXED",
+						"r": "Z_FIXED",
+						"s": "",
+						"u": "Z_FIXED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dc15aecfa32808c530398d325f520bffbc5e9940"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_DEFAULT_STRATEGY",
+						"t": "",
+						"i": "Z_DEFAULT_STRATEGY",
+						"r": "Z_DEFAULT_STRATEGY",
+						"s": "",
+						"u": "Z_DEFAULT_STRATEGY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a29a0f4414241529b0934883d3df38ae463928b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_BINARY",
+						"t": "",
+						"i": "Z_BINARY",
+						"r": "Z_BINARY",
+						"s": "",
+						"u": "Z_BINARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4a238a76aefac1a180b76ae40ce3681a24135e58"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_TEXT",
+						"t": "",
+						"i": "Z_TEXT",
+						"r": "Z_TEXT",
+						"s": "",
+						"u": "Z_TEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd5ee522c1b6ad86cdfed6d5ad9f41a63c7a669c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_ASCII",
+						"t": "",
+						"i": "Z_ASCII",
+						"r": "Z_ASCII",
+						"s": "",
+						"u": "Z_ASCII",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "062f1d3328723b9a8e07ea3a7eb633e11ab585e9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_UNKNOWN",
+						"t": "",
+						"i": "Z_UNKNOWN",
+						"r": "Z_UNKNOWN",
+						"s": "",
+						"u": "Z_UNKNOWN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f043d50e2adc32ffbe6312def28958f0555f75d3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_DEFLATED",
+						"t": "",
+						"i": "Z_DEFLATED",
+						"r": "Z_DEFLATED",
+						"s": "",
+						"u": "Z_DEFLATED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe0d1df717214755a55c81695f9347a34a158d2b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_NULL",
+						"t": "",
+						"i": "Z_NULL",
+						"r": "Z_NULL",
+						"s": "",
+						"u": "Z_NULL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e43aabfae3b5f85e9f44efc6c37b6d0a12fd3e48"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "zlib_version",
+						"t": "",
+						"i": "zlib_version",
+						"r": "zlib_version",
+						"s": "",
+						"u": "ZLIB_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b4f5f2cba252cecb1c0c10a49b0c178500378a6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "zlibVersion",
+						"t": "const char *()",
+						"i": "zlibVersion()",
+						"r": "const char *zlibVersion()",
+						"s": "",
+						"u": "ZLIBVERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f607af30f7becf1a33718c91fd563e871c39515"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflate",
+						"t": "int (z_streamp, int)",
+						"i": "deflate(z_streamp,int)",
+						"r": "int deflate(z_streamp strm, int flush)",
+						"s": "",
+						"u": "DEFLATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ce69ad455ec87268d5d8720994e88ba84047b95"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateEnd",
+						"t": "int (z_streamp)",
+						"i": "deflateEnd(z_streamp)",
+						"r": "int deflateEnd(z_streamp strm)",
+						"s": "",
+						"u": "DEFLATEEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bc96b964a817292c31c2fb9ddad74621a3111f0c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflate",
+						"t": "int (z_streamp, int)",
+						"i": "inflate(z_streamp,int)",
+						"r": "int inflate(z_streamp strm, int flush)",
+						"s": "",
+						"u": "INFLATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "829474fc693a5822ea6e6d71be43a0cff68de4a0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateEnd",
+						"t": "int (z_streamp)",
+						"i": "inflateEnd(z_streamp)",
+						"r": "int inflateEnd(z_streamp strm)",
+						"s": "",
+						"u": "INFLATEEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04c01934eee85ac6406a7ebf573eeba5195153f0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateSetDictionary",
+						"t": "int (z_streamp, const Bytef *, uInt)",
+						"i": "deflateSetDictionary(z_streamp,const Bytef*,uInt)",
+						"r": "int deflateSetDictionary(z_streamp strm, const Bytef *dictionary, uInt dictLength)",
+						"s": "",
+						"u": "DEFLATESETDICTIONARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e8abddd961c0474560746095f8d639c6dc357e6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateGetDictionary",
+						"t": "int (z_streamp, Bytef *, uInt *)",
+						"i": "deflateGetDictionary(z_streamp,Bytef*,uInt*)",
+						"r": "int deflateGetDictionary(z_streamp strm, Bytef *dictionary, uInt *dictLength)",
+						"s": "",
+						"u": "DEFLATEGETDICTIONARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34d162b64c2a2988e55f071ffc7407a503ec7630"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateCopy",
+						"t": "int (z_streamp, z_streamp)",
+						"i": "deflateCopy(z_streamp,z_streamp)",
+						"r": "int deflateCopy(z_streamp dest, z_streamp source)",
+						"s": "",
+						"u": "DEFLATECOPY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a4a00c5f9ac743addf4578cedb04a452656bc7d7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateReset",
+						"t": "int (z_streamp)",
+						"i": "deflateReset(z_streamp)",
+						"r": "int deflateReset(z_streamp strm)",
+						"s": "",
+						"u": "DEFLATERESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "878c230a81371c8c5d6908bb3ff0b689f2ffd834"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateParams",
+						"t": "int (z_streamp, int, int)",
+						"i": "deflateParams(z_streamp,int,int)",
+						"r": "int deflateParams(z_streamp strm, int level, int strategy)",
+						"s": "",
+						"u": "DEFLATEPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27c3107f68096966dc8273a4c74462b176071737"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateTune",
+						"t": "int (z_streamp, int, int, int, int)",
+						"i": "deflateTune(z_streamp,int,int,int,int)",
+						"r": "int deflateTune(z_streamp strm, int good_length, int max_lazy, int nice_length, int max_chain)",
+						"s": "",
+						"u": "DEFLATETUNE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c32771d12bd1e08386b230e7ba09bfe111b068ec"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateBound",
+						"t": "uLong (z_streamp, uLong)",
+						"i": "deflateBound(z_streamp,uLong)",
+						"r": "uLong deflateBound(z_streamp strm, uLong sourceLen)",
+						"s": "",
+						"u": "DEFLATEBOUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3928eaeb298b29bafee7b015d293db132b3a24bd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflatePending",
+						"t": "int (z_streamp, unsigned int *, int *)",
+						"i": "deflatePending(z_streamp,unsigned int*,int*)",
+						"r": "int deflatePending(z_streamp strm, unsigned int *pending, int *bits)",
+						"s": "",
+						"u": "DEFLATEPENDING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08cd55a64854cc7a21d6d3f9ddef3f135f8b935b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflatePrime",
+						"t": "int (z_streamp, int, int)",
+						"i": "deflatePrime(z_streamp,int,int)",
+						"r": "int deflatePrime(z_streamp strm, int bits, int value)",
+						"s": "",
+						"u": "DEFLATEPRIME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3b3e85c1fd5790a35fbc09655caf84fc9dd2d624"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateSetHeader",
+						"t": "int (z_streamp, gz_headerp)",
+						"i": "deflateSetHeader(z_streamp,gz_headerp)",
+						"r": "int deflateSetHeader(z_streamp strm, gz_headerp head)",
+						"s": "",
+						"u": "DEFLATESETHEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af9882f289ae5b4f08165439554a995a46807c46"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateSetDictionary",
+						"t": "int (z_streamp, const Bytef *, uInt)",
+						"i": "inflateSetDictionary(z_streamp,const Bytef*,uInt)",
+						"r": "int inflateSetDictionary(z_streamp strm, const Bytef *dictionary, uInt dictLength)",
+						"s": "",
+						"u": "INFLATESETDICTIONARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d359afb2fb641e3b2a9bbaa546d9ef072f9a7d3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateGetDictionary",
+						"t": "int (z_streamp, Bytef *, uInt *)",
+						"i": "inflateGetDictionary(z_streamp,Bytef*,uInt*)",
+						"r": "int inflateGetDictionary(z_streamp strm, Bytef *dictionary, uInt *dictLength)",
+						"s": "",
+						"u": "INFLATEGETDICTIONARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe3c10ee1dc8cb15270b0942cbd473e05b274a79"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateSync",
+						"t": "int (z_streamp)",
+						"i": "inflateSync(z_streamp)",
+						"r": "int inflateSync(z_streamp strm)",
+						"s": "",
+						"u": "INFLATESYNC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0c54baec825e3b98ba994d9b45c8daf0990b323d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateCopy",
+						"t": "int (z_streamp, z_streamp)",
+						"i": "inflateCopy(z_streamp,z_streamp)",
+						"r": "int inflateCopy(z_streamp dest, z_streamp source)",
+						"s": "",
+						"u": "INFLATECOPY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ae7a500b5fa422ec52a5ad6c62a5c8f7f98af2a3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateReset",
+						"t": "int (z_streamp)",
+						"i": "inflateReset(z_streamp)",
+						"r": "int inflateReset(z_streamp strm)",
+						"s": "",
+						"u": "INFLATERESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9fdae8c66e63e879cdbb3a37143838742d3e4ca5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateReset2",
+						"t": "int (z_streamp, int)",
+						"i": "inflateReset2(z_streamp,int)",
+						"r": "int inflateReset2(z_streamp strm, int windowBits)",
+						"s": "",
+						"u": "INFLATERESET2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "00f489def1bf959ea6454a0dd925f4f36919b1ff"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflatePrime",
+						"t": "int (z_streamp, int, int)",
+						"i": "inflatePrime(z_streamp,int,int)",
+						"r": "int inflatePrime(z_streamp strm, int bits, int value)",
+						"s": "",
+						"u": "INFLATEPRIME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9285f389604a8e83b82a0fa16dfdab561cd9b6ce"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateMark",
+						"t": "long (z_streamp)",
+						"i": "inflateMark(z_streamp)",
+						"r": "long inflateMark(z_streamp strm)",
+						"s": "",
+						"u": "INFLATEMARK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2660ef91c09765b013c93d1797d4f36ee8dd3882"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateGetHeader",
+						"t": "int (z_streamp, gz_headerp)",
+						"i": "inflateGetHeader(z_streamp,gz_headerp)",
+						"r": "int inflateGetHeader(z_streamp strm, gz_headerp head)",
+						"s": "",
+						"u": "INFLATEGETHEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d6994a0daf70bfe564a53097998f28850af1ff88"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "in_func",
+						"t": "in_func",
+						"i": "in_func",
+						"r": "typedef unsigned int (*in_func)(void *, unsigned char **)",
+						"s": "",
+						"u": "IN_FUNC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c2082f3349042bfea36cc7a10230cdf957e10c88"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "out_func",
+						"t": "out_func",
+						"i": "out_func",
+						"r": "typedef int (*out_func)(void *, unsigned char *, unsigned int)",
+						"s": "",
+						"u": "OUT_FUNC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bf2aede04130948481bc05bd290a9e5b3b0d99f1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateBack",
+						"t": "int (z_streamp, in_func, void *, out_func, void *)",
+						"i": "inflateBack(z_streamp,in_func,void*,out_func,void*)",
+						"r": "int inflateBack(z_streamp strm, in_func in, void *in_desc, out_func out, void *out_desc)",
+						"s": "",
+						"u": "INFLATEBACK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93cec086171f574a0dd31990d36356d82a472eca"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateBackEnd",
+						"t": "int (z_streamp)",
+						"i": "inflateBackEnd(z_streamp)",
+						"r": "int inflateBackEnd(z_streamp strm)",
+						"s": "",
+						"u": "INFLATEBACKEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4dc7df35cc4e5baebabdb63c6ef767997354d067"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "zlibCompileFlags",
+						"t": "uLong ()",
+						"i": "zlibCompileFlags()",
+						"r": "uLong zlibCompileFlags()",
+						"s": "",
+						"u": "ZLIBCOMPILEFLAGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3364382881028a4dfee05b43b09cd7fb941f1eb6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "compress",
+						"t": "int (Bytef *, uLongf *, const Bytef *, uLong)",
+						"i": "compress(Bytef*,uLongf*,const Bytef*,uLong)",
+						"r": "int compress(Bytef *dest, uLongf *destLen, const Bytef *source, uLong sourceLen)",
+						"s": "",
+						"u": "COMPRESS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9823ed19b74bebd9398c9e679d5bba0ced2bc8e7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "compress2",
+						"t": "int (Bytef *, uLongf *, const Bytef *, uLong, int)",
+						"i": "compress2(Bytef*,uLongf*,const Bytef*,uLong,int)",
+						"r": "int compress2(Bytef *dest, uLongf *destLen, const Bytef *source, uLong sourceLen, int level)",
+						"s": "",
+						"u": "COMPRESS2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f1a26efcac8d145a01ca9095fdee1e1539e7196"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "compressBound",
+						"t": "uLong (uLong)",
+						"i": "compressBound(uLong)",
+						"r": "uLong compressBound(uLong sourceLen)",
+						"s": "",
+						"u": "COMPRESSBOUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e3feaf371bf8ccd01e93964595bfeb3befaa170"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "uncompress",
+						"t": "int (Bytef *, uLongf *, const Bytef *, uLong)",
+						"i": "uncompress(Bytef*,uLongf*,const Bytef*,uLong)",
+						"r": "int uncompress(Bytef *dest, uLongf *destLen, const Bytef *source, uLong sourceLen)",
+						"s": "",
+						"u": "UNCOMPRESS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0781478c1b4e28556f234979851a971775655ccd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "uncompress2",
+						"t": "int (Bytef *, uLongf *, const Bytef *, uLong *)",
+						"i": "uncompress2(Bytef*,uLongf*,const Bytef*,uLong*)",
+						"r": "int uncompress2(Bytef *dest, uLongf *destLen, const Bytef *source, uLong *sourceLen)",
+						"s": "",
+						"u": "UNCOMPRESS2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81bee329834f13cae4d7e9362dca6b5638b2cf97"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzFile_s",
+						"t": "gzFile_s",
+						"i": "gzFile_s",
+						"r": "gzFile_s",
+						"s": "",
+						"u": "GZFILE_S",
+						"q": "gzFile_s",
+						"w": "GZFILE_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6afea0fbb17d3b53d4ec48d7371cfff168863a5e"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "gzFile",
+						"t": "gzFile",
+						"i": "gzFile",
+						"r": "typedef gzFile_s *gzFile",
+						"s": "",
+						"u": "GZFILE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "47d1a3098f45c513874b3beedcc713d3f98dc955"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzdopen",
+						"t": "gzFile (int, const char *)",
+						"i": "gzdopen(int,const char*)",
+						"r": "gzFile gzdopen(int fd, const char *mode)",
+						"s": "",
+						"u": "GZDOPEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c32c7edbb99f737c655831a9e2d5048cc0f5679"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzbuffer",
+						"t": "int (gzFile, unsigned int)",
+						"i": "gzbuffer(gzFile,unsigned int)",
+						"r": "int gzbuffer(gzFile file, unsigned int size)",
+						"s": "",
+						"u": "GZBUFFER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4466869327cdc903cdd3e897a112408aa0a01e0d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzsetparams",
+						"t": "int (gzFile, int, int)",
+						"i": "gzsetparams(gzFile,int,int)",
+						"r": "int gzsetparams(gzFile file, int level, int strategy)",
+						"s": "",
+						"u": "GZSETPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5425d2c4473b57b946d4bc82eeaf6decb2a2fb57"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzread",
+						"t": "int (gzFile, voidp, unsigned int)",
+						"i": "gzread(gzFile,voidp,unsigned int)",
+						"r": "int gzread(gzFile file, voidp buf, unsigned int len)",
+						"s": "",
+						"u": "GZREAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b51534c323bbecb67260678125e830f6f988af33"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzfread",
+						"t": "z_size_t (voidp, z_size_t, z_size_t, gzFile)",
+						"i": "gzfread(voidp,z_size_t,z_size_t,gzFile)",
+						"r": "z_size_t gzfread(voidp buf, z_size_t size, z_size_t nitems, gzFile file)",
+						"s": "",
+						"u": "GZFREAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d937218f25fc58572cd70f76ad6a43abb62e9f26"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzwrite",
+						"t": "int (gzFile, voidpc, unsigned int)",
+						"i": "gzwrite(gzFile,voidpc,unsigned int)",
+						"r": "int gzwrite(gzFile file, voidpc buf, unsigned int len)",
+						"s": "",
+						"u": "GZWRITE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b2a249e46c2b18b1f8ad5bec7bf4f8f0c1e8afe6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzfwrite",
+						"t": "z_size_t (voidpc, z_size_t, z_size_t, gzFile)",
+						"i": "gzfwrite(voidpc,z_size_t,z_size_t,gzFile)",
+						"r": "z_size_t gzfwrite(voidpc buf, z_size_t size, z_size_t nitems, gzFile file)",
+						"s": "",
+						"u": "GZFWRITE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "490bcc23417bc3f4366db93f26e5134635729f71"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzprintf",
+						"t": "int (gzFile, const char *, ...)",
+						"i": "gzprintf(gzFile,const char*,...)",
+						"r": "int gzprintf(gzFile file, const char *format, ...)",
+						"s": "",
+						"u": "GZPRINTF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3115a17f6d6b7317d96123dd3c319a3a3ed74ef1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzputs",
+						"t": "int (gzFile, const char *)",
+						"i": "gzputs(gzFile,const char*)",
+						"r": "int gzputs(gzFile file, const char *s)",
+						"s": "",
+						"u": "GZPUTS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7cf54f8534d90eb2c1b33f66c52ad6a9ff3fbd23"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzgets",
+						"t": "char *(gzFile, char *, int)",
+						"i": "gzgets(gzFile,char*,int)",
+						"r": "char *gzgets(gzFile file, char *buf, int len)",
+						"s": "",
+						"u": "GZGETS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "62e392a41891865dead72e5ef97a4b201821a298"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzputc",
+						"t": "int (gzFile, int)",
+						"i": "gzputc(gzFile,int)",
+						"r": "int gzputc(gzFile file, int c)",
+						"s": "",
+						"u": "GZPUTC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9978e7378282e3208b1b1edc94f9b7f4ae2262fa"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzgetc",
+						"t": "int (gzFile)",
+						"i": "gzgetc(gzFile)",
+						"r": "int gzgetc(gzFile file)",
+						"s": "",
+						"u": "GZGETC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "212cba8e0ce51b05b725be8119de6974a610165a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzungetc",
+						"t": "int (int, gzFile)",
+						"i": "gzungetc(int,gzFile)",
+						"r": "int gzungetc(int c, gzFile file)",
+						"s": "",
+						"u": "GZUNGETC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4ccba445d73aca15386a4cc0815ed8a2a2ff3cd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzflush",
+						"t": "int (gzFile, int)",
+						"i": "gzflush(gzFile,int)",
+						"r": "int gzflush(gzFile file, int flush)",
+						"s": "",
+						"u": "GZFLUSH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f2529d4b7cfe97ad4ca77d624f9bf00ee06e88ec"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzrewind",
+						"t": "int (gzFile)",
+						"i": "gzrewind(gzFile)",
+						"r": "int gzrewind(gzFile file)",
+						"s": "",
+						"u": "GZREWIND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0cb6806b854c43be37f1232e91dfc6166755c5b5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzeof",
+						"t": "int (gzFile)",
+						"i": "gzeof(gzFile)",
+						"r": "int gzeof(gzFile file)",
+						"s": "",
+						"u": "GZEOF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "edf6fb013b238a6d36713119891f36d7791cf93a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzdirect",
+						"t": "int (gzFile)",
+						"i": "gzdirect(gzFile)",
+						"r": "int gzdirect(gzFile file)",
+						"s": "",
+						"u": "GZDIRECT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b9554a10b9baaf3c3395863fd378d7cba8f2de1e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzclose",
+						"t": "int (gzFile)",
+						"i": "gzclose(gzFile)",
+						"r": "int gzclose(gzFile file)",
+						"s": "",
+						"u": "GZCLOSE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1e50f9ccdce70f3c5f9bed40ffa867e913decea8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzclose_r",
+						"t": "int (gzFile)",
+						"i": "gzclose_r(gzFile)",
+						"r": "int gzclose_r(gzFile file)",
+						"s": "",
+						"u": "GZCLOSE_R",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8e1523fae41dbb1b0c06aa7e9af4cf4b2fcc9d0d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzclose_w",
+						"t": "int (gzFile)",
+						"i": "gzclose_w(gzFile)",
+						"r": "int gzclose_w(gzFile file)",
+						"s": "",
+						"u": "GZCLOSE_W",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abc9a151974240e7ddd1e9052ea21c77eb39ef81"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzerror",
+						"t": "const char *(gzFile, int *)",
+						"i": "gzerror(gzFile,int*)",
+						"r": "const char *gzerror(gzFile file, int *errnum)",
+						"s": "",
+						"u": "GZERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d76328bf57e41af75c029875803e32e53c395ff"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzclearerr",
+						"t": "void (gzFile)",
+						"i": "gzclearerr(gzFile)",
+						"r": "void gzclearerr(gzFile file)",
+						"s": "",
+						"u": "GZCLEARERR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40ab9659e528c74e1fd3d9704fb5f26c543fa094"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "adler32",
+						"t": "uLong (uLong, const Bytef *, uInt)",
+						"i": "adler32(uLong,const Bytef*,uInt)",
+						"r": "uLong adler32(uLong adler, const Bytef *buf, uInt len)",
+						"s": "",
+						"u": "ADLER32",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dfb74f07c64a8cbdcf97230e3bf5cc2120e448d0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "adler32_z",
+						"t": "uLong (uLong, const Bytef *, z_size_t)",
+						"i": "adler32_z(uLong,const Bytef*,z_size_t)",
+						"r": "uLong adler32_z(uLong adler, const Bytef *buf, z_size_t len)",
+						"s": "",
+						"u": "ADLER32_Z",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aea918c44aadc6b00bafc913f1fa53db0d28beaa"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "crc32",
+						"t": "uLong (uLong, const Bytef *, uInt)",
+						"i": "crc32(uLong,const Bytef*,uInt)",
+						"r": "uLong crc32(uLong crc, const Bytef *buf, uInt len)",
+						"s": "",
+						"u": "CRC32",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd630fc9b6ea3f8c0e6d7418cdfcd4c34f80cef9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "crc32_z",
+						"t": "uLong (uLong, const Bytef *, z_size_t)",
+						"i": "crc32_z(uLong,const Bytef*,z_size_t)",
+						"r": "uLong crc32_z(uLong crc, const Bytef *buf, z_size_t len)",
+						"s": "",
+						"u": "CRC32_Z",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a548372eaf99960e5637bcd376559761315a646"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "crc32_combine_op",
+						"t": "uLong (uLong, uLong, uLong)",
+						"i": "crc32_combine_op(uLong,uLong,uLong)",
+						"r": "uLong crc32_combine_op(uLong crc1, uLong crc2, uLong op)",
+						"s": "",
+						"u": "CRC32_COMBINE_OP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f3b20e5521d5d703facf01f23674e457f37a62e1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateInit_",
+						"t": "int (z_streamp, int, const char *, int)",
+						"i": "deflateInit_(z_streamp,int,const char*,int)",
+						"r": "int deflateInit_(z_streamp strm, int level, const char *version, int stream_size)",
+						"s": "",
+						"u": "DEFLATEINIT_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7a8eecd5c7ad0fe00978047fc520c72c2920ced4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateInit_",
+						"t": "int (z_streamp, const char *, int)",
+						"i": "inflateInit_(z_streamp,const char*,int)",
+						"r": "int inflateInit_(z_streamp strm, const char *version, int stream_size)",
+						"s": "",
+						"u": "INFLATEINIT_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b675897d3e9edcad7c776162881a84400a8a6a08"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateInit2_",
+						"t": "int (z_streamp, int, int, int, int, int, const char *, int)",
+						"i": "deflateInit2_(z_streamp,int,int,int,int,int,const char*,int)",
+						"r": "int deflateInit2_(z_streamp strm, int level, int method, int windowBits, int memLevel, int strategy, const char *version, int stream_size)",
+						"s": "",
+						"u": "DEFLATEINIT2_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d102253d05ca3bef0727cbbd5306a4353634fda7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateInit2_",
+						"t": "int (z_streamp, int, const char *, int)",
+						"i": "inflateInit2_(z_streamp,int,const char*,int)",
+						"r": "int inflateInit2_(z_streamp strm, int windowBits, const char *version, int stream_size)",
+						"s": "",
+						"u": "INFLATEINIT2_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5af642b089c05e042d3c04d7668818181a2cad33"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateBackInit_",
+						"t": "int (z_streamp, int, unsigned char *, const char *, int)",
+						"i": "inflateBackInit_(z_streamp,int,unsigned char*,const char*,int)",
+						"r": "int inflateBackInit_(z_streamp strm, int windowBits, unsigned char *window, const char *version, int stream_size)",
+						"s": "",
+						"u": "INFLATEBACKINIT_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d09da4ff609b84ace313b2901073d56b2141c434"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateInit",
+						"t": "",
+						"i": "deflateInit",
+						"r": "deflateInit",
+						"s": "",
+						"u": "DEFLATEINIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "280f418df7c74ef0020a586117cca2e0307e4b60"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateInit",
+						"t": "",
+						"i": "inflateInit",
+						"r": "inflateInit",
+						"s": "",
+						"u": "INFLATEINIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a64bd06edc3999274fc1694956c602bf20e7511f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateInit2",
+						"t": "",
+						"i": "deflateInit2",
+						"r": "deflateInit2",
+						"s": "",
+						"u": "DEFLATEINIT2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "59095be3f69fa5b5215b96042cdd8e80c59732ca"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateInit2",
+						"t": "",
+						"i": "inflateInit2",
+						"r": "inflateInit2",
+						"s": "",
+						"u": "INFLATEINIT2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6358ddb406dd3549f7a28055c92f83b2beb359b3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateBackInit",
+						"t": "",
+						"i": "inflateBackInit",
+						"r": "inflateBackInit",
+						"s": "",
+						"u": "INFLATEBACKINIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31c73778333430a3a7dd690a432c60dba36216f6"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "gzFile_s",
+						"t": "gzFile_s",
+						"i": "gzFile_s",
+						"r": "gzFile_s",
+						"s": "",
+						"u": "GZFILE_S",
+						"q": "gzFile_s",
+						"w": "GZFILE_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e27f9b892d062977c3bd49bd069e8a93694f092"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "have",
+						"t": "unsigned int",
+						"i": "gzFile_s::have",
+						"r": "unsigned int have",
+						"s": "",
+						"u": "HAVE",
+						"q": "gzFile_s",
+						"w": "GZFILE_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d57ac4a0e1a6f74ade8149c24969700b33cc03fc"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "next",
+						"t": "unsigned char *",
+						"i": "gzFile_s::next",
+						"r": "unsigned char *next",
+						"s": "",
+						"u": "NEXT",
+						"q": "gzFile_s",
+						"w": "GZFILE_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "65d6330f25a3276c17d84a54ae71ac81ef0f360d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "pos",
+						"t": "long",
+						"i": "gzFile_s::pos",
+						"r": "long pos",
+						"s": "",
+						"u": "POS",
+						"q": "gzFile_s",
+						"w": "GZFILE_S",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a3aee919304e899edae1a5819b218b3b05aa898"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzgetc_",
+						"t": "int (gzFile)",
+						"i": "gzgetc_(gzFile)",
+						"r": "int gzgetc_(gzFile file)",
+						"s": "",
+						"u": "GZGETC_",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6667291d16cef12c3c97f79ab7c00cc24b4f5e97"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzgetc",
+						"t": "",
+						"i": "gzgetc",
+						"r": "gzgetc",
+						"s": "",
+						"u": "GZGETC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb37c1532eb38dba0eff8a096179e17909db70fb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzopen",
+						"t": "gzFile (const char *, const char *)",
+						"i": "gzopen(const char*,const char*)",
+						"r": "gzFile gzopen(const char *, const char *)",
+						"s": "",
+						"u": "GZOPEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba704aaa4fe2170d5571ec59deb701c196d75fb9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzseek",
+						"t": "long (gzFile, long, int)",
+						"i": "gzseek(gzFile,long,int)",
+						"r": "long gzseek(gzFile, long, int)",
+						"s": "",
+						"u": "GZSEEK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "93359b7426f2cb1ecd0bba5339697cee7112aec9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gztell",
+						"t": "long (gzFile)",
+						"i": "gztell(gzFile)",
+						"r": "long gztell(gzFile)",
+						"s": "",
+						"u": "GZTELL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dad2de4fee58b5b78ab4af4d815f41b6473c262f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzoffset",
+						"t": "long (gzFile)",
+						"i": "gzoffset(gzFile)",
+						"r": "long gzoffset(gzFile)",
+						"s": "",
+						"u": "GZOFFSET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd1f7b8172dc12ecec042b05151f4ee574e81463"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "adler32_combine",
+						"t": "uLong (uLong, uLong, long)",
+						"i": "adler32_combine(uLong,uLong,long)",
+						"r": "uLong adler32_combine(uLong, uLong, long)",
+						"s": "",
+						"u": "ADLER32_COMBINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "075661fe7f30fc96189ecd002f87a4394d30f96e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "crc32_combine",
+						"t": "uLong (uLong, uLong, long)",
+						"i": "crc32_combine(uLong,uLong,long)",
+						"r": "uLong crc32_combine(uLong, uLong, long)",
+						"s": "",
+						"u": "CRC32_COMBINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fd01fb40866b3c10b7a3a9276ecf9d3bbe9b876b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "crc32_combine_gen",
+						"t": "uLong (long)",
+						"i": "crc32_combine_gen(long)",
+						"r": "uLong crc32_combine_gen(long)",
+						"s": "",
+						"u": "CRC32_COMBINE_GEN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "291b96721fa635a4f0e3dd48bdb8d22442035c51"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "zError",
+						"t": "const char *(int)",
+						"i": "zError(int)",
+						"r": "const char *zError(int)",
+						"s": "",
+						"u": "ZERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f0dd3c51e62f30063989b7974e2ead79e46e78a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateSyncPoint",
+						"t": "int (z_streamp)",
+						"i": "inflateSyncPoint(z_streamp)",
+						"r": "int inflateSyncPoint(z_streamp)",
+						"s": "",
+						"u": "INFLATESYNCPOINT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ecb867649e4a9a2bc27148b3c7f086df46c2c5c3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "get_crc_table",
+						"t": "const z_crc_t *()",
+						"i": "get_crc_table()",
+						"r": "const z_crc_t *get_crc_table()",
+						"s": "",
+						"u": "GET_CRC_TABLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73ecbac1a96c6c2b5ace07f34c332bdccaacce47"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateUndermine",
+						"t": "int (z_streamp, int)",
+						"i": "inflateUndermine(z_streamp,int)",
+						"r": "int inflateUndermine(z_streamp, int)",
+						"s": "",
+						"u": "INFLATEUNDERMINE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0a1f88983bc3169416c14765490a5f15b99afd16"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateValidate",
+						"t": "int (z_streamp, int)",
+						"i": "inflateValidate(z_streamp,int)",
+						"r": "int inflateValidate(z_streamp, int)",
+						"s": "",
+						"u": "INFLATEVALIDATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ad9babad1311852e77f7c1cb5f540ab2ca6cffc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateCodesUsed",
+						"t": "unsigned long (z_streamp)",
+						"i": "inflateCodesUsed(z_streamp)",
+						"r": "unsigned long inflateCodesUsed(z_streamp)",
+						"s": "",
+						"u": "INFLATECODESUSED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "469cd6b84d886ebe6575c148b970b9edfca5eb1e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "inflateResetKeep",
+						"t": "int (z_streamp)",
+						"i": "inflateResetKeep(z_streamp)",
+						"r": "int inflateResetKeep(z_streamp)",
+						"s": "",
+						"u": "INFLATERESETKEEP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "19dffcd13241b95f3b5f4ce54c4e3a1bfbc1c77d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "deflateResetKeep",
+						"t": "int (z_streamp)",
+						"i": "deflateResetKeep(z_streamp)",
+						"r": "int deflateResetKeep(z_streamp)",
+						"s": "",
+						"u": "DEFLATERESETKEEP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4e02e5bc9a5bf6f8e5b81f97a45e773ae393097"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzopen_w",
+						"t": "gzFile (const wchar_t *, const char *)",
+						"i": "gzopen_w(const wchar_t*,const char*)",
+						"r": "gzFile gzopen_w(const wchar_t *path, const char *mode)",
+						"s": "",
+						"u": "GZOPEN_W",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0a68635979c76b785df6414fce3475668346337a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "gzvprintf",
+						"t": "int (gzFile, const char *, va_list)",
+						"i": "gzvprintf(gzFile,const char*,va_list)",
+						"r": "int gzvprintf(gzFile file, const char *format, va_list va)",
+						"s": "",
+						"u": "GZVPRINTF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "58dbab7ab2f9a732e75a9aafd25afd49652ae51d"
+							}
+						]
+					}
 				]
 			}
 		},
@@ -5479,7 +10112,682 @@
 			"key": "lib/zconf.h",
 			"value": {
 				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZCONF_H",
+						"t": "",
+						"i": "ZCONF_H",
+						"r": "ZCONF_H",
+						"s": "",
+						"u": "ZCONF_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
 
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7241260269cf091fad02e56a585bac81a9f448d4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "STDC",
+						"t": "",
+						"i": "STDC",
+						"r": "STDC",
+						"s": "",
+						"u": "STDC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ead664d94400645fcadd3be369577171d17cc0e0"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "z_const",
+						"t": "",
+						"i": "z_const",
+						"r": "z_const",
+						"s": "",
+						"u": "Z_CONST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ac7df24b829caf92f751cef3ed36eff5dad80109"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "z_longlong",
+						"t": "",
+						"i": "z_longlong",
+						"r": "z_longlong",
+						"s": "",
+						"u": "Z_LONGLONG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7428897c2fd9dc57ee6439f9740fe9c879e57c02"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z_size_t",
+						"t": "z_size_t",
+						"i": "z_size_t",
+						"r": "typedef size_t z_size_t",
+						"s": "",
+						"u": "Z_SIZE_T",
+						"q": "",
+						"w": "",
+						"y": "size_t",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ccca747fff4cff11d87b9963c6c21d3747d3e12"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "MAX_MEM_LEVEL",
+						"t": "",
+						"i": "MAX_MEM_LEVEL",
+						"r": "MAX_MEM_LEVEL",
+						"s": "",
+						"u": "MAX_MEM_LEVEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "57265360f4c45e87139c5eb4d7e41dc81807db83"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "MAX_WBITS",
+						"t": "",
+						"i": "MAX_WBITS",
+						"r": "MAX_WBITS",
+						"s": "",
+						"u": "MAX_WBITS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98397f8f70a808ecc22a8d48098e5bdd8032eb60"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "OF",
+						"t": "",
+						"i": "OF",
+						"r": "OF",
+						"s": "",
+						"u": "OF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a9746086114933fe5b1957d00cc0f7d6fe3e327"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZEXTERN",
+						"t": "",
+						"i": "ZEXTERN",
+						"r": "ZEXTERN",
+						"s": "",
+						"u": "ZEXTERN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9211fd05efb3685041dca1e37bfe86e1908c8fb8"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZEXPORT",
+						"t": "",
+						"i": "ZEXPORT",
+						"r": "ZEXPORT",
+						"s": "",
+						"u": "ZEXPORT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ded1c401c6d2ee9d4cd1b9fe0689c2802c657fc6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZEXPORTVA",
+						"t": "",
+						"i": "ZEXPORTVA",
+						"r": "ZEXPORTVA",
+						"s": "",
+						"u": "ZEXPORTVA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec679fd08870f5b704e31e7cd09dace0f80041a3"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Byte",
+						"t": "Byte",
+						"i": "Byte",
+						"r": "typedef unsigned char Byte",
+						"s": "",
+						"u": "BYTE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7528473d574936fd650589e0c3453f89e24723e"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "uInt",
+						"t": "uInt",
+						"i": "uInt",
+						"r": "typedef unsigned int uInt",
+						"s": "",
+						"u": "UINT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "691a2c555124f8505ac1da86b7b904a580823df5"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "uLong",
+						"t": "uLong",
+						"i": "uLong",
+						"r": "typedef unsigned long uLong",
+						"s": "",
+						"u": "ULONG",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a642e12831295ae5a1da625c0c003662c4404099"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Bytef",
+						"t": "Bytef",
+						"i": "Bytef",
+						"r": "typedef Byte Bytef",
+						"s": "",
+						"u": "BYTEF",
+						"q": "",
+						"w": "",
+						"y": "Byte",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9dc79534063bb555859d348dfb21cae4796946b"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "charf",
+						"t": "charf",
+						"i": "charf",
+						"r": "typedef char charf",
+						"s": "",
+						"u": "CHARF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d92ae33f4c82151fa023de0e20c349db1f215a2"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "intf",
+						"t": "intf",
+						"i": "intf",
+						"r": "typedef int intf",
+						"s": "",
+						"u": "INTF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32c013e189ab7967bfa997b02233641fd3fe49e7"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "uIntf",
+						"t": "uIntf",
+						"i": "uIntf",
+						"r": "typedef uInt uIntf",
+						"s": "",
+						"u": "UINTF",
+						"q": "",
+						"w": "",
+						"y": "uInt",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a624ef347a0924109a74de4805bc818d7e569bf8"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "uLongf",
+						"t": "uLongf",
+						"i": "uLongf",
+						"r": "typedef uLong uLongf",
+						"s": "",
+						"u": "ULONGF",
+						"q": "",
+						"w": "",
+						"y": "uLong",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1a8847c00359974c4bdabf32d1b89ae42b288772"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "voidpc",
+						"t": "voidpc",
+						"i": "voidpc",
+						"r": "typedef const void *voidpc",
+						"s": "",
+						"u": "VOIDPC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34fe6dabac1e063da75e3b17683b94c524ce3ce2"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "voidpf",
+						"t": "voidpf",
+						"i": "voidpf",
+						"r": "typedef void *voidpf",
+						"s": "",
+						"u": "VOIDPF",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "220c5675267870d698ebc19eec00193b2e02ea65"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "voidp",
+						"t": "voidp",
+						"i": "voidp",
+						"r": "typedef void *voidp",
+						"s": "",
+						"u": "VOIDP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e308d8e1dff0079b0aafba4e701059b3b295ce6a"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Z_U4",
+						"t": "",
+						"i": "Z_U4",
+						"r": "Z_U4",
+						"s": "",
+						"u": "Z_U4",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aa926be9ea1325817b8352cde0cd1d92a0dd4b16"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "z_crc_t",
+						"t": "z_crc_t",
+						"i": "z_crc_t",
+						"r": "typedef unsigned int z_crc_t",
+						"s": "",
+						"u": "Z_CRC_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d660132f18880bfa97058738d363a157fe438c5c"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "z_off_t",
+						"t": "",
+						"i": "z_off_t",
+						"r": "z_off_t",
+						"s": "",
+						"u": "Z_OFF_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f73bcf0f45edade4142c8d0bb827f916402ee16e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "z_off64_t",
+						"t": "",
+						"i": "z_off64_t",
+						"r": "z_off64_t",
+						"s": "",
+						"u": "Z_OFF64_T",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d4e483714dd17a233b951952c7e5ef0dba24436"
+							}
+						]
+					}
 				]
 			}
 		}
