@@ -1,5 +1,5 @@
 {
-	"saved_hash": "5868439dc66ea457dc08b63191cfccf766f106ea",
+	"saved_hash": "82817483e32e411ef39c95b22c8f0f42c91a744a",
 	"files": [
 		{
 			"key": "c++/v1/__atomic/memory_order.h",
@@ -3424,6 +3424,84 @@
 								"h": "331da7fd85d1e82a289458ad865109300f963f2b"
 							}
 						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "_Tp (_Tp) noexcept",
+						"i": "std::__1::atomic::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "37e5c2ec37142876a0ae3517aba34d6bc86cd473"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "atomic_store_explicit",
+						"t": "void (atomic<_Tp> *, typename atomic<_Tp>::value_type, memory_order) noexcept",
+						"i": "std::__1::",
+						"r": "template <class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void atomic_store_explicit(atomic<_Tp> *__o, typename atomic<_Tp>::value_type __d, memory_order __m)",
+						"s": "std::__1",
+						"u": "ATOMIC_STORE_EXPLICIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "00db727195791c841cd418d43bdc5c4e2693baa3"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "atomic_load_explicit",
+						"t": "_Tp (const atomic<_Tp> *, memory_order) noexcept",
+						"i": "std::__1::",
+						"r": "template <class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp atomic_load_explicit(const atomic<_Tp> *__o, memory_order __m)",
+						"s": "std::__1",
+						"u": "ATOMIC_LOAD_EXPLICIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "462be9855358b52bc83108a2b634b7dd8a086cc6"
+							}
+						]
 					}
 				]
 			}
@@ -4313,6 +4391,84 @@
 
 								],
 								"h": "a12abdac67c55f42fdebb349f00dff3cad78c063"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "store",
+						"t": "void (_Tp, memory_order) noexcept",
+						"i": "std::__1::__atomic_base::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void store(_Tp __d, memory_order __m = memory_order_seq_cst) __attribute__((diagnose_if(__m == memory_order_consume || __m == memory_order_acquire || __m == memory_order_acq_rel, \"memory order argument to atomic operation is invalid\", \"warning\")))",
+						"s": "std::__1",
+						"u": "STORE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc1c93d9aa1a1681cf6ec30681f2db40f71924c0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "load",
+						"t": "_Tp (memory_order) const noexcept",
+						"i": "std::__1::__atomic_base::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp load(memory_order __m = memory_order_seq_cst) const __attribute__((diagnose_if(__m == memory_order_release || __m == memory_order_acq_rel, \"memory order argument to atomic operation is invalid\", \"warning\")))",
+						"s": "std::__1",
+						"u": "LOAD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d5926a88dd0ed232baf3d8d6e63d14a3ca0b8db1"
+							}
+						]
+					},
+					{
+						"k": 26,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator type-parameter-0-0",
+						"t": "_Tp () const noexcept",
+						"i": "std::__1::__atomic_base::operator _Tp()const",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) operator _Tp() const",
+						"s": "std::__1",
+						"u": "OPERATOR TYPE-PARAMETER-0-0",
+						"q": "std::__1::__atomic_base",
+						"w": "STD::__1::__ATOMIC_BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10bf651ca6064cb4e59632b8bf1e5864ef903cfa"
 							}
 						]
 					}
@@ -6024,6 +6180,84 @@
 
 								],
 								"h": "2e7fab4bb9ea08da1c956799855d9080660d628b"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__cxx_atomic_fetch_add",
+						"t": "_Tp (volatile __cxx_atomic_base_impl<_Tp> *, _Tp, memory_order) noexcept",
+						"i": "std::__1::",
+						"r": "template <class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp __cxx_atomic_fetch_add(volatile __cxx_atomic_base_impl<_Tp> *__a, _Tp __delta, memory_order __order)",
+						"s": "std::__1",
+						"u": "__CXX_ATOMIC_FETCH_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a1e736650e963b1929516b86788bfbdc7172f0e0"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__cxx_atomic_fetch_add",
+						"t": "_Tp (__cxx_atomic_base_impl<_Tp> *, _Tp, memory_order) noexcept",
+						"i": "std::__1::",
+						"r": "template <class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp __cxx_atomic_fetch_add(__cxx_atomic_base_impl<_Tp> *__a, _Tp __delta, memory_order __order)",
+						"s": "std::__1",
+						"u": "__CXX_ATOMIC_FETCH_ADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b33a19b8be7cba97b3dfe9d2dd55c0d8a1cc954"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__cxx_atomic_fetch_sub",
+						"t": "_Tp (volatile __cxx_atomic_base_impl<_Tp> *, _Tp, memory_order) noexcept",
+						"i": "std::__1::",
+						"r": "template <class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp __cxx_atomic_fetch_sub(volatile __cxx_atomic_base_impl<_Tp> *__a, _Tp __delta, memory_order __order)",
+						"s": "std::__1",
+						"u": "__CXX_ATOMIC_FETCH_SUB",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "24d9a3cea238dd067376a224e90a3c4e57cf9ecd"
 							}
 						]
 					}

@@ -1,5 +1,5 @@
 {
-	"saved_hash": "5f1c424da2eea0adde21fd9c87eb324e18474e22",
+	"saved_hash": "2ad62afda0152dfbedeb922f4e24311be29e3840",
 	"files": [
 		{
 			"key": "MacroManager.h",
@@ -2309,6 +2309,110 @@
 						"r": "Upp::Button help",
 						"s": "Upp",
 						"u": "HELP",
+						"q": "Upp::WithMacroManagerLayout",
+						"w": "UPP::WITHMACROMANAGERLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_MacroManagerLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "Upp::SetLayout_MacroManagerLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_MacroManagerLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "Upp",
+						"u": "SETLAYOUT_MACROMANAGERLAYOUT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b611623dd8745001557d57b119061074aa49e33"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_MacroManagerLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "Upp::SetLayout_MacroManagerLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_MacroManagerLayout(T& parent, bool add = false, bool show = false)",
+						"s": "Upp",
+						"u": "SETLAYOUT_MACROMANAGERLAYOUT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b611623dd8745001557d57b119061074aa49e33"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "tool",
+						"t": "ToolBar",
+						"i": "Upp::WithMacroManagerLayout::tool",
+						"r": "ToolBar tool",
+						"s": "Upp",
+						"u": "TOOL",
+						"q": "Upp::WithMacroManagerLayout",
+						"w": "UPP::WITHMACROMANAGERLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "dv___3",
+						"t": "Ctrl",
+						"i": "Upp::WithMacroManagerLayout::dv___3",
+						"r": "Ctrl dv___3",
+						"s": "Upp",
+						"u": "DV___3",
 						"q": "Upp::WithMacroManagerLayout",
 						"w": "UPP::WITHMACROMANAGERLAYOUT",
 						"y": "",

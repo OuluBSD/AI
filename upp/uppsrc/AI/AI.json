@@ -1,6 +1,585 @@
 {
-	"saved_hash": "cbeef388920093e0e93640e3be1575742553ad5d",
+	"saved_hash": "7d4578fbd5c67de06023c3acfddf4c0a2e6d81e4",
 	"files": [
+		{
+			"key": "AionFile.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "PostSave",
+						"t": "void ()",
+						"i": "Upp::AionFile::PostSave()",
+						"r": "void PostSave()",
+						"s": "Upp",
+						"u": "POSTSAVE",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c5757532ed4c739f12eb3d95d33a1ff7ab756e28"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Clear",
+						"t": "void ()",
+						"i": "Upp::AionFile::Clear()",
+						"r": "void Clear()",
+						"s": "Upp",
+						"u": "CLEAR",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f9b728a36ff3882fbd2f26882be957ed836e878"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetPath",
+						"t": "void (String)",
+						"i": "Upp::AionFile::SetPath(String)",
+						"r": "void SetPath(String path)",
+						"s": "Upp",
+						"u": "SETPATH",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8781b31ad9d5a21d7de2a685c2089e3721b01876"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Load",
+						"t": "void ()",
+						"i": "Upp::AionFile::Load()",
+						"r": "void Load()",
+						"s": "Upp",
+						"u": "LOAD",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8dbb3de5153bb5c7cea843d7ead22506ca599037"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Save",
+						"t": "void (bool)",
+						"i": "Upp::AionFile::Save(bool)",
+						"r": "void Save(bool forced = false)",
+						"s": "Upp",
+						"u": "SAVE",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b152e1be9c2244c8649eb8baf4b8925608982b0"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "aionfile_getting_sha1",
+						"t": "bool",
+						"i": "Upp::aionfile_getting_sha1",
+						"r": "static thread_local bool aionfile_getting_sha1",
+						"s": "Upp",
+						"u": "AIONFILE_GETTING_SHA1",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8602547472605b7fb4dd3dbc18f0958080c9540c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetHashSha1",
+						"t": "String ()",
+						"i": "Upp::AionFile::GetHashSha1()",
+						"r": "String GetHashSha1()",
+						"s": "Upp",
+						"u": "GETHASHSHA1",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c7aeb4c9dc37146dd19fe924b422b0fa14de00ae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Serialize",
+						"t": "void (Stream &)",
+						"i": "Upp::AionFile::Serialize(Stream&)",
+						"r": "void Serialize(Stream& s)",
+						"s": "Upp",
+						"u": "SERIALIZE",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec2d48cb12cf7460e3dfd9e61dc410cdcbeb543c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Jsonize",
+						"t": "void (JsonIO &)",
+						"i": "Upp::AionFile::Jsonize(JsonIO&)",
+						"r": "void Jsonize(JsonIO& json)",
+						"s": "Upp",
+						"u": "JSONIZE",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b4afc11ce4254b26118d11ed3089a7e8777f862"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "void (const AionFile &)",
+						"i": "Upp::AionFile::operator=(const AionFile&)",
+						"r": "void operator",
+						"s": "Upp",
+						"u": "OPERATOR=",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c99f6145672d2de514069acd86451571adbe4f0f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "MakeRelativePath",
+						"t": "bool (const String &, const String &, String &, String &)",
+						"i": "Upp::MakeRelativePath(const String&,const String&,String&,String&)",
+						"r": "bool MakeRelativePath(const String& includes_, const String& dir, String& best_ai_dir, String& best_rel_dir)",
+						"s": "Upp",
+						"u": "MAKERELATIVEPATH",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ead5e7e17687afa347a77fef2f6d6987cc3922c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "RealizePath",
+						"t": "AiFileInfo &(const String &, const String &)",
+						"i": "Upp::AionFile::RealizePath(const String&,const String&)",
+						"r": "AiFileInfo& RealizePath(const String& includes, const String& path)",
+						"s": "Upp",
+						"u": "REALIZEPATH",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "547f48f3a9add7ba1e33a00275c4b95adbb58e17"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetAiPathCandidate",
+						"t": "String (const String &, String)",
+						"i": "Upp::GetAiPathCandidate(const String&,String)",
+						"r": "String GetAiPathCandidate(const String& includes_, String dir)",
+						"s": "Upp",
+						"u": "GETAIPATHCANDIDATE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4ff9bff7ada07941687489680e2f4ec8ca3711ba"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FindParentUppDirectories",
+						"t": "Vector<String> (const String &)",
+						"i": "Upp::FindParentUppDirectories(const String&)",
+						"r": "Vector<String> FindParentUppDirectories(const String& sub_dir)",
+						"s": "Upp",
+						"u": "FINDPARENTUPPDIRECTORIES",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ab473ed1b02dd46ed5191cc795108c7dbed5458"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ResolveAionFilePath",
+						"t": "String (const String &, String)",
+						"i": "Upp::AionIndex::ResolveAionFilePath(const String&,String)",
+						"r": "String ResolveAionFilePath(const String& includes, String path)",
+						"s": "Upp",
+						"u": "RESOLVEAIONFILEPATH",
+						"q": "Upp::AionIndex",
+						"w": "UPP::AIONINDEX",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8ef68af493fdce9fe8b142d099cbc85a9de6624a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ResolveFile",
+						"t": "AionFile &(const String &, String)",
+						"i": "Upp::AionIndex::ResolveFile(const String&,String)",
+						"r": "AionFile& ResolveFile(const String& includes, String path)",
+						"s": "Upp",
+						"u": "RESOLVEFILE",
+						"q": "Upp::AionIndex",
+						"w": "UPP::AIONINDEX",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "78ce789b75194aade7b671715d76e3d548416324"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ResolveFileInfo",
+						"t": "AiFileInfo &(const String &, String)",
+						"i": "Upp::AionIndex::ResolveFileInfo(const String&,String)",
+						"r": "AiFileInfo& ResolveFileInfo(const String& includes, String path)",
+						"s": "Upp",
+						"u": "RESOLVEFILEINFO",
+						"q": "Upp::AionIndex",
+						"w": "UPP::AIONINDEX",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1191fc51c5f3deacc053a7e7140d8e5f43e0890"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "AiIndex",
+						"t": "AionIndex &()",
+						"i": "Upp::AiIndex()",
+						"r": "AionIndex& AiIndex()",
+						"s": "Upp",
+						"u": "AIINDEX",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d785561a4ab5493e86b37756cad25844138bd10e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Load",
+						"t": "void (const String &, const String &, FileAnnotation &)",
+						"i": "Upp::AionIndex::Load(const String&,const String&,FileAnnotation&)",
+						"r": "void Load(const String& includes, const String& path, FileAnnotation& fa)",
+						"s": "Upp",
+						"u": "LOAD",
+						"q": "Upp::AionIndex",
+						"w": "UPP::AIONINDEX",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28e719780c67d9472a0e8e2963f5edabf0dc0999"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Load",
+						"t": "void (const String &, const String &, FileAnnotation &)",
+						"i": "Upp::AionFile::Load(const String&,const String&,FileAnnotation&)",
+						"r": "void Load(const String& includes, const String& path, FileAnnotation& fa)",
+						"s": "Upp",
+						"u": "LOAD",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77a966a182112317a9afbbaeae27de4717f2ffb1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Store",
+						"t": "void (const String &, const String &, FileAnnotation &)",
+						"i": "Upp::AionIndex::Store(const String&,const String&,FileAnnotation&)",
+						"r": "void Store(const String& includes, const String& path, FileAnnotation& fa)",
+						"s": "Upp",
+						"u": "STORE",
+						"q": "Upp::AionIndex",
+						"w": "UPP::AIONINDEX",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8860a6f01acf573213adb661315174510ad3149"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Store",
+						"t": "void (const String &, const String &, FileAnnotation &)",
+						"i": "Upp::AionFile::Store(const String&,const String&,FileAnnotation&)",
+						"r": "void Store(const String& includes, const String& path, FileAnnotation& fa)",
+						"s": "Upp",
+						"u": "STORE",
+						"q": "Upp::AionFile",
+						"w": "UPP::AIONFILE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f6ce2bb02076d9322d61787f29f477d6d9e4c7e7"
+							}
+						]
+					}
+				]
+			}
+		},
 		{
 			"key": "AI.h",
 			"value": {
@@ -176,7 +755,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::VisionArgs::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::VisionArgs",
@@ -202,7 +781,7 @@
 						"n": "Get",
 						"t": "String () const",
 						"i": "Upp::VisionArgs::Get()const",
-						"r": "Upp::String Get() const",
+						"r": "String Get() const",
 						"s": "Upp",
 						"u": "GET",
 						"q": "Upp::VisionArgs",
@@ -228,7 +807,7 @@
 						"n": "Put",
 						"t": "void (const String &)",
 						"i": "Upp::VisionArgs::Put(const String&)",
-						"r": "void Put(const Upp::String& s)",
+						"r": "void Put(const String& s)",
 						"s": "Upp",
 						"u": "PUT",
 						"q": "Upp::VisionArgs",
@@ -332,7 +911,7 @@
 						"n": "response_title",
 						"t": "String",
 						"i": "Upp::GenericPromptArgs::response_title",
-						"r": "Upp::String response_title",
+						"r": "String response_title",
 						"s": "Upp",
 						"u": "RESPONSE_TITLE",
 						"q": "Upp::GenericPromptArgs",
@@ -384,7 +963,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::GenericPromptArgs::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::GenericPromptArgs",
@@ -410,7 +989,7 @@
 						"n": "Get",
 						"t": "String () const",
 						"i": "Upp::GenericPromptArgs::Get()const",
-						"r": "Upp::String Get() const",
+						"r": "String Get() const",
 						"s": "Upp",
 						"u": "GET",
 						"q": "Upp::GenericPromptArgs",
@@ -436,7 +1015,7 @@
 						"n": "Put",
 						"t": "void (const String &)",
 						"i": "Upp::GenericPromptArgs::Put(const String&)",
-						"r": "void Put(const Upp::String& s)",
+						"r": "void Put(const String& s)",
 						"s": "Upp",
 						"u": "PUT",
 						"q": "Upp::GenericPromptArgs",
@@ -566,7 +1145,7 @@
 						"n": "Fn",
 						"t": "Upp::CodeArgs::Fn",
 						"i": "Upp::CodeArgs::Fn",
-						"r": "typedef enum Upp::CodeArgs::Fn Fn",
+						"r": "typedef enum Fn Fn",
 						"s": "Upp",
 						"u": "FN",
 						"q": "Upp::CodeArgs",
@@ -592,7 +1171,7 @@
 						"n": "FnType",
 						"t": "Upp::CodeArgs::FnType",
 						"i": "Upp::CodeArgs::FnType",
-						"r": "typedef std::__underlying_type_impl<Upp::CodeArgs::Fn>::type FnType",
+						"r": "typedef std::underlying_type<Fn>::type FnType",
 						"s": "Upp",
 						"u": "FNTYPE",
 						"q": "Upp::CodeArgs",
@@ -618,7 +1197,7 @@
 						"n": "fn",
 						"t": "Fn",
 						"i": "Upp::CodeArgs::fn",
-						"r": "Upp::CodeArgs::Fn fn",
+						"r": "Fn fn",
 						"s": "Upp",
 						"u": "FN",
 						"q": "Upp::CodeArgs",
@@ -696,7 +1275,7 @@
 						"n": "lang",
 						"t": "String",
 						"i": "Upp::CodeArgs::lang",
-						"r": "Upp::String lang",
+						"r": "String lang",
 						"s": "Upp",
 						"u": "LANG",
 						"q": "Upp::CodeArgs",
@@ -748,7 +1327,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::CodeArgs::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::CodeArgs",
@@ -774,7 +1353,7 @@
 						"n": "Get",
 						"t": "String () const",
 						"i": "Upp::CodeArgs::Get()const",
-						"r": "Upp::String Get() const",
+						"r": "String Get() const",
 						"s": "Upp",
 						"u": "GET",
 						"q": "Upp::CodeArgs",
@@ -800,7 +1379,7 @@
 						"n": "Put",
 						"t": "void (const String &)",
 						"i": "Upp::CodeArgs::Put(const String&)",
-						"r": "void Put(const Upp::String& s)",
+						"r": "void Put(const String& s)",
 						"s": "Upp",
 						"u": "PUT",
 						"q": "Upp::CodeArgs",
@@ -836,12 +1415,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "011dc44349faee02cea7aa757f0389aab54a9d04"
-							},
 							{
 								"items": [
 
@@ -884,7 +1457,7 @@
 						"n": "txt",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::Data::txt",
-						"r": "Upp::String txt",
+						"r": "String txt",
 						"s": "Upp",
 						"u": "TXT",
 						"q": "Upp::AiAnnotationItem::Data",
@@ -910,7 +1483,7 @@
 						"n": "tmp_hash",
 						"t": "hash_t",
 						"i": "Upp::AiAnnotationItem::Data::tmp_hash",
-						"r": "Upp::hash_t tmp_hash",
+						"r": "hash_t tmp_hash",
 						"s": "Upp",
 						"u": "TMP_HASH",
 						"q": "Upp::AiAnnotationItem::Data",
@@ -962,7 +1535,7 @@
 						"n": "Data",
 						"t": "void (const Data &)",
 						"i": "Upp::AiAnnotationItem::Data::Data(const Data&)",
-						"r": "Data(const Upp::AiAnnotationItem::Data& f)",
+						"r": "Data(const Data& f)",
 						"s": "Upp",
 						"u": "DATA",
 						"q": "Upp::AiAnnotationItem::Data",
@@ -1014,7 +1587,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiAnnotationItem::Data::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiAnnotationItem::Data",
@@ -1040,7 +1613,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiAnnotationItem::Data::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiAnnotationItem::Data",
@@ -1248,7 +1821,7 @@
 						"n": "Kind",
 						"t": "Upp::AiAnnotationItem::SourceRange::Item::Kind",
 						"i": "Upp::AiAnnotationItem::SourceRange::Item::Kind",
-						"r": "typedef enum Upp::AiAnnotationItem::SourceRange::Item::Kind Kind",
+						"r": "typedef enum Kind Kind",
 						"s": "Upp",
 						"u": "KIND",
 						"q": "Upp::AiAnnotationItem::SourceRange::Item",
@@ -1274,7 +1847,7 @@
 						"n": "KindType",
 						"t": "Upp::AiAnnotationItem::SourceRange::Item::KindType",
 						"i": "Upp::AiAnnotationItem::SourceRange::Item::KindType",
-						"r": "typedef std::__underlying_type_impl<Upp::AiAnnotationItem::SourceRange::Item::Kind>::type KindType",
+						"r": "typedef std::underlying_type<Kind>::type KindType",
 						"s": "Upp",
 						"u": "KINDTYPE",
 						"q": "Upp::AiAnnotationItem::SourceRange::Item",
@@ -1300,7 +1873,7 @@
 						"n": "kind",
 						"t": "Kind",
 						"i": "Upp::AiAnnotationItem::SourceRange::Item::kind",
-						"r": "Upp::AiAnnotationItem::SourceRange::Item::Kind kind",
+						"r": "Kind kind",
 						"s": "Upp",
 						"u": "KIND",
 						"q": "Upp::AiAnnotationItem::SourceRange::Item",
@@ -1378,7 +1951,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::Item::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiAnnotationItem::SourceRange::Item",
@@ -1404,7 +1977,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::Item::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiAnnotationItem::SourceRange::Item",
@@ -1430,7 +2003,7 @@
 						"n": "operator()",
 						"t": "bool (const Item &, const Item &) const",
 						"i": "Upp::AiAnnotationItem::SourceRange::Item::operator()(const Item&,const Item&)const",
-						"r": "bool operator()(const Upp::AiAnnotationItem::SourceRange::Item& a, const Upp::AiAnnotationItem::SourceRange::Item& b) const",
+						"r": "bool operator()(const Item& a, const Item& b) const",
 						"s": "Upp",
 						"u": "OPERATOR()",
 						"q": "Upp::AiAnnotationItem::SourceRange::Item",
@@ -1482,7 +2055,7 @@
 						"n": "range_hash_sha1",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::SourceRange::range_hash_sha1",
-						"r": "Upp::String range_hash_sha1",
+						"r": "String range_hash_sha1",
 						"s": "Upp",
 						"u": "RANGE_HASH_SHA1",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1508,7 +2081,7 @@
 						"n": "pos",
 						"t": "Point",
 						"i": "Upp::AiAnnotationItem::SourceRange::pos",
-						"r": "Upp::Point pos",
+						"r": "Point pos",
 						"s": "Upp",
 						"u": "POS",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1534,7 +2107,7 @@
 						"n": "begin",
 						"t": "Point",
 						"i": "Upp::AiAnnotationItem::SourceRange::begin",
-						"r": "Upp::Point begin",
+						"r": "Point begin",
 						"s": "Upp",
 						"u": "BEGIN",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1560,7 +2133,7 @@
 						"n": "end",
 						"t": "Point",
 						"i": "Upp::AiAnnotationItem::SourceRange::end",
-						"r": "Upp::Point end",
+						"r": "Point end",
 						"s": "Upp",
 						"u": "END",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1586,7 +2159,7 @@
 						"n": "lock",
 						"t": "Mutex",
 						"i": "Upp::AiAnnotationItem::SourceRange::lock",
-						"r": "Upp::Mutex lock",
+						"r": "Mutex lock",
 						"s": "Upp",
 						"u": "LOCK",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1638,7 +2211,7 @@
 						"n": "SourceRange",
 						"t": "void (const SourceRange &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::SourceRange(const SourceRange&)",
-						"r": "SourceRange(const Upp::AiAnnotationItem::SourceRange& f)",
+						"r": "SourceRange(const SourceRange& f)",
 						"s": "Upp",
 						"u": "SOURCERANGE",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1716,7 +2289,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1742,7 +2315,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1794,7 +2367,7 @@
 						"n": "FindItem",
 						"t": "Item *(int)",
 						"i": "Upp::AiAnnotationItem::SourceRange::FindItem(int)",
-						"r": "Upp::AiAnnotationItem::SourceRange::Item *FindItem(int rel_line)",
+						"r": "Item *FindItem(int rel_line)",
 						"s": "Upp",
 						"u": "FINDITEM",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1820,7 +2393,7 @@
 						"n": "RemoveAll",
 						"t": "void (Item::Kind)",
 						"i": "Upp::AiAnnotationItem::SourceRange::RemoveAll(Item::Kind)",
-						"r": "void RemoveAll(Upp::AiAnnotationItem::SourceRange::Item::Kind kind)",
+						"r": "void RemoveAll(Item::Kind kind)",
 						"s": "Upp",
 						"u": "REMOVEALL",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -1872,7 +2445,7 @@
 						"n": "id",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::id",
-						"r": "Upp::String id",
+						"r": "String id",
 						"s": "Upp",
 						"u": "ID",
 						"q": "Upp::AiAnnotationItem",
@@ -1898,7 +2471,7 @@
 						"n": "name",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::name",
-						"r": "Upp::String name",
+						"r": "String name",
 						"s": "Upp",
 						"u": "NAME",
 						"q": "Upp::AiAnnotationItem",
@@ -1924,7 +2497,7 @@
 						"n": "type",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::type",
-						"r": "Upp::String type",
+						"r": "String type",
 						"s": "Upp",
 						"u": "TYPE",
 						"q": "Upp::AiAnnotationItem",
@@ -1950,7 +2523,7 @@
 						"n": "pretty",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::pretty",
-						"r": "Upp::String pretty",
+						"r": "String pretty",
 						"s": "Upp",
 						"u": "PRETTY",
 						"q": "Upp::AiAnnotationItem",
@@ -1976,7 +2549,7 @@
 						"n": "nspace",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::nspace",
-						"r": "Upp::String nspace",
+						"r": "String nspace",
 						"s": "Upp",
 						"u": "NSPACE",
 						"q": "Upp::AiAnnotationItem",
@@ -2002,7 +2575,7 @@
 						"n": "uname",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::uname",
-						"r": "Upp::String uname",
+						"r": "String uname",
 						"s": "Upp",
 						"u": "UNAME",
 						"q": "Upp::AiAnnotationItem",
@@ -2028,7 +2601,7 @@
 						"n": "nest",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::nest",
-						"r": "Upp::String nest",
+						"r": "String nest",
 						"s": "Upp",
 						"u": "NEST",
 						"q": "Upp::AiAnnotationItem",
@@ -2054,7 +2627,7 @@
 						"n": "unest",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::unest",
-						"r": "Upp::String unest",
+						"r": "String unest",
 						"s": "Upp",
 						"u": "UNEST",
 						"q": "Upp::AiAnnotationItem",
@@ -2080,7 +2653,7 @@
 						"n": "bases",
 						"t": "String",
 						"i": "Upp::AiAnnotationItem::bases",
-						"r": "Upp::String bases",
+						"r": "String bases",
 						"s": "Upp",
 						"u": "BASES",
 						"q": "Upp::AiAnnotationItem",
@@ -2207,12 +2780,12 @@
 						"d": true,
 						"iv": false,
 						"is": false,
-						"n": "source_files",
+						"n": "source_ranges",
 						"t": "Array<SourceRange>",
-						"i": "Upp::AiAnnotationItem::source_files",
-						"r": "Array<SourceRange> source_files",
+						"i": "Upp::AiAnnotationItem::source_ranges",
+						"r": "Array<SourceRange> source_ranges",
 						"s": "Upp",
-						"u": "SOURCE_FILES",
+						"u": "SOURCE_RANGES",
 						"q": "Upp::AiAnnotationItem",
 						"w": "UPP::AIANNOTATIONITEM",
 						"y": "",
@@ -2224,7 +2797,7 @@
 								"items": [
 
 								],
-								"h": "ad9ed6f28c5d7652fed79d124ad4a3c3f76e3381"
+								"h": "104523e0f1dc1f66786740e40534acf9928e263a"
 							}
 						]
 					},
@@ -2236,7 +2809,7 @@
 						"n": "lock",
 						"t": "Mutex",
 						"i": "Upp::AiAnnotationItem::lock",
-						"r": "mutable Upp::Mutex lock",
+						"r": "mutable Mutex lock",
 						"s": "Upp",
 						"u": "LOCK",
 						"q": "Upp::AiAnnotationItem",
@@ -2288,7 +2861,7 @@
 						"n": "AiAnnotationItem",
 						"t": "void (const AiAnnotationItem &)",
 						"i": "Upp::AiAnnotationItem::AiAnnotationItem(const AiAnnotationItem&)",
-						"r": "AiAnnotationItem(const Upp::AiAnnotationItem& f)",
+						"r": "AiAnnotationItem(const AiAnnotationItem& f)",
 						"s": "Upp",
 						"u": "AIANNOTATIONITEM",
 						"q": "Upp::AiAnnotationItem",
@@ -2314,7 +2887,7 @@
 						"n": "AiAnnotationItem",
 						"t": "void (AiAnnotationItem &&)",
 						"i": "Upp::AiAnnotationItem::AiAnnotationItem(AiAnnotationItem&&)",
-						"r": "AiAnnotationItem(Upp::AiAnnotationItem&& f)",
+						"r": "AiAnnotationItem(AiAnnotationItem&& f)",
 						"s": "Upp",
 						"u": "AIANNOTATIONITEM",
 						"q": "Upp::AiAnnotationItem",
@@ -2392,7 +2965,7 @@
 						"n": "Set",
 						"t": "void (const AnnotationItem &, const String &)",
 						"i": "Upp::AiAnnotationItem::Set(const AnnotationItem&,const String&)",
-						"r": "void Set(const AnnotationItem& s, const Upp::String& range_hash_sha1)",
+						"r": "void Set(const AnnotationItem& s, const String& range_hash_sha1)",
 						"s": "Upp",
 						"u": "SET",
 						"q": "Upp::AiAnnotationItem",
@@ -2418,7 +2991,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiAnnotationItem::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiAnnotationItem",
@@ -2444,7 +3017,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiAnnotationItem::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiAnnotationItem",
@@ -2496,7 +3069,7 @@
 						"n": "RealizeRangeByHashSha1",
 						"t": "SourceRange &(const String &)",
 						"i": "Upp::AiAnnotationItem::RealizeRangeByHashSha1(const String&)",
-						"r": "Upp::AiAnnotationItem::SourceRange& RealizeRangeByHashSha1(const Upp::String& sha1)",
+						"r": "SourceRange& RealizeRangeByHashSha1(const String& sha1)",
 						"s": "Upp",
 						"u": "REALIZERANGEBYHASHSHA1",
 						"q": "Upp::AiAnnotationItem",
@@ -2522,7 +3095,7 @@
 						"n": "FindRangeByHashSha1",
 						"t": "SourceRange *(const String &)",
 						"i": "Upp::AiAnnotationItem::FindRangeByHashSha1(const String&)",
-						"r": "Upp::AiAnnotationItem::SourceRange *FindRangeByHashSha1(const Upp::String& sha1)",
+						"r": "SourceRange *FindRangeByHashSha1(const String& sha1)",
 						"s": "Upp",
 						"u": "FINDRANGEBYHASHSHA1",
 						"q": "Upp::AiAnnotationItem",
@@ -2548,7 +3121,7 @@
 						"n": "FindAddData",
 						"t": "int (const String &)",
 						"i": "Upp::AiAnnotationItem::FindAddData(const String&)",
-						"r": "int FindAddData(const Upp::String& txt)",
+						"r": "int FindAddData(const String& txt)",
 						"s": "Upp",
 						"u": "FINDADDDATA",
 						"q": "Upp::AiAnnotationItem",
@@ -2600,7 +3173,7 @@
 						"n": "GetDataString",
 						"t": "String (int) const",
 						"i": "Upp::AiAnnotationItem::GetDataString(int)const",
-						"r": "Upp::String GetDataString(int data_i) const",
+						"r": "String GetDataString(int data_i) const",
 						"s": "Upp",
 						"u": "GETDATASTRING",
 						"q": "Upp::AiAnnotationItem",
@@ -2615,6 +3188,32 @@
 
 								],
 								"h": "2e74c012ae54fa3299242d6ea0297eb351b83f47"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FindAnySourceRange",
+						"t": "SourceRange *()",
+						"i": "Upp::AiAnnotationItem::FindAnySourceRange()",
+						"r": "SourceRange *FindAnySourceRange()",
+						"s": "Upp",
+						"u": "FINDANYSOURCERANGE",
+						"q": "Upp::AiAnnotationItem",
+						"w": "UPP::AIANNOTATIONITEM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d535adcbe17db22e3a047b24a80b335b8349915d"
 							}
 						]
 					},
@@ -2704,7 +3303,7 @@
 						"n": "lock",
 						"t": "Mutex",
 						"i": "Upp::AiFileInfo::lock",
-						"r": "mutable Upp::Mutex lock",
+						"r": "mutable Mutex lock",
 						"s": "Upp",
 						"u": "LOCK",
 						"q": "Upp::AiFileInfo",
@@ -2756,7 +3355,7 @@
 						"n": "AiFileInfo",
 						"t": "void (const AiFileInfo &)",
 						"i": "Upp::AiFileInfo::AiFileInfo(const AiFileInfo&)",
-						"r": "AiFileInfo(const Upp::AiFileInfo& f)",
+						"r": "AiFileInfo(const AiFileInfo& f)",
 						"s": "Upp",
 						"u": "AIFILEINFO",
 						"q": "Upp::AiFileInfo",
@@ -2782,7 +3381,7 @@
 						"n": "AiFileInfo",
 						"t": "void (AiFileInfo &&)",
 						"i": "Upp::AiFileInfo::AiFileInfo(AiFileInfo&&)",
-						"r": "AiFileInfo(Upp::AiFileInfo&& f)",
+						"r": "AiFileInfo(AiFileInfo&& f)",
 						"s": "Upp",
 						"u": "AIFILEINFO",
 						"q": "Upp::AiFileInfo",
@@ -2834,7 +3433,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiFileInfo::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiFileInfo",
@@ -2860,7 +3459,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiFileInfo::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiFileInfo",
@@ -2912,7 +3511,7 @@
 						"n": "GetStringRange",
 						"t": "String (String, Point, Point)",
 						"i": "Upp::GetStringRange(String,Point,Point)",
-						"r": "Upp::String GetStringRange(Upp::String content, Upp::Point begin, Upp::Point end)",
+						"r": "String GetStringRange(String content, Point begin, Point end)",
 						"s": "Upp",
 						"u": "GETSTRINGRANGE",
 						"q": "Upp",
@@ -2931,58 +3530,6 @@
 						]
 					},
 					{
-						"k": 6,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "source_ranges",
-						"t": "Array<SourceRange>",
-						"i": "Upp::AiAnnotationItem::source_ranges",
-						"r": "Array<SourceRange> source_ranges",
-						"s": "Upp",
-						"u": "SOURCE_RANGES",
-						"q": "Upp::AiAnnotationItem",
-						"w": "UPP::AIANNOTATIONITEM",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "104523e0f1dc1f66786740e40534acf9928e263a"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": false,
-						"iv": false,
-						"is": false,
-						"n": "FindAnySourceRange",
-						"t": "SourceRange *()",
-						"i": "Upp::AiAnnotationItem::FindAnySourceRange()",
-						"r": "Upp::AiAnnotationItem::SourceRange *FindAnySourceRange()",
-						"s": "Upp",
-						"u": "FINDANYSOURCERANGE",
-						"q": "Upp::AiAnnotationItem",
-						"w": "UPP::AIANNOTATIONITEM",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "d535adcbe17db22e3a047b24a80b335b8349915d"
-							}
-						]
-					},
-					{
 						"k": 8,
 						"d": false,
 						"iv": false,
@@ -2990,7 +3537,7 @@
 						"n": "UpdateAiFileInfo",
 						"t": "bool (AiFileInfo &, const String &)",
 						"i": "Upp::UpdateAiFileInfo(AiFileInfo&,const String&)",
-						"r": "bool UpdateAiFileInfo(Upp::AiFileInfo& f, const Upp::String& path)",
+						"r": "bool UpdateAiFileInfo(AiFileInfo& f, const String& path)",
 						"s": "Upp",
 						"u": "UPDATEAIFILEINFO",
 						"q": "Upp",
@@ -3016,7 +3563,7 @@
 						"n": "RangeContains",
 						"t": "bool (Point, Point, Point)",
 						"i": "Upp::RangeContains(Point,Point,Point)",
-						"r": "bool RangeContains(Upp::Point pos, Upp::Point begin, Upp::Point end)",
+						"r": "bool RangeContains(Point pos, Point begin, Point end)",
 						"s": "Upp",
 						"u": "RANGECONTAINS",
 						"q": "Upp",
@@ -3101,7 +3648,7 @@
 						"n": "MakeRelativePath",
 						"t": "bool (const String &, const String &, String &, String &)",
 						"i": "Upp::MakeRelativePath(const String&,const String&,String&,String&)",
-						"r": "bool MakeRelativePath(const Upp::String& includes, const Upp::String& dir, Upp::String& best_ai_dir, Upp::String& best_rel_dir)",
+						"r": "bool MakeRelativePath(const String& includes, const String& dir, String& best_ai_dir, String& best_rel_dir)",
 						"s": "Upp",
 						"u": "MAKERELATIVEPATH",
 						"q": "Upp",
@@ -3127,7 +3674,7 @@
 						"n": "FindParentUppDirectories",
 						"t": "Vector<String> (const String &)",
 						"i": "Upp::FindParentUppDirectories(const String&)",
-						"r": "Vector<String> FindParentUppDirectories(const Upp::String& dir)",
+						"r": "Vector<String> FindParentUppDirectories(const String& dir)",
 						"s": "Upp",
 						"u": "FINDPARENTUPPDIRECTORIES",
 						"q": "Upp",
@@ -3179,7 +3726,7 @@
 						"n": "CLASSNAME",
 						"t": "Upp::AionFile::CLASSNAME",
 						"i": "Upp::AionFile::CLASSNAME",
-						"r": "typedef Upp::AionFile CLASSNAME",
+						"r": "typedef AionFile CLASSNAME",
 						"s": "Upp",
 						"u": "CLASSNAME",
 						"q": "Upp::AionFile",
@@ -3231,7 +3778,7 @@
 						"n": "saved_hash",
 						"t": "String",
 						"i": "Upp::AionFile::saved_hash",
-						"r": "Upp::String saved_hash",
+						"r": "String saved_hash",
 						"s": "Upp",
 						"u": "SAVED_HASH",
 						"q": "Upp::AionFile",
@@ -3283,7 +3830,7 @@
 						"n": "AionFile",
 						"t": "void (AionFile &&)",
 						"i": "Upp::AionFile::AionFile(AionFile&&)",
-						"r": "AionFile(Upp::AionFile&& f)",
+						"r": "AionFile(AionFile&& f)",
 						"s": "Upp",
 						"u": "AIONFILE",
 						"q": "Upp::AionFile",
@@ -3309,7 +3856,7 @@
 						"n": "AionFile",
 						"t": "void (const AionFile &)",
 						"i": "Upp::AionFile::AionFile(const AionFile&)",
-						"r": "AionFile(const Upp::AionFile& f)",
+						"r": "AionFile(const AionFile& f)",
 						"s": "Upp",
 						"u": "AIONFILE",
 						"q": "Upp::AionFile",
@@ -3361,7 +3908,7 @@
 						"n": "SetPath",
 						"t": "void (String)",
 						"i": "Upp::AionFile::SetPath(String)",
-						"r": "void SetPath(Upp::String path)",
+						"r": "void SetPath(String path)",
 						"s": "Upp",
 						"u": "SETPATH",
 						"q": "Upp::AionFile",
@@ -3491,7 +4038,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AionFile::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AionFile",
@@ -3517,7 +4064,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AionFile::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AionFile",
@@ -3543,7 +4090,7 @@
 						"n": "RealizePath",
 						"t": "AiFileInfo &(const String &, const String &)",
 						"i": "Upp::AionFile::RealizePath(const String&,const String&)",
-						"r": "Upp::AiFileInfo& RealizePath(const Upp::String& includes, const Upp::String& path)",
+						"r": "AiFileInfo& RealizePath(const String& includes, const String& path)",
 						"s": "Upp",
 						"u": "REALIZEPATH",
 						"q": "Upp::AionFile",
@@ -3595,7 +4142,7 @@
 						"n": "GetHashSha1",
 						"t": "String ()",
 						"i": "Upp::AionFile::GetHashSha1()",
-						"r": "Upp::String GetHashSha1()",
+						"r": "String GetHashSha1()",
 						"s": "Upp",
 						"u": "GETHASHSHA1",
 						"q": "Upp::AionFile",
@@ -3621,7 +4168,7 @@
 						"n": "Load",
 						"t": "void (const String &, const String &, FileAnnotation &)",
 						"i": "Upp::AionFile::Load(const String&,const String&,FileAnnotation&)",
-						"r": "void Load(const Upp::String& includes, const Upp::String& path, FileAnnotation& fa)",
+						"r": "void Load(const String& includes, const String& path, FileAnnotation& fa)",
 						"s": "Upp",
 						"u": "LOAD",
 						"q": "Upp::AionFile",
@@ -3647,7 +4194,7 @@
 						"n": "Store",
 						"t": "void (const String &, const String &, FileAnnotation &)",
 						"i": "Upp::AionFile::Store(const String&,const String&,FileAnnotation&)",
-						"r": "void Store(const Upp::String& includes, const Upp::String& path, FileAnnotation& fa)",
+						"r": "void Store(const String& includes, const String& path, FileAnnotation& fa)",
 						"s": "Upp",
 						"u": "STORE",
 						"q": "Upp::AionFile",
@@ -3699,7 +4246,7 @@
 						"n": "path",
 						"t": "String",
 						"i": "Upp::AionFile::path",
-						"r": "Upp::String path",
+						"r": "String path",
 						"s": "Upp",
 						"u": "PATH",
 						"q": "Upp::AionFile",
@@ -3725,7 +4272,7 @@
 						"n": "dir",
 						"t": "String",
 						"i": "Upp::AionFile::dir",
-						"r": "Upp::String dir",
+						"r": "String dir",
 						"s": "Upp",
 						"u": "DIR",
 						"q": "Upp::AionFile",
@@ -3751,7 +4298,7 @@
 						"n": "lock",
 						"t": "Mutex",
 						"i": "Upp::AionFile::lock",
-						"r": "Upp::Mutex lock",
+						"r": "Mutex lock",
 						"s": "Upp",
 						"u": "LOCK",
 						"q": "Upp::AionFile",
@@ -3829,7 +4376,7 @@
 						"n": "lock",
 						"t": "RWMutex",
 						"i": "Upp::AionIndex::lock",
-						"r": "Upp::RWMutex lock",
+						"r": "RWMutex lock",
 						"s": "Upp",
 						"u": "LOCK",
 						"q": "Upp::AionIndex",
@@ -3881,7 +4428,7 @@
 						"n": "ResolveAionFilePath",
 						"t": "String (const String &, String)",
 						"i": "Upp::AionIndex::ResolveAionFilePath(const String&,String)",
-						"r": "Upp::String ResolveAionFilePath(const Upp::String& includes, Upp::String path)",
+						"r": "String ResolveAionFilePath(const String& includes, String path)",
 						"s": "Upp",
 						"u": "RESOLVEAIONFILEPATH",
 						"q": "Upp::AionIndex",
@@ -3907,7 +4454,7 @@
 						"n": "ResolveFile",
 						"t": "AionFile &(const String &, String)",
 						"i": "Upp::AionIndex::ResolveFile(const String&,String)",
-						"r": "Upp::AionFile& ResolveFile(const Upp::String& includes, Upp::String path)",
+						"r": "AionFile& ResolveFile(const String& includes, String path)",
 						"s": "Upp",
 						"u": "RESOLVEFILE",
 						"q": "Upp::AionIndex",
@@ -3933,7 +4480,7 @@
 						"n": "ResolveFileInfo",
 						"t": "AiFileInfo &(const String &, String)",
 						"i": "Upp::AionIndex::ResolveFileInfo(const String&,String)",
-						"r": "Upp::AiFileInfo& ResolveFileInfo(const Upp::String& includes, Upp::String path)",
+						"r": "AiFileInfo& ResolveFileInfo(const String& includes, String path)",
 						"s": "Upp",
 						"u": "RESOLVEFILEINFO",
 						"q": "Upp::AionIndex",
@@ -3959,7 +4506,7 @@
 						"n": "Load",
 						"t": "void (const String &, const String &, FileAnnotation &)",
 						"i": "Upp::AionIndex::Load(const String&,const String&,FileAnnotation&)",
-						"r": "void Load(const Upp::String& includes, const Upp::String& path, FileAnnotation& fa)",
+						"r": "void Load(const String& includes, const String& path, FileAnnotation& fa)",
 						"s": "Upp",
 						"u": "LOAD",
 						"q": "Upp::AionIndex",
@@ -3985,7 +4532,7 @@
 						"n": "Store",
 						"t": "void (const String &, const String &, FileAnnotation &)",
 						"i": "Upp::AionIndex::Store(const String&,const String&,FileAnnotation&)",
-						"r": "void Store(const Upp::String& includes, const Upp::String& path, FileAnnotation& fa)",
+						"r": "void Store(const String& includes, const String& path, FileAnnotation& fa)",
 						"s": "Upp",
 						"u": "STORE",
 						"q": "Upp::AionIndex",
@@ -4011,7 +4558,7 @@
 						"n": "AiIndex",
 						"t": "AionIndex &()",
 						"i": "Upp::AiIndex()",
-						"r": "Upp::AionIndex& AiIndex()",
+						"r": "AionIndex& AiIndex()",
 						"s": "Upp",
 						"u": "AIINDEX",
 						"q": "Upp",
@@ -4252,7 +4799,7 @@
 						"n": "Worker",
 						"t": "WorkerData &()",
 						"i": "Upp::AiProcessBase::Worker()",
-						"r": "Upp::AiProcessBase::WorkerData& Worker()",
+						"r": "WorkerData& Worker()",
 						"s": "Upp",
 						"u": "WORKER",
 						"q": "Upp::AiProcessBase",
@@ -4278,7 +4825,7 @@
 						"n": "task_lock",
 						"t": "Mutex",
 						"i": "Upp::AiProcessBase::task_lock",
-						"r": "Upp::Mutex task_lock",
+						"r": "Mutex task_lock",
 						"s": "Upp",
 						"u": "TASK_LOCK",
 						"q": "Upp::AiProcessBase",
@@ -4304,7 +4851,7 @@
 						"n": "data_lock",
 						"t": "Mutex",
 						"i": "Upp::AiProcessBase::data_lock",
-						"r": "Upp::Mutex data_lock",
+						"r": "Mutex data_lock",
 						"s": "Upp",
 						"u": "DATA_LOCK",
 						"q": "Upp::AiProcessBase",
@@ -4330,7 +4877,7 @@
 						"n": "time_started",
 						"t": "Time",
 						"i": "Upp::AiProcessBase::time_started",
-						"r": "Upp::Time time_started",
+						"r": "Time time_started",
 						"s": "Upp",
 						"u": "TIME_STARTED",
 						"q": "Upp::AiProcessBase",
@@ -4356,7 +4903,7 @@
 						"n": "time_stopped",
 						"t": "Time",
 						"i": "Upp::AiProcessBase::time_stopped",
-						"r": "Upp::Time time_stopped",
+						"r": "Time time_stopped",
 						"s": "Upp",
 						"u": "TIME_STOPPED",
 						"q": "Upp::AiProcessBase",
@@ -5058,7 +5605,7 @@
 						"n": "CLASSNAME",
 						"t": "Upp::AiProcessBase::CLASSNAME",
 						"i": "Upp::AiProcessBase::CLASSNAME",
-						"r": "typedef Upp::AiProcessBase CLASSNAME",
+						"r": "typedef AiProcessBase CLASSNAME",
 						"s": "Upp",
 						"u": "CLASSNAME",
 						"q": "Upp::AiProcessBase",
@@ -5507,7 +6054,7 @@
 						"n": "CodeProcess",
 						"t": "Upp::CodeProcess",
 						"i": "Upp::CodeProcess",
-						"r": "CodeProcess : public Upp::AiProcessBase",
+						"r": "CodeProcess : public AiProcessBase",
 						"s": "Upp",
 						"u": "CODEPROCESS",
 						"q": "Upp::CodeProcess",
@@ -5530,12 +6077,12 @@
 						"d": true,
 						"iv": false,
 						"is": false,
-						"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/AI/CodeProcess.h:9:2)",
-						"t": "Upp::CodeProcess::(unnamed enum at /home/sblo/ai-upp/uppsrc/AI/CodeProcess.h:9:2)",
-						"i": "Upp::CodeProcess::(unnamed at/home/sblo/ai-upp/uppsrc/AI/CodeProcess.)",
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\AI\\CodeProcess.h:9:2)",
+						"t": "Upp::CodeProcess::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\AI\\CodeProcess.h:9:2)",
+						"i": "Upp::CodeProcess::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\AI\\CodeProcess.)",
 						"r": "enum",
 						"s": "Upp",
-						"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/AI/CODEPROCESS.H:9:2)",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\AI\\CODEPROCESS.H:9:2)",
 						"q": "",
 						"w": "",
 						"y": "",
@@ -5557,7 +6104,7 @@
 						"iv": false,
 						"is": false,
 						"n": "PHASE_COUNT",
-						"t": "Upp::CodeProcess::(unnamed enum at /home/sblo/ai-upp/uppsrc/AI/CodeProcess.h:9:2)",
+						"t": "Upp::CodeProcess::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\AI\\CodeProcess.h:9:2)",
 						"i": "Upp::CodeProcess::PHASE_COUNT",
 						"r": "PHASE_COUNT",
 						"s": "Upp",
@@ -5585,7 +6132,7 @@
 						"n": "CLASSNAME",
 						"t": "Upp::CodeProcess::CLASSNAME",
 						"i": "Upp::CodeProcess::CLASSNAME",
-						"r": "typedef Upp::CodeProcess CLASSNAME",
+						"r": "typedef CodeProcess CLASSNAME",
 						"s": "Upp",
 						"u": "CLASSNAME",
 						"q": "Upp::CodeProcess",
@@ -5741,7 +6288,7 @@
 						"n": "Get",
 						"t": "CodeProcess &(String)",
 						"i": "Upp::CodeProcess::Get(String)",
-						"r": "static Upp::CodeProcess& Get(Upp::String id)",
+						"r": "static CodeProcess& Get(String id)",
 						"s": "Upp",
 						"u": "GET",
 						"q": "Upp::CodeProcess",
@@ -5904,7 +6451,7 @@
 						"n": "error_id",
 						"t": "String",
 						"i": "Upp::CodeVisitor::Item::error_id",
-						"r": "Upp::String error_id",
+						"r": "String error_id",
 						"s": "Upp",
 						"u": "ERROR_ID",
 						"q": "Upp::CodeVisitor::Item",
@@ -5930,7 +6477,7 @@
 						"n": "pos",
 						"t": "Point",
 						"i": "Upp::CodeVisitor::Item::pos",
-						"r": "Upp::Point pos",
+						"r": "Point pos",
 						"s": "Upp",
 						"u": "POS",
 						"q": "Upp::CodeVisitor::Item",
@@ -5956,7 +6503,7 @@
 						"n": "file",
 						"t": "String",
 						"i": "Upp::CodeVisitor::Item::file",
-						"r": "Upp::String file",
+						"r": "String file",
 						"s": "Upp",
 						"u": "FILE",
 						"q": "Upp::CodeVisitor::Item",
@@ -5982,7 +6529,7 @@
 						"n": "operator()",
 						"t": "bool (const Item &, const Item &) const",
 						"i": "Upp::CodeVisitor::Item::operator()(const Item&,const Item&)const",
-						"r": "bool operator()(const Upp::CodeVisitor::Item& a, const Upp::CodeVisitor::Item& b) const",
+						"r": "bool operator()(const Item& a, const Item& b) const",
 						"s": "Upp",
 						"u": "OPERATOR()",
 						"q": "Upp::CodeVisitor::Item",
@@ -6008,7 +6555,7 @@
 						"n": "ToString",
 						"t": "String () const",
 						"i": "Upp::CodeVisitor::Item::ToString()const",
-						"r": "Upp::String ToString() const",
+						"r": "String ToString() const",
 						"s": "Upp",
 						"u": "TOSTRING",
 						"q": "Upp::CodeVisitor::Item",
@@ -6294,7 +6841,7 @@
 						"n": "Visit",
 						"t": "void (const String &, const FileAnnotation &, Point, Point)",
 						"i": "Upp::CodeVisitor::Visit(const String&,const FileAnnotation&,Point,Point)",
-						"r": "void Visit(const Upp::String& filepath, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+						"r": "void Visit(const String& filepath, const FileAnnotation& fa, Point begin, Point end)",
 						"s": "Upp",
 						"u": "VISIT",
 						"q": "Upp::CodeVisitor",
@@ -6320,7 +6867,7 @@
 						"n": "Visit",
 						"t": "void (const String &, const AnnotationItem &)",
 						"i": "Upp::CodeVisitor::Visit(const String&,const AnnotationItem&)",
-						"r": "void Visit(const Upp::String& filepath, const AnnotationItem& ann)",
+						"r": "void Visit(const String& filepath, const AnnotationItem& ann)",
 						"s": "Upp",
 						"u": "VISIT",
 						"q": "Upp::CodeVisitor",
@@ -6346,7 +6893,7 @@
 						"n": "Visit",
 						"t": "void (const String &, const ReferenceItem &)",
 						"i": "Upp::CodeVisitor::Visit(const String&,const ReferenceItem&)",
-						"r": "void Visit(const Upp::String& filepath, const ReferenceItem& ref)",
+						"r": "void Visit(const String& filepath, const ReferenceItem& ref)",
 						"s": "Upp",
 						"u": "VISIT",
 						"q": "Upp::CodeVisitor",
@@ -6372,7 +6919,7 @@
 						"n": "VisitId",
 						"t": "void (const String &, const String &)",
 						"i": "Upp::CodeVisitor::VisitId(const String&,const String&)",
-						"r": "void VisitId(const Upp::String& filepath, const Upp::String& id)",
+						"r": "void VisitId(const String& filepath, const String& id)",
 						"s": "Upp",
 						"u": "VISITID",
 						"q": "Upp::CodeVisitor",
@@ -6398,7 +6945,7 @@
 						"n": "LoadPath",
 						"t": "const String &(String)",
 						"i": "Upp::CodeVisitor::LoadPath(String)",
-						"r": "const Upp::String& LoadPath(Upp::String path)",
+						"r": "const String& LoadPath(String path)",
 						"s": "Upp",
 						"u": "LOADPATH",
 						"q": "Upp::CodeVisitor",
@@ -6509,7 +7056,7 @@
 						"n": "AICodeCtrl",
 						"t": "Upp::AICodeCtrl",
 						"i": "Upp::AICodeCtrl",
-						"r": "AICodeCtrl : Upp::ParentCtrl",
+						"r": "AICodeCtrl : ParentCtrl",
 						"s": "Upp",
 						"u": "AICODECTRL",
 						"q": "Upp::AICodeCtrl",
@@ -6519,12 +7066,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "10ddf4753d17e23adee84e332f1da7a717964f0b"
-							},
 							{
 								"items": [
 
@@ -6567,7 +7108,7 @@
 						"n": "hsplit",
 						"t": "Splitter",
 						"i": "Upp::AICodeCtrl::hsplit",
-						"r": "Upp::Splitter hsplit",
+						"r": "Splitter hsplit",
 						"s": "Upp",
 						"u": "HSPLIT",
 						"q": "Upp::AICodeCtrl",
@@ -6593,7 +7134,7 @@
 						"n": "rsplit",
 						"t": "Splitter",
 						"i": "Upp::AICodeCtrl::rsplit",
-						"r": "Upp::Splitter rsplit",
+						"r": "Splitter rsplit",
 						"s": "Upp",
 						"u": "RSPLIT",
 						"q": "Upp::AICodeCtrl",
@@ -6619,7 +7160,7 @@
 						"n": "editor",
 						"t": "CodeEditor",
 						"i": "Upp::AICodeCtrl::editor",
-						"r": "Upp::CodeEditor editor",
+						"r": "CodeEditor editor",
 						"s": "Upp",
 						"u": "EDITOR",
 						"q": "Upp::AICodeCtrl",
@@ -6645,7 +7186,7 @@
 						"n": "cursorinfo",
 						"t": "ArrayCtrl",
 						"i": "Upp::AICodeCtrl::cursorinfo",
-						"r": "Upp::ArrayCtrl cursorinfo",
+						"r": "ArrayCtrl cursorinfo",
 						"s": "Upp",
 						"u": "CURSORINFO",
 						"q": "Upp::AICodeCtrl",
@@ -6671,7 +7212,7 @@
 						"n": "depthfirst",
 						"t": "ArrayCtrl",
 						"i": "Upp::AICodeCtrl::depthfirst",
-						"r": "Upp::ArrayCtrl depthfirst",
+						"r": "ArrayCtrl depthfirst",
 						"s": "Upp",
 						"u": "DEPTHFIRST",
 						"q": "Upp::AICodeCtrl",
@@ -6697,7 +7238,7 @@
 						"n": "filepath",
 						"t": "String",
 						"i": "Upp::AICodeCtrl::filepath",
-						"r": "Upp::String filepath",
+						"r": "String filepath",
 						"s": "Upp",
 						"u": "FILEPATH",
 						"q": "Upp::AICodeCtrl",
@@ -6723,7 +7264,7 @@
 						"n": "includes",
 						"t": "String",
 						"i": "Upp::AICodeCtrl::includes",
-						"r": "Upp::String includes",
+						"r": "String includes",
 						"s": "Upp",
 						"u": "INCLUDES",
 						"q": "Upp::AICodeCtrl",
@@ -6749,7 +7290,7 @@
 						"n": "aion_path",
 						"t": "String",
 						"i": "Upp::AICodeCtrl::aion_path",
-						"r": "Upp::String aion_path",
+						"r": "String aion_path",
 						"s": "Upp",
 						"u": "AION_PATH",
 						"q": "Upp::AICodeCtrl",
@@ -6801,7 +7342,7 @@
 						"n": "fnt",
 						"t": "Font",
 						"i": "Upp::AICodeCtrl::fnt",
-						"r": "Upp::Font fnt",
+						"r": "Font fnt",
 						"s": "Upp",
 						"u": "FNT",
 						"q": "Upp::AICodeCtrl",
@@ -6827,7 +7368,7 @@
 						"n": "content",
 						"t": "String",
 						"i": "Upp::AICodeCtrl::content",
-						"r": "Upp::String content",
+						"r": "String content",
 						"s": "Upp",
 						"u": "CONTENT",
 						"q": "Upp::AICodeCtrl",
@@ -6842,32 +7383,6 @@
 
 								],
 								"h": "ce57f282b0a24c1ef5ba0ece337127a0b093d819"
-							}
-						]
-					},
-					{
-						"k": 6,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "hash_sha1",
-						"t": "String",
-						"i": "Upp::AICodeCtrl::hash_sha1",
-						"r": "Upp::String hash_sha1",
-						"s": "Upp",
-						"u": "HASH_SHA1",
-						"q": "Upp::AICodeCtrl",
-						"w": "UPP::AICODECTRL",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "23a3ccc1e20b7388e551830618efe7fadd75426b"
 							}
 						]
 					},
@@ -6905,7 +7420,7 @@
 						"n": "sel_ann_f",
 						"t": "SourceRange *",
 						"i": "Upp::AICodeCtrl::sel_ann_f",
-						"r": "Upp::AICodeCtrl::SourceRange *sel_ann_f",
+						"r": "SourceRange *sel_ann_f",
 						"s": "Upp",
 						"u": "SEL_ANN_F",
 						"q": "Upp::AICodeCtrl",
@@ -6931,7 +7446,7 @@
 						"n": "sel_ann",
 						"t": "AiAnnotationItem *",
 						"i": "Upp::AICodeCtrl::sel_ann",
-						"r": "Upp::AiAnnotationItem *sel_ann",
+						"r": "AiAnnotationItem *sel_ann",
 						"s": "Upp",
 						"u": "SEL_ANN",
 						"q": "Upp::AICodeCtrl",
@@ -6957,7 +7472,7 @@
 						"n": "sel_f",
 						"t": "AiFileInfo *",
 						"i": "Upp::AICodeCtrl::sel_f",
-						"r": "Upp::AiFileInfo *sel_f",
+						"r": "AiFileInfo *sel_f",
 						"s": "Upp",
 						"u": "SEL_F",
 						"q": "Upp::AICodeCtrl",
@@ -6983,7 +7498,7 @@
 						"n": "clr_sel",
 						"t": "Color",
 						"i": "Upp::AICodeCtrl::clr_sel",
-						"r": "Upp::Color clr_sel",
+						"r": "Color clr_sel",
 						"s": "Upp",
 						"u": "CLR_SEL",
 						"q": "Upp::AICodeCtrl",
@@ -7009,7 +7524,7 @@
 						"n": "clr_ann",
 						"t": "Color",
 						"i": "Upp::AICodeCtrl::clr_ann",
-						"r": "Upp::Color clr_ann",
+						"r": "Color clr_ann",
 						"s": "Upp",
 						"u": "CLR_ANN",
 						"q": "Upp::AICodeCtrl",
@@ -7035,7 +7550,7 @@
 						"n": "charset",
 						"t": "byte",
 						"i": "Upp::AICodeCtrl::charset",
-						"r": "Upp::byte charset",
+						"r": "byte charset",
 						"s": "Upp",
 						"u": "CHARSET",
 						"q": "Upp::AICodeCtrl",
@@ -7139,7 +7654,7 @@
 						"n": "args",
 						"t": "CodeArgs",
 						"i": "Upp::AICodeCtrl::args",
-						"r": "Upp::CodeArgs args",
+						"r": "CodeArgs args",
 						"s": "Upp",
 						"u": "ARGS",
 						"q": "Upp::AICodeCtrl",
@@ -7191,7 +7706,7 @@
 						"n": "CLASSNAME",
 						"t": "Upp::AICodeCtrl::CLASSNAME",
 						"i": "Upp::AICodeCtrl::CLASSNAME",
-						"r": "typedef Upp::AICodeCtrl CLASSNAME",
+						"r": "typedef AICodeCtrl CLASSNAME",
 						"s": "Upp",
 						"u": "CLASSNAME",
 						"q": "Upp::AICodeCtrl",
@@ -7243,7 +7758,7 @@
 						"n": "SetFont",
 						"t": "void (Font)",
 						"i": "Upp::AICodeCtrl::SetFont(Font)",
-						"r": "void SetFont(Upp::Font fnt)",
+						"r": "void SetFont(Font fnt)",
 						"s": "Upp",
 						"u": "SETFONT",
 						"q": "Upp::AICodeCtrl",
@@ -7269,7 +7784,7 @@
 						"n": "Load",
 						"t": "void (const String &, String, Stream &, byte)",
 						"i": "Upp::AICodeCtrl::Load(const String&,String,Stream&,byte)",
-						"r": "void Load(const Upp::String& includes, Upp::String filename, Upp::Stream& str, Upp::byte charset)",
+						"r": "void Load(const String& includes, String filename, Stream& str, byte charset)",
 						"s": "Upp",
 						"u": "LOAD",
 						"q": "Upp::AICodeCtrl",
@@ -7295,7 +7810,7 @@
 						"n": "Save",
 						"t": "void (Stream &, byte)",
 						"i": "Upp::AICodeCtrl::Save(Stream&,byte)",
-						"r": "void Save(Upp::Stream& str, Upp::byte charset)",
+						"r": "void Save(Stream& str, byte charset)",
 						"s": "Upp",
 						"u": "SAVE",
 						"q": "Upp::AICodeCtrl",
@@ -7321,7 +7836,7 @@
 						"n": "SetEditPos",
 						"t": "void (LineEdit::EditPos)",
 						"i": "Upp::AICodeCtrl::SetEditPos(LineEdit::EditPos)",
-						"r": "void SetEditPos(Upp::TextCtrl::EditPos pos)",
+						"r": "void SetEditPos(LineEdit::EditPos pos)",
 						"s": "Upp",
 						"u": "SETEDITPOS",
 						"q": "Upp::AICodeCtrl",
@@ -7347,7 +7862,7 @@
 						"n": "SetPickUndoData",
 						"t": "void (LineEdit::UndoData)",
 						"i": "Upp::AICodeCtrl::SetPickUndoData(LineEdit::UndoData)",
-						"r": "void SetPickUndoData(Upp::TextCtrl::UndoData pos)",
+						"r": "void SetPickUndoData(LineEdit::UndoData pos)",
 						"s": "Upp",
 						"u": "SETPICKUNDODATA",
 						"q": "Upp::AICodeCtrl",
@@ -7373,7 +7888,7 @@
 						"n": "PickUndoData",
 						"t": "LineEdit::UndoData ()",
 						"i": "Upp::AICodeCtrl::PickUndoData()",
-						"r": "Upp::TextCtrl::UndoData PickUndoData()",
+						"r": "LineEdit::UndoData PickUndoData()",
 						"s": "Upp",
 						"u": "PICKUNDODATA",
 						"q": "Upp::AICodeCtrl",
@@ -7399,7 +7914,7 @@
 						"n": "GetEditPos",
 						"t": "LineEdit::EditPos ()",
 						"i": "Upp::AICodeCtrl::GetEditPos()",
-						"r": "Upp::TextCtrl::EditPos GetEditPos()",
+						"r": "LineEdit::EditPos GetEditPos()",
 						"s": "Upp",
 						"u": "GETEDITPOS",
 						"q": "Upp::AICodeCtrl",
@@ -7503,7 +8018,7 @@
 						"n": "ContextMenu",
 						"t": "void (Bar &)",
 						"i": "Upp::AICodeCtrl::ContextMenu(Bar&)",
-						"r": "void ContextMenu(Upp::Bar& bar)",
+						"r": "void ContextMenu(Bar& bar)",
 						"s": "Upp",
 						"u": "CONTEXTMENU",
 						"q": "Upp::AICodeCtrl",
@@ -7770,7 +8285,7 @@
 						"n": "AIProjectCtrl",
 						"t": "Upp::AIProjectCtrl",
 						"i": "Upp::AIProjectCtrl",
-						"r": "AIProjectCtrl : Upp::Ctrl",
+						"r": "AIProjectCtrl : Ctrl",
 						"s": "Upp",
 						"u": "AIPROJECTCTRL",
 						"q": "Upp::AIProjectCtrl",
@@ -7855,7 +8370,7 @@
 						"n": "title_format_str",
 						"t": "String",
 						"i": "Upp::TaskTitledList::title_format_str",
-						"r": "Upp::String title_format_str",
+						"r": "String title_format_str",
 						"s": "Upp",
 						"u": "TITLE_FORMAT_STR",
 						"q": "Upp::TaskTitledList",
@@ -7881,7 +8396,7 @@
 						"n": "title_value",
 						"t": "String",
 						"i": "Upp::TaskTitledList::title_value",
-						"r": "Upp::String title_value",
+						"r": "String title_value",
 						"s": "Upp",
 						"u": "TITLE_VALUE",
 						"q": "Upp::TaskTitledList",
@@ -7933,7 +8448,7 @@
 						"n": "separator",
 						"t": "String",
 						"i": "Upp::TaskTitledList::separator",
-						"r": "Upp::String separator",
+						"r": "String separator",
 						"s": "Upp",
 						"u": "SEPARATOR",
 						"q": "Upp::TaskTitledList",
@@ -7959,7 +8474,7 @@
 						"n": "line_str",
 						"t": "String",
 						"i": "Upp::TaskTitledList::line_str",
-						"r": "Upp::String line_str",
+						"r": "String line_str",
 						"s": "Upp",
 						"u": "LINE_STR",
 						"q": "Upp::TaskTitledList",
@@ -7985,7 +8500,7 @@
 						"n": "empty_line_string",
 						"t": "String",
 						"i": "Upp::TaskTitledList::empty_line_string",
-						"r": "Upp::String empty_line_string",
+						"r": "String empty_line_string",
 						"s": "Upp",
 						"u": "EMPTY_LINE_STRING",
 						"q": "Upp::TaskTitledList",
@@ -8557,7 +9072,7 @@
 						"n": "Title",
 						"t": "TaskTitledList &(String, String)",
 						"i": "Upp::TaskTitledList::Title(String,String)",
-						"r": "Upp::TaskTitledList& Title(Upp::String title_fmt, Upp::String value = Upp::String())",
+						"r": "TaskTitledList& Title(String title_fmt, String value = String())",
 						"s": "Upp",
 						"u": "TITLE",
 						"q": "Upp::TaskTitledList",
@@ -8583,7 +9098,7 @@
 						"n": "FormatArg",
 						"t": "TaskTitledList &(String)",
 						"i": "Upp::TaskTitledList::FormatArg(String)",
-						"r": "Upp::TaskTitledList& FormatArg(Upp::String s)",
+						"r": "TaskTitledList& FormatArg(String s)",
 						"s": "Upp",
 						"u": "FORMATARG",
 						"q": "Upp::TaskTitledList",
@@ -8609,7 +9124,7 @@
 						"n": "Add",
 						"t": "TaskTitledList &(String)",
 						"i": "Upp::TaskTitledList::Add(String)",
-						"r": "Upp::TaskTitledList& Add(Upp::String s)",
+						"r": "TaskTitledList& Add(String s)",
 						"s": "Upp",
 						"u": "ADD",
 						"q": "Upp::TaskTitledList",
@@ -8635,7 +9150,7 @@
 						"n": "Add",
 						"t": "TaskTitledList &(String, String)",
 						"i": "Upp::TaskTitledList::Add(String,String)",
-						"r": "Upp::TaskTitledList& Add(Upp::String key, Upp::String value)",
+						"r": "TaskTitledList& Add(String key, String value)",
 						"s": "Upp",
 						"u": "ADD",
 						"q": "Upp::TaskTitledList",
@@ -8661,7 +9176,7 @@
 						"n": "Add",
 						"t": "TaskTitledList &(String, int)",
 						"i": "Upp::TaskTitledList::Add(String,int)",
-						"r": "Upp::TaskTitledList& Add(Upp::String key, int value)",
+						"r": "TaskTitledList& Add(String key, int value)",
 						"s": "Upp",
 						"u": "ADD",
 						"q": "Upp::TaskTitledList",
@@ -8687,7 +9202,7 @@
 						"n": "NoColon",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::NoColon(bool)",
-						"r": "Upp::TaskTitledList& NoColon(bool b = true)",
+						"r": "TaskTitledList& NoColon(bool b = true)",
 						"s": "Upp",
 						"u": "NOCOLON",
 						"q": "Upp::TaskTitledList",
@@ -8713,7 +9228,7 @@
 						"n": "NoListChar",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::NoListChar(bool)",
-						"r": "Upp::TaskTitledList& NoListChar(bool b = true)",
+						"r": "TaskTitledList& NoListChar(bool b = true)",
 						"s": "Upp",
 						"u": "NOLISTCHAR",
 						"q": "Upp::TaskTitledList",
@@ -8739,7 +9254,7 @@
 						"n": "TitleInQuotes",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::TitleInQuotes(bool)",
-						"r": "Upp::TaskTitledList& TitleInQuotes(bool b = true)",
+						"r": "TaskTitledList& TitleInQuotes(bool b = true)",
 						"s": "Upp",
 						"u": "TITLEINQUOTES",
 						"q": "Upp::TaskTitledList",
@@ -8765,7 +9280,7 @@
 						"n": "ValueInQuotes",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::ValueInQuotes(bool)",
-						"r": "Upp::TaskTitledList& ValueInQuotes(bool b = true)",
+						"r": "TaskTitledList& ValueInQuotes(bool b = true)",
 						"s": "Upp",
 						"u": "VALUEINQUOTES",
 						"q": "Upp::TaskTitledList",
@@ -8791,7 +9306,7 @@
 						"n": "CountSub",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::CountSub(bool)",
-						"r": "Upp::TaskTitledList& CountSub(bool b = true)",
+						"r": "TaskTitledList& CountSub(bool b = true)",
 						"s": "Upp",
 						"u": "COUNTSUB",
 						"q": "Upp::TaskTitledList",
@@ -8817,7 +9332,7 @@
 						"n": "CountLines",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::CountLines(bool)",
-						"r": "Upp::TaskTitledList& CountLines(bool b = true)",
+						"r": "TaskTitledList& CountLines(bool b = true)",
 						"s": "Upp",
 						"u": "COUNTLINES",
 						"q": "Upp::TaskTitledList",
@@ -8843,7 +9358,7 @@
 						"n": "CountLinesAlpha",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::CountLinesAlpha(bool)",
-						"r": "Upp::TaskTitledList& CountLinesAlpha(bool b = true)",
+						"r": "TaskTitledList& CountLinesAlpha(bool b = true)",
 						"s": "Upp",
 						"u": "COUNTLINESALPHA",
 						"q": "Upp::TaskTitledList",
@@ -8869,7 +9384,7 @@
 						"n": "CountLines",
 						"t": "TaskTitledList &(String, bool)",
 						"i": "Upp::TaskTitledList::CountLines(String,bool)",
-						"r": "Upp::TaskTitledList& CountLines(Upp::String line_str, bool b = true)",
+						"r": "TaskTitledList& CountLines(String line_str, bool b = true)",
 						"s": "Upp",
 						"u": "COUNTLINES",
 						"q": "Upp::TaskTitledList",
@@ -8895,7 +9410,7 @@
 						"n": "InlineList",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::InlineList(bool)",
-						"r": "Upp::TaskTitledList& InlineList(bool b = true)",
+						"r": "TaskTitledList& InlineList(bool b = true)",
 						"s": "Upp",
 						"u": "INLINELIST",
 						"q": "Upp::TaskTitledList",
@@ -8921,7 +9436,7 @@
 						"n": "NoSeparator",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::NoSeparator(bool)",
-						"r": "Upp::TaskTitledList& NoSeparator(bool b = true)",
+						"r": "TaskTitledList& NoSeparator(bool b = true)",
 						"s": "Upp",
 						"u": "NOSEPARATOR",
 						"q": "Upp::TaskTitledList",
@@ -8947,7 +9462,7 @@
 						"n": "CombinationString",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::CombinationString(bool)",
-						"r": "Upp::TaskTitledList& CombinationString(bool b = true)",
+						"r": "TaskTitledList& CombinationString(bool b = true)",
 						"s": "Upp",
 						"u": "COMBINATIONSTRING",
 						"q": "Upp::TaskTitledList",
@@ -8973,7 +9488,7 @@
 						"n": "EmptyLine",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::EmptyLine(bool)",
-						"r": "Upp::TaskTitledList& EmptyLine(bool b = true)",
+						"r": "TaskTitledList& EmptyLine(bool b = true)",
 						"s": "Upp",
 						"u": "EMPTYLINE",
 						"q": "Upp::TaskTitledList",
@@ -8999,7 +9514,7 @@
 						"n": "Capitalize",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::Capitalize(bool)",
-						"r": "Upp::TaskTitledList& Capitalize(bool b = true)",
+						"r": "TaskTitledList& Capitalize(bool b = true)",
 						"s": "Upp",
 						"u": "CAPITALIZE",
 						"q": "Upp::TaskTitledList",
@@ -9025,7 +9540,7 @@
 						"n": "AddSub",
 						"t": "TaskTitledList &()",
 						"i": "Upp::TaskTitledList::AddSub()",
-						"r": "Upp::TaskTitledList& AddSub()",
+						"r": "TaskTitledList& AddSub()",
 						"s": "Upp",
 						"u": "ADDSUB",
 						"q": "Upp::TaskTitledList",
@@ -9051,7 +9566,7 @@
 						"n": "Arg",
 						"t": "TaskTitledList &(String)",
 						"i": "Upp::TaskTitledList::Arg(String)",
-						"r": "Upp::TaskTitledList& Arg(Upp::String s)",
+						"r": "TaskTitledList& Arg(String s)",
 						"s": "Upp",
 						"u": "ARG",
 						"q": "Upp::TaskTitledList",
@@ -9077,7 +9592,7 @@
 						"n": "Separator",
 						"t": "TaskTitledList &(String)",
 						"i": "Upp::TaskTitledList::Separator(String)",
-						"r": "Upp::TaskTitledList& Separator(Upp::String s)",
+						"r": "TaskTitledList& Separator(String s)",
 						"s": "Upp",
 						"u": "SEPARATOR",
 						"q": "Upp::TaskTitledList",
@@ -9103,7 +9618,7 @@
 						"n": "LineBegin",
 						"t": "TaskTitledList &(int)",
 						"i": "Upp::TaskTitledList::LineBegin(int)",
-						"r": "Upp::TaskTitledList& LineBegin(int line_begin)",
+						"r": "TaskTitledList& LineBegin(int line_begin)",
 						"s": "Upp",
 						"u": "LINEBEGIN",
 						"q": "Upp::TaskTitledList",
@@ -9129,7 +9644,7 @@
 						"n": "NumberedLines",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::NumberedLines(bool)",
-						"r": "Upp::TaskTitledList& NumberedLines(bool b = true)",
+						"r": "TaskTitledList& NumberedLines(bool b = true)",
 						"s": "Upp",
 						"u": "NUMBEREDLINES",
 						"q": "Upp::TaskTitledList",
@@ -9155,7 +9670,7 @@
 						"n": "NoNumberedLinesSpace",
 						"t": "TaskTitledList &(bool)",
 						"i": "Upp::TaskTitledList::NoNumberedLinesSpace(bool)",
-						"r": "Upp::TaskTitledList& NoNumberedLinesSpace(bool b = true)",
+						"r": "TaskTitledList& NoNumberedLinesSpace(bool b = true)",
 						"s": "Upp",
 						"u": "NONUMBEREDLINESSPACE",
 						"q": "Upp::TaskTitledList",
@@ -9181,7 +9696,7 @@
 						"n": "EmptyLineString",
 						"t": "TaskTitledList &(String)",
 						"i": "Upp::TaskTitledList::EmptyLineString(String)",
-						"r": "Upp::TaskTitledList& EmptyLineString(Upp::String s)",
+						"r": "TaskTitledList& EmptyLineString(String s)",
 						"s": "Upp",
 						"u": "EMPTYLINESTRING",
 						"q": "Upp::TaskTitledList",
@@ -9207,7 +9722,7 @@
 						"n": "AsString",
 						"t": "String () const",
 						"i": "Upp::TaskTitledList::AsString()const",
-						"r": "Upp::String AsString() const",
+						"r": "String AsString() const",
 						"s": "Upp",
 						"u": "ASSTRING",
 						"q": "Upp::TaskTitledList",
@@ -9233,7 +9748,7 @@
 						"n": "GetTreeString",
 						"t": "String (int) const",
 						"i": "Upp::TaskTitledList::GetTreeString(int)const",
-						"r": "Upp::String GetTreeString(int indent) const",
+						"r": "String GetTreeString(int indent) const",
 						"s": "Upp",
 						"u": "GETTREESTRING",
 						"q": "Upp::TaskTitledList",
@@ -9259,7 +9774,7 @@
 						"n": "operator[]",
 						"t": "TaskTitledList &(int)",
 						"i": "Upp::TaskTitledList::operator[](int)",
-						"r": "Upp::TaskTitledList& operator[](int i)",
+						"r": "TaskTitledList& operator[](int i)",
 						"s": "Upp",
 						"u": "OPERATOR[]",
 						"q": "Upp::TaskTitledList",
@@ -9285,7 +9800,7 @@
 						"n": "operator[]",
 						"t": "const TaskTitledList &(int) const",
 						"i": "Upp::TaskTitledList::operator[](int)const",
-						"r": "const Upp::TaskTitledList& operator[](int i) const",
+						"r": "const TaskTitledList& operator[](int i) const",
 						"s": "Upp",
 						"u": "OPERATOR[]",
 						"q": "Upp::TaskTitledList",
@@ -9311,7 +9826,7 @@
 						"n": "LineBegin",
 						"t": "void (int, String &) const",
 						"i": "Upp::TaskTitledList::LineBegin(int,String&)const",
-						"r": "void LineBegin(int i, Upp::String& s) const",
+						"r": "void LineBegin(int i, String& s) const",
 						"s": "Upp",
 						"u": "LINEBEGIN",
 						"q": "Upp::TaskTitledList",
@@ -9467,7 +9982,7 @@
 						"n": "PreAnswer",
 						"t": "TaskTitledList &()",
 						"i": "Upp::AiPrompt::PreAnswer()",
-						"r": "Upp::TaskTitledList& PreAnswer()",
+						"r": "TaskTitledList& PreAnswer()",
 						"s": "Upp",
 						"u": "PREANSWER",
 						"q": "Upp::AiPrompt",
@@ -9493,7 +10008,7 @@
 						"n": "AddSub",
 						"t": "TaskTitledList &()",
 						"i": "Upp::AiPrompt::AddSub()",
-						"r": "Upp::TaskTitledList& AddSub()",
+						"r": "TaskTitledList& AddSub()",
 						"s": "Upp",
 						"u": "ADDSUB",
 						"q": "Upp::AiPrompt",
@@ -9545,7 +10060,7 @@
 						"n": "AsString",
 						"t": "String () const",
 						"i": "Upp::AiPrompt::AsString()const",
-						"r": "Upp::String AsString() const",
+						"r": "String AsString() const",
 						"s": "Upp",
 						"u": "ASSTRING",
 						"q": "Upp::AiPrompt",
@@ -9571,7 +10086,7 @@
 						"n": "GetTreeString",
 						"t": "String () const",
 						"i": "Upp::AiPrompt::GetTreeString()const",
-						"r": "Upp::String GetTreeString() const",
+						"r": "String GetTreeString() const",
 						"s": "Upp",
 						"u": "GETTREESTRING",
 						"q": "Upp::AiPrompt",
@@ -9623,7 +10138,7 @@
 						"n": "operator[]",
 						"t": "TaskTitledList &(int)",
 						"i": "Upp::AiPrompt::operator[](int)",
-						"r": "Upp::TaskTitledList& operator[](int i)",
+						"r": "TaskTitledList& operator[](int i)",
 						"s": "Upp",
 						"u": "OPERATOR[]",
 						"q": "Upp::AiPrompt",
@@ -9649,7 +10164,7 @@
 						"n": "operator[]",
 						"t": "const TaskTitledList &(int) const",
 						"i": "Upp::AiPrompt::operator[](int)const",
-						"r": "const Upp::TaskTitledList& operator[](int i) const",
+						"r": "const TaskTitledList& operator[](int i) const",
 						"s": "Upp",
 						"u": "OPERATOR[]",
 						"q": "Upp::AiPrompt",
@@ -9786,7 +10301,7 @@
 						"n": "content",
 						"t": "String",
 						"i": "Upp::OpenAiResponse::Msg::content",
-						"r": "Upp::String content",
+						"r": "String content",
 						"s": "Upp",
 						"u": "CONTENT",
 						"q": "Upp::OpenAiResponse::Msg",
@@ -9812,7 +10327,7 @@
 						"n": "role",
 						"t": "String",
 						"i": "Upp::OpenAiResponse::Msg::role",
-						"r": "Upp::String role",
+						"r": "String role",
 						"s": "Upp",
 						"u": "ROLE",
 						"q": "Upp::OpenAiResponse::Msg",
@@ -9838,7 +10353,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::OpenAiResponse::Msg::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::OpenAiResponse::Msg",
@@ -9864,7 +10379,7 @@
 						"n": "ToString",
 						"t": "String () const",
 						"i": "Upp::OpenAiResponse::Msg::ToString()const",
-						"r": "Upp::String ToString() const",
+						"r": "String ToString() const",
 						"s": "Upp",
 						"u": "TOSTRING",
 						"q": "Upp::OpenAiResponse::Msg",
@@ -9916,7 +10431,7 @@
 						"n": "text",
 						"t": "String",
 						"i": "Upp::OpenAiResponse::Choice::text",
-						"r": "Upp::String text",
+						"r": "String text",
 						"s": "Upp",
 						"u": "TEXT",
 						"q": "Upp::OpenAiResponse::Choice",
@@ -9942,7 +10457,7 @@
 						"n": "finish_reason",
 						"t": "String",
 						"i": "Upp::OpenAiResponse::Choice::finish_reason",
-						"r": "Upp::String finish_reason",
+						"r": "String finish_reason",
 						"s": "Upp",
 						"u": "FINISH_REASON",
 						"q": "Upp::OpenAiResponse::Choice",
@@ -10020,7 +10535,7 @@
 						"n": "message",
 						"t": "Msg",
 						"i": "Upp::OpenAiResponse::Choice::message",
-						"r": "Upp::OpenAiResponse::Msg message",
+						"r": "Msg message",
 						"s": "Upp",
 						"u": "MESSAGE",
 						"q": "Upp::OpenAiResponse::Choice",
@@ -10046,7 +10561,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::OpenAiResponse::Choice::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::OpenAiResponse::Choice",
@@ -10072,7 +10587,7 @@
 						"n": "ToString",
 						"t": "String () const",
 						"i": "Upp::OpenAiResponse::Choice::ToString()const",
-						"r": "Upp::String ToString() const",
+						"r": "String ToString() const",
 						"s": "Upp",
 						"u": "TOSTRING",
 						"q": "Upp::OpenAiResponse::Choice",
@@ -10098,7 +10613,7 @@
 						"n": "GetText",
 						"t": "String () const",
 						"i": "Upp::OpenAiResponse::Choice::GetText()const",
-						"r": "Upp::String GetText() const",
+						"r": "String GetText() const",
 						"s": "Upp",
 						"u": "GETTEXT",
 						"q": "Upp::OpenAiResponse::Choice",
@@ -10228,7 +10743,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::OpenAiResponse::Usage::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::OpenAiResponse::Usage",
@@ -10254,7 +10769,7 @@
 						"n": "ToString",
 						"t": "String () const",
 						"i": "Upp::OpenAiResponse::Usage::ToString()const",
-						"r": "Upp::String ToString() const",
+						"r": "String ToString() const",
 						"s": "Upp",
 						"u": "TOSTRING",
 						"q": "Upp::OpenAiResponse::Usage",
@@ -10306,7 +10821,7 @@
 						"n": "id",
 						"t": "String",
 						"i": "Upp::OpenAiResponse::id",
-						"r": "Upp::String id",
+						"r": "String id",
 						"s": "Upp",
 						"u": "ID",
 						"q": "Upp::OpenAiResponse",
@@ -10332,7 +10847,7 @@
 						"n": "model",
 						"t": "String",
 						"i": "Upp::OpenAiResponse::model",
-						"r": "Upp::String model",
+						"r": "String model",
 						"s": "Upp",
 						"u": "MODEL",
 						"q": "Upp::OpenAiResponse",
@@ -10358,7 +10873,7 @@
 						"n": "object",
 						"t": "String",
 						"i": "Upp::OpenAiResponse::object",
-						"r": "Upp::String object",
+						"r": "String object",
 						"s": "Upp",
 						"u": "OBJECT",
 						"q": "Upp::OpenAiResponse",
@@ -10384,7 +10899,7 @@
 						"n": "usage",
 						"t": "Usage",
 						"i": "Upp::OpenAiResponse::usage",
-						"r": "Upp::OpenAiResponse::Usage usage",
+						"r": "Usage usage",
 						"s": "Upp",
 						"u": "USAGE",
 						"q": "Upp::OpenAiResponse",
@@ -10410,7 +10925,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::OpenAiResponse::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::OpenAiResponse",
@@ -10436,7 +10951,7 @@
 						"n": "ToString",
 						"t": "String () const",
 						"i": "Upp::OpenAiResponse::ToString()const",
-						"r": "Upp::String ToString() const",
+						"r": "String ToString() const",
 						"s": "Upp",
 						"u": "TOSTRING",
 						"q": "Upp::OpenAiResponse",
@@ -10514,7 +11029,7 @@
 						"n": "b64_json",
 						"t": "String",
 						"i": "Upp::DalleResponse::Data::b64_json",
-						"r": "Upp::String b64_json",
+						"r": "String b64_json",
 						"s": "Upp",
 						"u": "B64_JSON",
 						"q": "Upp::DalleResponse::Data",
@@ -10540,7 +11055,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::DalleResponse::Data::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::DalleResponse::Data",
@@ -10566,7 +11081,7 @@
 						"n": "ToString",
 						"t": "String () const",
 						"i": "Upp::DalleResponse::Data::ToString()const",
-						"r": "Upp::String ToString() const",
+						"r": "String ToString() const",
 						"s": "Upp",
 						"u": "TOSTRING",
 						"q": "Upp::DalleResponse::Data",
@@ -10592,7 +11107,7 @@
 						"n": "created",
 						"t": "int64",
 						"i": "Upp::DalleResponse::created",
-						"r": "Upp::int64 created",
+						"r": "int64 created",
 						"s": "Upp",
 						"u": "CREATED",
 						"q": "Upp::DalleResponse",
@@ -10644,7 +11159,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::DalleResponse::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::DalleResponse",
@@ -10670,7 +11185,7 @@
 						"n": "ToString",
 						"t": "String () const",
 						"i": "Upp::DalleResponse::ToString()const",
-						"r": "Upp::String ToString() const",
+						"r": "String ToString() const",
 						"s": "Upp",
 						"u": "TOSTRING",
 						"q": "Upp::DalleResponse",
@@ -10748,7 +11263,7 @@
 						"n": "name",
 						"t": "String",
 						"i": "Upp::TaskRule::name",
-						"r": "Upp::String name",
+						"r": "String name",
 						"s": "Upp",
 						"u": "NAME",
 						"q": "Upp::TaskRule",
@@ -11086,7 +11601,7 @@
 						"n": "SetRule",
 						"t": "TaskRule &(const String &)",
 						"i": "Upp::TaskRule::SetRule(const String&)",
-						"r": "Upp::TaskRule& SetRule(const Upp::String& name)",
+						"r": "TaskRule& SetRule(const String& name)",
 						"s": "Upp",
 						"u": "SETRULE",
 						"q": "Upp::TaskRule",
@@ -11112,7 +11627,7 @@
 						"n": "Input",
 						"t": "TaskRule &(void (Upp::AiTask::*)())",
 						"i": "Upp::TaskRule::Input(void(Upp::AiTask::*)())",
-						"r": "Upp::TaskRule& Input(void (AiTask::*fn)())",
+						"r": "TaskRule& Input(void (AiTask::*fn)())",
 						"s": "Upp",
 						"u": "INPUT",
 						"q": "Upp::TaskRule",
@@ -11138,7 +11653,7 @@
 						"n": "Process",
 						"t": "TaskRule &(void (Upp::AiTask::*)())",
 						"i": "Upp::TaskRule::Process(void(Upp::AiTask::*)())",
-						"r": "Upp::TaskRule& Process(void (AiTask::*fn)())",
+						"r": "TaskRule& Process(void (AiTask::*fn)())",
 						"s": "Upp",
 						"u": "PROCESS",
 						"q": "Upp::TaskRule",
@@ -11164,7 +11679,7 @@
 						"n": "Spawnable",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::Spawnable(bool)",
-						"r": "Upp::TaskRule& Spawnable(bool b = true)",
+						"r": "TaskRule& Spawnable(bool b = true)",
 						"s": "Upp",
 						"u": "SPAWNABLE",
 						"q": "Upp::TaskRule",
@@ -11190,7 +11705,7 @@
 						"n": "MultiSpawnable",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::MultiSpawnable(bool)",
-						"r": "Upp::TaskRule& MultiSpawnable(bool b = true)",
+						"r": "TaskRule& MultiSpawnable(bool b = true)",
 						"s": "Upp",
 						"u": "MULTISPAWNABLE",
 						"q": "Upp::TaskRule",
@@ -11216,7 +11731,7 @@
 						"n": "CrossMode",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::CrossMode(bool)",
-						"r": "Upp::TaskRule& CrossMode(bool b = true)",
+						"r": "TaskRule& CrossMode(bool b = true)",
 						"s": "Upp",
 						"u": "CROSSMODE",
 						"q": "Upp::TaskRule",
@@ -11242,7 +11757,7 @@
 						"n": "SeparateItems",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::SeparateItems(bool)",
-						"r": "Upp::TaskRule& SeparateItems(bool b = true)",
+						"r": "TaskRule& SeparateItems(bool b = true)",
 						"s": "Upp",
 						"u": "SEPARATEITEMS",
 						"q": "Upp::TaskRule",
@@ -11268,7 +11783,7 @@
 						"n": "DebugInput",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::DebugInput(bool)",
-						"r": "Upp::TaskRule& DebugInput(bool b = true)",
+						"r": "TaskRule& DebugInput(bool b = true)",
 						"s": "Upp",
 						"u": "DEBUGINPUT",
 						"q": "Upp::TaskRule",
@@ -11294,7 +11809,7 @@
 						"n": "ImageTask",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::ImageTask(bool)",
-						"r": "Upp::TaskRule& ImageTask(bool b = true)",
+						"r": "TaskRule& ImageTask(bool b = true)",
 						"s": "Upp",
 						"u": "IMAGETASK",
 						"q": "Upp::TaskRule",
@@ -11320,7 +11835,7 @@
 						"n": "ImageEditTask",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::ImageEditTask(bool)",
-						"r": "Upp::TaskRule& ImageEditTask(bool b = true)",
+						"r": "TaskRule& ImageEditTask(bool b = true)",
 						"s": "Upp",
 						"u": "IMAGEEDITTASK",
 						"q": "Upp::TaskRule",
@@ -11346,7 +11861,7 @@
 						"n": "ImageVariateTask",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::ImageVariateTask(bool)",
-						"r": "Upp::TaskRule& ImageVariateTask(bool b = true)",
+						"r": "TaskRule& ImageVariateTask(bool b = true)",
 						"s": "Upp",
 						"u": "IMAGEVARIATETASK",
 						"q": "Upp::TaskRule",
@@ -11372,7 +11887,7 @@
 						"n": "AiTask",
 						"t": "Upp::AiTask",
 						"i": "Upp::AiTask",
-						"r": "AiTask : Upp::TaskRule",
+						"r": "AiTask : TaskRule",
 						"s": "Upp",
 						"u": "AITASK",
 						"q": "Upp::AiTask",
@@ -11450,7 +11965,7 @@
 						"n": "order_hash",
 						"t": "hash_t",
 						"i": "Upp::AiTask::order_hash",
-						"r": "mutable Upp::hash_t order_hash",
+						"r": "mutable hash_t order_hash",
 						"s": "Upp",
 						"u": "ORDER_HASH",
 						"q": "Upp::AiTask",
@@ -11502,7 +12017,7 @@
 						"n": "output",
 						"t": "String",
 						"i": "Upp::AiTask::output",
-						"r": "Upp::String output",
+						"r": "String output",
 						"s": "Upp",
 						"u": "OUTPUT",
 						"q": "Upp::AiTask",
@@ -11528,7 +12043,7 @@
 						"n": "error",
 						"t": "String",
 						"i": "Upp::AiTask::error",
-						"r": "Upp::String error",
+						"r": "String error",
 						"s": "Upp",
 						"u": "ERROR",
 						"q": "Upp::AiTask",
@@ -11944,7 +12459,7 @@
 						"n": "input",
 						"t": "AiPrompt",
 						"i": "Upp::AiTask::input",
-						"r": "Upp::AiPrompt input",
+						"r": "AiPrompt input",
 						"s": "Upp",
 						"u": "INPUT",
 						"q": "Upp::AiTask",
@@ -11970,7 +12485,7 @@
 						"n": "raw_input",
 						"t": "String",
 						"i": "Upp::AiTask::raw_input",
-						"r": "Upp::String raw_input",
+						"r": "String raw_input",
 						"s": "Upp",
 						"u": "RAW_INPUT",
 						"q": "Upp::AiTask",
@@ -11996,7 +12511,7 @@
 						"n": "jpeg",
 						"t": "String",
 						"i": "Upp::AiTask::jpeg",
-						"r": "Upp::String jpeg",
+						"r": "String jpeg",
 						"s": "Upp",
 						"u": "JPEG",
 						"q": "Upp::AiTask",
@@ -12178,7 +12693,7 @@
 						"n": "image_n",
 						"t": "String",
 						"i": "Upp::AiTask::image_n",
-						"r": "Upp::String image_n",
+						"r": "String image_n",
 						"s": "Upp",
 						"u": "IMAGE_N",
 						"q": "Upp::AiTask",
@@ -12204,7 +12719,7 @@
 						"n": "image_sz",
 						"t": "String",
 						"i": "Upp::AiTask::image_sz",
-						"r": "Upp::String image_sz",
+						"r": "String image_sz",
 						"s": "Upp",
 						"u": "IMAGE_SZ",
 						"q": "Upp::AiTask",
@@ -12230,7 +12745,7 @@
 						"n": "tmp_str",
 						"t": "String",
 						"i": "Upp::AiTask::tmp_str",
-						"r": "Upp::String tmp_str",
+						"r": "String tmp_str",
 						"s": "Upp",
 						"u": "TMP_STR",
 						"q": "Upp::AiTask",
@@ -12776,7 +13291,7 @@
 						"n": "SetError",
 						"t": "void (String)",
 						"i": "Upp::AiTask::SetError(String)",
-						"r": "void SetError(Upp::String s)",
+						"r": "void SetError(String s)",
 						"s": "Upp",
 						"u": "SETERROR",
 						"q": "Upp::AiTask",
@@ -12802,7 +13317,7 @@
 						"n": "SetFatalError",
 						"t": "void (String)",
 						"i": "Upp::AiTask::SetFatalError(String)",
-						"r": "void SetFatalError(Upp::String s)",
+						"r": "void SetFatalError(String s)",
 						"s": "Upp",
 						"u": "SETFATALERROR",
 						"q": "Upp::AiTask",
@@ -12958,7 +13473,7 @@
 						"n": "GetInputHash",
 						"t": "String () const",
 						"i": "Upp::AiTask::GetInputHash()const",
-						"r": "Upp::String GetInputHash() const",
+						"r": "String GetInputHash() const",
 						"s": "Upp",
 						"u": "GETINPUTHASH",
 						"q": "Upp::AiTask",
@@ -12984,7 +13499,7 @@
 						"n": "GetOutputHash",
 						"t": "String () const",
 						"i": "Upp::AiTask::GetOutputHash()const",
-						"r": "Upp::String GetOutputHash() const",
+						"r": "String GetOutputHash() const",
 						"s": "Upp",
 						"u": "GETOUTPUTHASH",
 						"q": "Upp::AiTask",
@@ -13348,7 +13863,7 @@
 						"n": "GetDescription",
 						"t": "String () const",
 						"i": "Upp::AiTask::GetDescription()const",
-						"r": "Upp::String GetDescription() const",
+						"r": "String GetDescription() const",
 						"s": "Upp",
 						"u": "GETDESCRIPTION",
 						"q": "Upp::AiTask",
@@ -13374,7 +13889,7 @@
 						"n": "GetTypeString",
 						"t": "String () const",
 						"i": "Upp::AiTask::GetTypeString()const",
-						"r": "Upp::String GetTypeString() const",
+						"r": "String GetTypeString() const",
 						"s": "Upp",
 						"u": "GETTYPESTRING",
 						"q": "Upp::AiTask",
@@ -13400,7 +13915,7 @@
 						"n": "GetTaskMgr",
 						"t": "TaskMgr &()",
 						"i": "Upp::AiTask::GetTaskMgr()",
-						"r": "Upp::TaskMgr& GetTaskMgr()",
+						"r": "TaskMgr& GetTaskMgr()",
 						"s": "Upp",
 						"u": "GETTASKMGR",
 						"q": "Upp::AiTask",
@@ -13426,7 +13941,7 @@
 						"n": "FixInvalidChars",
 						"t": "String (const String &)",
 						"i": "Upp::AiTask::FixInvalidChars(const String&)",
-						"r": "static Upp::String FixInvalidChars(const Upp::String& s)",
+						"r": "static String FixInvalidChars(const String& s)",
 						"s": "Upp",
 						"u": "FIXINVALIDCHARS",
 						"q": "Upp::AiTask",
@@ -13452,7 +13967,7 @@
 						"n": "EscapeString",
 						"t": "void (String &)",
 						"i": "Upp::AiTask::EscapeString(String&)",
-						"r": "static void EscapeString(Upp::String& s)",
+						"r": "static void EscapeString(String& s)",
 						"s": "Upp",
 						"u": "ESCAPESTRING",
 						"q": "Upp::AiTask",
@@ -13478,7 +13993,7 @@
 						"n": "RemoveQuotes",
 						"t": "void (String &)",
 						"i": "Upp::AiTask::RemoveQuotes(String&)",
-						"r": "static void RemoveQuotes(Upp::String& s)",
+						"r": "static void RemoveQuotes(String& s)",
 						"s": "Upp",
 						"u": "REMOVEQUOTES",
 						"q": "Upp::AiTask",
@@ -13504,7 +14019,7 @@
 						"n": "RemoveQuotes2",
 						"t": "void (String &)",
 						"i": "Upp::AiTask::RemoveQuotes2(String&)",
-						"r": "static void RemoveQuotes2(Upp::String& s)",
+						"r": "static void RemoveQuotes2(String& s)",
 						"s": "Upp",
 						"u": "REMOVEQUOTES2",
 						"q": "Upp::AiTask",
@@ -13530,7 +14045,7 @@
 						"n": "RemoveParenthesis",
 						"t": "void (String &)",
 						"i": "Upp::AiTask::RemoveParenthesis(String&)",
-						"r": "static void RemoveParenthesis(Upp::String& s)",
+						"r": "static void RemoveParenthesis(String& s)",
 						"s": "Upp",
 						"u": "REMOVEPARENTHESIS",
 						"q": "Upp::AiTask",
@@ -13559,7 +14074,7 @@
 						"k": 501,
 						"d": false,
 						"iv": false,
-						"is": false,
+						"is": true,
 						"n": "_AI_TaskCtrl_h_",
 						"t": "",
 						"i": "_AI_TaskCtrl_h_",
@@ -13589,7 +14104,7 @@
 						"n": "TaskCtrl",
 						"t": "Upp::TaskCtrl",
 						"i": "Upp::TaskCtrl",
-						"r": "TaskCtrl : public Upp::Ctrl",
+						"r": "TaskCtrl : public Ctrl",
 						"s": "Upp",
 						"u": "TASKCTRL",
 						"q": "Upp::TaskCtrl",
@@ -13615,7 +14130,7 @@
 						"n": "hsplit",
 						"t": "Splitter",
 						"i": "Upp::TaskCtrl::hsplit",
-						"r": "Upp::Splitter hsplit",
+						"r": "Splitter hsplit",
 						"s": "Upp",
 						"u": "HSPLIT",
 						"q": "Upp::TaskCtrl",
@@ -13641,7 +14156,7 @@
 						"n": "vsplit",
 						"t": "Splitter",
 						"i": "Upp::TaskCtrl::vsplit",
-						"r": "Upp::Splitter vsplit",
+						"r": "Splitter vsplit",
 						"s": "Upp",
 						"u": "VSPLIT",
 						"q": "Upp::TaskCtrl",
@@ -13667,7 +14182,7 @@
 						"n": "list",
 						"t": "ArrayCtrl",
 						"i": "Upp::TaskCtrl::list",
-						"r": "Upp::ArrayCtrl list",
+						"r": "ArrayCtrl list",
 						"s": "Upp",
 						"u": "LIST",
 						"q": "Upp::TaskCtrl",
@@ -13693,7 +14208,7 @@
 						"n": "input",
 						"t": "DocEdit",
 						"i": "Upp::TaskCtrl::input",
-						"r": "Upp::DocEdit input",
+						"r": "DocEdit input",
 						"s": "Upp",
 						"u": "INPUT",
 						"q": "Upp::TaskCtrl",
@@ -13719,7 +14234,7 @@
 						"n": "output",
 						"t": "DocEdit",
 						"i": "Upp::TaskCtrl::output",
-						"r": "Upp::DocEdit output",
+						"r": "DocEdit output",
 						"s": "Upp",
 						"u": "OUTPUT",
 						"q": "Upp::TaskCtrl",
@@ -13771,7 +14286,7 @@
 						"n": "tc",
 						"t": "TimeCallback",
 						"i": "Upp::TaskCtrl::tc",
-						"r": "Upp::TimeCallback tc",
+						"r": "TimeCallback tc",
 						"s": "Upp",
 						"u": "TC",
 						"q": "Upp::TaskCtrl",
@@ -13797,7 +14312,7 @@
 						"n": "CLASSNAME",
 						"t": "Upp::TaskCtrl::CLASSNAME",
 						"i": "Upp::TaskCtrl::CLASSNAME",
-						"r": "typedef Upp::TaskCtrl CLASSNAME",
+						"r": "typedef TaskCtrl CLASSNAME",
 						"s": "Upp",
 						"u": "CLASSNAME",
 						"q": "Upp::TaskCtrl",
@@ -13927,7 +14442,7 @@
 						"n": "ToolMenu",
 						"t": "void (Bar &)",
 						"i": "Upp::TaskCtrl::ToolMenu(Bar&)",
-						"r": "void ToolMenu(Upp::Bar& bar)",
+						"r": "void ToolMenu(Bar& bar)",
 						"s": "Upp",
 						"u": "TOOLMENU",
 						"q": "Upp::TaskCtrl",
@@ -14057,7 +14572,7 @@
 						"n": "OutputMenu",
 						"t": "void (Bar &)",
 						"i": "Upp::TaskCtrl::OutputMenu(Bar&)",
-						"r": "void OutputMenu(Upp::Bar& bar)",
+						"r": "void OutputMenu(Bar& bar)",
 						"s": "Upp",
 						"u": "OUTPUTMENU",
 						"q": "Upp::TaskCtrl",
@@ -14194,7 +14709,7 @@
 						"n": "lock",
 						"t": "RWMutex",
 						"i": "Upp::TaskMgr::lock",
-						"r": "Upp::RWMutex lock",
+						"r": "RWMutex lock",
 						"s": "Upp",
 						"u": "LOCK",
 						"q": "Upp::TaskMgr",
@@ -14220,7 +14735,7 @@
 						"n": "task_lock",
 						"t": "Mutex",
 						"i": "Upp::TaskMgr::task_lock",
-						"r": "Upp::Mutex task_lock",
+						"r": "Mutex task_lock",
 						"s": "Upp",
 						"u": "TASK_LOCK",
 						"q": "Upp::TaskMgr",
@@ -14246,7 +14761,7 @@
 						"n": "active_task",
 						"t": "AiTask *",
 						"i": "Upp::TaskMgr::active_task",
-						"r": "Upp::AiTask *active_task",
+						"r": "AiTask *active_task",
 						"s": "Upp",
 						"u": "ACTIVE_TASK",
 						"q": "Upp::TaskMgr",
@@ -14324,7 +14839,7 @@
 						"n": "status",
 						"t": "String",
 						"i": "Upp::TaskMgr::status",
-						"r": "Upp::String status",
+						"r": "String status",
 						"s": "Upp",
 						"u": "STATUS",
 						"q": "Upp::TaskMgr",
@@ -14480,7 +14995,7 @@
 						"n": "hash",
 						"t": "hash_t",
 						"i": "Upp::TaskMgr::hash",
-						"r": "mutable Upp::hash_t hash",
+						"r": "mutable hash_t hash",
 						"s": "Upp",
 						"u": "HASH",
 						"q": "Upp::TaskMgr",
@@ -14558,7 +15073,7 @@
 						"n": "CLASSNAME",
 						"t": "Upp::TaskMgr::CLASSNAME",
 						"i": "Upp::TaskMgr::CLASSNAME",
-						"r": "typedef Upp::TaskMgr CLASSNAME",
+						"r": "typedef TaskMgr CLASSNAME",
 						"s": "Upp",
 						"u": "CLASSNAME",
 						"q": "Upp::TaskMgr",
@@ -14610,7 +15125,7 @@
 						"n": "AddTask",
 						"t": "AiTask &()",
 						"i": "Upp::TaskMgr::AddTask()",
-						"r": "Upp::AiTask& AddTask()",
+						"r": "AiTask& AddTask()",
 						"s": "Upp",
 						"u": "ADDTASK",
 						"q": "Upp::TaskMgr",
@@ -14714,7 +15229,7 @@
 						"n": "Translate",
 						"t": "void (String, String, String, Event<String>, bool)",
 						"i": "Upp::TaskMgr::Translate(String,String,String,Event,bool)",
-						"r": "void Translate(Upp::String orig_lang, Upp::String orig_txt, Upp::String trans_lang, Event<String> WhenResult, bool slightly_dialect = false)",
+						"r": "void Translate(String orig_lang, String orig_txt, String trans_lang, Event<String> WhenResult, bool slightly_dialect = false)",
 						"s": "Upp",
 						"u": "TRANSLATE",
 						"q": "Upp::TaskMgr",
@@ -14740,7 +15255,7 @@
 						"n": "CreateImage",
 						"t": "void (String, int, Event<Array<Image> &>, int, Event<>)",
 						"i": "Upp::TaskMgr::CreateImage(String,int,Event,int,Event)",
-						"r": "void CreateImage(Upp::String prompt, int count, Event<Array<Image>&> WhenResult, int reduce_size_mode = 0, Event<> WhenError = Event<>())",
+						"r": "void CreateImage(String prompt, int count, Event<Array<Image>&> WhenResult, int reduce_size_mode = 0, Event<> WhenError = Event<>())",
 						"s": "Upp",
 						"u": "CREATEIMAGE",
 						"q": "Upp::TaskMgr",
@@ -14766,7 +15281,7 @@
 						"n": "GetEditImage",
 						"t": "void (Image, Image, String, int, Event<Array<Image> &>, Event<>)",
 						"i": "Upp::TaskMgr::GetEditImage(Image,Image,String,int,Event,Event)",
-						"r": "void GetEditImage(Upp::Image orig, Upp::Image mask, Upp::String prompt, int count, Event<Array<Image>&> WhenResult, Event<> WhenError = Event<>())",
+						"r": "void GetEditImage(Image orig, Image mask, String prompt, int count, Event<Array<Image>&> WhenResult, Event<> WhenError = Event<>())",
 						"s": "Upp",
 						"u": "GETEDITIMAGE",
 						"q": "Upp::TaskMgr",
@@ -14792,7 +15307,7 @@
 						"n": "VariateImage",
 						"t": "void (Image, int, Event<Array<Image> &>, Event<>)",
 						"i": "Upp::TaskMgr::VariateImage(Image,int,Event,Event)",
-						"r": "void VariateImage(Upp::Image orig, int count, Event<Array<Image>&> WhenResult, Event<> WhenError = Event<>())",
+						"r": "void VariateImage(Image orig, int count, Event<Array<Image>&> WhenResult, Event<> WhenError = Event<>())",
 						"s": "Upp",
 						"u": "VARIATEIMAGE",
 						"q": "Upp::TaskMgr",
@@ -14818,7 +15333,7 @@
 						"n": "RawCompletion",
 						"t": "void (String, Event<String>)",
 						"i": "Upp::TaskMgr::RawCompletion(String,Event)",
-						"r": "void RawCompletion(Upp::String prompt, Event<String> WhenResult)",
+						"r": "void RawCompletion(String prompt, Event<String> WhenResult)",
 						"s": "Upp",
 						"u": "RAWCOMPLETION",
 						"q": "Upp::TaskMgr",
@@ -14844,7 +15359,7 @@
 						"n": "GetGenericPrompt",
 						"t": "void (const GenericPromptArgs &, Event<String>)",
 						"i": "Upp::TaskMgr::GetGenericPrompt(const GenericPromptArgs&,Event)",
-						"r": "void GetGenericPrompt(const Upp::GenericPromptArgs& args, Event<String> WhenResult)",
+						"r": "void GetGenericPrompt(const GenericPromptArgs& args, Event<String> WhenResult)",
 						"s": "Upp",
 						"u": "GETGENERICPROMPT",
 						"q": "Upp::TaskMgr",
@@ -14870,7 +15385,7 @@
 						"n": "GetVision",
 						"t": "void (const String &, const VisionArgs &, Event<String>)",
 						"i": "Upp::TaskMgr::GetVision(const String&,const VisionArgs&,Event)",
-						"r": "void GetVision(const Upp::String& jpeg, const Upp::VisionArgs& args, Event<String> WhenResult)",
+						"r": "void GetVision(const String& jpeg, const VisionArgs& args, Event<String> WhenResult)",
 						"s": "Upp",
 						"u": "GETVISION",
 						"q": "Upp::TaskMgr",
@@ -14896,7 +15411,7 @@
 						"n": "GetCode",
 						"t": "void (const CodeArgs &, Event<String>)",
 						"i": "Upp::TaskMgr::GetCode(const CodeArgs&,Event)",
-						"r": "void GetCode(const Upp::CodeArgs& args, Event<String> WhenResult)",
+						"r": "void GetCode(const CodeArgs& args, Event<String> WhenResult)",
 						"s": "Upp",
 						"u": "GETCODE",
 						"q": "Upp::TaskMgr",
@@ -14922,7 +15437,7 @@
 						"n": "MakeName",
 						"t": "String (T &, const char *)",
 						"i": "Upp::TaskMgr::MakeName(T&,const char*)",
-						"r": "template <class T> Upp::String MakeName(T& o, const char *name)",
+						"r": "template <class T> String MakeName(T& o, const char *name)",
 						"s": "Upp",
 						"u": "MAKENAME",
 						"q": "Upp::TaskMgr",
@@ -14948,7 +15463,7 @@
 						"n": "Setup",
 						"t": "void (::Ide *)",
 						"i": "Upp::TaskMgr::Setup(::Ide*)",
-						"r": "static void Setup(Ide *ide)",
+						"r": "static void Setup(::Ide *ide)",
 						"s": "Upp",
 						"u": "SETUP",
 						"q": "Upp::TaskMgr",
@@ -14974,7 +15489,7 @@
 						"n": "AiTaskManager",
 						"t": "TaskMgr &()",
 						"i": "Upp::AiTaskManager()",
-						"r": "Upp::TaskMgr& AiTaskManager()",
+						"r": "TaskMgr& AiTaskManager()",
 						"s": "Upp",
 						"u": "AITASKMANAGER",
 						"q": "Upp",
@@ -15067,7 +15582,7 @@
 						"n": "SetFont",
 						"t": "void (Font)",
 						"i": "Upp::AICodeCtrl::SetFont(Font)",
-						"r": "void SetFont(Upp::Font fnt)",
+						"r": "void SetFont(Font fnt)",
 						"s": "Upp",
 						"u": "SETFONT",
 						"q": "Upp::AICodeCtrl",
@@ -15093,7 +15608,7 @@
 						"n": "Load",
 						"t": "void (const String &, String, Stream &, byte)",
 						"i": "Upp::AICodeCtrl::Load(const String&,String,Stream&,byte)",
-						"r": "void Load(const Upp::String& includes, Upp::String filename, Upp::Stream& str, Upp::byte charset)",
+						"r": "void Load(const String& includes, String filename, Stream& str, byte charset)",
 						"s": "Upp",
 						"u": "LOAD",
 						"q": "Upp::AICodeCtrl",
@@ -15103,12 +15618,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4eeb26a01b4e4deaedf6f9c041ddc27d3208eeb9"
-							},
 							{
 								"items": [
 
@@ -15139,12 +15648,6 @@
 								"items": [
 
 								],
-								"h": "b3a7e9a8c7fd169253e9b0d2e1d22a19b38cdd12"
-							},
-							{
-								"items": [
-
-								],
 								"h": "cadfbd0abe95d2c1736c0c2cbe1414566e08b393"
 							}
 						]
@@ -15157,7 +15660,7 @@
 						"n": "Save",
 						"t": "void (Stream &, byte)",
 						"i": "Upp::AICodeCtrl::Save(Stream&,byte)",
-						"r": "void Save(Upp::Stream& str, Upp::byte charset)",
+						"r": "void Save(Stream& str, byte charset)",
 						"s": "Upp",
 						"u": "SAVE",
 						"q": "Upp::AICodeCtrl",
@@ -15183,7 +15686,7 @@
 						"n": "SetEditPos",
 						"t": "void (LineEdit::EditPos)",
 						"i": "Upp::AICodeCtrl::SetEditPos(LineEdit::EditPos)",
-						"r": "void SetEditPos(Upp::TextCtrl::EditPos pos)",
+						"r": "void SetEditPos(LineEdit::EditPos pos)",
 						"s": "Upp",
 						"u": "SETEDITPOS",
 						"q": "Upp::AICodeCtrl",
@@ -15209,7 +15712,7 @@
 						"n": "SetPickUndoData",
 						"t": "void (LineEdit::UndoData)",
 						"i": "Upp::AICodeCtrl::SetPickUndoData(LineEdit::UndoData)",
-						"r": "void SetPickUndoData(Upp::TextCtrl::UndoData pos)",
+						"r": "void SetPickUndoData(LineEdit::UndoData pos)",
 						"s": "Upp",
 						"u": "SETPICKUNDODATA",
 						"q": "Upp::AICodeCtrl",
@@ -15235,7 +15738,7 @@
 						"n": "PickUndoData",
 						"t": "LineEdit::UndoData ()",
 						"i": "Upp::AICodeCtrl::PickUndoData()",
-						"r": "Upp::TextCtrl::UndoData PickUndoData()",
+						"r": "LineEdit::UndoData PickUndoData()",
 						"s": "Upp",
 						"u": "PICKUNDODATA",
 						"q": "Upp::AICodeCtrl",
@@ -15261,7 +15764,7 @@
 						"n": "GetEditPos",
 						"t": "LineEdit::EditPos ()",
 						"i": "Upp::AICodeCtrl::GetEditPos()",
-						"r": "Upp::TextCtrl::EditPos GetEditPos()",
+						"r": "LineEdit::EditPos GetEditPos()",
 						"s": "Upp",
 						"u": "GETEDITPOS",
 						"q": "Upp::AICodeCtrl",
@@ -15287,7 +15790,7 @@
 						"n": "ContextMenu",
 						"t": "void (Bar &)",
 						"i": "Upp::AICodeCtrl::ContextMenu(Bar&)",
-						"r": "void ContextMenu(Upp::Bar& bar)",
+						"r": "void ContextMenu(Bar& bar)",
 						"s": "Upp",
 						"u": "CONTEXTMENU",
 						"q": "Upp::AICodeCtrl",
@@ -15379,12 +15882,6 @@
 								"items": [
 
 								],
-								"h": "3303343b1a3485487f9fe567eb09106880662fb8"
-							},
-							{
-								"items": [
-
-								],
 								"h": "a868aa9928fc611451b9aae18ac8713e1eb1b889"
 							}
 						]
@@ -15459,12 +15956,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4391161f199fc52d6ead7dc39f7c6d7ef744ea2a"
-							},
 							{
 								"items": [
 
@@ -15548,585 +16039,6 @@
 
 								],
 								"h": "4dd259878fc38a69cf2018e2c0328dc0938d1354"
-							}
-						]
-					}
-				]
-			}
-		},
-		{
-			"key": "AionFile.cpp",
-			"value": {
-				"items": [
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "PostSave",
-						"t": "void ()",
-						"i": "Upp::AionFile::PostSave()",
-						"r": "void PostSave()",
-						"s": "Upp",
-						"u": "POSTSAVE",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "c5757532ed4c739f12eb3d95d33a1ff7ab756e28"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Clear",
-						"t": "void ()",
-						"i": "Upp::AionFile::Clear()",
-						"r": "void Clear()",
-						"s": "Upp",
-						"u": "CLEAR",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "1f9b728a36ff3882fbd2f26882be957ed836e878"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "SetPath",
-						"t": "void (String)",
-						"i": "Upp::AionFile::SetPath(String)",
-						"r": "void SetPath(Upp::String path)",
-						"s": "Upp",
-						"u": "SETPATH",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8781b31ad9d5a21d7de2a685c2089e3721b01876"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Load",
-						"t": "void ()",
-						"i": "Upp::AionFile::Load()",
-						"r": "void Load()",
-						"s": "Upp",
-						"u": "LOAD",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8dbb3de5153bb5c7cea843d7ead22506ca599037"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Save",
-						"t": "void (bool)",
-						"i": "Upp::AionFile::Save(bool)",
-						"r": "void Save(bool forced = false)",
-						"s": "Upp",
-						"u": "SAVE",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "7b152e1be9c2244c8649eb8baf4b8925608982b0"
-							}
-						]
-					},
-					{
-						"k": 9,
-						"d": true,
-						"iv": false,
-						"is": true,
-						"n": "aionfile_getting_sha1",
-						"t": "bool",
-						"i": "Upp::aionfile_getting_sha1",
-						"r": "static thread_local bool aionfile_getting_sha1",
-						"s": "Upp",
-						"u": "AIONFILE_GETTING_SHA1",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8602547472605b7fb4dd3dbc18f0958080c9540c"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "GetHashSha1",
-						"t": "String ()",
-						"i": "Upp::AionFile::GetHashSha1()",
-						"r": "Upp::String GetHashSha1()",
-						"s": "Upp",
-						"u": "GETHASHSHA1",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "c7aeb4c9dc37146dd19fe924b422b0fa14de00ae"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Serialize",
-						"t": "void (Stream &)",
-						"i": "Upp::AionFile::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
-						"s": "Upp",
-						"u": "SERIALIZE",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ec2d48cb12cf7460e3dfd9e61dc410cdcbeb543c"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Jsonize",
-						"t": "void (JsonIO &)",
-						"i": "Upp::AionFile::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
-						"s": "Upp",
-						"u": "JSONIZE",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "2b4afc11ce4254b26118d11ed3089a7e8777f862"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "operator=",
-						"t": "void (const AionFile &)",
-						"i": "Upp::AionFile::operator=(const AionFile&)",
-						"r": "void operator",
-						"s": "Upp",
-						"u": "OPERATOR=",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "c99f6145672d2de514069acd86451571adbe4f0f"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "MakeRelativePath",
-						"t": "bool (const String &, const String &, String &, String &)",
-						"i": "Upp::MakeRelativePath(const String&,const String&,String&,String&)",
-						"r": "bool MakeRelativePath(const Upp::String& includes_, const Upp::String& dir, Upp::String& best_ai_dir, Upp::String& best_rel_dir)",
-						"s": "Upp",
-						"u": "MAKERELATIVEPATH",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0ead5e7e17687afa347a77fef2f6d6987cc3922c"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "RealizePath",
-						"t": "AiFileInfo &(const String &, const String &)",
-						"i": "Upp::AionFile::RealizePath(const String&,const String&)",
-						"r": "Upp::AiFileInfo& RealizePath(const Upp::String& includes, const Upp::String& path)",
-						"s": "Upp",
-						"u": "REALIZEPATH",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "547f48f3a9add7ba1e33a00275c4b95adbb58e17"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "GetAiPathCandidate",
-						"t": "String (const String &, String)",
-						"i": "Upp::GetAiPathCandidate(const String&,String)",
-						"r": "Upp::String GetAiPathCandidate(const Upp::String& includes_, Upp::String dir)",
-						"s": "Upp",
-						"u": "GETAIPATHCANDIDATE",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4ff9bff7ada07941687489680e2f4ec8ca3711ba"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "FindParentUppDirectories",
-						"t": "Vector<String> (const String &)",
-						"i": "Upp::FindParentUppDirectories(const String&)",
-						"r": "Vector<String> FindParentUppDirectories(const Upp::String& sub_dir)",
-						"s": "Upp",
-						"u": "FINDPARENTUPPDIRECTORIES",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0ab473ed1b02dd46ed5191cc795108c7dbed5458"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ResolveAionFilePath",
-						"t": "String (const String &, String)",
-						"i": "Upp::AionIndex::ResolveAionFilePath(const String&,String)",
-						"r": "Upp::String ResolveAionFilePath(const Upp::String& includes, Upp::String path)",
-						"s": "Upp",
-						"u": "RESOLVEAIONFILEPATH",
-						"q": "Upp::AionIndex",
-						"w": "UPP::AIONINDEX",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8ef68af493fdce9fe8b142d099cbc85a9de6624a"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ResolveFile",
-						"t": "AionFile &(const String &, String)",
-						"i": "Upp::AionIndex::ResolveFile(const String&,String)",
-						"r": "Upp::AionFile& ResolveFile(const Upp::String& includes, Upp::String path)",
-						"s": "Upp",
-						"u": "RESOLVEFILE",
-						"q": "Upp::AionIndex",
-						"w": "UPP::AIONINDEX",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "78ce789b75194aade7b671715d76e3d548416324"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ResolveFileInfo",
-						"t": "AiFileInfo &(const String &, String)",
-						"i": "Upp::AionIndex::ResolveFileInfo(const String&,String)",
-						"r": "Upp::AiFileInfo& ResolveFileInfo(const Upp::String& includes, Upp::String path)",
-						"s": "Upp",
-						"u": "RESOLVEFILEINFO",
-						"q": "Upp::AionIndex",
-						"w": "UPP::AIONINDEX",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f1191fc51c5f3deacc053a7e7140d8e5f43e0890"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "AiIndex",
-						"t": "AionIndex &()",
-						"i": "Upp::AiIndex()",
-						"r": "Upp::AionIndex& AiIndex()",
-						"s": "Upp",
-						"u": "AIINDEX",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "d785561a4ab5493e86b37756cad25844138bd10e"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Load",
-						"t": "void (const String &, const String &, FileAnnotation &)",
-						"i": "Upp::AionIndex::Load(const String&,const String&,FileAnnotation&)",
-						"r": "void Load(const Upp::String& includes, const Upp::String& path, FileAnnotation& fa)",
-						"s": "Upp",
-						"u": "LOAD",
-						"q": "Upp::AionIndex",
-						"w": "UPP::AIONINDEX",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "28e719780c67d9472a0e8e2963f5edabf0dc0999"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Load",
-						"t": "void (const String &, const String &, FileAnnotation &)",
-						"i": "Upp::AionFile::Load(const String&,const String&,FileAnnotation&)",
-						"r": "void Load(const Upp::String& includes, const Upp::String& path, FileAnnotation& fa)",
-						"s": "Upp",
-						"u": "LOAD",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "77a966a182112317a9afbbaeae27de4717f2ffb1"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Store",
-						"t": "void (const String &, const String &, FileAnnotation &)",
-						"i": "Upp::AionIndex::Store(const String&,const String&,FileAnnotation&)",
-						"r": "void Store(const Upp::String& includes, const Upp::String& path, FileAnnotation& fa)",
-						"s": "Upp",
-						"u": "STORE",
-						"q": "Upp::AionIndex",
-						"w": "UPP::AIONINDEX",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b8860a6f01acf573213adb661315174510ad3149"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Store",
-						"t": "void (const String &, const String &, FileAnnotation &)",
-						"i": "Upp::AionFile::Store(const String&,const String&,FileAnnotation&)",
-						"r": "void Store(const Upp::String& includes, const Upp::String& path, FileAnnotation& fa)",
-						"s": "Upp",
-						"u": "STORE",
-						"q": "Upp::AionFile",
-						"w": "UPP::AIONFILE",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f6ce2bb02076d9322d61787f29f477d6d9e4c7e7"
 							}
 						]
 					}
@@ -16353,7 +16265,7 @@
 						"n": "OutputMenu",
 						"t": "void (Bar &)",
 						"i": "Upp::TaskCtrl::OutputMenu(Bar&)",
-						"r": "void OutputMenu(Upp::Bar& bar)",
+						"r": "void OutputMenu(Bar& bar)",
 						"s": "Upp",
 						"u": "OUTPUTMENU",
 						"q": "Upp::TaskCtrl",
@@ -16474,12 +16386,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "63fe0c3a904d33de1d37cbd6f4cec08eca5b00fd"
-							},
 							{
 								"items": [
 
@@ -16704,7 +16610,7 @@
 						"n": "Worker",
 						"t": "AiProcessBase::WorkerData &()",
 						"i": "Upp::AiProcessBase::Worker()",
-						"r": "Upp::AiProcessBase::WorkerData& Worker()",
+						"r": "AiProcessBase::WorkerData& Worker()",
 						"s": "Upp",
 						"u": "WORKER",
 						"q": "Upp::AiProcessBase",
@@ -16997,7 +16903,7 @@
 						"n": "Get",
 						"t": "CodeProcess &(String)",
 						"i": "Upp::CodeProcess::Get(String)",
-						"r": "Upp::CodeProcess& Get(Upp::String id)",
+						"r": "CodeProcess& Get(String id)",
 						"s": "Upp",
 						"u": "GET",
 						"q": "Upp::CodeProcess",
@@ -17030,7 +16936,7 @@
 						"n": "operator()",
 						"t": "bool (const Item &, const Item &) const",
 						"i": "Upp::CodeVisitor::Item::operator()(const Item&,const Item&)const",
-						"r": "bool operator()(const Upp::CodeVisitor::Item& a, const Upp::CodeVisitor::Item& b) const",
+						"r": "bool operator()(const Item& a, const Item& b) const",
 						"s": "Upp",
 						"u": "OPERATOR()",
 						"q": "Upp::CodeVisitor::Item",
@@ -17056,7 +16962,7 @@
 						"n": "ToString",
 						"t": "String () const",
 						"i": "Upp::CodeVisitor::Item::ToString()const",
-						"r": "Upp::String ToString() const",
+						"r": "String ToString() const",
 						"s": "Upp",
 						"u": "TOSTRING",
 						"q": "Upp::CodeVisitor::Item",
@@ -17108,7 +17014,7 @@
 						"n": "Visit",
 						"t": "void (const String &, const FileAnnotation &, Point, Point)",
 						"i": "Upp::CodeVisitor::Visit(const String&,const FileAnnotation&,Point,Point)",
-						"r": "void Visit(const Upp::String& filepath, const FileAnnotation& fa, Upp::Point begin, Upp::Point end)",
+						"r": "void Visit(const String& filepath, const FileAnnotation& fa, Point begin, Point end)",
 						"s": "Upp",
 						"u": "VISIT",
 						"q": "Upp::CodeVisitor",
@@ -17134,7 +17040,7 @@
 						"n": "Visit",
 						"t": "void (const String &, const AnnotationItem &)",
 						"i": "Upp::CodeVisitor::Visit(const String&,const AnnotationItem&)",
-						"r": "void Visit(const Upp::String& filepath, const AnnotationItem& ann)",
+						"r": "void Visit(const String& filepath, const AnnotationItem& ann)",
 						"s": "Upp",
 						"u": "VISIT",
 						"q": "Upp::CodeVisitor",
@@ -17160,7 +17066,7 @@
 						"n": "Visit",
 						"t": "void (const String &, const ReferenceItem &)",
 						"i": "Upp::CodeVisitor::Visit(const String&,const ReferenceItem&)",
-						"r": "void Visit(const Upp::String& filepath, const ReferenceItem& ref)",
+						"r": "void Visit(const String& filepath, const ReferenceItem& ref)",
 						"s": "Upp",
 						"u": "VISIT",
 						"q": "Upp::CodeVisitor",
@@ -17186,7 +17092,7 @@
 						"n": "VisitId",
 						"t": "void (const String &, const String &)",
 						"i": "Upp::CodeVisitor::VisitId(const String&,const String&)",
-						"r": "void VisitId(const Upp::String& filepath, const Upp::String& cmp_id)",
+						"r": "void VisitId(const String& filepath, const String& cmp_id)",
 						"s": "Upp",
 						"u": "VISITID",
 						"q": "Upp::CodeVisitor",
@@ -17212,7 +17118,7 @@
 						"n": "LoadPath",
 						"t": "const String &(String)",
 						"i": "Upp::CodeVisitor::LoadPath(String)",
-						"r": "const Upp::String& LoadPath(Upp::String path)",
+						"r": "const String& LoadPath(String path)",
 						"s": "Upp",
 						"u": "LOADPATH",
 						"q": "Upp::CodeVisitor",
@@ -17271,7 +17177,7 @@
 						"n": "ide",
 						"t": "::Ide *",
 						"i": "Upp::TaskMgrConfig::ide",
-						"r": "Ide *ide",
+						"r": "::Ide *ide",
 						"s": "Upp",
 						"u": "IDE",
 						"q": "Upp::TaskMgrConfig",
@@ -17375,7 +17281,7 @@
 						"n": "instance",
 						"t": "openai::OpenAI *",
 						"i": "Upp::TaskMgrConfig::instance",
-						"r": "openai::_detail::OpenAI *instance",
+						"r": "openai::OpenAI *instance",
 						"s": "Upp",
 						"u": "INSTANCE",
 						"q": "Upp::TaskMgrConfig",
@@ -17401,7 +17307,7 @@
 						"n": "CLASSNAME",
 						"t": "Upp::TaskMgrConfig::CLASSNAME",
 						"i": "Upp::TaskMgrConfig::CLASSNAME",
-						"r": "typedef Upp::TaskMgrConfig CLASSNAME",
+						"r": "typedef TaskMgrConfig CLASSNAME",
 						"s": "Upp",
 						"u": "CLASSNAME",
 						"q": "Upp::TaskMgrConfig",
@@ -17531,7 +17437,7 @@
 						"n": "SetupInstance",
 						"t": "void (::Ide *)",
 						"i": "Upp::TaskMgrConfig::SetupInstance(::Ide*)",
-						"r": "void SetupInstance(Ide *ide)",
+						"r": "void SetupInstance(::Ide *ide)",
 						"s": "Upp",
 						"u": "SETUPINSTANCE",
 						"q": "Upp::TaskMgrConfig",
@@ -17557,7 +17463,7 @@
 						"n": "Single",
 						"t": "TaskMgrConfig &()",
 						"i": "Upp::TaskMgrConfig::Single()",
-						"r": "static Upp::TaskMgrConfig& Single()",
+						"r": "static TaskMgrConfig& Single()",
 						"s": "Upp",
 						"u": "SINGLE",
 						"q": "Upp::TaskMgrConfig",
@@ -17609,7 +17515,7 @@
 						"n": "Setup",
 						"t": "void (::Ide *)",
 						"i": "Upp::TaskMgr::Setup(::Ide*)",
-						"r": "void Setup(Ide *ide)",
+						"r": "void Setup(::Ide *ide)",
 						"s": "Upp",
 						"u": "SETUP",
 						"q": "Upp::TaskMgr",
@@ -17635,7 +17541,7 @@
 						"n": "MakeName",
 						"t": "String (T &, const char *)",
 						"i": "Upp::TaskMgr::MakeName(T&,const char*)",
-						"r": "template <class T> Upp::String MakeName(T& o, const char *name)",
+						"r": "template <class T> String MakeName(T& o, const char *name)",
 						"s": "Upp",
 						"u": "MAKENAME",
 						"q": "Upp::TaskMgr",
@@ -17661,7 +17567,7 @@
 						"n": "AddTask",
 						"t": "AiTask &()",
 						"i": "Upp::TaskMgr::AddTask()",
-						"r": "Upp::AiTask& AddTask()",
+						"r": "AiTask& AddTask()",
 						"s": "Upp",
 						"u": "ADDTASK",
 						"q": "Upp::TaskMgr",
@@ -17739,7 +17645,7 @@
 						"n": "Translate",
 						"t": "void (String, String, String, Event<String>, bool)",
 						"i": "Upp::TaskMgr::Translate(String,String,String,Event,bool)",
-						"r": "void Translate(Upp::String orig_lang, Upp::String orig_txt, Upp::String trans_lang, Event<String> WhenResult, bool slightly_dialect = false)",
+						"r": "void Translate(String orig_lang, String orig_txt, String trans_lang, Event<String> WhenResult, bool slightly_dialect = false)",
 						"s": "Upp",
 						"u": "TRANSLATE",
 						"q": "Upp::TaskMgr",
@@ -17765,7 +17671,7 @@
 						"n": "RawCompletion",
 						"t": "void (String, Event<String>)",
 						"i": "Upp::TaskMgr::RawCompletion(String,Event)",
-						"r": "void RawCompletion(Upp::String prompt, Event<String> WhenResult)",
+						"r": "void RawCompletion(String prompt, Event<String> WhenResult)",
 						"s": "Upp",
 						"u": "RAWCOMPLETION",
 						"q": "Upp::TaskMgr",
@@ -17791,7 +17697,7 @@
 						"n": "CreateImage",
 						"t": "void (String, int, Event<Array<Image> &>, int, Event<>)",
 						"i": "Upp::TaskMgr::CreateImage(String,int,Event,int,Event)",
-						"r": "void CreateImage(Upp::String prompt, int count, Event<Array<Image>&> WhenResult, int reduce_size_mode = 0, Event<> WhenError = Event<>())",
+						"r": "void CreateImage(String prompt, int count, Event<Array<Image>&> WhenResult, int reduce_size_mode = 0, Event<> WhenError = Event<>())",
 						"s": "Upp",
 						"u": "CREATEIMAGE",
 						"q": "Upp::TaskMgr",
@@ -17817,7 +17723,7 @@
 						"n": "GetEditImage",
 						"t": "void (Image, Image, String, int, Event<Array<Image> &>, Event<>)",
 						"i": "Upp::TaskMgr::GetEditImage(Image,Image,String,int,Event,Event)",
-						"r": "void GetEditImage(Upp::Image orig, Upp::Image mask, Upp::String prompt, int count, Event<Array<Image>&> WhenResult, Event<> WhenError = Event<>())",
+						"r": "void GetEditImage(Image orig, Image mask, String prompt, int count, Event<Array<Image>&> WhenResult, Event<> WhenError = Event<>())",
 						"s": "Upp",
 						"u": "GETEDITIMAGE",
 						"q": "Upp::TaskMgr",
@@ -17843,7 +17749,7 @@
 						"n": "VariateImage",
 						"t": "void (Image, int, Event<Array<Image> &>, Event<>)",
 						"i": "Upp::TaskMgr::VariateImage(Image,int,Event,Event)",
-						"r": "void VariateImage(Upp::Image orig, int count, Event<Array<Image>&> WhenResult, Event<> WhenError = Event<>())",
+						"r": "void VariateImage(Image orig, int count, Event<Array<Image>&> WhenResult, Event<> WhenError = Event<>())",
 						"s": "Upp",
 						"u": "VARIATEIMAGE",
 						"q": "Upp::TaskMgr",
@@ -17869,7 +17775,7 @@
 						"n": "GetGenericPrompt",
 						"t": "void (const GenericPromptArgs &, Event<String>)",
 						"i": "Upp::TaskMgr::GetGenericPrompt(const GenericPromptArgs&,Event)",
-						"r": "void GetGenericPrompt(const Upp::GenericPromptArgs& args, Event<String> WhenResult)",
+						"r": "void GetGenericPrompt(const GenericPromptArgs& args, Event<String> WhenResult)",
 						"s": "Upp",
 						"u": "GETGENERICPROMPT",
 						"q": "Upp::TaskMgr",
@@ -17895,7 +17801,7 @@
 						"n": "GetVision",
 						"t": "void (const String &, const VisionArgs &, Event<String>)",
 						"i": "Upp::TaskMgr::GetVision(const String&,const VisionArgs&,Event)",
-						"r": "void GetVision(const Upp::String& jpeg, const Upp::VisionArgs& args, Event<String> WhenResult)",
+						"r": "void GetVision(const String& jpeg, const VisionArgs& args, Event<String> WhenResult)",
 						"s": "Upp",
 						"u": "GETVISION",
 						"q": "Upp::TaskMgr",
@@ -17921,7 +17827,7 @@
 						"n": "GetCode",
 						"t": "void (const CodeArgs &, Event<String>)",
 						"i": "Upp::TaskMgr::GetCode(const CodeArgs&,Event)",
-						"r": "void GetCode(const Upp::CodeArgs& args, Event<String> WhenResult)",
+						"r": "void GetCode(const CodeArgs& args, Event<String> WhenResult)",
 						"s": "Upp",
 						"u": "GETCODE",
 						"q": "Upp::TaskMgr",
@@ -17947,7 +17853,7 @@
 						"n": "SetRule",
 						"t": "TaskRule &(const String &)",
 						"i": "Upp::TaskRule::SetRule(const String&)",
-						"r": "Upp::TaskRule& SetRule(const Upp::String& name)",
+						"r": "TaskRule& SetRule(const String& name)",
 						"s": "Upp",
 						"u": "SETRULE",
 						"q": "Upp::TaskRule",
@@ -17973,7 +17879,7 @@
 						"n": "Input",
 						"t": "TaskRule &(void (Upp::AiTask::*)())",
 						"i": "Upp::TaskRule::Input(void(Upp::AiTask::*)())",
-						"r": "Upp::TaskRule& Input(void (AiTask::*fn)())",
+						"r": "TaskRule& Input(void (AiTask::*fn)())",
 						"s": "Upp",
 						"u": "INPUT",
 						"q": "Upp::TaskRule",
@@ -17999,7 +17905,7 @@
 						"n": "Process",
 						"t": "TaskRule &(void (Upp::AiTask::*)())",
 						"i": "Upp::TaskRule::Process(void(Upp::AiTask::*)())",
-						"r": "Upp::TaskRule& Process(void (AiTask::*fn)())",
+						"r": "TaskRule& Process(void (AiTask::*fn)())",
 						"s": "Upp",
 						"u": "PROCESS",
 						"q": "Upp::TaskRule",
@@ -18025,7 +17931,7 @@
 						"n": "Spawnable",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::Spawnable(bool)",
-						"r": "Upp::TaskRule& Spawnable(bool b = true)",
+						"r": "TaskRule& Spawnable(bool b = true)",
 						"s": "Upp",
 						"u": "SPAWNABLE",
 						"q": "Upp::TaskRule",
@@ -18051,7 +17957,7 @@
 						"n": "MultiSpawnable",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::MultiSpawnable(bool)",
-						"r": "Upp::TaskRule& MultiSpawnable(bool b = true)",
+						"r": "TaskRule& MultiSpawnable(bool b = true)",
 						"s": "Upp",
 						"u": "MULTISPAWNABLE",
 						"q": "Upp::TaskRule",
@@ -18077,7 +17983,7 @@
 						"n": "CrossMode",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::CrossMode(bool)",
-						"r": "Upp::TaskRule& CrossMode(bool b = true)",
+						"r": "TaskRule& CrossMode(bool b = true)",
 						"s": "Upp",
 						"u": "CROSSMODE",
 						"q": "Upp::TaskRule",
@@ -18103,7 +18009,7 @@
 						"n": "SeparateItems",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::SeparateItems(bool)",
-						"r": "Upp::TaskRule& SeparateItems(bool b = true)",
+						"r": "TaskRule& SeparateItems(bool b = true)",
 						"s": "Upp",
 						"u": "SEPARATEITEMS",
 						"q": "Upp::TaskRule",
@@ -18129,7 +18035,7 @@
 						"n": "DebugInput",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::DebugInput(bool)",
-						"r": "Upp::TaskRule& DebugInput(bool b = true)",
+						"r": "TaskRule& DebugInput(bool b = true)",
 						"s": "Upp",
 						"u": "DEBUGINPUT",
 						"q": "Upp::TaskRule",
@@ -18155,7 +18061,7 @@
 						"n": "ImageTask",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::ImageTask(bool)",
-						"r": "Upp::TaskRule& ImageTask(bool b = true)",
+						"r": "TaskRule& ImageTask(bool b = true)",
 						"s": "Upp",
 						"u": "IMAGETASK",
 						"q": "Upp::TaskRule",
@@ -18181,7 +18087,7 @@
 						"n": "ImageEditTask",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::ImageEditTask(bool)",
-						"r": "Upp::TaskRule& ImageEditTask(bool b = true)",
+						"r": "TaskRule& ImageEditTask(bool b = true)",
 						"s": "Upp",
 						"u": "IMAGEEDITTASK",
 						"q": "Upp::TaskRule",
@@ -18207,7 +18113,7 @@
 						"n": "ImageVariateTask",
 						"t": "TaskRule &(bool)",
 						"i": "Upp::TaskRule::ImageVariateTask(bool)",
-						"r": "Upp::TaskRule& ImageVariateTask(bool b = true)",
+						"r": "TaskRule& ImageVariateTask(bool b = true)",
 						"s": "Upp",
 						"u": "IMAGEVARIATETASK",
 						"q": "Upp::TaskRule",
@@ -18233,7 +18139,7 @@
 						"n": "SetupInstance",
 						"t": "void (::Ide *)",
 						"i": "Upp::TaskMgrConfig::SetupInstance(::Ide*)",
-						"r": "void SetupInstance(Ide *ide)",
+						"r": "void SetupInstance(::Ide *ide)",
 						"s": "Upp",
 						"u": "SETUPINSTANCE",
 						"q": "Upp::TaskMgrConfig",
@@ -18259,7 +18165,7 @@
 						"n": "AiTaskManager",
 						"t": "TaskMgr &()",
 						"i": "Upp::AiTaskManager()",
-						"r": "Upp::TaskMgr& AiTaskManager()",
+						"r": "TaskMgr& AiTaskManager()",
 						"s": "Upp",
 						"u": "AITASKMANAGER",
 						"q": "Upp",
@@ -18344,7 +18250,7 @@
 						"n": "SetError",
 						"t": "void (String)",
 						"i": "Upp::AiTask::SetError(String)",
-						"r": "void SetError(Upp::String s)",
+						"r": "void SetError(String s)",
 						"s": "Upp",
 						"u": "SETERROR",
 						"q": "Upp::AiTask",
@@ -18370,7 +18276,7 @@
 						"n": "GetInputHash",
 						"t": "String () const",
 						"i": "Upp::AiTask::GetInputHash()const",
-						"r": "Upp::String GetInputHash() const",
+						"r": "String GetInputHash() const",
 						"s": "Upp",
 						"u": "GETINPUTHASH",
 						"q": "Upp::AiTask",
@@ -18396,7 +18302,7 @@
 						"n": "GetOutputHash",
 						"t": "String () const",
 						"i": "Upp::AiTask::GetOutputHash()const",
-						"r": "Upp::String GetOutputHash() const",
+						"r": "String GetOutputHash() const",
 						"s": "Upp",
 						"u": "GETOUTPUTHASH",
 						"q": "Upp::AiTask",
@@ -18422,7 +18328,7 @@
 						"n": "GetDescription",
 						"t": "String () const",
 						"i": "Upp::AiTask::GetDescription()const",
-						"r": "Upp::String GetDescription() const",
+						"r": "String GetDescription() const",
 						"s": "Upp",
 						"u": "GETDESCRIPTION",
 						"q": "Upp::AiTask",
@@ -18448,7 +18354,7 @@
 						"n": "GetTypeString",
 						"t": "String () const",
 						"i": "Upp::AiTask::GetTypeString()const",
-						"r": "Upp::String GetTypeString() const",
+						"r": "String GetTypeString() const",
 						"s": "Upp",
 						"u": "GETTYPESTRING",
 						"q": "Upp::AiTask",
@@ -18552,7 +18458,7 @@
 						"n": "FixInvalidChars",
 						"t": "String (const String &)",
 						"i": "Upp::AiTask::FixInvalidChars(const String&)",
-						"r": "Upp::String FixInvalidChars(const Upp::String& s)",
+						"r": "String FixInvalidChars(const String& s)",
 						"s": "Upp",
 						"u": "FIXINVALIDCHARS",
 						"q": "Upp::AiTask",
@@ -18578,7 +18484,7 @@
 						"n": "EscapeString",
 						"t": "void (String &)",
 						"i": "Upp::AiTask::EscapeString(String&)",
-						"r": "void EscapeString(Upp::String& s)",
+						"r": "void EscapeString(String& s)",
 						"s": "Upp",
 						"u": "ESCAPESTRING",
 						"q": "Upp::AiTask",
@@ -18604,7 +18510,7 @@
 						"n": "RemoveQuotes",
 						"t": "void (String &)",
 						"i": "Upp::AiTask::RemoveQuotes(String&)",
-						"r": "void RemoveQuotes(Upp::String& s)",
+						"r": "void RemoveQuotes(String& s)",
 						"s": "Upp",
 						"u": "REMOVEQUOTES",
 						"q": "Upp::AiTask",
@@ -18630,7 +18536,7 @@
 						"n": "RemoveQuotes2",
 						"t": "void (String &)",
 						"i": "Upp::AiTask::RemoveQuotes2(String&)",
-						"r": "void RemoveQuotes2(Upp::String& s_)",
+						"r": "void RemoveQuotes2(String& s_)",
 						"s": "Upp",
 						"u": "REMOVEQUOTES2",
 						"q": "Upp::AiTask",
@@ -18656,7 +18562,7 @@
 						"n": "RemoveParenthesis",
 						"t": "void (String &)",
 						"i": "Upp::AiTask::RemoveParenthesis(String&)",
-						"r": "void RemoveParenthesis(Upp::String& s)",
+						"r": "void RemoveParenthesis(String& s)",
 						"s": "Upp",
 						"u": "REMOVEPARENTHESIS",
 						"q": "Upp::AiTask",
@@ -18812,7 +18718,7 @@
 						"n": "GetTaskMgr",
 						"t": "TaskMgr &()",
 						"i": "Upp::AiTask::GetTaskMgr()",
-						"r": "Upp::TaskMgr& GetTaskMgr()",
+						"r": "TaskMgr& GetTaskMgr()",
 						"s": "Upp",
 						"u": "GETTASKMGR",
 						"q": "Upp::AiTask",
@@ -19138,7 +19044,7 @@
 						"n": "GetTreeString",
 						"t": "String (int) const",
 						"i": "Upp::TaskTitledList::GetTreeString(int)const",
-						"r": "Upp::String GetTreeString(int indent) const",
+						"r": "String GetTreeString(int indent) const",
 						"s": "Upp",
 						"u": "GETTREESTRING",
 						"q": "Upp::TaskTitledList",
@@ -19164,7 +19070,7 @@
 						"n": "GetTreeString",
 						"t": "String () const",
 						"i": "Upp::AiPrompt::GetTreeString()const",
-						"r": "Upp::String GetTreeString() const",
+						"r": "String GetTreeString() const",
 						"s": "Upp",
 						"u": "GETTREESTRING",
 						"q": "Upp::AiPrompt",
@@ -19190,7 +19096,7 @@
 						"n": "LineBegin",
 						"t": "void (int, String &) const",
 						"i": "Upp::TaskTitledList::LineBegin(int,String&)const",
-						"r": "void LineBegin(int i, Upp::String& s) const",
+						"r": "void LineBegin(int i, String& s) const",
 						"s": "Upp",
 						"u": "LINEBEGIN",
 						"q": "Upp::TaskTitledList",
@@ -19216,7 +19122,7 @@
 						"n": "AsString",
 						"t": "String () const",
 						"i": "Upp::TaskTitledList::AsString()const",
-						"r": "Upp::String AsString() const",
+						"r": "String AsString() const",
 						"s": "Upp",
 						"u": "ASSTRING",
 						"q": "Upp::TaskTitledList",
@@ -19242,7 +19148,7 @@
 						"n": "AsString",
 						"t": "String () const",
 						"i": "Upp::AiPrompt::AsString()const",
-						"r": "Upp::String AsString() const",
+						"r": "String AsString() const",
 						"s": "Upp",
 						"u": "ASSTRING",
 						"q": "Upp::AiPrompt",
@@ -19275,7 +19181,7 @@
 						"n": "FindRangeByHashSha1",
 						"t": "AiAnnotationItem::SourceRange *(const String &)",
 						"i": "Upp::AiAnnotationItem::FindRangeByHashSha1(const String&)",
-						"r": "Upp::AiAnnotationItem::SourceRange *FindRangeByHashSha1(const Upp::String& sha1)",
+						"r": "AiAnnotationItem::SourceRange *FindRangeByHashSha1(const String& sha1)",
 						"s": "Upp",
 						"u": "FINDRANGEBYHASHSHA1",
 						"q": "Upp::AiAnnotationItem",
@@ -19285,12 +19191,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "2f2da1edf7268f6ea9f89964bd4bc9a75d944ad9"
-							},
 							{
 								"items": [
 
@@ -19307,7 +19207,7 @@
 						"n": "RealizeRangeByHashSha1",
 						"t": "AiAnnotationItem::SourceRange &(const String &)",
 						"i": "Upp::AiAnnotationItem::RealizeRangeByHashSha1(const String&)",
-						"r": "Upp::AiAnnotationItem::SourceRange& RealizeRangeByHashSha1(const Upp::String& sha1)",
+						"r": "AiAnnotationItem::SourceRange& RealizeRangeByHashSha1(const String& sha1)",
 						"s": "Upp",
 						"u": "REALIZERANGEBYHASHSHA1",
 						"q": "Upp::AiAnnotationItem",
@@ -19317,12 +19217,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8f055427b45fe1c27ce7f8d977daa6e82d7fa23d"
-							},
 							{
 								"items": [
 
@@ -19339,7 +19233,7 @@
 						"n": "FindAddData",
 						"t": "int (const String &)",
 						"i": "Upp::AiAnnotationItem::FindAddData(const String&)",
-						"r": "int FindAddData(const Upp::String& txt)",
+						"r": "int FindAddData(const String& txt)",
 						"s": "Upp",
 						"u": "FINDADDDATA",
 						"q": "Upp::AiAnnotationItem",
@@ -19391,7 +19285,7 @@
 						"n": "GetDataString",
 						"t": "String (int) const",
 						"i": "Upp::AiAnnotationItem::GetDataString(int)const",
-						"r": "Upp::String GetDataString(int data_i) const",
+						"r": "String GetDataString(int data_i) const",
 						"s": "Upp",
 						"u": "GETDATASTRING",
 						"q": "Upp::AiAnnotationItem",
@@ -19406,6 +19300,32 @@
 
 								],
 								"h": "96fc7c3f95c56ebdfc93b68c35f6f41ab541b564"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FindAnySourceRange",
+						"t": "AiAnnotationItem::SourceRange *()",
+						"i": "Upp::AiAnnotationItem::FindAnySourceRange()",
+						"r": "AiAnnotationItem::SourceRange *FindAnySourceRange()",
+						"s": "Upp",
+						"u": "FINDANYSOURCERANGE",
+						"q": "Upp::AiAnnotationItem",
+						"w": "UPP::AIANNOTATIONITEM",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1c9709fcab53f6022559ac97cc67ce605ef7d0fd"
 							}
 						]
 					},
@@ -19483,12 +19403,6 @@
 								"items": [
 
 								],
-								"h": "484bd4ed1083981d20b3a5741d2ff356486ad60b"
-							},
-							{
-								"items": [
-
-								],
 								"h": "8152b43741451df9d1928c348dc769255be75e63"
 							}
 						]
@@ -19501,7 +19415,7 @@
 						"n": "Set",
 						"t": "void (const AnnotationItem &, const String &)",
 						"i": "Upp::AiAnnotationItem::Set(const AnnotationItem&,const String&)",
-						"r": "void Set(const AnnotationItem& s, const Upp::String& range_hash_sha1)",
+						"r": "void Set(const AnnotationItem& s, const String& range_hash_sha1)",
 						"s": "Upp",
 						"u": "SET",
 						"q": "Upp::AiAnnotationItem",
@@ -19511,12 +19425,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "818efa2a2ea12b1876e46c6e8b5959cb5e513e7e"
-							},
 							{
 								"items": [
 
@@ -19533,7 +19441,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiAnnotationItem::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiAnnotationItem",
@@ -19543,12 +19451,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0965c6c2dbbf5ad79fc942dc703d76fc3c48f64a"
-							},
 							{
 								"items": [
 
@@ -19565,7 +19467,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiAnnotationItem::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiAnnotationItem",
@@ -19575,12 +19477,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "c9d50ef5a9bd1e15cfe4095e0a0d0b24a5a997ae"
-							},
 							{
 								"items": [
 
@@ -19637,12 +19533,6 @@
 								"items": [
 
 								],
-								"h": "b8e22ba4634c90b8c56733238c38a315857fc8f6"
-							},
-							{
-								"items": [
-
-								],
 								"h": "4a306b5688cc9bcf654de85b5141fb3b01d65cdd"
 							}
 						]
@@ -19681,7 +19571,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiAnnotationItem::Data::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiAnnotationItem::Data",
@@ -19707,7 +19597,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiAnnotationItem::Data::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiAnnotationItem::Data",
@@ -19733,7 +19623,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::Item::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiAnnotationItem::SourceRange::Item",
@@ -19759,7 +19649,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::Item::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiAnnotationItem::SourceRange::Item",
@@ -19811,7 +19701,7 @@
 						"n": "SourceRange",
 						"t": "void (const SourceRange &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::SourceRange(const SourceRange&)",
-						"r": "SourceRange(const Upp::AiAnnotationItem::SourceRange& f)",
+						"r": "SourceRange(const SourceRange& f)",
 						"s": "Upp",
 						"u": "SOURCERANGE",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -19863,7 +19753,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -19889,7 +19779,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiAnnotationItem::SourceRange::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -19941,7 +19831,7 @@
 						"n": "Jsonize",
 						"t": "void (JsonIO &)",
 						"i": "Upp::AiFileInfo::Jsonize(JsonIO&)",
-						"r": "void Jsonize(Upp::JsonIO& json)",
+						"r": "void Jsonize(JsonIO& json)",
 						"s": "Upp",
 						"u": "JSONIZE",
 						"q": "Upp::AiFileInfo",
@@ -19967,7 +19857,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "Upp::AiFileInfo::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "Upp",
 						"u": "SERIALIZE",
 						"q": "Upp::AiFileInfo",
@@ -19982,6 +19872,58 @@
 
 								],
 								"h": "b6720bd09ae61f474dcf27a79232a815152fe1ab"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetAnnotationItemRange",
+						"t": "void (AnnotationItem &, Point &, Point &)",
+						"i": "Upp::GetAnnotationItemRange(AnnotationItem&,Point&,Point&)",
+						"r": "void GetAnnotationItemRange(AnnotationItem& it0, Point& b, Point& e)",
+						"s": "Upp",
+						"u": "GETANNOTATIONITEMRANGE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b6231b249471b54b5b25499d1d97e13ab3510025"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "UpdateAiAnnotationItemRange",
+						"t": "bool (const String &, AnnotationItem &, Point &, Point &, AiAnnotationItem &)",
+						"i": "Upp::UpdateAiAnnotationItemRange(const String&,AnnotationItem&,Point&,Point&,AiAnnotationItem&)",
+						"r": "bool UpdateAiAnnotationItemRange(const String& content, AnnotationItem& it0, Point& b, Point& e, AiAnnotationItem& it1)",
+						"s": "Upp",
+						"u": "UPDATEAIANNOTATIONITEMRANGE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "33ac9fdede190de495eaf72070d96b818976019f"
 							}
 						]
 					},
@@ -20007,12 +19949,6 @@
 								"items": [
 
 								],
-								"h": "33b2af2a22383f39dd5b1cbdc2800aa04f5df2c5"
-							},
-							{
-								"items": [
-
-								],
 								"h": "542db3ebddbf8154d2c89dafae91654aba85e4b7"
 							}
 						]
@@ -20025,7 +19961,7 @@
 						"n": "RemoveAll",
 						"t": "void (Item::Kind)",
 						"i": "Upp::AiAnnotationItem::SourceRange::RemoveAll(Item::Kind)",
-						"r": "void RemoveAll(Upp::AiAnnotationItem::SourceRange::Item::Kind kind)",
+						"r": "void RemoveAll(Item::Kind kind)",
 						"s": "Upp",
 						"u": "REMOVEALL",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -20077,7 +20013,7 @@
 						"n": "FindItem",
 						"t": "AiAnnotationItem::SourceRange::Item *(int)",
 						"i": "Upp::AiAnnotationItem::SourceRange::FindItem(int)",
-						"r": "Upp::AiAnnotationItem::SourceRange::Item *FindItem(int rel_line)",
+						"r": "AiAnnotationItem::SourceRange::Item *FindItem(int rel_line)",
 						"s": "Upp",
 						"u": "FINDITEM",
 						"q": "Upp::AiAnnotationItem::SourceRange",
@@ -20091,4 +20027,90 @@
 								"items": [
 
 								],
-								"h"
+								"h": "a1628ed488d040ccd7e50b6fff8f574aef688e95"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetStringRange",
+						"t": "String (String, Point, Point)",
+						"i": "Upp::GetStringRange(String,Point,Point)",
+						"r": "String GetStringRange(String content, Point begin, Point end)",
+						"s": "Upp",
+						"u": "GETSTRINGRANGE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "339c8fcd0aa2e3e75cdb741dfaee75e3200a1c27"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "UpdateAiFileInfo",
+						"t": "bool (AiFileInfo &, const String &)",
+						"i": "Upp::UpdateAiFileInfo(AiFileInfo&,const String&)",
+						"r": "bool UpdateAiFileInfo(AiFileInfo& f, const String& path)",
+						"s": "Upp",
+						"u": "UPDATEAIFILEINFO",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "44c0dec657fe88bb37fa5bf4ddf43a37033631f3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "RangeContains",
+						"t": "bool (Point, Point, Point)",
+						"i": "Upp::RangeContains(Point,Point,Point)",
+						"r": "bool RangeContains(Point pos, Point begin, Point end)",
+						"s": "Upp",
+						"u": "RANGECONTAINS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "79d4b5dfb6094b17a86162c38d792edbf57e491a"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

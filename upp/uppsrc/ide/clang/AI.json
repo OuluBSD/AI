@@ -1,5 +1,5 @@
 {
-	"saved_hash": "fb68d77c3ebce46317d85eaa27830102ae41fd05",
+	"saved_hash": "89245e1075f9e56fa44c4c4cdb2e9619228c3be5",
 	"files": [
 		{
 			"key": "clang.h",
@@ -6127,6 +6127,32 @@
 
 								],
 								"h": "633cddee2706d50b1962590ea31775f82d4cab69"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "umacros",
+						"t": "const char[12890]",
+						"i": "umacros",
+						"r": "const char umacros[]",
+						"s": "",
+						"u": "UMACROS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b41cdc088939f8b6621aa65930721a4b19be264"
 							}
 						]
 					}

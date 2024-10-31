@@ -1,0 +1,2165 @@
+{
+	"saved_hash": "5e33f8238699eeee57257414d261452038470d28",
+	"files": [
+		{
+			"key": "c++/v1/__random/uniform_int_distribution.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANDOM_UNIFORM_INT_DISTRIBUTION_H",
+						"t": "",
+						"i": "_LIBCPP___RANDOM_UNIFORM_INT_DISTRIBUTION_H",
+						"r": "_LIBCPP___RANDOM_UNIFORM_INT_DISTRIBUTION_H",
+						"s": "",
+						"u": "_LIBCPP___RANDOM_UNIFORM_INT_DISTRIBUTION_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc7eab85b4c69d31253735004c78b290cffde23d"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__independent_bits_engine",
+						"t": "",
+						"i": "std::__1::__independent_bits_engine",
+						"r": "template <class _Engine, class _UIntType> __independent_bits_engine",
+						"s": "std::__1",
+						"u": "__INDEPENDENT_BITS_ENGINE",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "79f8073ea52c1ab6a9f0a243b6c063c38a1506c3"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "result_type",
+						"t": "std::__independent_bits_engine::result_type",
+						"i": "std::__independent_bits_engine::result_type",
+						"r": "typedef _UIntType result_type",
+						"s": "std::__1",
+						"u": "RESULT_TYPE",
+						"q": "std::__independent_bits_engine",
+						"w": "STD::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e67168e403fb39104411bf84f05b3f44d208b449"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "_Engine_result_type",
+						"t": "std::__independent_bits_engine::_Engine_result_type",
+						"i": "std::__independent_bits_engine::_Engine_result_type",
+						"r": "typedef typename _Engine::result_type _Engine_result_type",
+						"s": "std::__1",
+						"u": "_ENGINE_RESULT_TYPE",
+						"q": "std::__independent_bits_engine",
+						"w": "STD::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45a37883cb1d58084e620ed924dc3fcbbea262a7"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "_Working_result_type",
+						"t": "std::__independent_bits_engine::_Working_result_type",
+						"i": "std::__independent_bits_engine::_Working_result_type",
+						"r": "typedef __conditional_t<sizeof(_Engine_result_type) <",
+						"s": "std::__1",
+						"u": "_WORKING_RESULT_TYPE",
+						"q": "std::__independent_bits_engine",
+						"w": "STD::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e29794d946a1d90a2116b64ca85015f265a20a00"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__e_",
+						"t": "_Engine &",
+						"i": "std::__1::__independent_bits_engine::__e_",
+						"r": "_Engine& __e_",
+						"s": "std::__1",
+						"u": "__E_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "981b829937df0f0db7c9d555e855efe2239ab969"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__w_",
+						"t": "size_t",
+						"i": "std::__1::__independent_bits_engine::__w_",
+						"r": "size_t __w_",
+						"s": "std::__1",
+						"u": "__W_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "095e0d8e37dcda41d0a67264e90d1d31d12de4f8"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__w0_",
+						"t": "size_t",
+						"i": "std::__1::__independent_bits_engine::__w0_",
+						"r": "size_t __w0_",
+						"s": "std::__1",
+						"u": "__W0_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c740055bff17f7607bf90f7cfec395f2f0986b89"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__n_",
+						"t": "size_t",
+						"i": "std::__1::__independent_bits_engine::__n_",
+						"r": "size_t __n_",
+						"s": "std::__1",
+						"u": "__N_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "23b417bdf3e5c8ea1b002a067f4e696b300e471d"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__n0_",
+						"t": "size_t",
+						"i": "std::__1::__independent_bits_engine::__n0_",
+						"r": "size_t __n0_",
+						"s": "std::__1",
+						"u": "__N0_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fbd3632d463ac037c8d266757b85ef43905d4c99"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__y0_",
+						"t": "_Working_result_type",
+						"i": "std::__1::__independent_bits_engine::__y0_",
+						"r": "_Working_result_type __y0_",
+						"s": "std::__1",
+						"u": "__Y0_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "38c2caf21231088ef4d6af31bbbc12471d95c365"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__y1_",
+						"t": "_Working_result_type",
+						"i": "std::__1::__independent_bits_engine::__y1_",
+						"r": "_Working_result_type __y1_",
+						"s": "std::__1",
+						"u": "__Y1_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f03683c10a4ba3eb0295248808e13a0a83b44fb"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__mask0_",
+						"t": "_Engine_result_type",
+						"i": "std::__1::__independent_bits_engine::__mask0_",
+						"r": "_Engine_result_type __mask0_",
+						"s": "std::__1",
+						"u": "__MASK0_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7a45d16ecf31d02ef819ed1c55274fc6bdef29bc"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__mask1_",
+						"t": "_Engine_result_type",
+						"i": "std::__1::__independent_bits_engine::__mask1_",
+						"r": "_Engine_result_type __mask1_",
+						"s": "std::__1",
+						"u": "__MASK1_",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b9966987de017508b4e5ef715373bdbd12c710f2"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "_Rp",
+						"t": "const _Working_result_type",
+						"i": "std::__1::__independent_bits_engine::_Rp",
+						"r": "static constexpr _Working_result_type _Rp",
+						"s": "std::__1",
+						"u": "_RP",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6558de5e973c13731a03a7f5b7936b2dafceb497"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "__m",
+						"t": "const size_t",
+						"i": "std::__1::__independent_bits_engine::__m",
+						"r": "static constexpr size_t __m",
+						"s": "std::__1",
+						"u": "__M",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d04299869fbc8e94947c09c3cdb79311997efcc3"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "_WDt",
+						"t": "const size_t",
+						"i": "std::__1::__independent_bits_engine::_WDt",
+						"r": "static constexpr size_t _WDt",
+						"s": "std::__1",
+						"u": "_WDT",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "608a2ce8c2cc7f72efaee3b9d2b8ae4e540ca654"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "_EDt",
+						"t": "const size_t",
+						"i": "std::__1::__independent_bits_engine::_EDt",
+						"r": "static constexpr size_t _EDt",
+						"s": "std::__1",
+						"u": "_EDT",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b13f47d2ee04dffc0a37564535dfa541e599e999"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__independent_bits_engine<_Engine, _UIntType>",
+						"t": "void (_Engine &, size_t)",
+						"i": "std::__1::__independent_bits_engine::__independent_bits_engine(_Engine&,size_t)",
+						"r": "__independent_bits_engine<_Engine, _UIntType>(_Engine& __e, size_t __w) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1",
+						"u": "__INDEPENDENT_BITS_ENGINE<_ENGINE, _UINTTYPE>",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94af269b8135804dc6eaf0f04cd09fa02f58afb5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "result_type ()",
+						"i": "std::__1::__independent_bits_engine::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type operator()()",
+						"s": "std::__1",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8f2550740964f468745b1dccd899a8742dd5cebc"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__eval",
+						"t": "result_type (false_type)",
+						"i": "std::__1::__independent_bits_engine::__eval(false_type)",
+						"r": "result_type __eval(false_type) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1",
+						"u": "__EVAL",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "635057e8ed6177d04f6b8f05b3c37353bc4388c9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__eval",
+						"t": "result_type (true_type)",
+						"i": "std::__1::__independent_bits_engine::__eval(true_type)",
+						"r": "result_type __eval(true_type) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1",
+						"u": "__EVAL",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "494fa11872baf10ae7e9d51a07a3304f2d5f84dc"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__independent_bits_engine<_Engine, _UIntType>",
+						"t": "void (_Engine &, size_t)",
+						"i": "std::__1::__independent_bits_engine::__independent_bits_engine(_Engine&,size_t)",
+						"r": "template <class _Engine, class _UIntType> __independent_bits_engine<_Engine, _UIntType>(_Engine& __e, size_t __w)",
+						"s": "std::__1",
+						"u": "__INDEPENDENT_BITS_ENGINE<_ENGINE, _UINTTYPE>",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b9561c66be161d2309f5cb59dc94a012418a8163"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__eval",
+						"t": "_UIntType (false_type)",
+						"i": "std::__1::__independent_bits_engine::__eval(false_type)",
+						"r": "template <class _Engine, class _UIntType> _UIntType __eval(false_type)",
+						"s": "std::__1",
+						"u": "__EVAL",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4961e5d28d29a89b00cdfcc55699404f24edbfe"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__eval",
+						"t": "_UIntType (true_type)",
+						"i": "std::__1::__independent_bits_engine::__eval(true_type)",
+						"r": "template <class _Engine, class _UIntType> _UIntType __eval(true_type)",
+						"s": "std::__1",
+						"u": "__EVAL",
+						"q": "std::__1::__independent_bits_engine",
+						"w": "STD::__1::__INDEPENDENT_BITS_ENGINE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e55dbc6a78b5fc0e9d98dc995fde2a1c754a9da0"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "uniform_int_distribution",
+						"t": "",
+						"i": "std::__1::uniform_int_distribution",
+						"r": "template <class _IntType",
+						"s": "std::__1",
+						"u": "UNIFORM_INT_DISTRIBUTION",
+						"q": "std::__1::uniform_int_distribution",
+						"w": "STD::__1::UNIFORM_INT_DISTRIBUTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "860c378993c743448a5f710b54283c7e85036da8"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "result_type",
+						"t": "std::uniform_int_distribution::result_type",
+						"i": "std::uniform_int_distribution::result_type",
+						"r": "typedef _IntType result_type",
+						"s": "std::__1",
+						"u": "RESULT_TYPE",
+						"q": "std::uniform_int_distribution",
+						"w": "STD::UNIFORM_INT_DISTRIBUTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eee85e95ab0fb24fea7b841477759af6d9602703"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "param_type",
+						"t": "std::uniform_int_distribution::param_type",
+						"i": "std::uniform_int_distribution::param_type",
+						"r": "param_type",
+						"s": "std::__1",
+						"u": "PARAM_TYPE",
+						"q": "std::uniform_int_distribution::param_type",
+						"w": "STD::UNIFORM_INT_DISTRIBUTION::PARAM_TYPE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d15e58d852d9e05f30a533d4c4d7ec42c99fcbd"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__a_",
+						"t": "result_type",
+						"i": "std::__1::uniform_int_distribution::param_type::__a_",
+						"r": "result_type __a_",
+						"s": "std::__1",
+						"u": "__A_",
+						"q": "std::__1::uniform_int_distribution::param_type",
+						"w": "STD::__1::UNIFORM_INT_DISTRIBUTION::PARAM_TYPE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "84db0a4bc598b5f7e0667da54b813ea1bbbf9d90"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__b_",
+						"t": "result_type",
+						"i": "std::__1::uniform_int_distribution::param_type::__b_",
+						"r": "result_type __b_",
+						"s": "std::__1",
+						"u": "__B_",
+						"q": "std::__1::uniform_int_distribution::param_type",
+						"w": "STD::__1::UNIFORM_INT_DISTRIBUTION::PARAM_TYPE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36f8854af3c2facdd394e00552415a5e3f50243f"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "distribution_type",
+						"t": "std::uniform_int_distribution::param_type::distribution_type",
+						"i": "std::uniform_int_distribution::param_type::distribution_type",
+						"r": "typedef uniform_int_distribution<_IntType> distribution_type",
+						"s": "std::__1",
+						"u": "DISTRIBUTION_TYPE",
+						"q": "std::uniform_int_distribution::param_type",
+						"w": "STD::UNIFORM_INT_DISTRIBUTION::PARAM_TYPE",
+						"y": "uniform_int_distribution",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2af04ff8dbfbaf7bf5f72de2cc241572d6803dc8"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "param_type",
+						"t": "void (result_type, result_type)",
+						"i": "std::__1::uniform_int_distribution::param_type::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) explicit param_type(result_type __a = 0, result_type __b = numeric_limits<result_type>::max())",
+						"s": "std::__1",
+						"u": "PARAM_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2bfee369c826937021a14ece9ebe4f30fe69bfb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "a",
+						"t": "result_type () const",
+						"i": "std::__1::uniform_int_distribution::param_type::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type a() const",
+						"s": "std::__1",
+						"u": "A",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9b843b1c4cde6810e277d50cc3561d7d3eab6dc"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "b",
+						"t": "result_type () const",
+						"i": "std::__1::uniform_int_distribution::param_type::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type b() const",
+						"s": "std::__1",
+						"u": "B",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca55981aee9cddca5b024756add1068897da3dae"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const param_type &, const param_type &)",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0afa564a6ac026f726ba9bda8b8a0bd8a4701406"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const param_type &, const param_type &)",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "438251c42037da153ea328a8c766d2f5ef089880"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__p_",
+						"t": "param_type",
+						"i": "std::__1::uniform_int_distribution::__p_",
+						"r": "param_type __p_",
+						"s": "std::__1",
+						"u": "__P_",
+						"q": "std::__1::uniform_int_distribution",
+						"w": "STD::__1::UNIFORM_INT_DISTRIBUTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b5a0728bc8940bd0ab7cbc73d2ed3a8c62ff1fc5"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "uniform_int_distribution<_IntType>",
+						"t": "void ()",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) uniform_int_distribution<_IntType>()",
+						"s": "std::__1",
+						"u": "UNIFORM_INT_DISTRIBUTION<_INTTYPE>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "653ed2b43252d5d0fff94f2bba7a8c3eba91d579"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "uniform_int_distribution<_IntType>",
+						"t": "void (result_type, result_type)",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) explicit uniform_int_distribution<_IntType>(result_type __a, result_type __b = numeric_limits<result_type>::max())",
+						"s": "std::__1",
+						"u": "UNIFORM_INT_DISTRIBUTION<_INTTYPE>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6411b239a480644e38b1240a8ea432889a7785d"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "uniform_int_distribution<_IntType>",
+						"t": "void (const param_type &)",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) explicit uniform_int_distribution<_IntType>(const param_type& __p)",
+						"s": "std::__1",
+						"u": "UNIFORM_INT_DISTRIBUTION<_INTTYPE>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3983b44635d10d18ba875d8c2cf805998d020cee"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "reset",
+						"t": "void ()",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void reset()",
+						"s": "std::__1",
+						"u": "RESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81564be139f6707086c9d119d346add9dbfefca6"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "result_type (_URNG &)",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "template <class _URNG> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type operator()(_URNG& __g)",
+						"s": "std::__1",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "19eaba3ea3d6706f4468822b3e4f4bdbf1b2ed23"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "result_type (_URNG &, const param_type &)",
+						"i": "std::__1::uniform_int_distribution::operator()(_URNG&,const param_type&)",
+						"r": "template <class _URNG> result_type operator()(_URNG& __g, const param_type& __p) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std::__1",
+						"u": "OPERATOR()",
+						"q": "std::__1::uniform_int_distribution",
+						"w": "STD::__1::UNIFORM_INT_DISTRIBUTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b1e1528a613f0acc42c870f7a350330d2ad58e5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "a",
+						"t": "result_type () const",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type a() const",
+						"s": "std::__1",
+						"u": "A",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9b843b1c4cde6810e277d50cc3561d7d3eab6dc"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "b",
+						"t": "result_type () const",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type b() const",
+						"s": "std::__1",
+						"u": "B",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca55981aee9cddca5b024756add1068897da3dae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "param",
+						"t": "param_type () const",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) param_type param() const",
+						"s": "std::__1",
+						"u": "PARAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a03841b8bb758cf1b394339f4709f22ba6276c0a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "param",
+						"t": "void (const param_type &)",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void param(const param_type& __p)",
+						"s": "std::__1",
+						"u": "PARAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34f856eb81f734400851e63762256eb2aef18dff"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "min",
+						"t": "result_type () const",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type min() const",
+						"s": "std::__1",
+						"u": "MIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bb0c6ffd73687eedc3872ca8eaad775837c862e7"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "max",
+						"t": "result_type () const",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) result_type max() const",
+						"s": "std::__1",
+						"u": "MAX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d98920ff296028593b135d06db86d362998f7898"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const uniform_int_distribution<_IntType> &, const uniform_int_distribution<_IntType> &)",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6c6b6b592057c6a323fd6591d6e0908d26a79f04"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const uniform_int_distribution<_IntType> &, const uniform_int_distribution<_IntType> &)",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0825cd3ee7e2c53e94461beba6ef87977fa5f5b6"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "typename uniform_int_distribution<_IntType>::result_type (_URNG &, const param_type &)",
+						"i": "std::__1::uniform_int_distribution::",
+						"r": "template <class _IntType> template <class _URNG> __attribute__((no_sanitize(\"unsigned-integer-overflow\"))) typename uniform_int_distribution<_IntType>::result_type operator()(_URNG& __g, const param_type& __p)",
+						"s": "std::__1",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92badeb8e908d6e9fc92c543a0a3a46e8b30f129"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator<<",
+						"t": "basic_ostream<_CharT, _Traits> &(basic_ostream<_CharT, _Traits> &, const uniform_int_distribution<_IT> &)",
+						"i": "std::__1::",
+						"r": "template <class _CharT, class _Traits, class _IT> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) basic_ostream<_CharT, _Traits>& operator<<(basic_ostream<_CharT, _Traits>& __os, const uniform_int_distribution<_IT>& __x)",
+						"s": "std::__1",
+						"u": "OPERATOR<<",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b94ef3edb79cb854d29714760c559c7227be121"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator>>",
+						"t": "basic_istream<_CharT, _Traits> &(basic_istream<_CharT, _Traits> &, uniform_int_distribution<_IT> &)",
+						"i": "std::__1::",
+						"r": "template <class _CharT, class _Traits, class _IT> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) basic_istream<_CharT, _Traits>& operator>>(basic_istream<_CharT, _Traits>& __is, uniform_int_distribution<_IT>& __x)",
+						"s": "std::__1",
+						"u": "OPERATOR>>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b1ea952743472c2f62e8db89d28a0db72463e60"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__random/is_valid.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANDOM_IS_VALID_H",
+						"t": "",
+						"i": "_LIBCPP___RANDOM_IS_VALID_H",
+						"r": "_LIBCPP___RANDOM_IS_VALID_H",
+						"s": "",
+						"u": "_LIBCPP___RANDOM_IS_VALID_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f51401cfccd14cc554b53ea3a16d583a2fc44f86"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_realtype",
+						"t": "",
+						"i": "std::__1::__libcpp_random_is_valid_realtype",
+						"r": "template <class> __libcpp_random_is_valid_realtype : false_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_REALTYPE",
+						"q": "std::__1::__libcpp_random_is_valid_realtype",
+						"w": "STD::__1::__LIBCPP_RANDOM_IS_VALID_REALTYPE",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bc0eda86984e6f7f3902a85f61a8959c67a29af4"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_realtype",
+						"t": "std::__libcpp_random_is_valid_realtype<float>",
+						"i": "std::__libcpp_random_is_valid_realtype",
+						"r": "template<> __libcpp_random_is_valid_realtype<float> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_REALTYPE",
+						"q": "std::__libcpp_random_is_valid_realtype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_REALTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e01cec9c00b2781b76737a1f39371128c6cbe927"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_realtype",
+						"t": "std::__libcpp_random_is_valid_realtype<double>",
+						"i": "std::__libcpp_random_is_valid_realtype",
+						"r": "template<> __libcpp_random_is_valid_realtype<double> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_REALTYPE",
+						"q": "std::__libcpp_random_is_valid_realtype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_REALTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "002f5f42cab58432fd7e86ade976b3db20cb7c93"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_realtype",
+						"t": "std::__libcpp_random_is_valid_realtype<long double>",
+						"i": "std::__libcpp_random_is_valid_realtype",
+						"r": "template<> __libcpp_random_is_valid_realtype<long double> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_REALTYPE",
+						"q": "std::__libcpp_random_is_valid_realtype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_REALTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8db4c24667b95c24e49247a1eed1c10b2d3bf3ec"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "",
+						"i": "std::__1::__libcpp_random_is_valid_inttype",
+						"r": "template <class> __libcpp_random_is_valid_inttype : false_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__1::__libcpp_random_is_valid_inttype",
+						"w": "STD::__1::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60e2febd111444f6bc3ea219cf488c56daa3e39c"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<int8_t>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<int8_t> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c31db87bf7846892c8ef391be21edc5aad99aae7"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<short>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<short> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1bbaf14529e8ee8305bc34595a6a55941c9853b"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<int>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<int> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "444b56e463269938f21d252503a6c3f61ba45190"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<long>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<long> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "891c04aefca83fa18c8a4b486ef0c1d597a6bf50"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<long long>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<long long> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "435011dfc98f1192d6ced43a9b819ae1c33441da"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<uint8_t>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<uint8_t> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b99d934226d6f69c307b9ac5ffc6c95a3c51293"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<unsigned short>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<unsigned short> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e83b43843b66887b8294759e8cba86ede8403361"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<unsigned int>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<unsigned int> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d63cb11a5c7fd77405f190c35de8f4066a046189"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<unsigned long>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<unsigned long> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b2de504dfdddaba6bf9bc2d80caf749fde161b0c"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<unsigned long long>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<unsigned long long> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "38571ed80907095cc3cd82b52cc53830e61a3d4f"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<__int128_t>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<__int128_t> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3bfd7cacdde49daa1491a60e8e46bec88166d3d2"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_inttype",
+						"t": "std::__libcpp_random_is_valid_inttype<__uint128_t>",
+						"i": "std::__libcpp_random_is_valid_inttype",
+						"r": "template<> __libcpp_random_is_valid_inttype<__uint128_t> : true_type",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"q": "std::__libcpp_random_is_valid_inttype",
+						"w": "STD::__LIBCPP_RANDOM_IS_VALID_INTTYPE",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f0d07ea5515ad60ad728badbb87b260f5da2596"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_random_is_valid_urng",
+						"t": "",
+						"i": "std::__1::__libcpp_random_is_valid_urng",
+						"r": "template <class, class",
+						"s": "std::__1",
+						"u": "__LIBCPP_RANDOM_IS_VALID_URNG",
+						"q": "std::__1::__libcpp_random_is_valid_urng",
+						"w": "STD::__1::__LIBCPP_RANDOM_IS_VALID_URNG",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6106439187a2943b33e8a4ed6c4de58a73a42cef"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__random/log2.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANDOM_LOG2_H",
+						"t": "",
+						"i": "_LIBCPP___RANDOM_LOG2_H",
+						"r": "_LIBCPP___RANDOM_LOG2_H",
+						"s": "",
+						"u": "_LIBCPP___RANDOM_LOG2_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e8b2a12eba17ab8199755182fbfa63e436286625"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__log2_imp",
+						"t": "",
+						"i": "std::__1::__log2_imp",
+						"r": "template <class _UIntType, _UIntType _Xp, size_t _Rp> __log2_imp",
+						"s": "std::__1",
+						"u": "__LOG2_IMP",
+						"q": "std::__1::__log2_imp",
+						"w": "STD::__1::__LOG2_IMP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b963f1b4d285e6fb75a33095a18e6a4c08b2265"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "value",
+						"t": "const size_t",
+						"i": "value",
+						"r": "static const size_t value",
+						"s": "",
+						"u": "VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "723124ebafff49b0932b38fa09b942aa7e34899d"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "value",
+						"t": "const size_t",
+						"i": "value",
+						"r": "static const size_t value",
+						"s": "",
+						"u": "VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b9b6a0e78955acbfb3ad0470b1628467a23a61c4"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "value",
+						"t": "const size_t",
+						"i": "value",
+						"r": "static const size_t value",
+						"s": "",
+						"u": "VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "58b964b23624107e05930a31af8f0bca89b79c05"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "value",
+						"t": "const size_t",
+						"i": "value",
+						"r": "static const size_t value",
+						"s": "",
+						"u": "VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2488533d922f582d86b94834b82c3d78275f0135"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__log2",
+						"t": "",
+						"i": "std::__1::__log2",
+						"r": "template <class _UIntType, _UIntType _Xp> __log2",
+						"s": "std::__1",
+						"u": "__LOG2",
+						"q": "std::__1::__log2",
+						"w": "STD::__1::__LOG2",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "539f42f5097374a20fb91de8c2ff5e6b6332e617"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "value",
+						"t": "const size_t",
+						"i": "std::__1::__log2::value",
+						"r": "static const size_t value",
+						"s": "std::__1",
+						"u": "VALUE",
+						"q": "std::__1::__log2",
+						"w": "STD::__1::__LOG2",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec3e4e28b64cbdb548b8be3e7ed13e049f4a07ed"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__random/uniform_random_bit_generator.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___RANDOM_UNIFORM_RANDOM_BIT_GENERATOR_H",
+						"t": "",
+						"i": "_LIBCPP___RANDOM_UNIFORM_RANDOM_BIT_GENERATOR_H",
+						"r": "_LIBCPP___RANDOM_UNIFORM_RANDOM_BIT_GENERATOR_H",
+						"s": "",
+						"u": "_LIBCPP___RANDOM_UNIFORM_RANDOM_BIT_GENERATOR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d89d768486cfc4d3f50503125bccb0ca7f27e53a"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,1600 @@
+{
+	"saved_hash": "a3a6309ffde3eeae56b30381b795474b444644b3",
+	"files": [
+		{
+			"key": "c++/v1/__exception/exception.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___EXCEPTION_EXCEPTION_H",
+						"t": "",
+						"i": "_LIBCPP___EXCEPTION_EXCEPTION_H",
+						"r": "_LIBCPP___EXCEPTION_EXCEPTION_H",
+						"s": "",
+						"u": "_LIBCPP___EXCEPTION_EXCEPTION_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "615ef8b713105aa3f848affe8db4f5cdddfe0c1f"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "exception",
+						"t": "std::exception",
+						"i": "std::exception",
+						"r": "exception",
+						"s": "std",
+						"u": "EXCEPTION",
+						"q": "std::exception",
+						"w": "STD::EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5e6b05d945802febbaddbe95404e68c21dbe1724"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "exception",
+						"t": "void () noexcept",
+						"i": "std::exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) exception()",
+						"s": "std",
+						"u": "EXCEPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "62dda61eee8508604b45da7972b93fc643496a79"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "exception",
+						"t": "void (const exception &) noexcept",
+						"i": "std::exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) exception(const exception&)",
+						"s": "std",
+						"u": "EXCEPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cdacda7d0cbdb4051d5962edbb8f0d2c9a80bf09"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "exception &(const exception &) noexcept",
+						"i": "std::exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) exception& operator",
+						"s": "std",
+						"u": "OPERATOR=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71f2fa00ce3e9c6ad1a3c0a1813ed9cfacf369bf"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~exception",
+						"t": "void () noexcept",
+						"i": "std::exception::~()",
+						"r": "~exception()",
+						"s": "std",
+						"u": "~EXCEPTION",
+						"q": "std::exception",
+						"w": "STD::EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa0a6b57e80379738d3ed5f064296cc10f434cb4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "what",
+						"t": "const char *() const noexcept",
+						"i": "std::exception::what()const",
+						"r": "const char *what() const",
+						"s": "std",
+						"u": "WHAT",
+						"q": "std::exception",
+						"w": "STD::EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c10e887d82e427786ff7e95593610b9a4527535f"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bad_exception",
+						"t": "std::bad_exception",
+						"i": "std::bad_exception",
+						"r": "bad_exception : public exception",
+						"s": "std",
+						"u": "BAD_EXCEPTION",
+						"q": "std::bad_exception",
+						"w": "STD::BAD_EXCEPTION",
+						"y": "std::exception",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c6295b2ab4c83da191b643b26f9f8f6ced3e8cb"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bad_exception",
+						"t": "void () noexcept",
+						"i": "std::bad_exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bad_exception()",
+						"s": "std",
+						"u": "BAD_EXCEPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4426671f09a99f4864c44b583e986aee6306605"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "bad_exception",
+						"t": "void (const bad_exception &) noexcept",
+						"i": "std::bad_exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bad_exception(const bad_exception&)",
+						"s": "std",
+						"u": "BAD_EXCEPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4382bfe9534d8e2936b142b77a842153b0dd0172"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "bad_exception &(const bad_exception &) noexcept",
+						"i": "std::bad_exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bad_exception& operator",
+						"s": "std",
+						"u": "OPERATOR=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fac447fd627f4dbacdf6fb5b09626ca698dd0b0a"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~bad_exception",
+						"t": "void () noexcept",
+						"i": "std::bad_exception::~()",
+						"r": "~bad_exception()",
+						"s": "std",
+						"u": "~BAD_EXCEPTION",
+						"q": "std::bad_exception",
+						"w": "STD::BAD_EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d430262fe36fdb9fd3bd9ca605c30769859eb15b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "what",
+						"t": "const char *() const noexcept",
+						"i": "std::bad_exception::what()const",
+						"r": "const char *what() const",
+						"s": "std",
+						"u": "WHAT",
+						"q": "std::bad_exception",
+						"w": "STD::BAD_EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8ce2ce3338c011b4b03ed227ab52167a634cbbe8"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__exception/exception_ptr.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___EXCEPTION_EXCEPTION_PTR_H",
+						"t": "",
+						"i": "_LIBCPP___EXCEPTION_EXCEPTION_PTR_H",
+						"r": "_LIBCPP___EXCEPTION_EXCEPTION_PTR_H",
+						"s": "",
+						"u": "_LIBCPP___EXCEPTION_EXCEPTION_PTR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7575bf9d9f879480c2a57284b0372084e4b2820c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__cxa_allocate_exception",
+						"t": "void *(size_t) throw()",
+						"i": "__cxa_allocate_exception(size_t)throw()",
+						"r": "void *__cxa_allocate_exception(size_t) throw()",
+						"s": "",
+						"u": "__CXA_ALLOCATE_EXCEPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "efaa1c429709915f29063f9ae3b76638f7ba4c8b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__cxa_free_exception",
+						"t": "void (void *) throw()",
+						"i": "__cxa_free_exception(void*)throw()",
+						"r": "void __cxa_free_exception(void *) throw()",
+						"s": "",
+						"u": "__CXA_FREE_EXCEPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fedef75aee3bc941a83139cfea8e944b6ed0424f"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__cxa_exception",
+						"t": "__cxxabiv1::__cxa_exception",
+						"i": "__cxxabiv1::__cxa_exception",
+						"r": "__cxa_exception",
+						"s": "",
+						"u": "__CXA_EXCEPTION",
+						"q": "__cxxabiv1::__cxa_exception",
+						"w": "__CXXABIV1::__CXA_EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c27e4109cb401045226343a9715e1d3a3d40a760"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__cxa_init_primary_exception",
+						"t": "__cxa_exception *(void *, std::type_info *, __thiscall void (*)(void *)) throw()",
+						"i": "__cxa_init_primary_exception(void*,std::type_info*,__thiscall void(*)(void*))throw()",
+						"r": "__cxa_exception *__cxa_init_primary_exception(void *, std::type_info *, __thiscall void (*)(void *)) throw()",
+						"s": "",
+						"u": "__CXA_INIT_PRIMARY_EXCEPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "663433064b2cfc92e1a2cc3fd2bfe6bd5b5cb0ca"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "exception_ptr",
+						"t": "std::exception_ptr",
+						"i": "std::exception_ptr",
+						"r": "exception_ptr",
+						"s": "std",
+						"u": "EXCEPTION_PTR",
+						"q": "std::exception_ptr",
+						"w": "STD::EXCEPTION_PTR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c23f79ac326b04f9fda8743df5c50b882e117796"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__ptr_",
+						"t": "void *",
+						"i": "std::exception_ptr::__ptr_",
+						"r": "void *__ptr_",
+						"s": "std",
+						"u": "__PTR_",
+						"q": "std::exception_ptr",
+						"w": "STD::EXCEPTION_PTR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "905c482cbc5ce248fe756044a2dfc34d231409f3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "__from_native_exception_pointer",
+						"t": "exception_ptr (void *) noexcept",
+						"i": "std::exception_ptr::__from_native_exception_pointer(void*)",
+						"r": "static exception_ptr __from_native_exception_pointer(void *)",
+						"s": "std",
+						"u": "__FROM_NATIVE_EXCEPTION_POINTER",
+						"q": "std::exception_ptr",
+						"w": "STD::EXCEPTION_PTR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36fa65fb56e87ec852cc5f7b60c0ce14b4aa97cd"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "make_exception_ptr",
+						"t": "exception_ptr (_Ep) noexcept",
+						"i": "std::make_exception_ptr(_Ep)",
+						"r": "template <class _Ep> exception_ptr make_exception_ptr(_Ep) __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\")))",
+						"s": "std",
+						"u": "MAKE_EXCEPTION_PTR",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68fb20315b86c1a1b9f3a3ada4dacb07f17eefe0"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "exception_ptr",
+						"t": "void () noexcept",
+						"i": "std::exception_ptr::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) exception_ptr()",
+						"s": "std",
+						"u": "EXCEPTION_PTR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "097faff0ee34bb8844783e2bdc9f599e97bab245"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "exception_ptr",
+						"t": "void (nullptr_t) noexcept",
+						"i": "std::exception_ptr::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) exception_ptr(nullptr_t)",
+						"s": "std",
+						"u": "EXCEPTION_PTR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a530897c647f2fe7ab1e3471bc42f66aea5e9ccc"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "exception_ptr",
+						"t": "void (const exception_ptr &) noexcept",
+						"i": "std::exception_ptr::exception_ptr(const exception_ptr&)",
+						"r": "exception_ptr(const exception_ptr&)",
+						"s": "std",
+						"u": "EXCEPTION_PTR",
+						"q": "std::exception_ptr",
+						"w": "STD::EXCEPTION_PTR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6addfa2fcca1b0245d2ff96f0c322339bc8ec94"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "exception_ptr &(const exception_ptr &) noexcept",
+						"i": "std::exception_ptr::operator=(const exception_ptr&)",
+						"r": "exception_ptr& operator",
+						"s": "std",
+						"u": "OPERATOR=",
+						"q": "std::exception_ptr",
+						"w": "STD::EXCEPTION_PTR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ce16872efb3d94e200daf54ee8d7425d7951f0a3"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~exception_ptr",
+						"t": "void () noexcept",
+						"i": "std::exception_ptr::~()",
+						"r": "~exception_ptr()",
+						"s": "std",
+						"u": "~EXCEPTION_PTR",
+						"q": "std::exception_ptr",
+						"w": "STD::EXCEPTION_PTR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77566f4134f7b6e15ef32d860b711cb462a0d6ab"
+							}
+						]
+					},
+					{
+						"k": 26,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator bool",
+						"t": "bool () const noexcept",
+						"i": "std::exception_ptr::operator bool()const",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) explicit operator bool() const",
+						"s": "std",
+						"u": "OPERATOR BOOL",
+						"q": "std::exception_ptr",
+						"w": "STD::EXCEPTION_PTR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a81112a3a77c1b7f43939da76acda838b37fd2ea"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const exception_ptr &, const exception_ptr &) noexcept",
+						"i": "std::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "26c57324ffb031c2478329c5752fbba93f5806ae"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const exception_ptr &, const exception_ptr &) noexcept",
+						"i": "std::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7a24147c5bb30d408ff2bad48a22e576b104bf3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "current_exception",
+						"t": "exception_ptr () noexcept",
+						"i": "std::current_exception()",
+						"r": "exception_ptr current_exception()",
+						"s": "std",
+						"u": "CURRENT_EXCEPTION",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2c72c4a8431c2fd1b38997b88c763f40bbed1ddb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "rethrow_exception",
+						"t": "void (exception_ptr)",
+						"i": "std::rethrow_exception(exception_ptr)",
+						"r": "void rethrow_exception(exception_ptr)",
+						"s": "std",
+						"u": "RETHROW_EXCEPTION",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d99179e97ae490a6ab4bc3109eca31c26b6fcb8"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "make_exception_ptr",
+						"t": "exception_ptr (_Ep) noexcept",
+						"i": "std::",
+						"r": "template <class _Ep> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) exception_ptr make_exception_ptr(_Ep __e)",
+						"s": "std",
+						"u": "MAKE_EXCEPTION_PTR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54bb35fb215bbc019a34a94edfad195c4514ce74"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__exception/operations.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___EXCEPTION_OPERATIONS_H",
+						"t": "",
+						"i": "_LIBCPP___EXCEPTION_OPERATIONS_H",
+						"r": "_LIBCPP___EXCEPTION_OPERATIONS_H",
+						"s": "",
+						"u": "_LIBCPP___EXCEPTION_OPERATIONS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "637d3ded96ca9cf06fdcb60a20ee0efb72ccb97f"
+							}
+						]
+					},
+					{
+						"k": 36,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "terminate_handler",
+						"t": "std::terminate_handler",
+						"i": "std::terminate_handler",
+						"r": "using terminate_handler",
+						"s": "std",
+						"u": "TERMINATE_HANDLER",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f258f98aba178d86af0a80ec0e381c7b352e33a5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "set_terminate",
+						"t": "terminate_handler (terminate_handler) noexcept",
+						"i": "std::set_terminate(terminate_handler)",
+						"r": "terminate_handler set_terminate(terminate_handler)",
+						"s": "std",
+						"u": "SET_TERMINATE",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02764f5213074026122d434f31b7aa9433372d3d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "get_terminate",
+						"t": "terminate_handler () noexcept",
+						"i": "std::get_terminate()",
+						"r": "terminate_handler get_terminate()",
+						"s": "std",
+						"u": "GET_TERMINATE",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "044a39c8290c37c90e9123b5893dc9bd29cd6862"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "uncaught_exception",
+						"t": "bool () noexcept",
+						"i": "std::uncaught_exception()",
+						"r": "bool uncaught_exception()",
+						"s": "std",
+						"u": "UNCAUGHT_EXCEPTION",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8933c36308bb523830f2313256d909b4c5f6b51a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "uncaught_exceptions",
+						"t": "int () noexcept",
+						"i": "std::uncaught_exceptions()",
+						"r": "int uncaught_exceptions()",
+						"s": "std",
+						"u": "UNCAUGHT_EXCEPTIONS",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e491a89efa71a6df89cc5c518bcbe609f7aee432"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "exception_ptr",
+						"t": "std::exception_ptr",
+						"i": "std::exception_ptr",
+						"r": "exception_ptr",
+						"s": "std",
+						"u": "EXCEPTION_PTR",
+						"q": "std::exception_ptr",
+						"w": "STD::EXCEPTION_PTR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "270b519026596157d960eaa97f171f928f292954"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "current_exception",
+						"t": "exception_ptr () noexcept",
+						"i": "std::current_exception()",
+						"r": "exception_ptr current_exception()",
+						"s": "std",
+						"u": "CURRENT_EXCEPTION",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "861cd021d8534afe985f10940e52ca8f175a6d5c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "rethrow_exception",
+						"t": "void (exception_ptr)",
+						"i": "std::rethrow_exception(exception_ptr)[[noreturn]]",
+						"r": "void rethrow_exception(exception_ptr) [[noreturn]]",
+						"s": "std",
+						"u": "RETHROW_EXCEPTION",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "51e152bc2f3595660d87a293a20224315556bece"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__exception/nested_exception.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___EXCEPTION_NESTED_EXCEPTION_H",
+						"t": "",
+						"i": "_LIBCPP___EXCEPTION_NESTED_EXCEPTION_H",
+						"r": "_LIBCPP___EXCEPTION_NESTED_EXCEPTION_H",
+						"s": "",
+						"u": "_LIBCPP___EXCEPTION_NESTED_EXCEPTION_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d6e10f5c9b55873514d7b1f922cd73cb58148d3"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nested_exception",
+						"t": "std::nested_exception",
+						"i": "std::nested_exception",
+						"r": "nested_exception",
+						"s": "std",
+						"u": "NESTED_EXCEPTION",
+						"q": "std::nested_exception",
+						"w": "STD::NESTED_EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d6b00c0dc33a72104a3d19628332c9eb380b402"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__ptr_",
+						"t": "exception_ptr",
+						"i": "std::nested_exception::__ptr_",
+						"r": "exception_ptr __ptr_",
+						"s": "std",
+						"u": "__PTR_",
+						"q": "std::nested_exception",
+						"w": "STD::NESTED_EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f1ed4c65c3f0a17978ef33a18bec1af1d405b6f"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "nested_exception",
+						"t": "void () noexcept",
+						"i": "std::nested_exception::nested_exception()",
+						"r": "nested_exception()",
+						"s": "std",
+						"u": "NESTED_EXCEPTION",
+						"q": "std::nested_exception",
+						"w": "STD::NESTED_EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "adcdfa445556fee2429d461f9315dc811ae9cc7c"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "nested_exception",
+						"t": "void (const nested_exception &) noexcept",
+						"i": "std::nested_exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) nested_exception(const nested_exception&)",
+						"s": "std",
+						"u": "NESTED_EXCEPTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "70065f693f6501985525b5b8c45c077f61d92581"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "nested_exception &(const nested_exception &) noexcept",
+						"i": "std::nested_exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) nested_exception& operator",
+						"s": "std",
+						"u": "OPERATOR=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d9ec182f291a71a53223af7ccbb191dfa4a4e2f"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~nested_exception",
+						"t": "void () noexcept",
+						"i": "std::nested_exception::~()",
+						"r": "~nested_exception()",
+						"s": "std",
+						"u": "~NESTED_EXCEPTION",
+						"q": "std::nested_exception",
+						"w": "STD::NESTED_EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b29e2d6f00596996b43cd951213ed129e89429ed"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "rethrow_nested",
+						"t": "void () const",
+						"i": "std::nested_exception::rethrow_nested()const[[noreturn]]",
+						"r": "void rethrow_nested() const [[noreturn]]",
+						"s": "std",
+						"u": "RETHROW_NESTED",
+						"q": "std::nested_exception",
+						"w": "STD::NESTED_EXCEPTION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e9ef1abcedea5c8fe0bf779f133236443d02c7d4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "nested_ptr",
+						"t": "exception_ptr () const noexcept",
+						"i": "std::nested_exception::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) exception_ptr nested_ptr() const",
+						"s": "std",
+						"u": "NESTED_PTR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a5ca850f9c60ad57c1ac43d50823546bee59bc6"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__nested",
+						"t": "",
+						"i": "std::__nested",
+						"r": "template <class _Tp> __nested : public _Tp, public nested_exception",
+						"s": "std",
+						"u": "__NESTED",
+						"q": "std::__nested",
+						"w": "STD::__NESTED",
+						"y": "std::nested_exception",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92e386aa6aae2fdd390c3835c4d46f0be625550e"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__nested<_Tp>",
+						"t": "void (const _Tp &)",
+						"i": "std::__nested::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) explicit __nested<_Tp>(const _Tp& __t)",
+						"s": "std",
+						"u": "__NESTED<_TP>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c6c0828adf77c083003db45b84845d10c04f68e1"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__throw_with_nested",
+						"t": "",
+						"i": "std::__throw_with_nested",
+						"r": "template <class _Tp, class _Up, bool> __throw_with_nested",
+						"s": "std",
+						"u": "__THROW_WITH_NESTED",
+						"q": "std::__throw_with_nested",
+						"w": "STD::__THROW_WITH_NESTED",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "405ecf21c89b970342fd4d0be7d66c6a120344be"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "throw_with_nested",
+						"t": "void (_Tp &&)",
+						"i": "std::",
+						"r": "template <class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void throw_with_nested(_Tp&& __t) [[noreturn]]",
+						"s": "std",
+						"u": "THROW_WITH_NESTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df248ae46d78290d62c45319b95094559b330650"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__can_dynamic_cast",
+						"t": "",
+						"i": "std::__can_dynamic_cast",
+						"r": "template <class _From, class _To> __can_dynamic_cast : _BoolConstant<is_polymorphic<_From>::value&& (!is_base_of<_To, _From>::value || is_convertible<const _From *, const _To *>::value)>",
+						"s": "std",
+						"u": "__CAN_DYNAMIC_CAST",
+						"q": "std::__can_dynamic_cast",
+						"w": "STD::__CAN_DYNAMIC_CAST",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "57e0342a02471defe5fa7b4304c206b7b0f126db"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "rethrow_if_nested",
+						"t": "void (const _Ep &, __enable_if_t<__can_dynamic_cast<_Ep, nested_exception>::value> *)",
+						"i": "std::",
+						"r": "template <class _Ep> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void rethrow_if_nested(const _Ep& __e, __enable_if_t<__can_dynamic_cast<_Ep, nested_exception>::value> *= 0)",
+						"s": "std",
+						"u": "RETHROW_IF_NESTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "746d0642ee7ccd84d737498cf30d2073be165822"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "rethrow_if_nested",
+						"t": "void (const _Ep &, __enable_if_t<!__can_dynamic_cast<_Ep, nested_exception>::value> *)",
+						"i": "std::",
+						"r": "template <class _Ep> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void rethrow_if_nested(const _Ep&, __enable_if_t<!__can_dynamic_cast<_Ep, nested_exception>::value> *= 0)",
+						"s": "std",
+						"u": "RETHROW_IF_NESTED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6877ba7a8b0773221d4976f2f293b8afe7e31c3"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__exception/terminate.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___EXCEPTION_TERMINATE_H",
+						"t": "",
+						"i": "_LIBCPP___EXCEPTION_TERMINATE_H",
+						"r": "_LIBCPP___EXCEPTION_TERMINATE_H",
+						"s": "",
+						"u": "_LIBCPP___EXCEPTION_TERMINATE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b1fa628bae4c4ce35daba983164db1b06c1533a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "terminate",
+						"t": "void () noexcept",
+						"i": "std::terminate()[[noreturn]]",
+						"r": "void terminate() [[noreturn]]",
+						"s": "std",
+						"u": "TERMINATE",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6b9cfb9d221afa1a2e09fe90a45acbfe5c7adb6e"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

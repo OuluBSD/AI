@@ -1,5 +1,5 @@
 {
-	"saved_hash": "fd4f048e06e4bca5bd6f48b22be5c9b7b3502a36",
+	"saved_hash": "d7004dcef4d80922dbace5cae3a6a47f7342526a",
 	"files": [
 		{
 			"key": "RichText.h",
@@ -9449,6 +9449,318 @@
 								"h": "f6ae736416c8bbb599d68a9948d905446392380e"
 							}
 						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_Label",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_Label",
+						"r": "I_Label",
+						"s": "Upp",
+						"u": "I_LABEL",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dda45a90ffc0772fc7174ee9e0567e67ad76498c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_Label__UHD",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_Label__UHD",
+						"r": "I_Label__UHD",
+						"s": "Upp",
+						"u": "I_LABEL__UHD",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81765c1ae84e5694bbd91846a7e801ea4c28bded"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_HdrFtr",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_HdrFtr",
+						"r": "I_HdrFtr",
+						"s": "Upp",
+						"u": "I_HDRFTR",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b20ddaa8744cf015fe27553f256c45b4226f3fb"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_HdrFtr__UHD",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_HdrFtr__UHD",
+						"r": "I_HdrFtr__UHD",
+						"s": "Upp",
+						"u": "I_HDRFTR__UHD",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1e71d9b44576802807fb9a9ac23c6e23ac72027"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_EndParaChar",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_EndParaChar",
+						"r": "I_EndParaChar",
+						"s": "Upp",
+						"u": "I_ENDPARACHAR",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d4242ae6b5c340fb36fe8fff0c8b269088915842"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_EndParaChar__UHD",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_EndParaChar__UHD",
+						"r": "I_EndParaChar__UHD",
+						"s": "Upp",
+						"u": "I_ENDPARACHAR__UHD",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a3b094591825ab63a6b4ce305a5377a8ef938823"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_TabChar",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_TabChar",
+						"r": "I_TabChar",
+						"s": "Upp",
+						"u": "I_TABCHAR",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e54c0fd8d2abfdffc1d6fa3af6250d275ef47fb"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_TabChar__UHD",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_TabChar__UHD",
+						"r": "I_TabChar__UHD",
+						"s": "Upp",
+						"u": "I_TABCHAR__UHD",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5eb6dd846fbfd6c96ac87ac2516935c467d02e1f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_SpaceChar",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_SpaceChar",
+						"r": "I_SpaceChar",
+						"s": "Upp",
+						"u": "I_SPACECHAR",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2cc9dbe3ba319bad7fe5dfd922c6e4770060575e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_SpaceChar__UHD",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_SpaceChar__UHD",
+						"r": "I_SpaceChar__UHD",
+						"s": "Upp",
+						"u": "I_SPACECHAR__UHD",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b3509fcec5adaa078e0750588bc1b193dba8bc3a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_HardSpaceChar",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_HardSpaceChar",
+						"r": "I_HardSpaceChar",
+						"s": "Upp",
+						"u": "I_HARDSPACECHAR",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb6a94533a91d460dd9712c592448f2bdca56116"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "I_HardSpaceChar__UHD",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::I_HardSpaceChar__UHD",
+						"r": "I_HardSpaceChar__UHD",
+						"s": "Upp",
+						"u": "I_HARDSPACECHAR__UHD",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f6ae736416c8bbb599d68a9948d905446392380e"
+							}
+						]
 					}
 				]
 			}
@@ -15720,6 +16032,32 @@
 
 								],
 								"h": "d113273a28d94f1e1939bf2801c458c8e0b94fba"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Register",
+						"t": "void (Id)",
+						"i": "Upp::RichPara::Register(Id)",
+						"r": "template <class T> static void Register(Id id)",
+						"s": "Upp",
+						"u": "REGISTER",
+						"q": "Upp::RichPara",
+						"w": "UPP::RICHPARA",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d229c324d9736d4eb1a4de898c9c5b09c071c6ed"
 							}
 						]
 					}

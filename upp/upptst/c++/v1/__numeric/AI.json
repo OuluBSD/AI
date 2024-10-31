@@ -1,0 +1,157 @@
+{
+	"saved_hash": "780bfc6875e4b64f29c9c280bf5ed6a72b381007",
+	"files": [
+		{
+			"key": "c++/v1/__numeric/transform_reduce.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___NUMERIC_TRANSFORM_REDUCE_H",
+						"t": "",
+						"i": "_LIBCPP___NUMERIC_TRANSFORM_REDUCE_H",
+						"r": "_LIBCPP___NUMERIC_TRANSFORM_REDUCE_H",
+						"s": "",
+						"u": "_LIBCPP___NUMERIC_TRANSFORM_REDUCE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "238970868a1fa8bed2735cd45f8324cf560f7004"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "transform_reduce",
+						"t": "_Tp (_InputIterator, _InputIterator, _Tp, _BinaryOp, _UnaryOp)",
+						"i": "std::__1::",
+						"r": "template <class _InputIterator, class _Tp, class _BinaryOp, class _UnaryOp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp transform_reduce(_InputIterator __first, _InputIterator __last, _Tp __init, _BinaryOp __b, _UnaryOp __u)",
+						"s": "std::__1",
+						"u": "TRANSFORM_REDUCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d5991c3c7275aebff8e51680d74963338a6b782"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "transform_reduce",
+						"t": "_Tp (_InputIterator1, _InputIterator1, _InputIterator2, _Tp, _BinaryOp1, _BinaryOp2)",
+						"i": "std::__1::",
+						"r": "template <class _InputIterator1, class _InputIterator2, class _Tp, class _BinaryOp1, class _BinaryOp2> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp transform_reduce(_InputIterator1 __first1, _InputIterator1 __last1, _InputIterator2 __first2, _Tp __init, _BinaryOp1 __b1, _BinaryOp2 __b2)",
+						"s": "std::__1",
+						"u": "TRANSFORM_REDUCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "67c9a80d5c27f46d4f825d4ad6fd58d55cc74c25"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "transform_reduce",
+						"t": "_Tp (_InputIterator1, _InputIterator1, _InputIterator2, _Tp)",
+						"i": "std::__1::",
+						"r": "template <class _InputIterator1, class _InputIterator2, class _Tp> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) _Tp transform_reduce(_InputIterator1 __first1, _InputIterator1 __last1, _InputIterator2 __first2, _Tp __init)",
+						"s": "std::__1",
+						"u": "TRANSFORM_REDUCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f796cdf98556ebd17482c4ff9138742ba92f681"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__numeric/pstl_transform_reduce.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___NUMERIC_PSTL_TRANSFORM_REDUCE_H",
+						"t": "",
+						"i": "_LIBCPP___NUMERIC_PSTL_TRANSFORM_REDUCE_H",
+						"r": "_LIBCPP___NUMERIC_PSTL_TRANSFORM_REDUCE_H",
+						"s": "",
+						"u": "_LIBCPP___NUMERIC_PSTL_TRANSFORM_REDUCE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "01873ba512f9f9530aa834621fc7890f713b66fe"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__numeric/reduce.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

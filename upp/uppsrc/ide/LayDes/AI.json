@@ -1,5 +1,5 @@
 {
-	"saved_hash": "90667a67e4e77d2ef91697c117350d8e9554e2c1",
+	"saved_hash": "6c6593818b91fc17e81215ce8f26990f6f0df569",
 	"files": [
 		{
 			"key": "sdiff.cpp",
@@ -24112,6 +24112,630 @@
 						"r": "Upp::Button cancel",
 						"s": "",
 						"u": "CANCEL",
+						"q": "WithVisGenLayout",
+						"w": "WITHVISGENLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithLayoutsLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithLayoutsLayout",
+						"w": "WITHLAYOUTSLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf8bbdaee7dfdcd09c4993e611a6b169efe686ff"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "InitLayout",
+						"t": "void (Upp::Ctrl &, L &, D &, LayoutsLayout__layid &)",
+						"i": "InitLayout(Upp::Ctrl&,L&,D&,LayoutsLayout__layid&)",
+						"r": "template <class L, class D> void InitLayout(Upp::Ctrl& parent, L& layout, D& uts, LayoutsLayout__layid&)",
+						"s": "",
+						"u": "INITLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf8bbdaee7dfdcd09c4993e611a6b169efe686ff"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_LayoutsLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_LayoutsLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_LayoutsLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_LAYOUTSLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf8bbdaee7dfdcd09c4993e611a6b169efe686ff"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_FontPropertyDlgLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_FontPropertyDlgLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_FontPropertyDlgLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_FONTPROPERTYDLGLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb6b758abb80c5068264855a4b5bb8321643d635"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithFontPropertyDlgLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithFontPropertyDlgLayout",
+						"w": "WITHFONTPROPERTYDLGLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb6b758abb80c5068264855a4b5bb8321643d635"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "InitLayout",
+						"t": "void (Upp::Ctrl &, L &, D &, FontPropertyDlgLayout__layid &)",
+						"i": "InitLayout(Upp::Ctrl&,L&,D&,FontPropertyDlgLayout__layid&)",
+						"r": "template <class L, class D> void InitLayout(Upp::Ctrl& parent, L& layout, D& uts, FontPropertyDlgLayout__layid&)",
+						"s": "",
+						"u": "INITLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb6b758abb80c5068264855a4b5bb8321643d635"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "height",
+						"t": "Upp::WithDropChoice<Upp::EditIntSpin>",
+						"i": "WithFontPropertyDlgLayout::height",
+						"r": "Upp::WithDropChoice<Upp::EditIntSpin> height",
+						"s": "",
+						"u": "HEIGHT",
+						"q": "WithFontPropertyDlgLayout",
+						"w": "WITHFONTPROPERTYDLGLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithLangSetupLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithLangSetupLayout",
+						"w": "WITHLANGSETUPLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "744d0ee356ee7176c3e7f1249b2ca22f50839bc2"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "InitLayout",
+						"t": "void (Upp::Ctrl &, L &, D &, LangSetupLayout__layid &)",
+						"i": "InitLayout(Upp::Ctrl&,L&,D&,LangSetupLayout__layid&)",
+						"r": "template <class L, class D> void InitLayout(Upp::Ctrl& parent, L& layout, D& uts, LangSetupLayout__layid&)",
+						"s": "",
+						"u": "INITLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "744d0ee356ee7176c3e7f1249b2ca22f50839bc2"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_LangSetupLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_LangSetupLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_LangSetupLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_LANGSETUPLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "744d0ee356ee7176c3e7f1249b2ca22f50839bc2"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_MatrixLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "SetLayout_MatrixLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_MatrixLayout(T& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_MATRIXLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e10217d1bad04a486494196fd22e621c83626ec"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithMatrixLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithMatrixLayout",
+						"w": "WITHMATRIXLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e10217d1bad04a486494196fd22e621c83626ec"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_MatrixLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_MatrixLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_MatrixLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_MATRIXLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e10217d1bad04a486494196fd22e621c83626ec"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_SettingLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_SettingLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_SettingLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_SETTINGLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a3ad55b1cbdac1ee6e43f7b89757bbc8d977768"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_SettingLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "SetLayout_SettingLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_SettingLayout(T& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_SETTINGLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a3ad55b1cbdac1ee6e43f7b89757bbc8d977768"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithSettingLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithSettingLayout",
+						"w": "WITHSETTINGLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9a3ad55b1cbdac1ee6e43f7b89757bbc8d977768"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "InitLayout",
+						"t": "void (Upp::Ctrl &, L &, D &, InsertLangLayout__layid &)",
+						"i": "InitLayout(Upp::Ctrl&,L&,D&,InsertLangLayout__layid&)",
+						"r": "template <class L, class D> void InitLayout(Upp::Ctrl& parent, L& layout, D& uts, InsertLangLayout__layid&)",
+						"s": "",
+						"u": "INITLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "367979743c915caa75d263745e7257c34b54421c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithInsertLangLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithInsertLangLayout",
+						"w": "WITHINSERTLANGLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "367979743c915caa75d263745e7257c34b54421c"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_InsertLangLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "SetLayout_InsertLangLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_InsertLangLayout(T& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_INSERTLANGLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "367979743c915caa75d263745e7257c34b54421c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lang",
+						"t": "LNGCtrl",
+						"i": "WithInsertLangLayout::lang",
+						"r": "LNGCtrl lang",
+						"s": "",
+						"u": "LANG",
+						"q": "WithInsertLangLayout",
+						"w": "WITHINSERTLANGLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "WithVisGenLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "",
+						"u": "GETLAYOUTSIZE",
+						"q": "WithVisGenLayout",
+						"w": "WITHVISGENLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32affc59e9bcbc75e3f320fa35fd5e6c16ac7b34"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_VisGenLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_VisGenLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_VisGenLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_VISGENLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32affc59e9bcbc75e3f320fa35fd5e6c16ac7b34"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_VisGenLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "SetLayout_VisGenLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_VisGenLayout(T& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_VISGENLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32affc59e9bcbc75e3f320fa35fd5e6c16ac7b34"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "view",
+						"t": "CodeEditor",
+						"i": "WithVisGenLayout::view",
+						"r": "CodeEditor view",
+						"s": "",
+						"u": "VIEW",
 						"q": "WithVisGenLayout",
 						"w": "WITHVISGENLAYOUT",
 						"y": "",

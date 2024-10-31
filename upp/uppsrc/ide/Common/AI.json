@@ -1,5 +1,5 @@
 {
-	"saved_hash": "9a58eb61730a6cabaa3e16df566132fe8c467547",
+	"saved_hash": "112f40eb650df55fcd606276020bfd2c15d02ce3",
 	"files": [
 		{
 			"key": "ComDlg.cpp",
@@ -3715,6 +3715,58 @@
 
 								],
 								"h": "9465773303f3d02f8340b9aafe1d3055dafed794"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "LoadFromWorkspace",
+						"t": "bool (T &, const char *)",
+						"i": "LoadFromWorkspace(T&,const char*)",
+						"r": "template <class T> bool LoadFromWorkspace(T& x, const char *name)",
+						"s": "",
+						"u": "LOADFROMWORKSPACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c23a361511c5477209669dc390d78dc3376d867c"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "StoreToWorkspace",
+						"t": "void (T &, const char *)",
+						"i": "StoreToWorkspace(T&,const char*)",
+						"r": "template <class T> void StoreToWorkspace(T& x, const char *name)",
+						"s": "",
+						"u": "STORETOWORKSPACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6456ef0b67d257508fa33d4821d1fc7c1571a56a"
 							}
 						]
 					}

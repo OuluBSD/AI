@@ -1,5 +1,5 @@
 {
-	"saved_hash": "73a77fb5053e8250b5dde8ae49223ed76a4457ae",
+	"saved_hash": "5cd9a31afcc7c9f4b3511e0d898962a07ac5e1c9",
 	"files": [
 		{
 			"key": "HexView.h",
@@ -2103,6 +2103,110 @@
 						"r": "Upp::Button cancel",
 						"s": "Upp",
 						"u": "CANCEL",
+						"q": "Upp::WithHexGotoLayout",
+						"w": "UPP::WITHHEXGOTOLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "Upp::WithHexGotoLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "Upp",
+						"u": "GETLAYOUTSIZE",
+						"q": "Upp::WithHexGotoLayout",
+						"w": "UPP::WITHHEXGOTOLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60e1b93e4e8a7027acc0d0f33d384c402d7c9c0c"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_HexGotoLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "Upp::SetLayout_HexGotoLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_HexGotoLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "Upp",
+						"u": "SETLAYOUT_HEXGOTOLAYOUT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60e1b93e4e8a7027acc0d0f33d384c402d7c9c0c"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_HexGotoLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "Upp::SetLayout_HexGotoLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_HexGotoLayout(T& parent, bool add = false, bool show = false)",
+						"s": "Upp",
+						"u": "SETLAYOUT_HEXGOTOLAYOUT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60e1b93e4e8a7027acc0d0f33d384c402d7c9c0c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "text",
+						"t": "Upp::WithDropChoice<Upp::EditString>",
+						"i": "Upp::WithHexGotoLayout::text",
+						"r": "Upp::WithDropChoice<Upp::EditString> text",
+						"s": "Upp",
+						"u": "TEXT",
 						"q": "Upp::WithHexGotoLayout",
 						"w": "UPP::WITHHEXGOTOLAYOUT",
 						"y": "",

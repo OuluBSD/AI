@@ -1,5 +1,5 @@
 {
-	"saved_hash": "5d8571f1155e7a38bd994c4c131b596ffa5c7461",
+	"saved_hash": "08e5c4a4d36375f4b1995cbc543d996b74510a81",
 	"files": [
 		{
 			"key": "sys/mman.h",
@@ -46019,6 +46019,188 @@
 
 								],
 								"h": "533bc30ac9212f21919f434e0ade1f6705b51f22"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_TIMESPEC_DEFINED",
+						"t": "",
+						"i": "_TIMESPEC_DEFINED",
+						"r": "_TIMESPEC_DEFINED",
+						"s": "",
+						"u": "_TIMESPEC_DEFINED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f36ae3404eff5b93dea535402747f133edae1a45"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "timespec",
+						"t": "timespec",
+						"i": "timespec",
+						"r": "timespec",
+						"s": "",
+						"u": "TIMESPEC",
+						"q": "timespec",
+						"w": "TIMESPEC",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f0ccab8858ed72a925c6c25a449a8225dc21ddab"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "tv_sec",
+						"t": "time_t",
+						"i": "timespec::tv_sec",
+						"r": "time_t tv_sec",
+						"s": "",
+						"u": "TV_SEC",
+						"q": "timespec",
+						"w": "TIMESPEC",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcf0b756ef7f0e4bd92104cee17371486a263fed"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "tv_nsec",
+						"t": "long",
+						"i": "timespec::tv_nsec",
+						"r": "long tv_nsec",
+						"s": "",
+						"u": "TV_NSEC",
+						"q": "timespec",
+						"w": "TIMESPEC",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "915e66f2f3daadef6efc3d92ac2c673aa81ffd77"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "itimerspec",
+						"t": "itimerspec",
+						"i": "itimerspec",
+						"r": "itimerspec",
+						"s": "",
+						"u": "ITIMERSPEC",
+						"q": "itimerspec",
+						"w": "ITIMERSPEC",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "55b5a9ae759de604b801152bcaa52a9b5ca4540b"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "it_interval",
+						"t": "struct timespec",
+						"i": "itimerspec::it_interval",
+						"r": "timespec it_interval",
+						"s": "",
+						"u": "IT_INTERVAL",
+						"q": "itimerspec",
+						"w": "ITIMERSPEC",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d0e4594c71f7b87a4485484529426fd41343123a"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "it_value",
+						"t": "struct timespec",
+						"i": "itimerspec::it_value",
+						"r": "timespec it_value",
+						"s": "",
+						"u": "IT_VALUE",
+						"q": "itimerspec",
+						"w": "ITIMERSPEC",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1e81c172805439324d285c411c2ace1a5f70e21d"
 							}
 						]
 					}

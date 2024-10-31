@@ -1,5 +1,5 @@
 {
-	"saved_hash": "45c1d5df9f895cfd08de3828d2ac02b25e4520d2",
+	"saved_hash": "b257ec5882129b89f406960edbe4b93236d8bf1b",
 	"files": [
 		{
 			"key": "Markdown.h",
@@ -13646,6 +13646,32 @@
 
 								],
 								"h": "9da6576b1bf6bd5f399c7c711b45c8fc85bede43"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "type",
+						"t": "int",
+						"i": "MD_BLOCK_tag::type",
+						"r": "int type",
+						"s": "",
+						"u": "TYPE",
+						"q": "MD_BLOCK_tag",
+						"w": "MD_BLOCK_TAG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "58ba9e3f36984d986df097df09f7558e139880aa"
 							}
 						]
 					}

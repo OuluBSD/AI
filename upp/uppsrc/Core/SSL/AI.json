@@ -1,5 +1,5 @@
 {
-	"saved_hash": "28d95aef331d45623a79465eff17ac9598b1bcfe",
+	"saved_hash": "3f897b6f3fa5ccd06f5aa01b8a7a5e8d62bc963a",
 	"files": [
 		{
 			"key": "InitExit.cpp",
@@ -79,12 +79,6 @@
 								"items": [
 
 								],
-								"h": "9bb3fe599ebcd230fd73d5eca519ac6002b97547"
-							},
-							{
-								"items": [
-
-								],
 								"h": "ce5b739bf4d8af2b34b8d1cc6751d4e00449dd23"
 							}
 						]
@@ -111,12 +105,6 @@
 								"items": [
 
 								],
-								"h": "225752357647a3e776f999e867ad0b4de2599823"
-							},
-							{
-								"items": [
-
-								],
 								"h": "edbd4115e8a61c8e3199576c01dd3363c75dd7aa"
 							}
 						]
@@ -139,12 +127,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b269488fe0bcf5c6529a744a21cd50effcd83c9f"
-							},
 							{
 								"items": [
 
@@ -197,12 +179,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "3ef238e09eec23921ed5bce694a9d2be903e0f76"
-							},
 							{
 								"items": [
 
@@ -281,12 +257,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "fe553120660bc4b456438f35c1ed84b079bfe2f7"
-							},
 							{
 								"items": [
 
@@ -395,12 +365,6 @@
 								"items": [
 
 								],
-								"h": "83aa095f2493beb0568db9bc3c01f78f3f193b65"
-							},
-							{
-								"items": [
-
-								],
 								"h": "a88c06328bff2dcd2664364cba131963ab67a90f"
 							}
 						]
@@ -427,13 +391,230 @@
 								"items": [
 
 								],
-								"h": "9a8cc22ce0cd9cf3074b011ab8e2396844a2f7cb"
-							},
+								"h": "035b7ea3e22a005b1fcb795d75312ef1cc7dc645"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "SSL.icpp",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "P7S.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetP7Signature_imp",
+						"t": "String (const void *, int, const String &, const String &)",
+						"i": "Upp::GetP7Signature_imp(const void*,int,const String&,const String&)",
+						"r": "Upp::String GetP7Signature_imp(const void *data, int length, const Upp::String& cert_pem, const Upp::String& pkey_pem)",
+						"s": "Upp",
+						"u": "GETP7SIGNATURE_IMP",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
 							{
 								"items": [
 
 								],
-								"h": "035b7ea3e22a005b1fcb795d75312ef1cc7dc645"
+								"h": "4633a943a687e4da59f7417f599d6f5adc3ee366"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GetP7Signature__",
+						"t": "String (*)(const void *, int, const String &, const String &)",
+						"i": "Upp::GetP7Signature__",
+						"r": "Upp::String (*GetP7Signature__)(const void *, int, const Upp::String&, const Upp::String&)",
+						"s": "Upp",
+						"u": "GETP7SIGNATURE__",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ca7099551ce0fb11ac6ff246d06495e102c8642c"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "data",
+						"t": "const void *",
+						"i": "data",
+						"r": "const void *data",
+						"s": "",
+						"u": "DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ad0359f3aacf08da4e9a85b44a4b44c0c7ec24fd"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "length",
+						"t": "int",
+						"i": "length",
+						"r": "int length",
+						"s": "",
+						"u": "LENGTH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f6c199c95e597803f650dfa3b82bb820048d6310"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cert_pem",
+						"t": "const String &",
+						"i": "cert_pem",
+						"r": "const Upp::String& cert_pem",
+						"s": "",
+						"u": "CERT_PEM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "23ffe58bacc1d1ae3526fa9643aad341b9ebbcca"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "pkey_pem",
+						"t": "const String &",
+						"i": "pkey_pem",
+						"r": "const Upp::String& pkey_pem",
+						"s": "",
+						"u": "PKEY_PEM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f01afd5c8194a03eb3179adcd76515478633b32"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "P7S__initializer_fn",
+						"t": "void ()",
+						"i": "Upp::P7S__initializer_fn()",
+						"r": "void P7S__initializer_fn()",
+						"s": "Upp",
+						"u": "P7S__INITIALIZER_FN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ef47ae6a3051b0b75ee6dc5529b6154564428687"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "P7S__initializer",
+						"t": "void ()",
+						"i": "Upp::P7S__initializer()",
+						"r": "void P7S__initializer()",
+						"s": "Upp",
+						"u": "P7S__INITIALIZER",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "caf646beb8f4bb2bceb836d677f6f978c0ebd02a"
 							}
 						]
 					}
@@ -488,12 +669,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5ae90b1c5e4806a790777de97ff03313e9ca362e"
-							},
 							{
 								"items": [
 
@@ -966,12 +1141,6 @@
 								"items": [
 
 								],
-								"h": "fc18e067ee981475e7ec6436fb72f9cb3d6b6ed1"
-							},
-							{
-								"items": [
-
-								],
 								"h": "33a6f42efc8b46672249c5e341732b6ea7a09db1"
 							}
 						]
@@ -994,12 +1163,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "fe1adcecb1ca2b179bf078ade7dc4125980f89ef"
-							},
 							{
 								"items": [
 
@@ -1030,12 +1193,6 @@
 								"items": [
 
 								],
-								"h": "0f7ca35a997e80db465d8f999b2849a94d904b71"
-							},
-							{
-								"items": [
-
-								],
 								"h": "0c7bc0b6c07a28a85dcacb54fbc8a3ab35043284"
 							}
 						]
@@ -1051,32 +1208,6 @@
 						"r": "void SSLSocket__initializer()",
 						"s": "Upp",
 						"u": "SSLSOCKET__INITIALIZER",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "fedc944c7207ce779e99af79b2e1dd84da141fe3"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": false,
-						"iv": false,
-						"is": false,
-						"n": "SSLSocket__initializer_fn",
-						"t": "void ()",
-						"i": "Upp::SSLSocket__initializer_fn()",
-						"r": "void SSLSocket__initializer_fn()",
-						"s": "Upp",
-						"u": "SSLSOCKET__INITIALIZER_FN",
 						"q": "Upp",
 						"w": "UPP",
 						"y": "",
@@ -1114,12 +1245,6 @@
 								"items": [
 
 								],
-								"h": "09480c83298fc205397ca134a89ab8a1910b01be"
-							},
-							{
-								"items": [
-
-								],
 								"h": "f30e6882ba1185a2eea0400d0fdce1a1c60dd292"
 							}
 						]
@@ -1142,12 +1267,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "49984ef6deda930224285aefb6e2110cdeb568e2"
-							},
 							{
 								"items": [
 
@@ -1204,12 +1323,6 @@
 								"items": [
 
 								],
-								"h": "f3ff248643267acff7d5e6bab2a92b89d68e52b5"
-							},
-							{
-								"items": [
-
-								],
 								"h": "6d68a9c70a3e6e82c4a91c5176aaf27fdc0a098c"
 							}
 						]
@@ -1232,12 +1345,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "1e4a894dae58693260429a8f1182e4ed60289976"
-							},
 							{
 								"items": [
 
@@ -1294,12 +1401,6 @@
 								"items": [
 
 								],
-								"h": "f3ef06b5e9e7560328381c319f7caba228fe4e46"
-							},
-							{
-								"items": [
-
-								],
 								"h": "8678ca004e6b8259f2e9a0a342f27e79827611ea"
 							}
 						]
@@ -1322,12 +1423,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4b58acf73a4a465d822ef699ebaaeda11a174c52"
-							},
 							{
 								"items": [
 
@@ -1358,12 +1453,6 @@
 								"items": [
 
 								],
-								"h": "5e2675c218d5743a4c08e045d79282852ea37c5b"
-							},
-							{
-								"items": [
-
-								],
 								"h": "916528881bd604b47621030aa51eb7cc7cdf27f4"
 							}
 						]
@@ -1386,12 +1475,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "88ce07c2db846d21608becdc819c9ebf73a48b9d"
-							},
 							{
 								"items": [
 
@@ -1422,12 +1505,6 @@
 								"items": [
 
 								],
-								"h": "d53e347e9d4fcc53106c4e7e292ee7817ac2102e"
-							},
-							{
-								"items": [
-
-								],
 								"h": "b16598687e0883c888885f6d2747478ae4b36536"
 							}
 						]
@@ -1450,12 +1527,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "bb557a84ad407ecbc5e418dcbbcc93d71df1b58d"
-							},
 							{
 								"items": [
 
@@ -1486,12 +1557,6 @@
 								"items": [
 
 								],
-								"h": "87f7b051bf41058f933a85bb0d90a0ec7cfa768e"
-							},
-							{
-								"items": [
-
-								],
 								"h": "e8038ca44daa2414744b9343c8e1f404f993d3e9"
 							}
 						]
@@ -1518,251 +1583,10 @@
 								"items": [
 
 								],
-								"h": "58b1bd8efb966137fce5655a7a95342059df6f6d"
-							},
-							{
-								"items": [
-
-								],
 								"h": "3a699acf44c527ea8f31f14eeda944aaecfdfbeb"
 							}
 						]
 					}
-				]
-			}
-		},
-		{
-			"key": "P7S.cpp",
-			"value": {
-				"items": [
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "GetP7Signature_imp",
-						"t": "String (const void *, int, const String &, const String &)",
-						"i": "Upp::GetP7Signature_imp(const void*,int,const String&,const String&)",
-						"r": "Upp::String GetP7Signature_imp(const void *data, int length, const Upp::String& cert_pem, const Upp::String& pkey_pem)",
-						"s": "Upp",
-						"u": "GETP7SIGNATURE_IMP",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "db9eb995539b7e2fcafbabac7bb1a6bace450a99"
-							},
-							{
-								"items": [
-
-								],
-								"h": "4633a943a687e4da59f7417f599d6f5adc3ee366"
-							}
-						]
-					},
-					{
-						"k": 9,
-						"d": false,
-						"iv": false,
-						"is": false,
-						"n": "GetP7Signature__",
-						"t": "String (*)(const void *, int, const String &, const String &)",
-						"i": "Upp::GetP7Signature__",
-						"r": "Upp::String (*GetP7Signature__)(const void *, int, const Upp::String&, const Upp::String&)",
-						"s": "Upp",
-						"u": "GETP7SIGNATURE__",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ca7099551ce0fb11ac6ff246d06495e102c8642c"
-							}
-						]
-					},
-					{
-						"k": 10,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "data",
-						"t": "const void *",
-						"i": "data",
-						"r": "const void *data",
-						"s": "",
-						"u": "DATA",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ad0359f3aacf08da4e9a85b44a4b44c0c7ec24fd"
-							}
-						]
-					},
-					{
-						"k": 10,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "length",
-						"t": "int",
-						"i": "length",
-						"r": "int length",
-						"s": "",
-						"u": "LENGTH",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f6c199c95e597803f650dfa3b82bb820048d6310"
-							}
-						]
-					},
-					{
-						"k": 10,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "cert_pem",
-						"t": "const String &",
-						"i": "cert_pem",
-						"r": "const Upp::String& cert_pem",
-						"s": "",
-						"u": "CERT_PEM",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "23ffe58bacc1d1ae3526fa9643aad341b9ebbcca"
-							}
-						]
-					},
-					{
-						"k": 10,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "pkey_pem",
-						"t": "const String &",
-						"i": "pkey_pem",
-						"r": "const Upp::String& pkey_pem",
-						"s": "",
-						"u": "PKEY_PEM",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "2f01afd5c8194a03eb3179adcd76515478633b32"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "P7S__initializer_fn",
-						"t": "void ()",
-						"i": "Upp::P7S__initializer_fn()",
-						"r": "void P7S__initializer_fn()",
-						"s": "Upp",
-						"u": "P7S__INITIALIZER_FN",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "fee9b36e6d08fc96c67c9ad17e1704ff57c45d0f"
-							},
-							{
-								"items": [
-
-								],
-								"h": "ef47ae6a3051b0b75ee6dc5529b6154564428687"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "P7S__initializer",
-						"t": "void ()",
-						"i": "Upp::P7S__initializer()",
-						"r": "void P7S__initializer()",
-						"s": "Upp",
-						"u": "P7S__INITIALIZER",
-						"q": "Upp",
-						"w": "UPP",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "caf646beb8f4bb2bceb836d677f6f978c0ebd02a"
-							}
-						]
-					}
-				]
-			}
-		},
-		{
-			"key": "SSL.icpp",
-			"value": {
-				"items": [
-
 				]
 			}
 		},
@@ -4691,4 +4515,110 @@
 					},
 					{
 						"k": 8,
-	
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SslGetLastError",
+						"t": "String ()",
+						"i": "Upp::SslGetLastError()",
+						"r": "Upp::String SslGetLastError()",
+						"s": "Upp",
+						"u": "SSLGETLASTERROR",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3acc98fb0623c92e9d2be6e69dbbe279e037d603"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SslToString",
+						"t": "String (X509_NAME *)",
+						"i": "Upp::SslToString(X509_NAME*)",
+						"r": "Upp::String SslToString(X509_NAME *name)",
+						"s": "Upp",
+						"u": "SSLTOSTRING",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e450b2cf5a4e9dcfab35fe9dc1dbc9f703590154"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Asn1ToDate",
+						"t": "Date (ASN1_STRING *)",
+						"i": "Upp::Asn1ToDate(ASN1_STRING*)",
+						"r": "Upp::Date Asn1ToDate(ASN1_STRING *time)",
+						"s": "Upp",
+						"u": "ASN1TODATE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "71259c55f67330d1c20fb2a1ec8a7d6ed1815df2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Asn1ToString",
+						"t": "String (ASN1_STRING *)",
+						"i": "Upp::Asn1ToString(ASN1_STRING*)",
+						"r": "Upp::String Asn1ToString(ASN1_STRING *s)",
+						"s": "Upp",
+						"u": "ASN1TOSTRING",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04b883a7a142754416ae0a3241902b05c7401b6c"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

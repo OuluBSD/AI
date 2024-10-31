@@ -1,0 +1,116 @@
+{
+	"saved_hash": "6578cd19c6cc4872b4a283eff76282a02fc08f4d",
+	"files": [
+		{
+			"key": "sec_api/sys/timeb_s.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_TIMEB_H_S",
+						"t": "",
+						"i": "_TIMEB_H_S",
+						"r": "_TIMEB_H_S",
+						"s": "",
+						"u": "_TIMEB_H_S",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8388ede2b7e0a663eb9433e82d0e1cecf35bdd7e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_ftime32_s",
+						"t": "errno_t (struct __timeb32 *)",
+						"i": "_ftime32_s(__timeb32*)",
+						"r": "errno_t _ftime32_s(__timeb32 *_Time) __attribute__((dllimport))",
+						"s": "",
+						"u": "_FTIME32_S",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "61283ac0a733bba66270849864c4768830c0d818"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_ftime64_s",
+						"t": "errno_t (struct __timeb64 *)",
+						"i": "_ftime64_s(__timeb64*)",
+						"r": "errno_t _ftime64_s(__timeb64 *_Time) __attribute__((dllimport))",
+						"s": "",
+						"u": "_FTIME64_S",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eedb66e7b50ae851d5c8e4428153ac71ad147baa"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_ftime_s",
+						"t": "",
+						"i": "_ftime_s",
+						"r": "_ftime_s",
+						"s": "",
+						"u": "_FTIME_S",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2e0178081474eed4d2051f33cb276cebc20026a6"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

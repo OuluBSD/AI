@@ -1,0 +1,418 @@
+{
+	"saved_hash": "b8b047485cbd07893c9284b8e99b37ccc44b6add",
+	"files": [
+		{
+			"key": "c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___LOCALE_LOCALE_BASE_API_BSD_LOCALE_DEFAULTS_H",
+						"t": "",
+						"i": "_LIBCPP___LOCALE_LOCALE_BASE_API_BSD_LOCALE_DEFAULTS_H",
+						"r": "_LIBCPP___LOCALE_LOCALE_BASE_API_BSD_LOCALE_DEFAULTS_H",
+						"s": "",
+						"u": "_LIBCPP___LOCALE_LOCALE_BASE_API_BSD_LOCALE_DEFAULTS_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa54672fd7ee7984cb67b33e411ccbf4ac3e8d34"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_mb_cur_max_l",
+						"t": "",
+						"i": "__libcpp_mb_cur_max_l",
+						"r": "__libcpp_mb_cur_max_l",
+						"s": "",
+						"u": "__LIBCPP_MB_CUR_MAX_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a6e19e18e7f505c58650dc5227a715385c81e447"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_btowc_l",
+						"t": "",
+						"i": "__libcpp_btowc_l",
+						"r": "__libcpp_btowc_l",
+						"s": "",
+						"u": "__LIBCPP_BTOWC_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8573e56de933314581c79424d9dd0abe54a018ed"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_wctob_l",
+						"t": "",
+						"i": "__libcpp_wctob_l",
+						"r": "__libcpp_wctob_l",
+						"s": "",
+						"u": "__LIBCPP_WCTOB_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2746d6d8289e199a884b88ef75d076eb504ed1f"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_wcsnrtombs_l",
+						"t": "",
+						"i": "__libcpp_wcsnrtombs_l",
+						"r": "__libcpp_wcsnrtombs_l",
+						"s": "",
+						"u": "__LIBCPP_WCSNRTOMBS_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4d20873c9ec8a28b06cfe684b4474c970709441"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_wcrtomb_l",
+						"t": "",
+						"i": "__libcpp_wcrtomb_l",
+						"r": "__libcpp_wcrtomb_l",
+						"s": "",
+						"u": "__LIBCPP_WCRTOMB_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "204cf54349518fb31c70cebe10253f13c511bfc2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_mbsnrtowcs_l",
+						"t": "",
+						"i": "__libcpp_mbsnrtowcs_l",
+						"r": "__libcpp_mbsnrtowcs_l",
+						"s": "",
+						"u": "__LIBCPP_MBSNRTOWCS_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b5e21c1b07c45cf7f5be7ab554905f76404688c2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_mbrtowc_l",
+						"t": "",
+						"i": "__libcpp_mbrtowc_l",
+						"r": "__libcpp_mbrtowc_l",
+						"s": "",
+						"u": "__LIBCPP_MBRTOWC_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "239284949f0301b52c14c68c628fc6ef4e5097da"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_mbtowc_l",
+						"t": "",
+						"i": "__libcpp_mbtowc_l",
+						"r": "__libcpp_mbtowc_l",
+						"s": "",
+						"u": "__LIBCPP_MBTOWC_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b6b5fbb5a69174cc61f9e5df6ce69c9320a77d01"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_mbrlen_l",
+						"t": "",
+						"i": "__libcpp_mbrlen_l",
+						"r": "__libcpp_mbrlen_l",
+						"s": "",
+						"u": "__LIBCPP_MBRLEN_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c389927e2cba93228711af320f8985b3c883d10e"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_localeconv_l",
+						"t": "",
+						"i": "__libcpp_localeconv_l",
+						"r": "__libcpp_localeconv_l",
+						"s": "",
+						"u": "__LIBCPP_LOCALECONV_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1eccf8dbc5f62dddbfd7e8e619fad4cdbb6c6cb4"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_mbsrtowcs_l",
+						"t": "",
+						"i": "__libcpp_mbsrtowcs_l",
+						"r": "__libcpp_mbsrtowcs_l",
+						"s": "",
+						"u": "__LIBCPP_MBSRTOWCS_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a00e08f78db993078ade915523be94ef1e238c3"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_snprintf_l",
+						"t": "",
+						"i": "__libcpp_snprintf_l",
+						"r": "__libcpp_snprintf_l",
+						"s": "",
+						"u": "__LIBCPP_SNPRINTF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "288372407462018f02ff1c67addb253aa4e17fa6"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_asprintf_l",
+						"t": "",
+						"i": "__libcpp_asprintf_l",
+						"r": "__libcpp_asprintf_l",
+						"s": "",
+						"u": "__LIBCPP_ASPRINTF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e3d38460b38146474b75b1fcaf48d82cc209fca2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__libcpp_sscanf_l",
+						"t": "",
+						"i": "__libcpp_sscanf_l",
+						"r": "__libcpp_sscanf_l",
+						"s": "",
+						"u": "__LIBCPP_SSCANF_L",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14a7c2f0f08162e84bac173be56e35f4f196f327"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__locale_dir/locale_base_api/bsd_locale_fallbacks.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__locale_dir/locale_base_api/locale_guard.h",
+			"value": {
+				"items": [
+
+				]
+			}
+		}
+	]
+}

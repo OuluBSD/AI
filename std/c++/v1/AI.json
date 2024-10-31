@@ -1,5 +1,5 @@
 {
-	"saved_hash": "9de6c2b369c2abb5a9f164683301521f4a31647d",
+	"saved_hash": "f5967f49d37d54c7db77a7a6acee9e2a0343b176",
 	"files": [
 		{
 			"key": "c++/v1/cxxabi.h",
@@ -95872,6 +95872,188 @@
 								"h": "03a430c92a0379973e1adbd146ec390f0f55be65"
 							}
 						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "basic_string<_CharT, _Traits, _Allocator>",
+						"t": "void (_InputIterator, _InputIterator)",
+						"i": "std::__1::basic_string::",
+						"r": "template <class _InputIterator, __enable_if_t<__has_input_iterator_category<_InputIterator>::value, int>",
+						"s": "std::__1",
+						"u": "BASIC_STRING<_CHART, _TRAITS, _ALLOCATOR>",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f186cd8bb8435679ce601128508b4f38bce79f0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "size",
+						"t": "size_type () const noexcept",
+						"i": "std::__1::basic_string::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) size_type size() const",
+						"s": "std::__1",
+						"u": "SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "085fd629b50e470edbd6ac6c921333cd271e70d5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "length",
+						"t": "size_type () const noexcept",
+						"i": "std::__1::basic_string::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) size_type length() const",
+						"s": "std::__1",
+						"u": "LENGTH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cbd8212fe5e72b9a7d7e5507301130fe376397c2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__get_short_size",
+						"t": "size_type () const noexcept",
+						"i": "std::__1::basic_string::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) size_type __get_short_size() const",
+						"s": "std::__1",
+						"u": "__GET_SHORT_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8eb11fef28227eec6cbc93152034c02a644648b0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__get_long_size",
+						"t": "size_type () const noexcept",
+						"i": "std::__1::basic_string::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) size_type __get_long_size() const",
+						"s": "std::__1",
+						"u": "__GET_LONG_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2df8f0b071cff4e6e39c663e1f121ff2a1090b52"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__init",
+						"t": "void (_ForwardIterator, _ForwardIterator)",
+						"i": "std::__1::basic_string::__init(_ForwardIterator,_ForwardIterator)",
+						"r": "template <class _CharT, class _Traits, class _Allocator> template <class _ForwardIterator, __enable_if_t<__has_forward_iterator_category<_ForwardIterator>::value, int>",
+						"s": "std::__1",
+						"u": "__INIT",
+						"q": "std::__1::basic_string",
+						"w": "STD::__1::BASIC_STRING",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cec495e060dd5783ae893fec71fe19c350544dfe"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__init_with_size",
+						"t": "void (_InputIterator, _Sentinel, size_type)",
+						"i": "std::__1::basic_string::",
+						"r": "template <class _CharT, class _Traits, class _Allocator> template <class _InputIterator, class _Sentinel> __attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void __init_with_size(_InputIterator __first, _Sentinel __last, size_type __sz)",
+						"s": "std::__1",
+						"u": "__INIT_WITH_SIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "83d863a527df4de60c4f6f709f18b279ac9acb03"
+							}
+						]
 					}
 				]
 			}
@@ -169275,6 +169457,247 @@
 			"value": {
 				"items": [
 
+				]
+			}
+		},
+		{
+			"key": "c++/v1/iostream",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP_IOSTREAM",
+						"t": "",
+						"i": "_LIBCPP_IOSTREAM",
+						"r": "_LIBCPP_IOSTREAM",
+						"s": "",
+						"u": "_LIBCPP_IOSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "48a7a9dc77eb4c3e93d01e277ca9d1a47c2aff21"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "cin",
+						"t": "istream",
+						"i": "std::__1::cin",
+						"r": "istream cin",
+						"s": "std::__1",
+						"u": "CIN",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e78f150edbf57e4095e328d9092b3c3c1767c3bd"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "cout",
+						"t": "ostream",
+						"i": "std::__1::cout",
+						"r": "ostream cout",
+						"s": "std::__1",
+						"u": "COUT",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "feecef80beb3b8083a0cb7c0e51ad1ba1d4e6840"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "cerr",
+						"t": "ostream",
+						"i": "std::__1::cerr",
+						"r": "ostream cerr",
+						"s": "std::__1",
+						"u": "CERR",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c0828bb12c388a417bc09d81d3ea572af085be0e"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "clog",
+						"t": "ostream",
+						"i": "std::__1::clog",
+						"r": "ostream clog",
+						"s": "std::__1",
+						"u": "CLOG",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45666a33578e35e03f82313bf56edb490bfc173e"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wcin",
+						"t": "wistream",
+						"i": "std::__1::wcin",
+						"r": "wistream wcin",
+						"s": "std::__1",
+						"u": "WCIN",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08b054fbca110e5c29c4b8cc46d0f371404ce545"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wcout",
+						"t": "wostream",
+						"i": "std::__1::wcout",
+						"r": "wostream wcout",
+						"s": "std::__1",
+						"u": "WCOUT",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a5cd52da244dc1d60ea1899b09fe9c5ec09589d1"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wcerr",
+						"t": "wostream",
+						"i": "std::__1::wcerr",
+						"r": "wostream wcerr",
+						"s": "std::__1",
+						"u": "WCERR",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6080357b1583a9449a6f7d975fee2952bc6f5f67"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "wclog",
+						"t": "wostream",
+						"i": "std::__1::wclog",
+						"r": "wostream wclog",
+						"s": "std::__1",
+						"u": "WCLOG",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4abfc5403ca2d53974d44d677f44b8720c26ade"
+							}
+						]
+					}
 				]
 			}
 		}

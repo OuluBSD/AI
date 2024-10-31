@@ -1,5 +1,5 @@
 {
-	"saved_hash": "5282f8f2ec8edd57dd0901a51505c1a6e74fa2d9",
+	"saved_hash": "78f24b0c7aae2df536de51185bcfbc2e6ee9cb6a",
 	"files": [
 		{
 			"key": "lz4.h",
@@ -36,12 +36,12 @@
 						"d": true,
 						"iv": false,
 						"is": false,
-						"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
-						"i": "Upp::(unnamed at/home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.)",
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
+						"i": "Upp::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.)",
 						"r": "enum",
 						"s": "Upp",
-						"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/PLUGIN/LZ4/LZ4.H:12:1)",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\PLUGIN\\LZ4\\LZ4.H:12:1)",
 						"q": "",
 						"w": "",
 						"y": "",
@@ -63,7 +63,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_MAGIC",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_MAGIC",
 						"r": "LZ4F_MAGIC",
 						"s": "Upp",
@@ -89,7 +89,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_VERSIONMASK",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_VERSIONMASK",
 						"r": "LZ4F_VERSIONMASK",
 						"s": "Upp",
@@ -115,7 +115,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_VERSION",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_VERSION",
 						"r": "LZ4F_VERSION",
 						"s": "Upp",
@@ -141,7 +141,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_BLOCKINDEPENDENCE",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_BLOCKINDEPENDENCE",
 						"r": "LZ4F_BLOCKINDEPENDENCE",
 						"s": "Upp",
@@ -167,7 +167,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_BLOCKCHECKSUM",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_BLOCKCHECKSUM",
 						"r": "LZ4F_BLOCKCHECKSUM",
 						"s": "Upp",
@@ -193,7 +193,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_CONTENTSIZE",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_CONTENTSIZE",
 						"r": "LZ4F_CONTENTSIZE",
 						"s": "Upp",
@@ -219,7 +219,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_CONTENTCHECKSUM",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_CONTENTCHECKSUM",
 						"r": "LZ4F_CONTENTCHECKSUM",
 						"s": "Upp",
@@ -245,7 +245,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_MAXSIZEMASK",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_MAXSIZEMASK",
 						"r": "LZ4F_MAXSIZEMASK",
 						"s": "Upp",
@@ -271,7 +271,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_MAXSIZE_64KB",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_MAXSIZE_64KB",
 						"r": "LZ4F_MAXSIZE_64KB",
 						"s": "Upp",
@@ -297,7 +297,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_MAXSIZE_256KB",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_MAXSIZE_256KB",
 						"r": "LZ4F_MAXSIZE_256KB",
 						"s": "Upp",
@@ -323,7 +323,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_MAXSIZE_1024KB",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_MAXSIZE_1024KB",
 						"r": "LZ4F_MAXSIZE_1024KB",
 						"s": "Upp",
@@ -349,7 +349,7 @@
 						"iv": false,
 						"is": false,
 						"n": "LZ4F_MAXSIZE_4096KB",
-						"t": "Upp::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:12:1)",
+						"t": "Upp::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:12:1)",
 						"i": "Upp::LZ4F_MAXSIZE_4096KB",
 						"r": "LZ4F_MAXSIZE_4096KB",
 						"s": "Upp",
@@ -377,7 +377,7 @@
 						"n": "LZ4CompressStream",
 						"t": "Upp::LZ4CompressStream",
 						"i": "Upp::LZ4CompressStream",
-						"r": "LZ4CompressStream : public Upp::Stream",
+						"r": "LZ4CompressStream : public Stream",
 						"s": "Upp",
 						"u": "LZ4COMPRESSSTREAM",
 						"q": "Upp::LZ4CompressStream",
@@ -481,7 +481,7 @@
 						"n": "_Put",
 						"t": "void (const void *, dword)",
 						"i": "Upp::LZ4CompressStream::_Put(const void*,dword)",
-						"r": "void _Put(const void *data, Upp::dword size)",
+						"r": "void _Put(const void *data, dword size)",
 						"s": "Upp",
 						"u": "_PUT",
 						"q": "Upp::LZ4CompressStream",
@@ -507,7 +507,7 @@
 						"n": "out",
 						"t": "Stream *",
 						"i": "Upp::LZ4CompressStream::out",
-						"r": "Upp::Stream *out",
+						"r": "Stream *out",
 						"s": "Upp",
 						"u": "OUT",
 						"q": "Upp::LZ4CompressStream",
@@ -608,12 +608,12 @@
 						"d": true,
 						"iv": false,
 						"is": false,
-						"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:44:2)",
-						"t": "Upp::LZ4CompressStream::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:44:2)",
-						"i": "Upp::LZ4CompressStream::(unnamed at/home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.)",
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:44:2)",
+						"t": "Upp::LZ4CompressStream::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:44:2)",
+						"i": "Upp::LZ4CompressStream::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.)",
 						"r": "enum",
 						"s": "Upp",
-						"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/PLUGIN/LZ4/LZ4.H:44:2)",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\PLUGIN\\LZ4\\LZ4.H:44:2)",
 						"q": "",
 						"w": "",
 						"y": "",
@@ -635,7 +635,7 @@
 						"iv": false,
 						"is": false,
 						"n": "BLOCK_BYTES",
-						"t": "Upp::LZ4CompressStream::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:44:2)",
+						"t": "Upp::LZ4CompressStream::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:44:2)",
 						"i": "Upp::LZ4CompressStream::BLOCK_BYTES",
 						"r": "BLOCK_BYTES",
 						"s": "Upp",
@@ -663,7 +663,7 @@
 						"n": "xxh",
 						"t": "xxHashStream",
 						"i": "Upp::LZ4CompressStream::xxh",
-						"r": "Upp::xxHashStream xxh",
+						"r": "xxHashStream xxh",
 						"s": "Upp",
 						"u": "XXH",
 						"q": "Upp::LZ4CompressStream",
@@ -819,7 +819,7 @@
 						"n": "Open",
 						"t": "void (Stream &)",
 						"i": "Upp::LZ4CompressStream::Open(Stream&)",
-						"r": "void Open(Upp::Stream& out_)",
+						"r": "void Open(Stream& out_)",
 						"s": "Upp",
 						"u": "OPEN",
 						"q": "Upp::LZ4CompressStream",
@@ -871,7 +871,7 @@
 						"n": "LZ4CompressStream",
 						"t": "void (Stream &)",
 						"i": "Upp::LZ4CompressStream::LZ4CompressStream(Stream&)",
-						"r": "LZ4CompressStream(Upp::Stream& out)",
+						"r": "LZ4CompressStream(Stream& out)",
 						"s": "Upp",
 						"u": "LZ4COMPRESSSTREAM",
 						"q": "Upp::LZ4CompressStream",
@@ -923,7 +923,7 @@
 						"n": "LZ4DecompressStream",
 						"t": "Upp::LZ4DecompressStream",
 						"i": "Upp::LZ4DecompressStream",
-						"r": "LZ4DecompressStream : public Upp::Stream",
+						"r": "LZ4DecompressStream : public Stream",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESSSTREAM",
 						"q": "Upp::LZ4DecompressStream",
@@ -1027,7 +1027,7 @@
 						"n": "_Get",
 						"t": "dword (void *, dword)",
 						"i": "Upp::LZ4DecompressStream::_Get(void*,dword)",
-						"r": "Upp::dword _Get(void *data, Upp::dword size)",
+						"r": "dword _Get(void *data, dword size)",
 						"s": "Upp",
 						"u": "_GET",
 						"q": "Upp::LZ4DecompressStream",
@@ -1053,7 +1053,7 @@
 						"n": "in",
 						"t": "Stream *",
 						"i": "Upp::LZ4DecompressStream::in",
-						"r": "Upp::Stream *in",
+						"r": "Stream *in",
 						"s": "Upp",
 						"u": "IN",
 						"q": "Upp::LZ4DecompressStream",
@@ -1235,7 +1235,7 @@
 						"n": "wb",
 						"t": "Workblock[16]",
 						"i": "Upp::LZ4DecompressStream::wb",
-						"r": "Upp::LZ4DecompressStream::Workblock wb[16]",
+						"r": "Workblock wb[16]",
 						"s": "Upp",
 						"u": "WB",
 						"q": "Upp::LZ4DecompressStream",
@@ -1336,12 +1336,12 @@
 						"d": true,
 						"iv": false,
 						"is": false,
-						"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:85:2)",
-						"t": "Upp::LZ4DecompressStream::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:85:2)",
-						"i": "Upp::LZ4DecompressStream::(unnamed at/home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.)",
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:85:2)",
+						"t": "Upp::LZ4DecompressStream::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:85:2)",
+						"i": "Upp::LZ4DecompressStream::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.)",
 						"r": "enum",
 						"s": "Upp",
-						"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/PLUGIN/LZ4/LZ4.H:85:2)",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\PLUGIN\\LZ4\\LZ4.H:85:2)",
 						"q": "",
 						"w": "",
 						"y": "",
@@ -1363,7 +1363,7 @@
 						"iv": false,
 						"is": false,
 						"n": "BLOCK_BYTES",
-						"t": "Upp::LZ4DecompressStream::(unnamed enum at /home/sblo/ai-upp/uppsrc/plugin/lz4/lz4.h:85:2)",
+						"t": "Upp::LZ4DecompressStream::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\plugin\\lz4\\lz4.h:85:2)",
 						"i": "Upp::LZ4DecompressStream::BLOCK_BYTES",
 						"r": "BLOCK_BYTES",
 						"s": "Upp",
@@ -1391,7 +1391,7 @@
 						"n": "xxh",
 						"t": "xxHashStream",
 						"i": "Upp::LZ4DecompressStream::xxh",
-						"r": "Upp::xxHashStream xxh",
+						"r": "xxHashStream xxh",
 						"s": "Upp",
 						"u": "XXH",
 						"q": "Upp::LZ4DecompressStream",
@@ -1469,7 +1469,7 @@
 						"n": "lz4hdr",
 						"t": "byte",
 						"i": "Upp::LZ4DecompressStream::lz4hdr",
-						"r": "Upp::byte lz4hdr",
+						"r": "byte lz4hdr",
 						"s": "Upp",
 						"u": "LZ4HDR",
 						"q": "Upp::LZ4DecompressStream",
@@ -1677,7 +1677,7 @@
 						"n": "Open",
 						"t": "bool (Stream &)",
 						"i": "Upp::LZ4DecompressStream::Open(Stream&)",
-						"r": "bool Open(Upp::Stream& in)",
+						"r": "bool Open(Stream& in)",
 						"s": "Upp",
 						"u": "OPEN",
 						"q": "Upp::LZ4DecompressStream",
@@ -1755,7 +1755,7 @@
 						"n": "LZ4DecompressStream",
 						"t": "void (Stream &)",
 						"i": "Upp::LZ4DecompressStream::LZ4DecompressStream(Stream&)",
-						"r": "LZ4DecompressStream(Upp::Stream& in)",
+						"r": "LZ4DecompressStream(Stream& in)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESSSTREAM",
 						"q": "Upp::LZ4DecompressStream",
@@ -1807,7 +1807,7 @@
 						"n": "LZ4Compress",
 						"t": "int64 (Stream &, Stream &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Compress(Stream&,Stream&,Gate)",
-						"r": "Upp::int64 LZ4Compress(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "int64 LZ4Compress(Stream& out, Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4COMPRESS",
 						"q": "Upp",
@@ -1833,7 +1833,7 @@
 						"n": "LZ4Decompress",
 						"t": "int64 (Stream &, Stream &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Decompress(Stream&,Stream&,Gate)",
-						"r": "Upp::int64 LZ4Decompress(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "int64 LZ4Decompress(Stream& out, Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESS",
 						"q": "Upp",
@@ -1859,7 +1859,7 @@
 						"n": "LZ4Compress",
 						"t": "String (Stream &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Compress(Stream&,Gate)",
-						"r": "Upp::String LZ4Compress(Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Compress(Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4COMPRESS",
 						"q": "Upp",
@@ -1885,7 +1885,7 @@
 						"n": "LZ4Decompress",
 						"t": "String (Stream &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Decompress(Stream&,Gate)",
-						"r": "Upp::String LZ4Decompress(Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Decompress(Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESS",
 						"q": "Upp",
@@ -1911,7 +1911,7 @@
 						"n": "LZ4Compress",
 						"t": "String (const void *, int64, Gate<int64, int64>)",
 						"i": "Upp::LZ4Compress(const void*,int64,Gate)",
-						"r": "Upp::String LZ4Compress(const void *data, Upp::int64 len, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Compress(const void *data, int64 len, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4COMPRESS",
 						"q": "Upp",
@@ -1937,7 +1937,7 @@
 						"n": "LZ4Compress",
 						"t": "String (const String &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Compress(const String&,Gate)",
-						"r": "Upp::String LZ4Compress(const Upp::String& s, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Compress(const String& s, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4COMPRESS",
 						"q": "Upp",
@@ -1963,7 +1963,7 @@
 						"n": "LZ4Decompress",
 						"t": "String (const void *, int64, Gate<int64, int64>)",
 						"i": "Upp::LZ4Decompress(const void*,int64,Gate)",
-						"r": "Upp::String LZ4Decompress(const void *data, Upp::int64 len, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Decompress(const void *data, int64 len, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESS",
 						"q": "Upp",
@@ -1989,7 +1989,7 @@
 						"n": "LZ4Decompress",
 						"t": "String (const String &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Decompress(const String&,Gate)",
-						"r": "Upp::String LZ4Decompress(const Upp::String& s, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Decompress(const String& s, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESS",
 						"q": "Upp",
@@ -2015,7 +2015,7 @@
 						"n": "CoLZ4Compress",
 						"t": "int64 (Stream &, Stream &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Compress(Stream&,Stream&,Gate)",
-						"r": "Upp::int64 CoLZ4Compress(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "int64 CoLZ4Compress(Stream& out, Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4COMPRESS",
 						"q": "Upp",
@@ -2041,7 +2041,7 @@
 						"n": "CoLZ4Decompress",
 						"t": "int64 (Stream &, Stream &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Decompress(Stream&,Stream&,Gate)",
-						"r": "Upp::int64 CoLZ4Decompress(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "int64 CoLZ4Decompress(Stream& out, Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4DECOMPRESS",
 						"q": "Upp",
@@ -2067,7 +2067,7 @@
 						"n": "CoLZ4Compress",
 						"t": "String (Stream &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Compress(Stream&,Gate)",
-						"r": "Upp::String CoLZ4Compress(Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Compress(Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4COMPRESS",
 						"q": "Upp",
@@ -2093,7 +2093,7 @@
 						"n": "CoLZ4Decompress",
 						"t": "String (Stream &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Decompress(Stream&,Gate)",
-						"r": "Upp::String CoLZ4Decompress(Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Decompress(Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4DECOMPRESS",
 						"q": "Upp",
@@ -2119,7 +2119,7 @@
 						"n": "CoLZ4Compress",
 						"t": "String (const void *, int64, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Compress(const void*,int64,Gate)",
-						"r": "Upp::String CoLZ4Compress(const void *data, Upp::int64 len, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Compress(const void *data, int64 len, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4COMPRESS",
 						"q": "Upp",
@@ -2145,7 +2145,7 @@
 						"n": "CoLZ4Compress",
 						"t": "String (const String &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Compress(const String&,Gate)",
-						"r": "Upp::String CoLZ4Compress(const Upp::String& s, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Compress(const String& s, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4COMPRESS",
 						"q": "Upp",
@@ -2171,7 +2171,7 @@
 						"n": "CoLZ4Decompress",
 						"t": "String (const void *, int64, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Decompress(const void*,int64,Gate)",
-						"r": "Upp::String CoLZ4Decompress(const void *data, Upp::int64 len, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Decompress(const void *data, int64 len, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4DECOMPRESS",
 						"q": "Upp",
@@ -2197,7 +2197,7 @@
 						"n": "CoLZ4Decompress",
 						"t": "String (const String &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Decompress(const String&,Gate)",
-						"r": "Upp::String CoLZ4Decompress(const Upp::String& s, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Decompress(const String& s, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4DECOMPRESS",
 						"q": "Upp",
@@ -2223,7 +2223,7 @@
 						"n": "IsLZ4",
 						"t": "bool (Stream &)",
 						"i": "Upp::IsLZ4(Stream&)",
-						"r": "bool IsLZ4(Upp::Stream& s)",
+						"r": "bool IsLZ4(Stream& s)",
 						"s": "Upp",
 						"u": "ISLZ4",
 						"q": "Upp",
@@ -2256,7 +2256,7 @@
 						"n": "Open",
 						"t": "void (Stream &)",
 						"i": "Upp::LZ4CompressStream::Open(Stream&)",
-						"r": "void Open(Upp::Stream& out_)",
+						"r": "void Open(Stream& out_)",
 						"s": "Upp",
 						"u": "OPEN",
 						"q": "Upp::LZ4CompressStream",
@@ -2266,12 +2266,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "117c465a5959f78c98fd659cadd0ce8a7219df19"
-							},
 							{
 								"items": [
 
@@ -2302,12 +2296,6 @@
 								"items": [
 
 								],
-								"h": "7e4fe49d35271432b4aeb3bcd2f4d5d20624163c"
-							},
-							{
-								"items": [
-
-								],
 								"h": "8ac9a4bb4716c9c423c00ded63e18af871073082"
 							}
 						]
@@ -2330,12 +2318,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "6552d46f49a6bae3d25c6552eab8f2e98438c118"
-							},
 							{
 								"items": [
 
@@ -2366,12 +2348,6 @@
 								"items": [
 
 								],
-								"h": "38792d3b99261591021e2d684097c3904f868a41"
-							},
-							{
-								"items": [
-
-								],
 								"h": "2192e74470abbc0744b3028743bc59f30998367a"
 							}
 						]
@@ -2394,12 +2370,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ff80c9c2af67a49e25568a72e963934b63b63df7"
-							},
 							{
 								"items": [
 
@@ -2430,12 +2400,6 @@
 								"items": [
 
 								],
-								"h": "51a579e7a31139b21114a7dcb98336956fc3d004"
-							},
-							{
-								"items": [
-
-								],
 								"h": "694281c4cd6f7bcbb62bb9a0745a99517564102b"
 							}
 						]
@@ -2462,12 +2426,6 @@
 								"items": [
 
 								],
-								"h": "93f3e6c2c7ca0e4cb3cc7cd92b3440be3969b77a"
-							},
-							{
-								"items": [
-
-								],
 								"h": "521bc37f618f78b6b56336ce773a7a64ec585448"
 							}
 						]
@@ -2480,7 +2438,7 @@
 						"n": "_Put",
 						"t": "void (const void *, dword)",
 						"i": "Upp::LZ4CompressStream::_Put(const void*,dword)",
-						"r": "void _Put(const void *data, Upp::dword size)",
+						"r": "void _Put(const void *data, dword size)",
 						"s": "Upp",
 						"u": "_PUT",
 						"q": "Upp::LZ4CompressStream",
@@ -2490,12 +2448,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "11f74a4c89f3165cf032f21f1e8fc86afe8fe429"
-							},
 							{
 								"items": [
 
@@ -2526,12 +2478,6 @@
 								"items": [
 
 								],
-								"h": "93cc21b24ad8e7333cea02e90739332c5d1f0baa"
-							},
-							{
-								"items": [
-
-								],
 								"h": "5470f8725fe1cf6685bfc37c8c1917bce58c4762"
 							}
 						]
@@ -2554,12 +2500,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0b31dda7fefe9c1ba5a938d0a131dce169e7ae21"
-							},
 							{
 								"items": [
 
@@ -2623,12 +2563,6 @@
 								"items": [
 
 								],
-								"h": "f4f2210fb1f933bdb97aad2c82faad78ccd8fbe9"
-							},
-							{
-								"items": [
-
-								],
 								"h": "c3799a8cfc019a3c5154ba991c13b5ecbfed9425"
 							}
 						]
@@ -2641,7 +2575,7 @@
 						"n": "Open",
 						"t": "bool (Stream &)",
 						"i": "Upp::LZ4DecompressStream::Open(Stream&)",
-						"r": "bool Open(Upp::Stream& in_)",
+						"r": "bool Open(Stream& in_)",
 						"s": "Upp",
 						"u": "OPEN",
 						"q": "Upp::LZ4DecompressStream",
@@ -2651,12 +2585,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5a7a52b2e9d83607f48bc2e9c21050bdd6b3a65a"
-							},
 							{
 								"items": [
 
@@ -2687,12 +2615,6 @@
 								"items": [
 
 								],
-								"h": "51e4c150a1aa58afdc5cd1250a36b1da562a6388"
-							},
-							{
-								"items": [
-
-								],
 								"h": "59a3db05b52c90ab783ef2ba0726a36299ab5d05"
 							}
 						]
@@ -2715,12 +2637,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "89fff122ba4ef92eaceabcdc387fc714ce48684f"
-							},
 							{
 								"items": [
 
@@ -2751,12 +2667,6 @@
 								"items": [
 
 								],
-								"h": "cd31374d9753206814a96abc47e434cea51474e2"
-							},
-							{
-								"items": [
-
-								],
 								"h": "ccc4e0a8fd113c64533a9fb131fd750d4ed05947"
 							}
 						]
@@ -2779,12 +2689,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "3208aa8d479d30d481f5063161a8b9ac203382a6"
-							},
 							{
 								"items": [
 
@@ -2815,12 +2719,6 @@
 								"items": [
 
 								],
-								"h": "01076c0cb80e9c485df043946310574b2713b516"
-							},
-							{
-								"items": [
-
-								],
 								"h": "8483c495083ef8860959b1e279bf880349c9ad87"
 							}
 						]
@@ -2833,7 +2731,7 @@
 						"n": "_Get",
 						"t": "dword (void *, dword)",
 						"i": "Upp::LZ4DecompressStream::_Get(void*,dword)",
-						"r": "Upp::dword _Get(void *data, Upp::dword size)",
+						"r": "dword _Get(void *data, dword size)",
 						"s": "Upp",
 						"u": "_GET",
 						"q": "Upp::LZ4DecompressStream",
@@ -2843,12 +2741,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "713df81af8031f94ab2751900f9557395128910a"
-							},
 							{
 								"items": [
 
@@ -2879,12 +2771,6 @@
 								"items": [
 
 								],
-								"h": "3cb1b9857778f28fc603ba660a5af5aca7b37d01"
-							},
-							{
-								"items": [
-
-								],
 								"h": "83879c33afb12fb41fdf24a02c838dfc69399ed0"
 							}
 						]
@@ -2911,12 +2797,6 @@
 								"items": [
 
 								],
-								"h": "5edcad80ef1b525fa953a003ad9476dad6b20ed8"
-							},
-							{
-								"items": [
-
-								],
 								"h": "494c97a31f52fd2ceb15572a80d6232af41f4b02"
 							}
 						]
@@ -2929,7 +2809,7 @@
 						"n": "IsLZ4",
 						"t": "bool (Stream &)",
 						"i": "Upp::IsLZ4(Stream&)",
-						"r": "bool IsLZ4(Upp::Stream& s)",
+						"r": "bool IsLZ4(Stream& s)",
 						"s": "Upp",
 						"u": "ISLZ4",
 						"q": "Upp",
@@ -2939,12 +2819,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "421d72de42fe123e47d5eb734211276ced9800f0"
-							},
 							{
 								"items": [
 
@@ -2968,7 +2842,7 @@
 						"n": "sCompressStreamCopy_",
 						"t": "void (Stream &, Stream &, Gate<int64, int64>, Stream &, int64)",
 						"i": "Upp::sCompressStreamCopy_(Stream&,Stream&,Gate,Stream&,int64)",
-						"r": "void sCompressStreamCopy_(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress, Upp::Stream& orig_in, Upp::int64 insz)",
+						"r": "void sCompressStreamCopy_(Stream& out, Stream& in, Gate<int64, int64> progress, Stream& orig_in, int64 insz)",
 						"s": "Upp",
 						"u": "SCOMPRESSSTREAMCOPY_",
 						"q": "Upp",
@@ -2994,7 +2868,7 @@
 						"n": "sLZ4Compress",
 						"t": "int64 (Stream &, Stream &, int64, Gate<int64, int64>, bool)",
 						"i": "Upp::sLZ4Compress(Stream&,Stream&,int64,Gate,bool)",
-						"r": "static Upp::int64 sLZ4Compress(Upp::Stream& out, Upp::Stream& in, Upp::int64 size, Gate<int64, int64> progress, bool co)",
+						"r": "static int64 sLZ4Compress(Stream& out, Stream& in, int64 size, Gate<int64, int64> progress, bool co)",
 						"s": "Upp",
 						"u": "SLZ4COMPRESS",
 						"q": "Upp",
@@ -3004,12 +2878,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "96b2ec931efcc59ffdee6b5aec4c56590f7576a4"
-							},
 							{
 								"items": [
 
@@ -3026,7 +2894,7 @@
 						"n": "sLZ4Decompress",
 						"t": "int64 (Stream &, Stream &, int64, Gate<int64, int64>, bool)",
 						"i": "Upp::sLZ4Decompress(Stream&,Stream&,int64,Gate,bool)",
-						"r": "static Upp::int64 sLZ4Decompress(Upp::Stream& out, Upp::Stream& in, Upp::int64 size, Gate<int64, int64> progress, bool co)",
+						"r": "static int64 sLZ4Decompress(Stream& out, Stream& in, int64 size, Gate<int64, int64> progress, bool co)",
 						"s": "Upp",
 						"u": "SLZ4DECOMPRESS",
 						"q": "Upp",
@@ -3036,12 +2904,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "58c1f0bc58bd6168a68ea3a50809f51faa88e03c"
-							},
 							{
 								"items": [
 
@@ -3058,7 +2920,7 @@
 						"n": "LZ4Compress",
 						"t": "int64 (Stream &, Stream &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Compress(Stream&,Stream&,Gate)",
-						"r": "Upp::int64 LZ4Compress(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "int64 LZ4Compress(Stream& out, Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4COMPRESS",
 						"q": "Upp",
@@ -3068,12 +2930,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b44d7358dea6a7c0b2b5029d46335dd11089da46"
-							},
 							{
 								"items": [
 
@@ -3090,7 +2946,7 @@
 						"n": "LZ4Decompress",
 						"t": "int64 (Stream &, Stream &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Decompress(Stream&,Stream&,Gate)",
-						"r": "Upp::int64 LZ4Decompress(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "int64 LZ4Decompress(Stream& out, Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESS",
 						"q": "Upp",
@@ -3100,12 +2956,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "2b0000ff8549d92db38b7f5e16cf40c9eeee0188"
-							},
 							{
 								"items": [
 
@@ -3122,7 +2972,7 @@
 						"n": "LZ4Compress",
 						"t": "String (Stream &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Compress(Stream&,Gate)",
-						"r": "Upp::String LZ4Compress(Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Compress(Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4COMPRESS",
 						"q": "Upp",
@@ -3132,12 +2982,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "e6a952accb7ba3d41d3e628cfbbee007d87c68f7"
-							},
 							{
 								"items": [
 
@@ -3154,7 +2998,7 @@
 						"n": "LZ4Decompress",
 						"t": "String (Stream &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Decompress(Stream&,Gate)",
-						"r": "Upp::String LZ4Decompress(Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Decompress(Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESS",
 						"q": "Upp",
@@ -3164,12 +3008,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8fb60b85fb0d78e0d2cbce8c17dc6d4d1c53a144"
-							},
 							{
 								"items": [
 
@@ -3186,7 +3024,7 @@
 						"n": "LZ4Compress",
 						"t": "String (const void *, int64, Gate<int64, int64>)",
 						"i": "Upp::LZ4Compress(const void*,int64,Gate)",
-						"r": "Upp::String LZ4Compress(const void *data, Upp::int64 len, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Compress(const void *data, int64 len, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4COMPRESS",
 						"q": "Upp",
@@ -3196,12 +3034,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "994311370af046be7b3f28446eb4a5d0c0e10545"
-							},
 							{
 								"items": [
 
@@ -3218,7 +3050,7 @@
 						"n": "LZ4Compress",
 						"t": "String (const String &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Compress(const String&,Gate)",
-						"r": "Upp::String LZ4Compress(const Upp::String& s, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Compress(const String& s, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4COMPRESS",
 						"q": "Upp",
@@ -3228,12 +3060,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "18774c159d8b3cac57f0fa3679aff1170d5e9400"
-							},
 							{
 								"items": [
 
@@ -3250,7 +3076,7 @@
 						"n": "LZ4Decompress",
 						"t": "String (const void *, int64, Gate<int64, int64>)",
 						"i": "Upp::LZ4Decompress(const void*,int64,Gate)",
-						"r": "Upp::String LZ4Decompress(const void *data, Upp::int64 len, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Decompress(const void *data, int64 len, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESS",
 						"q": "Upp",
@@ -3260,12 +3086,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0320139c59e8281d166698944cb862ce5534cbb2"
-							},
 							{
 								"items": [
 
@@ -3282,7 +3102,7 @@
 						"n": "LZ4Decompress",
 						"t": "String (const String &, Gate<int64, int64>)",
 						"i": "Upp::LZ4Decompress(const String&,Gate)",
-						"r": "Upp::String LZ4Decompress(const Upp::String& s, Gate<int64, int64> progress = Null)",
+						"r": "String LZ4Decompress(const String& s, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "LZ4DECOMPRESS",
 						"q": "Upp",
@@ -3292,12 +3112,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ee564ccc04901ec9e9927034ed1f9c1e4fd1310f"
-							},
 							{
 								"items": [
 
@@ -3314,7 +3128,7 @@
 						"n": "CoLZ4Compress",
 						"t": "int64 (Stream &, Stream &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Compress(Stream&,Stream&,Gate)",
-						"r": "Upp::int64 CoLZ4Compress(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "int64 CoLZ4Compress(Stream& out, Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4COMPRESS",
 						"q": "Upp",
@@ -3324,12 +3138,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "5b0b7ce37a4946ad4c5071774dc278af69ba0599"
-							},
 							{
 								"items": [
 
@@ -3346,7 +3154,7 @@
 						"n": "CoLZ4Decompress",
 						"t": "int64 (Stream &, Stream &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Decompress(Stream&,Stream&,Gate)",
-						"r": "Upp::int64 CoLZ4Decompress(Upp::Stream& out, Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "int64 CoLZ4Decompress(Stream& out, Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4DECOMPRESS",
 						"q": "Upp",
@@ -3356,12 +3164,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "660070a108112024ad7c78f4873016f7e93001d8"
-							},
 							{
 								"items": [
 
@@ -3378,7 +3180,7 @@
 						"n": "CoLZ4Compress",
 						"t": "String (Stream &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Compress(Stream&,Gate)",
-						"r": "Upp::String CoLZ4Compress(Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Compress(Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4COMPRESS",
 						"q": "Upp",
@@ -3388,12 +3190,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8c046193fc3ea07b4a7cf30d08cf7f6f3fd6c5b9"
-							},
 							{
 								"items": [
 
@@ -3410,7 +3206,7 @@
 						"n": "CoLZ4Decompress",
 						"t": "String (Stream &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Decompress(Stream&,Gate)",
-						"r": "Upp::String CoLZ4Decompress(Upp::Stream& in, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Decompress(Stream& in, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4DECOMPRESS",
 						"q": "Upp",
@@ -3420,12 +3216,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "caaf7bb58fece3b6a5102965a53f6805894c32f6"
-							},
 							{
 								"items": [
 
@@ -3442,7 +3232,7 @@
 						"n": "CoLZ4Compress",
 						"t": "String (const void *, int64, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Compress(const void*,int64,Gate)",
-						"r": "Upp::String CoLZ4Compress(const void *data, Upp::int64 len, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Compress(const void *data, int64 len, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4COMPRESS",
 						"q": "Upp",
@@ -3452,12 +3242,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "6d22ee81719f777d8291d06caf5a1c4a4b6487e0"
-							},
 							{
 								"items": [
 
@@ -3474,7 +3258,7 @@
 						"n": "CoLZ4Compress",
 						"t": "String (const String &, Gate<int64, int64>)",
 						"i": "Upp::CoLZ4Compress(const String&,Gate)",
-						"r": "Upp::String CoLZ4Compress(const Upp::String& s, Gate<int64, int64> progress = Null)",
+						"r": "String CoLZ4Compress(const String& s, Gate<int64, int64> progress = Null)",
 						"s": "Upp",
 						"u": "COLZ4COMPRESS",
 						"q": "Upp",
@@ -3484,12 +3268,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "1ab3435d8765ed6230802efafddb4b304cbe70ec"
-							},
 							{
 								"items": [
 
@@ -3504,4 +3282,54 @@
 						"iv": false,
 						"is": false,
 						"n": "CoLZ4Decompress",
-						"t": "String (const void *, int64, Gate<int64, in
+						"t": "String (const void *, int64, Gate<int64, int64>)",
+						"i": "Upp::CoLZ4Decompress(const void*,int64,Gate)",
+						"r": "String CoLZ4Decompress(const void *data, int64 len, Gate<int64, int64> progress = Null)",
+						"s": "Upp",
+						"u": "COLZ4DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b65958e95b0ddfc1a4a23ec92197b817a227931"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CoLZ4Decompress",
+						"t": "String (const String &, Gate<int64, int64>)",
+						"i": "Upp::CoLZ4Decompress(const String&,Gate)",
+						"r": "String CoLZ4Decompress(const String& s, Gate<int64, int64> progress = Null)",
+						"s": "Upp",
+						"u": "COLZ4DECOMPRESS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "773879c3e19b60c4eeadcdc81070e645be08539d"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

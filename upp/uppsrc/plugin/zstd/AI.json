@@ -1,5 +1,5 @@
 {
-	"saved_hash": "3a62399e4efaf0bd65871506b4d5cb00e89f5ff0",
+	"saved_hash": "6beb85e78c690758d0f537e31514600bfd45ffce",
 	"files": [
 		{
 			"key": "lib/huf_decompress.c",
@@ -106,6 +106,12 @@
 
 								],
 								"h": "f2b2d2bd663518d2d0959178144458f40357295d"
+							},
+							{
+								"items": [
+
+								],
+								"h": "958ea1d1a85fa1248569aefcfad9849533b2db3e"
 							}
 						]
 					},
@@ -11968,6 +11974,32 @@
 								"h": "970b62cedfc7fab5de2b125a739e2f5cc2f1282a"
 							}
 						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "scratchBuffer",
+						"t": "int",
+						"i": "::scratchBuffer",
+						"r": "int scratchBuffer",
+						"s": "",
+						"u": "SCRATCHBUFFER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf3e0da23bd155b7e01d5e94aaf89d5b36a3b244"
+							}
+						]
 					}
 				]
 			}
@@ -13611,6 +13643,32 @@
 
 								],
 								"h": "57801116f891640804c95e77063053848a432c56"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "U32",
+						"t": "U32",
+						"i": "U32",
+						"r": "typedef int (U32)(int *)",
+						"s": "",
+						"u": "U32",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
 							}
 						]
 					}
@@ -26003,6 +26061,32 @@
 								"h": "ac4f6da4dc0e05c1637a89c5202064e9c66d9e22"
 							}
 						]
+					},
+					{
+						"k": 9,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "attachDictSizeCutoffs",
+						"t": "const size_t",
+						"i": "attachDictSizeCutoffs",
+						"r": "static const size_t attachDictSizeCutoffs",
+						"s": "",
+						"u": "ATTACHDICTSIZECUTOFFS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c91773bc99fa3e3be88744d2e584c51db8108c27"
+							}
+						]
 					}
 				]
 			}
@@ -29822,6 +29906,32 @@
 								"h": "f23547056f56e9f91e30a7a4cd714cc70a4da86a"
 							}
 						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "wksp",
+						"t": "int",
+						"i": "::wksp",
+						"r": "int wksp",
+						"s": "",
+						"u": "WKSP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc2bd11ec684c1daaceb8cbce3bfba55cf27918a"
+							}
+						]
 					}
 				]
 			}
@@ -32930,6 +33040,12 @@
 
 								],
 								"h": "12ab622c36d18180753296457a261c2cfd393875"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ba5c74ba5c59cbdb757d897fe0b1689d2368930f"
 							}
 						]
 					},
@@ -32956,6 +33072,12 @@
 
 								],
 								"h": "1390fa1f10c91da30a9400840a3d66e2d987f32c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "fd50c298b7767614cc2500f2102e66bed6f5acbc"
 							}
 						]
 					},
@@ -41562,6 +41684,4478 @@
 
 								],
 								"h": "54f31db65bf2d9a2fb8b256552778ce452d3c21e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_versionNumber",
+						"t": "unsigned int ()",
+						"i": "ZSTD_versionNumber()",
+						"r": "unsigned int ZSTD_versionNumber()",
+						"s": "",
+						"u": "ZSTD_VERSIONNUMBER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8c9bf6fad06d4198a6958b6d11b1ab972c636b4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_versionString",
+						"t": "const char *()",
+						"i": "ZSTD_versionString()",
+						"r": "const char *ZSTD_versionString()",
+						"s": "",
+						"u": "ZSTD_VERSIONSTRING",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8968cda3da424c9c8f91de0df28ae5a14902b71"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compress",
+						"t": "size_t (void *, size_t, const void *, size_t, int)",
+						"i": "ZSTD_compress(void*,size_t,const void*,size_t,int)",
+						"r": "size_t ZSTD_compress(void *dst, size_t dstCapacity, const void *src, size_t srcSize, int compressionLevel)",
+						"s": "",
+						"u": "ZSTD_COMPRESS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c759271d23ec1dee5ed45957c3c2378d7f730aab"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompress",
+						"t": "size_t (void *, size_t, const void *, size_t)",
+						"i": "ZSTD_decompress(void*,size_t,const void*,size_t)",
+						"r": "size_t ZSTD_decompress(void *dst, size_t dstCapacity, const void *src, size_t compressedSize)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10c8115bc63635dba86d526352e4ecf6606d8802"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getFrameContentSize",
+						"t": "unsigned long long (const void *, size_t)",
+						"i": "ZSTD_getFrameContentSize(const void*,size_t)",
+						"r": "unsigned long long ZSTD_getFrameContentSize(const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_GETFRAMECONTENTSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07705e4d625b3e4e46708eb4637124bd70455b44"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getDecompressedSize",
+						"t": "unsigned long long (const void *, size_t)",
+						"i": "ZSTD_getDecompressedSize(const void*,size_t)[[deprecated(\"Replaced by ZSTD_getFrameContentSize\")]]",
+						"r": "unsigned long long ZSTD_getDecompressedSize(const void *src, size_t srcSize) [[deprecated(\"Replaced by ZSTD_getFrameContentSize\")]]",
+						"s": "",
+						"u": "ZSTD_GETDECOMPRESSEDSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aedb33917b788a91a19519d67f833db2bcdd0245"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_findFrameCompressedSize",
+						"t": "size_t (const void *, size_t)",
+						"i": "ZSTD_findFrameCompressedSize(const void*,size_t)",
+						"r": "size_t ZSTD_findFrameCompressedSize(const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_FINDFRAMECOMPRESSEDSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8897a96037692009904d630a1a0a22d39dc97a10"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressBound",
+						"t": "size_t (size_t)",
+						"i": "ZSTD_compressBound(size_t)",
+						"r": "size_t ZSTD_compressBound(size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_COMPRESSBOUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b7d27388e146ffd9b7d5aa58afd6563af3e0a822"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_isError",
+						"t": "unsigned int (size_t)",
+						"i": "ZSTD_isError(size_t)",
+						"r": "unsigned int ZSTD_isError(size_t code)",
+						"s": "",
+						"u": "ZSTD_ISERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "34431f631914845aca685ad1975db3d9dfbad81a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getErrorName",
+						"t": "const char *(size_t)",
+						"i": "ZSTD_getErrorName(size_t)",
+						"r": "const char *ZSTD_getErrorName(size_t code)",
+						"s": "",
+						"u": "ZSTD_GETERRORNAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df79542d067b296ae8eee7c099d7d54acfde4692"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_minCLevel",
+						"t": "int ()",
+						"i": "ZSTD_minCLevel()",
+						"r": "int ZSTD_minCLevel()",
+						"s": "",
+						"u": "ZSTD_MINCLEVEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ebd80bd003d0bd7f6bd2f2b254bd80b9e1f70230"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_maxCLevel",
+						"t": "int ()",
+						"i": "ZSTD_maxCLevel()",
+						"r": "int ZSTD_maxCLevel()",
+						"s": "",
+						"u": "ZSTD_MAXCLEVEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6970827881776a40b132faf8e39204b4903b1c6f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_defaultCLevel",
+						"t": "int ()",
+						"i": "ZSTD_defaultCLevel()",
+						"r": "int ZSTD_defaultCLevel()",
+						"s": "",
+						"u": "ZSTD_DEFAULTCLEVEL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "06937d2463cff6d453f2cd9db2f1ff63581a55f5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCCtx",
+						"t": "ZSTD_CCtx *()",
+						"i": "ZSTD_createCCtx()",
+						"r": "ZSTD_CCtx *ZSTD_createCCtx()",
+						"s": "",
+						"u": "ZSTD_CREATECCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "25772b12d854b8d506c01ac37c7df1da14be89c5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_freeCCtx",
+						"t": "size_t (ZSTD_CCtx *)",
+						"i": "ZSTD_freeCCtx(ZSTD_CCtx*)",
+						"r": "size_t ZSTD_freeCCtx(ZSTD_CCtx *cctx)",
+						"s": "",
+						"u": "ZSTD_FREECCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6872aaedfa15476fa214d943705f2643c7eefeb2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressCCtx",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t, int)",
+						"i": "ZSTD_compressCCtx(ZSTD_CCtx*,void*,size_t,const void*,size_t,int)",
+						"r": "size_t ZSTD_compressCCtx(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize, int compressionLevel)",
+						"s": "",
+						"u": "ZSTD_COMPRESSCCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6a917b6a728e028f923eec2669eeb37b6a36d39e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createDCtx",
+						"t": "ZSTD_DCtx *()",
+						"i": "ZSTD_createDCtx()",
+						"r": "ZSTD_DCtx *ZSTD_createDCtx()",
+						"s": "",
+						"u": "ZSTD_CREATEDCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc70d90f83d62a4ea732a6cad5666c4c587721f9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_freeDCtx",
+						"t": "size_t (ZSTD_DCtx *)",
+						"i": "ZSTD_freeDCtx(ZSTD_DCtx*)",
+						"r": "size_t ZSTD_freeDCtx(ZSTD_DCtx *dctx)",
+						"s": "",
+						"u": "ZSTD_FREEDCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1a2eec2510c52407df1c68d4c270689c8e06dea7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressDCtx",
+						"t": "size_t (ZSTD_DCtx *, void *, size_t, const void *, size_t)",
+						"i": "ZSTD_decompressDCtx(ZSTD_DCtx*,void*,size_t,const void*,size_t)",
+						"r": "size_t ZSTD_decompressDCtx(ZSTD_DCtx *dctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSDCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "601d8b9ffd9b2d5729fc1d3d4184a092b708260a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_cParam_getBounds",
+						"t": "ZSTD_bounds (ZSTD_cParameter)",
+						"i": "ZSTD_cParam_getBounds(ZSTD_cParameter)",
+						"r": "ZSTD_bounds ZSTD_cParam_getBounds(ZSTD_cParameter cParam)",
+						"s": "",
+						"u": "ZSTD_CPARAM_GETBOUNDS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7616d68963110db49fdd02f435a8fb3584aac589"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_setParameter",
+						"t": "size_t (ZSTD_CCtx *, ZSTD_cParameter, int)",
+						"i": "ZSTD_CCtx_setParameter(ZSTD_CCtx*,ZSTD_cParameter,int)",
+						"r": "size_t ZSTD_CCtx_setParameter(ZSTD_CCtx *cctx, ZSTD_cParameter param, int value)",
+						"s": "",
+						"u": "ZSTD_CCTX_SETPARAMETER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ee51c6400eff06c9cd7e2c338a7567a3c4e3ccc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_setPledgedSrcSize",
+						"t": "size_t (ZSTD_CCtx *, unsigned long long)",
+						"i": "ZSTD_CCtx_setPledgedSrcSize(ZSTD_CCtx*,unsigned long long)",
+						"r": "size_t ZSTD_CCtx_setPledgedSrcSize(ZSTD_CCtx *cctx, unsigned long long pledgedSrcSize)",
+						"s": "",
+						"u": "ZSTD_CCTX_SETPLEDGEDSRCSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "39f7a643de4e707bab03ce3c446f7156a6837da4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_reset",
+						"t": "size_t (ZSTD_CCtx *, ZSTD_ResetDirective)",
+						"i": "ZSTD_CCtx_reset(ZSTD_CCtx*,ZSTD_ResetDirective)",
+						"r": "size_t ZSTD_CCtx_reset(ZSTD_CCtx *cctx, ZSTD_ResetDirective reset)",
+						"s": "",
+						"u": "ZSTD_CCTX_RESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "91915a11a66babb4b3b5d386e036750b7b33027f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compress2",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t)",
+						"i": "ZSTD_compress2(ZSTD_CCtx*,void*,size_t,const void*,size_t)",
+						"r": "size_t ZSTD_compress2(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_COMPRESS2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04eb650fdca522df81af362b080c2bc713049b8b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_dParam_getBounds",
+						"t": "ZSTD_bounds (ZSTD_dParameter)",
+						"i": "ZSTD_dParam_getBounds(ZSTD_dParameter)",
+						"r": "ZSTD_bounds ZSTD_dParam_getBounds(ZSTD_dParameter dParam)",
+						"s": "",
+						"u": "ZSTD_DPARAM_GETBOUNDS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb9ef0d83089881e88dcad148adef95fe0d24f16"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_setParameter",
+						"t": "size_t (ZSTD_DCtx *, ZSTD_dParameter, int)",
+						"i": "ZSTD_DCtx_setParameter(ZSTD_DCtx*,ZSTD_dParameter,int)",
+						"r": "size_t ZSTD_DCtx_setParameter(ZSTD_DCtx *dctx, ZSTD_dParameter param, int value)",
+						"s": "",
+						"u": "ZSTD_DCTX_SETPARAMETER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fdece4a02c832e1103b4b2d3b9e541adf87556ce"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_reset",
+						"t": "size_t (ZSTD_DCtx *, ZSTD_ResetDirective)",
+						"i": "ZSTD_DCtx_reset(ZSTD_DCtx*,ZSTD_ResetDirective)",
+						"r": "size_t ZSTD_DCtx_reset(ZSTD_DCtx *dctx, ZSTD_ResetDirective reset)",
+						"s": "",
+						"u": "ZSTD_DCTX_RESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cd9996f63335b027cf9511e2b4101f5ceea1fdb4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCStream",
+						"t": "ZSTD_CStream *()",
+						"i": "ZSTD_createCStream()",
+						"r": "ZSTD_CStream *ZSTD_createCStream()",
+						"s": "",
+						"u": "ZSTD_CREATECSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aaf00e955fca67192cc0b86fedcd1689b80b5052"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_freeCStream",
+						"t": "size_t (ZSTD_CStream *)",
+						"i": "ZSTD_freeCStream(ZSTD_CStream*)",
+						"r": "size_t ZSTD_freeCStream(ZSTD_CStream *zcs)",
+						"s": "",
+						"u": "ZSTD_FREECSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec5bbc4320463ef12015734f1a26dc3d46e2a4af"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressStream2",
+						"t": "size_t (ZSTD_CCtx *, ZSTD_outBuffer *, ZSTD_inBuffer *, ZSTD_EndDirective)",
+						"i": "ZSTD_compressStream2(ZSTD_CCtx*,ZSTD_outBuffer*,ZSTD_inBuffer*,ZSTD_EndDirective)",
+						"r": "size_t ZSTD_compressStream2(ZSTD_CCtx *cctx, ZSTD_outBuffer *output, ZSTD_inBuffer *input, ZSTD_EndDirective endOp)",
+						"s": "",
+						"u": "ZSTD_COMPRESSSTREAM2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "791271dfb35c12c22ab324b502cf020cd74b1498"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CStreamInSize",
+						"t": "size_t ()",
+						"i": "ZSTD_CStreamInSize()",
+						"r": "size_t ZSTD_CStreamInSize()",
+						"s": "",
+						"u": "ZSTD_CSTREAMINSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "826525910541716544580b6b9e989238cb1bd849"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CStreamOutSize",
+						"t": "size_t ()",
+						"i": "ZSTD_CStreamOutSize()",
+						"r": "size_t ZSTD_CStreamOutSize()",
+						"s": "",
+						"u": "ZSTD_CSTREAMOUTSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d39d851aef88ed74bbb033c5e237027d0b425667"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initCStream",
+						"t": "size_t (ZSTD_CStream *, int)",
+						"i": "ZSTD_initCStream(ZSTD_CStream*,int)",
+						"r": "size_t ZSTD_initCStream(ZSTD_CStream *zcs, int compressionLevel)",
+						"s": "",
+						"u": "ZSTD_INITCSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7d8bfefc0789df8a43cf8ae49b2b6785c1ee3b5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressStream",
+						"t": "size_t (ZSTD_CStream *, ZSTD_outBuffer *, ZSTD_inBuffer *)",
+						"i": "ZSTD_compressStream(ZSTD_CStream*,ZSTD_outBuffer*,ZSTD_inBuffer*)",
+						"r": "size_t ZSTD_compressStream(ZSTD_CStream *zcs, ZSTD_outBuffer *output, ZSTD_inBuffer *input)",
+						"s": "",
+						"u": "ZSTD_COMPRESSSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "89469c7730e75005a7124e5356e6f1856c2e7721"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_flushStream",
+						"t": "size_t (ZSTD_CStream *, ZSTD_outBuffer *)",
+						"i": "ZSTD_flushStream(ZSTD_CStream*,ZSTD_outBuffer*)",
+						"r": "size_t ZSTD_flushStream(ZSTD_CStream *zcs, ZSTD_outBuffer *output)",
+						"s": "",
+						"u": "ZSTD_FLUSHSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "89465bd862dba8b89741eb71c22538a50b95a2da"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_endStream",
+						"t": "size_t (ZSTD_CStream *, ZSTD_outBuffer *)",
+						"i": "ZSTD_endStream(ZSTD_CStream*,ZSTD_outBuffer*)",
+						"r": "size_t ZSTD_endStream(ZSTD_CStream *zcs, ZSTD_outBuffer *output)",
+						"s": "",
+						"u": "ZSTD_ENDSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e1faffd34c88e90187112009ac5d2f45cdcca94"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createDStream",
+						"t": "ZSTD_DStream *()",
+						"i": "ZSTD_createDStream()",
+						"r": "ZSTD_DStream *ZSTD_createDStream()",
+						"s": "",
+						"u": "ZSTD_CREATEDSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "572ddea6f289e6130daf0a3b88e01fd7b35c40c9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_freeDStream",
+						"t": "size_t (ZSTD_DStream *)",
+						"i": "ZSTD_freeDStream(ZSTD_DStream*)",
+						"r": "size_t ZSTD_freeDStream(ZSTD_DStream *zds)",
+						"s": "",
+						"u": "ZSTD_FREEDSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f6bfc4633e4d885a73a73426115c22fb74af4d1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initDStream",
+						"t": "size_t (ZSTD_DStream *)",
+						"i": "ZSTD_initDStream(ZSTD_DStream*)",
+						"r": "size_t ZSTD_initDStream(ZSTD_DStream *zds)",
+						"s": "",
+						"u": "ZSTD_INITDSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8f58e374d0dfd4dac114a65798912295443dfc7f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressStream",
+						"t": "size_t (ZSTD_DStream *, ZSTD_outBuffer *, ZSTD_inBuffer *)",
+						"i": "ZSTD_decompressStream(ZSTD_DStream*,ZSTD_outBuffer*,ZSTD_inBuffer*)",
+						"r": "size_t ZSTD_decompressStream(ZSTD_DStream *zds, ZSTD_outBuffer *output, ZSTD_inBuffer *input)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "669a59840598d03cd3e57bda36dad32ee7322650"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DStreamInSize",
+						"t": "size_t ()",
+						"i": "ZSTD_DStreamInSize()",
+						"r": "size_t ZSTD_DStreamInSize()",
+						"s": "",
+						"u": "ZSTD_DSTREAMINSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "06bc8a9a6bf3d12c90150371a383cf32fa22ac36"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DStreamOutSize",
+						"t": "size_t ()",
+						"i": "ZSTD_DStreamOutSize()",
+						"r": "size_t ZSTD_DStreamOutSize()",
+						"s": "",
+						"u": "ZSTD_DSTREAMOUTSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1033ff8fee7c135637de5369b5b820cf7c5f8079"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compress_usingDict",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t, const void *, size_t, int)",
+						"i": "ZSTD_compress_usingDict(ZSTD_CCtx*,void*,size_t,const void*,size_t,const void*,size_t,int)",
+						"r": "size_t ZSTD_compress_usingDict(ZSTD_CCtx *ctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize, const void *dict, size_t dictSize, int compressionLevel)",
+						"s": "",
+						"u": "ZSTD_COMPRESS_USINGDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81d5d5c71c3ebbec43c45b5105e80bdc3fcec806"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompress_usingDict",
+						"t": "size_t (ZSTD_DCtx *, void *, size_t, const void *, size_t, const void *, size_t)",
+						"i": "ZSTD_decompress_usingDict(ZSTD_DCtx*,void*,size_t,const void*,size_t,const void*,size_t)",
+						"r": "size_t ZSTD_decompress_usingDict(ZSTD_DCtx *dctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize, const void *dict, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESS_USINGDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "52918f2d13dd1d05fb06495e25b9d22236d9a880"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCDict",
+						"t": "ZSTD_CDict *(const void *, size_t, int)",
+						"i": "ZSTD_createCDict(const void*,size_t,int)",
+						"r": "ZSTD_CDict *ZSTD_createCDict(const void *dictBuffer, size_t dictSize, int compressionLevel)",
+						"s": "",
+						"u": "ZSTD_CREATECDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4ee2f99231317b4a8f05fe7dde1bd124c8bf9585"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_freeCDict",
+						"t": "size_t (ZSTD_CDict *)",
+						"i": "ZSTD_freeCDict(ZSTD_CDict*)",
+						"r": "size_t ZSTD_freeCDict(ZSTD_CDict *CDict)",
+						"s": "",
+						"u": "ZSTD_FREECDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fb48ad0d818fb2b0d96eb3721b320146b772643"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compress_usingCDict",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t, const ZSTD_CDict *)",
+						"i": "ZSTD_compress_usingCDict(ZSTD_CCtx*,void*,size_t,const void*,size_t,const ZSTD_CDict*)",
+						"r": "size_t ZSTD_compress_usingCDict(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize, const ZSTD_CDict *cdict)",
+						"s": "",
+						"u": "ZSTD_COMPRESS_USINGCDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0df4a988b7fd33c6e5454ce0bc1b0d9af48a4b64"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createDDict",
+						"t": "ZSTD_DDict *(const void *, size_t)",
+						"i": "ZSTD_createDDict(const void*,size_t)",
+						"r": "ZSTD_DDict *ZSTD_createDDict(const void *dictBuffer, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_CREATEDDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "40f79802f89f0ed53cfcd6e854fb096a6c7b791f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_freeDDict",
+						"t": "size_t (ZSTD_DDict *)",
+						"i": "ZSTD_freeDDict(ZSTD_DDict*)",
+						"r": "size_t ZSTD_freeDDict(ZSTD_DDict *ddict)",
+						"s": "",
+						"u": "ZSTD_FREEDDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "794343f4204842775135ce1e79d4c95dd63265da"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompress_usingDDict",
+						"t": "size_t (ZSTD_DCtx *, void *, size_t, const void *, size_t, const ZSTD_DDict *)",
+						"i": "ZSTD_decompress_usingDDict(ZSTD_DCtx*,void*,size_t,const void*,size_t,const ZSTD_DDict*)",
+						"r": "size_t ZSTD_decompress_usingDDict(ZSTD_DCtx *dctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize, const ZSTD_DDict *ddict)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESS_USINGDDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "10c2cd9ab3bf494b677aba8cfd2ab0a08371a5fc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getDictID_fromDict",
+						"t": "unsigned int (const void *, size_t)",
+						"i": "ZSTD_getDictID_fromDict(const void*,size_t)",
+						"r": "unsigned int ZSTD_getDictID_fromDict(const void *dict, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_GETDICTID_FROMDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "607f4fc18cb1c029ba54e4e6e8cadd9360556848"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getDictID_fromCDict",
+						"t": "unsigned int (const ZSTD_CDict *)",
+						"i": "ZSTD_getDictID_fromCDict(const ZSTD_CDict*)",
+						"r": "unsigned int ZSTD_getDictID_fromCDict(const ZSTD_CDict *cdict)",
+						"s": "",
+						"u": "ZSTD_GETDICTID_FROMCDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f861b612d2095060e0e0a84b2fda3f98526d375a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getDictID_fromDDict",
+						"t": "unsigned int (const ZSTD_DDict *)",
+						"i": "ZSTD_getDictID_fromDDict(const ZSTD_DDict*)",
+						"r": "unsigned int ZSTD_getDictID_fromDDict(const ZSTD_DDict *ddict)",
+						"s": "",
+						"u": "ZSTD_GETDICTID_FROMDDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c50d007341e16bd50e60e01f12fb6145bb0b164c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getDictID_fromFrame",
+						"t": "unsigned int (const void *, size_t)",
+						"i": "ZSTD_getDictID_fromFrame(const void*,size_t)",
+						"r": "unsigned int ZSTD_getDictID_fromFrame(const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_GETDICTID_FROMFRAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16270e935518331de0ab2a3ed03b90701e9874c1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_loadDictionary",
+						"t": "size_t (ZSTD_CCtx *, const void *, size_t)",
+						"i": "ZSTD_CCtx_loadDictionary(ZSTD_CCtx*,const void*,size_t)",
+						"r": "size_t ZSTD_CCtx_loadDictionary(ZSTD_CCtx *cctx, const void *dict, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_CCTX_LOADDICTIONARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d95f1e7dd614e58a44824b5e875984f41666122c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_refCDict",
+						"t": "size_t (ZSTD_CCtx *, const ZSTD_CDict *)",
+						"i": "ZSTD_CCtx_refCDict(ZSTD_CCtx*,const ZSTD_CDict*)",
+						"r": "size_t ZSTD_CCtx_refCDict(ZSTD_CCtx *cctx, const ZSTD_CDict *cdict)",
+						"s": "",
+						"u": "ZSTD_CCTX_REFCDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abab423765760c4bac980946401bf6bf02d5efd5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_refPrefix",
+						"t": "size_t (ZSTD_CCtx *, const void *, size_t)",
+						"i": "ZSTD_CCtx_refPrefix(ZSTD_CCtx*,const void*,size_t)",
+						"r": "size_t ZSTD_CCtx_refPrefix(ZSTD_CCtx *cctx, const void *prefix, size_t prefixSize)",
+						"s": "",
+						"u": "ZSTD_CCTX_REFPREFIX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45324e4afa198ee8718c8f0346f5cf56ce04c7b6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_loadDictionary",
+						"t": "size_t (ZSTD_DCtx *, const void *, size_t)",
+						"i": "ZSTD_DCtx_loadDictionary(ZSTD_DCtx*,const void*,size_t)",
+						"r": "size_t ZSTD_DCtx_loadDictionary(ZSTD_DCtx *dctx, const void *dict, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_DCTX_LOADDICTIONARY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4c5b6dbec0cc1208724666cb99d5e2bd39fc748f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_refDDict",
+						"t": "size_t (ZSTD_DCtx *, const ZSTD_DDict *)",
+						"i": "ZSTD_DCtx_refDDict(ZSTD_DCtx*,const ZSTD_DDict*)",
+						"r": "size_t ZSTD_DCtx_refDDict(ZSTD_DCtx *dctx, const ZSTD_DDict *ddict)",
+						"s": "",
+						"u": "ZSTD_DCTX_REFDDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ab669d25011945bf00200f14a669dca3ee35674"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_refPrefix",
+						"t": "size_t (ZSTD_DCtx *, const void *, size_t)",
+						"i": "ZSTD_DCtx_refPrefix(ZSTD_DCtx*,const void*,size_t)",
+						"r": "size_t ZSTD_DCtx_refPrefix(ZSTD_DCtx *dctx, const void *prefix, size_t prefixSize)",
+						"s": "",
+						"u": "ZSTD_DCTX_REFPREFIX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ded0d893b8847f2fab708618a88fdb71ac73746c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_sizeof_CCtx",
+						"t": "size_t (const ZSTD_CCtx *)",
+						"i": "ZSTD_sizeof_CCtx(const ZSTD_CCtx*)",
+						"r": "size_t ZSTD_sizeof_CCtx(const ZSTD_CCtx *cctx)",
+						"s": "",
+						"u": "ZSTD_SIZEOF_CCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1faa4aa9136e59bd92a98c66e450cc66d9024810"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_sizeof_DCtx",
+						"t": "size_t (const ZSTD_DCtx *)",
+						"i": "ZSTD_sizeof_DCtx(const ZSTD_DCtx*)",
+						"r": "size_t ZSTD_sizeof_DCtx(const ZSTD_DCtx *dctx)",
+						"s": "",
+						"u": "ZSTD_SIZEOF_DCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27666ad09cd98f00c98db46aa1e118f74ac82a80"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_sizeof_CStream",
+						"t": "size_t (const ZSTD_CStream *)",
+						"i": "ZSTD_sizeof_CStream(const ZSTD_CStream*)",
+						"r": "size_t ZSTD_sizeof_CStream(const ZSTD_CStream *zcs)",
+						"s": "",
+						"u": "ZSTD_SIZEOF_CSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a94c5ad0ede371ca982d3fa98712441d315e99dd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_sizeof_DStream",
+						"t": "size_t (const ZSTD_DStream *)",
+						"i": "ZSTD_sizeof_DStream(const ZSTD_DStream*)",
+						"r": "size_t ZSTD_sizeof_DStream(const ZSTD_DStream *zds)",
+						"s": "",
+						"u": "ZSTD_SIZEOF_DSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0dec1464fab087e9a51f6916147451e594590b47"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_sizeof_CDict",
+						"t": "size_t (const ZSTD_CDict *)",
+						"i": "ZSTD_sizeof_CDict(const ZSTD_CDict*)",
+						"r": "size_t ZSTD_sizeof_CDict(const ZSTD_CDict *cdict)",
+						"s": "",
+						"u": "ZSTD_SIZEOF_CDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba564fc5650f1aecc84b567fccbf619f6bcd6354"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_sizeof_DDict",
+						"t": "size_t (const ZSTD_DDict *)",
+						"i": "ZSTD_sizeof_DDict(const ZSTD_DDict*)",
+						"r": "size_t ZSTD_sizeof_DDict(const ZSTD_DDict *ddict)",
+						"s": "",
+						"u": "ZSTD_SIZEOF_DDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a79c333e4ec2e5d3cdf8dee193b7d52fea2cb9c3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_findDecompressedSize",
+						"t": "unsigned long long (const void *, size_t)",
+						"i": "ZSTD_findDecompressedSize(const void*,size_t)",
+						"r": "unsigned long long ZSTD_findDecompressedSize(const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_FINDDECOMPRESSEDSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5de2ed661fcbae2df23d8be434c302d0118fad61"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressBound",
+						"t": "unsigned long long (const void *, size_t)",
+						"i": "ZSTD_decompressBound(const void*,size_t)",
+						"r": "unsigned long long ZSTD_decompressBound(const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSBOUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5b6971f74d08f2283e0dcbf7e1d7cc87e417a595"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_frameHeaderSize",
+						"t": "size_t (const void *, size_t)",
+						"i": "ZSTD_frameHeaderSize(const void*,size_t)",
+						"r": "size_t ZSTD_frameHeaderSize(const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_FRAMEHEADERSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0fb866a6849de975e118b50f7385ffffa1899b58"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getFrameHeader",
+						"t": "size_t (ZSTD_frameHeader *, const void *, size_t)",
+						"i": "ZSTD_getFrameHeader(ZSTD_frameHeader*,const void*,size_t)",
+						"r": "size_t ZSTD_getFrameHeader(ZSTD_frameHeader *zfhPtr, const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_GETFRAMEHEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "78cb4c1521848c0e0f3c2cae1799c184ecd4336c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getFrameHeader_advanced",
+						"t": "size_t (ZSTD_frameHeader *, const void *, size_t, ZSTD_format_e)",
+						"i": "ZSTD_getFrameHeader_advanced(ZSTD_frameHeader*,const void*,size_t,ZSTD_format_e)",
+						"r": "size_t ZSTD_getFrameHeader_advanced(ZSTD_frameHeader *zfhPtr, const void *src, size_t srcSize, ZSTD_format_e format)",
+						"s": "",
+						"u": "ZSTD_GETFRAMEHEADER_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8bb370d42781853d9e5dc7182ce06529b18db228"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressionMargin",
+						"t": "size_t (const void *, size_t)",
+						"i": "ZSTD_decompressionMargin(const void*,size_t)",
+						"r": "size_t ZSTD_decompressionMargin(const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSIONMARGIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df3bbb4177a24f68669ae3beab8a67261b49d583"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_sequenceBound",
+						"t": "size_t (size_t)",
+						"i": "ZSTD_sequenceBound(size_t)",
+						"r": "size_t ZSTD_sequenceBound(size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_SEQUENCEBOUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "abe13f7f2c2502130f3eb472225282a65f093860"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_generateSequences",
+						"t": "size_t (ZSTD_CCtx *, ZSTD_Sequence *, size_t, const void *, size_t)",
+						"i": "ZSTD_generateSequences(ZSTD_CCtx*,ZSTD_Sequence*,size_t,const void*,size_t)[[deprecated(\"For debugging,will be replaced by ZSTD_extractSequences()\")]]",
+						"r": "size_t ZSTD_generateSequences(ZSTD_CCtx *zc, ZSTD_Sequence *outSeqs, size_t outSeqsSize, const void *src, size_t srcSize) [[deprecated(\"For debugging only, will be replaced by ZSTD_extractSequences()\")]]",
+						"s": "",
+						"u": "ZSTD_GENERATESEQUENCES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4cfb235e80c8f36b820a51b13ac4252afaf29a1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_mergeBlockDelimiters",
+						"t": "size_t (ZSTD_Sequence *, size_t)",
+						"i": "ZSTD_mergeBlockDelimiters(ZSTD_Sequence*,size_t)",
+						"r": "size_t ZSTD_mergeBlockDelimiters(ZSTD_Sequence *sequences, size_t seqsSize)",
+						"s": "",
+						"u": "ZSTD_MERGEBLOCKDELIMITERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31d953d19ea3629f3525b5a0d1b6150a49aa7f5b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressSequences",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const ZSTD_Sequence *, size_t, const void *, size_t)",
+						"i": "ZSTD_compressSequences(ZSTD_CCtx*,void*,size_t,const ZSTD_Sequence*,size_t,const void*,size_t)",
+						"r": "size_t ZSTD_compressSequences(ZSTD_CCtx *cctx, void *dst, size_t dstSize, const ZSTD_Sequence *inSeqs, size_t inSeqsSize, const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_COMPRESSSEQUENCES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a01da818b36979770c7d09558ab905e7715758d3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_writeSkippableFrame",
+						"t": "size_t (void *, size_t, const void *, size_t, unsigned int)",
+						"i": "ZSTD_writeSkippableFrame(void*,size_t,const void*,size_t,unsigned int)",
+						"r": "size_t ZSTD_writeSkippableFrame(void *dst, size_t dstCapacity, const void *src, size_t srcSize, unsigned int magicVariant)",
+						"s": "",
+						"u": "ZSTD_WRITESKIPPABLEFRAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c2e57b0cc9eb79e44876be69bc357e330c4d2b11"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_readSkippableFrame",
+						"t": "size_t (void *, size_t, unsigned int *, const void *, size_t)",
+						"i": "ZSTD_readSkippableFrame(void*,size_t,unsigned int*,const void*,size_t)",
+						"r": "size_t ZSTD_readSkippableFrame(void *dst, size_t dstCapacity, unsigned int *magicVariant, const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_READSKIPPABLEFRAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df19c565abc515e21f10d044814758a4f122cf21"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_isSkippableFrame",
+						"t": "unsigned int (const void *, size_t)",
+						"i": "ZSTD_isSkippableFrame(const void*,size_t)",
+						"r": "unsigned int ZSTD_isSkippableFrame(const void *buffer, size_t size)",
+						"s": "",
+						"u": "ZSTD_ISSKIPPABLEFRAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ea7cd380331089232185a661cf1eacec4a9dda0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateCCtxSize",
+						"t": "size_t (int)",
+						"i": "ZSTD_estimateCCtxSize(int)",
+						"r": "size_t ZSTD_estimateCCtxSize(int maxCompressionLevel)",
+						"s": "",
+						"u": "ZSTD_ESTIMATECCTXSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "befce026fecf281169c8cab4de75d7d8905bf127"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateCCtxSize_usingCParams",
+						"t": "size_t (ZSTD_compressionParameters)",
+						"i": "ZSTD_estimateCCtxSize_usingCParams(ZSTD_compressionParameters)",
+						"r": "size_t ZSTD_estimateCCtxSize_usingCParams(ZSTD_compressionParameters cParams)",
+						"s": "",
+						"u": "ZSTD_ESTIMATECCTXSIZE_USINGCPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b10836b18c14be7587d2478ae5dea4fbbe245eb5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateCCtxSize_usingCCtxParams",
+						"t": "size_t (const ZSTD_CCtx_params *)",
+						"i": "ZSTD_estimateCCtxSize_usingCCtxParams(const ZSTD_CCtx_params*)",
+						"r": "size_t ZSTD_estimateCCtxSize_usingCCtxParams(const ZSTD_CCtx_params *params)",
+						"s": "",
+						"u": "ZSTD_ESTIMATECCTXSIZE_USINGCCTXPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41a909618c0ece53796ed6b89a0e8d288f885804"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateDCtxSize",
+						"t": "size_t ()",
+						"i": "ZSTD_estimateDCtxSize()",
+						"r": "size_t ZSTD_estimateDCtxSize()",
+						"s": "",
+						"u": "ZSTD_ESTIMATEDCTXSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "52eeae67774e61bd163265eeaa751697909faa36"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateCStreamSize",
+						"t": "size_t (int)",
+						"i": "ZSTD_estimateCStreamSize(int)",
+						"r": "size_t ZSTD_estimateCStreamSize(int maxCompressionLevel)",
+						"s": "",
+						"u": "ZSTD_ESTIMATECSTREAMSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6141661478b88ef12eb797c774047f80529f5f69"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateCStreamSize_usingCParams",
+						"t": "size_t (ZSTD_compressionParameters)",
+						"i": "ZSTD_estimateCStreamSize_usingCParams(ZSTD_compressionParameters)",
+						"r": "size_t ZSTD_estimateCStreamSize_usingCParams(ZSTD_compressionParameters cParams)",
+						"s": "",
+						"u": "ZSTD_ESTIMATECSTREAMSIZE_USINGCPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ddcfda9603dfc5a11199ee63da167c97fea3c9f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateCStreamSize_usingCCtxParams",
+						"t": "size_t (const ZSTD_CCtx_params *)",
+						"i": "ZSTD_estimateCStreamSize_usingCCtxParams(const ZSTD_CCtx_params*)",
+						"r": "size_t ZSTD_estimateCStreamSize_usingCCtxParams(const ZSTD_CCtx_params *params)",
+						"s": "",
+						"u": "ZSTD_ESTIMATECSTREAMSIZE_USINGCCTXPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "53b8784254e92fd16b7802cb0cf634056d7e9233"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateDStreamSize",
+						"t": "size_t (size_t)",
+						"i": "ZSTD_estimateDStreamSize(size_t)",
+						"r": "size_t ZSTD_estimateDStreamSize(size_t maxWindowSize)",
+						"s": "",
+						"u": "ZSTD_ESTIMATEDSTREAMSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "53fe3c82ed9dccae305b5961c49733861ddda1ba"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateDStreamSize_fromFrame",
+						"t": "size_t (const void *, size_t)",
+						"i": "ZSTD_estimateDStreamSize_fromFrame(const void*,size_t)",
+						"r": "size_t ZSTD_estimateDStreamSize_fromFrame(const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_ESTIMATEDSTREAMSIZE_FROMFRAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aa075b0d2ecd066bd6953a6c63aa1bbeb38423ae"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateCDictSize",
+						"t": "size_t (size_t, int)",
+						"i": "ZSTD_estimateCDictSize(size_t,int)",
+						"r": "size_t ZSTD_estimateCDictSize(size_t dictSize, int compressionLevel)",
+						"s": "",
+						"u": "ZSTD_ESTIMATECDICTSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b5eb637530387a74ba73f2377fa0101444ebe26d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateCDictSize_advanced",
+						"t": "size_t (size_t, ZSTD_compressionParameters, ZSTD_dictLoadMethod_e)",
+						"i": "ZSTD_estimateCDictSize_advanced(size_t,ZSTD_compressionParameters,ZSTD_dictLoadMethod_e)",
+						"r": "size_t ZSTD_estimateCDictSize_advanced(size_t dictSize, ZSTD_compressionParameters cParams, ZSTD_dictLoadMethod_e dictLoadMethod)",
+						"s": "",
+						"u": "ZSTD_ESTIMATECDICTSIZE_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8dafb0de4549c37a2cfa1f76c7c42a110a1bb1e0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_estimateDDictSize",
+						"t": "size_t (size_t, ZSTD_dictLoadMethod_e)",
+						"i": "ZSTD_estimateDDictSize(size_t,ZSTD_dictLoadMethod_e)",
+						"r": "size_t ZSTD_estimateDDictSize(size_t dictSize, ZSTD_dictLoadMethod_e dictLoadMethod)",
+						"s": "",
+						"u": "ZSTD_ESTIMATEDDICTSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3a1d3ea9b608f5f5826e7c519c5a11e12d7a2949"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initStaticCCtx",
+						"t": "ZSTD_CCtx *(void *, size_t)",
+						"i": "ZSTD_initStaticCCtx(void*,size_t)",
+						"r": "ZSTD_CCtx *ZSTD_initStaticCCtx(void *workspace, size_t workspaceSize)",
+						"s": "",
+						"u": "ZSTD_INITSTATICCCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7ebca352d8850f3d0e4771192922c081666fd43d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initStaticCStream",
+						"t": "ZSTD_CStream *(void *, size_t)",
+						"i": "ZSTD_initStaticCStream(void*,size_t)",
+						"r": "ZSTD_CStream *ZSTD_initStaticCStream(void *workspace, size_t workspaceSize)",
+						"s": "",
+						"u": "ZSTD_INITSTATICCSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c7ab5c6543629300a864615e979a91187bc6976"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initStaticDCtx",
+						"t": "ZSTD_DCtx *(void *, size_t)",
+						"i": "ZSTD_initStaticDCtx(void*,size_t)",
+						"r": "ZSTD_DCtx *ZSTD_initStaticDCtx(void *workspace, size_t workspaceSize)",
+						"s": "",
+						"u": "ZSTD_INITSTATICDCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7eed4c9cc6bce5986f15af47505200f2614ba048"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initStaticDStream",
+						"t": "ZSTD_DStream *(void *, size_t)",
+						"i": "ZSTD_initStaticDStream(void*,size_t)",
+						"r": "ZSTD_DStream *ZSTD_initStaticDStream(void *workspace, size_t workspaceSize)",
+						"s": "",
+						"u": "ZSTD_INITSTATICDSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0cb8013bce91b1952268c8fd1db4d6b097e07c0e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initStaticCDict",
+						"t": "const ZSTD_CDict *(void *, size_t, const void *, size_t, ZSTD_dictLoadMethod_e, ZSTD_dictContentType_e, ZSTD_compressionParameters)",
+						"i": "ZSTD_initStaticCDict(void*,size_t,const void*,size_t,ZSTD_dictLoadMethod_e,ZSTD_dictContentType_e,ZSTD_compressionParameters)",
+						"r": "const ZSTD_CDict *ZSTD_initStaticCDict(void *workspace, size_t workspaceSize, const void *dict, size_t dictSize, ZSTD_dictLoadMethod_e dictLoadMethod, ZSTD_dictContentType_e dictContentType, ZSTD_compressionParameters cParams)",
+						"s": "",
+						"u": "ZSTD_INITSTATICCDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "efcf2010388e008f6b6ba6d977a9c5f05a295f21"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initStaticDDict",
+						"t": "const ZSTD_DDict *(void *, size_t, const void *, size_t, ZSTD_dictLoadMethod_e, ZSTD_dictContentType_e)",
+						"i": "ZSTD_initStaticDDict(void*,size_t,const void*,size_t,ZSTD_dictLoadMethod_e,ZSTD_dictContentType_e)",
+						"r": "const ZSTD_DDict *ZSTD_initStaticDDict(void *workspace, size_t workspaceSize, const void *dict, size_t dictSize, ZSTD_dictLoadMethod_e dictLoadMethod, ZSTD_dictContentType_e dictContentType)",
+						"s": "",
+						"u": "ZSTD_INITSTATICDDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4568bdd22fd0d6767a35ce31e5c3efa344903819"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCCtx_advanced",
+						"t": "ZSTD_CCtx *(ZSTD_customMem)",
+						"i": "ZSTD_createCCtx_advanced(ZSTD_customMem)",
+						"r": "ZSTD_CCtx *ZSTD_createCCtx_advanced(ZSTD_customMem customMem)",
+						"s": "",
+						"u": "ZSTD_CREATECCTX_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d085434370b7518a479a31db1338bc605e3b5626"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCStream_advanced",
+						"t": "ZSTD_CStream *(ZSTD_customMem)",
+						"i": "ZSTD_createCStream_advanced(ZSTD_customMem)",
+						"r": "ZSTD_CStream *ZSTD_createCStream_advanced(ZSTD_customMem customMem)",
+						"s": "",
+						"u": "ZSTD_CREATECSTREAM_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dddd88ace4bc4bfa4f809a9dfb7691dbaf04b0eb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createDCtx_advanced",
+						"t": "ZSTD_DCtx *(ZSTD_customMem)",
+						"i": "ZSTD_createDCtx_advanced(ZSTD_customMem)",
+						"r": "ZSTD_DCtx *ZSTD_createDCtx_advanced(ZSTD_customMem customMem)",
+						"s": "",
+						"u": "ZSTD_CREATEDCTX_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9999569c8297af5d1c68fe5989b9967c62ed8360"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createDStream_advanced",
+						"t": "ZSTD_DStream *(ZSTD_customMem)",
+						"i": "ZSTD_createDStream_advanced(ZSTD_customMem)",
+						"r": "ZSTD_DStream *ZSTD_createDStream_advanced(ZSTD_customMem customMem)",
+						"s": "",
+						"u": "ZSTD_CREATEDSTREAM_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dad07b75bd365cea05262671b297a77ad92588a7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCDict_advanced",
+						"t": "ZSTD_CDict *(const void *, size_t, ZSTD_dictLoadMethod_e, ZSTD_dictContentType_e, ZSTD_compressionParameters, ZSTD_customMem)",
+						"i": "ZSTD_createCDict_advanced(const void*,size_t,ZSTD_dictLoadMethod_e,ZSTD_dictContentType_e,ZSTD_compressionParameters,ZSTD_customMem)",
+						"r": "ZSTD_CDict *ZSTD_createCDict_advanced(const void *dict, size_t dictSize, ZSTD_dictLoadMethod_e dictLoadMethod, ZSTD_dictContentType_e dictContentType, ZSTD_compressionParameters cParams, ZSTD_customMem customMem)",
+						"s": "",
+						"u": "ZSTD_CREATECDICT_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "886e7c8309a475b6bb3465dddd89a7a18b667103"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createThreadPool",
+						"t": "ZSTD_threadPool *(size_t)",
+						"i": "ZSTD_createThreadPool(size_t)",
+						"r": "ZSTD_threadPool *ZSTD_createThreadPool(size_t numThreads)",
+						"s": "",
+						"u": "ZSTD_CREATETHREADPOOL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "379791be7bc244d13787ed6fdb69e8799f71ed70"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_freeThreadPool",
+						"t": "void (ZSTD_threadPool *)",
+						"i": "ZSTD_freeThreadPool(ZSTD_threadPool*)",
+						"r": "void ZSTD_freeThreadPool(ZSTD_threadPool *pool)",
+						"s": "",
+						"u": "ZSTD_FREETHREADPOOL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eeb3b61a215427162114439b62d6a936a8e6575f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_refThreadPool",
+						"t": "size_t (ZSTD_CCtx *, ZSTD_threadPool *)",
+						"i": "ZSTD_CCtx_refThreadPool(ZSTD_CCtx*,ZSTD_threadPool*)",
+						"r": "size_t ZSTD_CCtx_refThreadPool(ZSTD_CCtx *cctx, ZSTD_threadPool *pool)",
+						"s": "",
+						"u": "ZSTD_CCTX_REFTHREADPOOL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7eb8d79876c397eb332ac0a68d5c487cfec4cb8b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCDict_advanced2",
+						"t": "ZSTD_CDict *(const void *, size_t, ZSTD_dictLoadMethod_e, ZSTD_dictContentType_e, const ZSTD_CCtx_params *, ZSTD_customMem)",
+						"i": "ZSTD_createCDict_advanced2(const void*,size_t,ZSTD_dictLoadMethod_e,ZSTD_dictContentType_e,const ZSTD_CCtx_params*,ZSTD_customMem)",
+						"r": "ZSTD_CDict *ZSTD_createCDict_advanced2(const void *dict, size_t dictSize, ZSTD_dictLoadMethod_e dictLoadMethod, ZSTD_dictContentType_e dictContentType, const ZSTD_CCtx_params *cctxParams, ZSTD_customMem customMem)",
+						"s": "",
+						"u": "ZSTD_CREATECDICT_ADVANCED2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4ad9ad782e464f415ba5b81162e5a0386faf4f1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createDDict_advanced",
+						"t": "ZSTD_DDict *(const void *, size_t, ZSTD_dictLoadMethod_e, ZSTD_dictContentType_e, ZSTD_customMem)",
+						"i": "ZSTD_createDDict_advanced(const void*,size_t,ZSTD_dictLoadMethod_e,ZSTD_dictContentType_e,ZSTD_customMem)",
+						"r": "ZSTD_DDict *ZSTD_createDDict_advanced(const void *dict, size_t dictSize, ZSTD_dictLoadMethod_e dictLoadMethod, ZSTD_dictContentType_e dictContentType, ZSTD_customMem customMem)",
+						"s": "",
+						"u": "ZSTD_CREATEDDICT_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "65ba5468c158492d2c1549814bd72a573301748f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCDict_byReference",
+						"t": "ZSTD_CDict *(const void *, size_t, int)",
+						"i": "ZSTD_createCDict_byReference(const void*,size_t,int)",
+						"r": "ZSTD_CDict *ZSTD_createCDict_byReference(const void *dictBuffer, size_t dictSize, int compressionLevel)",
+						"s": "",
+						"u": "ZSTD_CREATECDICT_BYREFERENCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0c37198b3d90af0041932e69b049e3167928eacb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getCParams",
+						"t": "ZSTD_compressionParameters (int, unsigned long long, size_t)",
+						"i": "ZSTD_getCParams(int,unsigned long long,size_t)",
+						"r": "ZSTD_compressionParameters ZSTD_getCParams(int compressionLevel, unsigned long long estimatedSrcSize, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_GETCPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "55e530d887e974a03aabdba5535b4250ae2fbdb4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getParams",
+						"t": "ZSTD_parameters (int, unsigned long long, size_t)",
+						"i": "ZSTD_getParams(int,unsigned long long,size_t)",
+						"r": "ZSTD_parameters ZSTD_getParams(int compressionLevel, unsigned long long estimatedSrcSize, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_GETPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b39c5367d5467c12dcaf8cc2e4294d33741e2b9a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_checkCParams",
+						"t": "size_t (ZSTD_compressionParameters)",
+						"i": "ZSTD_checkCParams(ZSTD_compressionParameters)",
+						"r": "size_t ZSTD_checkCParams(ZSTD_compressionParameters params)",
+						"s": "",
+						"u": "ZSTD_CHECKCPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "142c83701c8778719a15d9940a60ecd6d031be53"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_adjustCParams",
+						"t": "ZSTD_compressionParameters (ZSTD_compressionParameters, unsigned long long, size_t)",
+						"i": "ZSTD_adjustCParams(ZSTD_compressionParameters,unsigned long long,size_t)",
+						"r": "ZSTD_compressionParameters ZSTD_adjustCParams(ZSTD_compressionParameters cPar, unsigned long long srcSize, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_ADJUSTCPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f054b687f0f91c5b5d5f9c35abb0a2c1b16f425"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_setCParams",
+						"t": "size_t (ZSTD_CCtx *, ZSTD_compressionParameters)",
+						"i": "ZSTD_CCtx_setCParams(ZSTD_CCtx*,ZSTD_compressionParameters)",
+						"r": "size_t ZSTD_CCtx_setCParams(ZSTD_CCtx *cctx, ZSTD_compressionParameters cparams)",
+						"s": "",
+						"u": "ZSTD_CCTX_SETCPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "742ab01fa15451b4f3267ebdcb8428b84613ddd0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_setFParams",
+						"t": "size_t (ZSTD_CCtx *, ZSTD_frameParameters)",
+						"i": "ZSTD_CCtx_setFParams(ZSTD_CCtx*,ZSTD_frameParameters)",
+						"r": "size_t ZSTD_CCtx_setFParams(ZSTD_CCtx *cctx, ZSTD_frameParameters fparams)",
+						"s": "",
+						"u": "ZSTD_CCTX_SETFPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "845ea542720d4748008d6214201be1a4acbcf071"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_setParams",
+						"t": "size_t (ZSTD_CCtx *, ZSTD_parameters)",
+						"i": "ZSTD_CCtx_setParams(ZSTD_CCtx*,ZSTD_parameters)",
+						"r": "size_t ZSTD_CCtx_setParams(ZSTD_CCtx *cctx, ZSTD_parameters params)",
+						"s": "",
+						"u": "ZSTD_CCTX_SETPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "57372d70371e8c39e7542ea4164e615422eb87ad"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compress_advanced",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t, const void *, size_t, ZSTD_parameters)",
+						"i": "ZSTD_compress_advanced(ZSTD_CCtx*,void*,size_t,const void*,size_t,const void*,size_t,ZSTD_parameters)[[deprecated(\"use ZSTD_compress2\")]]",
+						"r": "size_t ZSTD_compress_advanced(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize, const void *dict, size_t dictSize, ZSTD_parameters params) [[deprecated(\"use ZSTD_compress2\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESS_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "820e413345de0d7f7fe1c519ee793125780ae516"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compress_usingCDict_advanced",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t, const ZSTD_CDict *, ZSTD_frameParameters)",
+						"i": "ZSTD_compress_usingCDict_advanced(ZSTD_CCtx*,void*,size_t,const void*,size_t,const ZSTD_CDict*,ZSTD_frameParameters)[[deprecated(\"use ZSTD_compress2 with ZSTD_CCtx_loadDictionary\")]]",
+						"r": "size_t ZSTD_compress_usingCDict_advanced(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize, const ZSTD_CDict *cdict, ZSTD_frameParameters fParams) [[deprecated(\"use ZSTD_compress2 with ZSTD_CCtx_loadDictionary\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESS_USINGCDICT_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ed3c3da20c667c48a91f5e90a759117a2afe10c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_loadDictionary_byReference",
+						"t": "size_t (ZSTD_CCtx *, const void *, size_t)",
+						"i": "ZSTD_CCtx_loadDictionary_byReference(ZSTD_CCtx*,const void*,size_t)",
+						"r": "size_t ZSTD_CCtx_loadDictionary_byReference(ZSTD_CCtx *cctx, const void *dict, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_CCTX_LOADDICTIONARY_BYREFERENCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "241a0d98aa66e754cb76377489708e451fee1ba5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_loadDictionary_advanced",
+						"t": "size_t (ZSTD_CCtx *, const void *, size_t, ZSTD_dictLoadMethod_e, ZSTD_dictContentType_e)",
+						"i": "ZSTD_CCtx_loadDictionary_advanced(ZSTD_CCtx*,const void*,size_t,ZSTD_dictLoadMethod_e,ZSTD_dictContentType_e)",
+						"r": "size_t ZSTD_CCtx_loadDictionary_advanced(ZSTD_CCtx *cctx, const void *dict, size_t dictSize, ZSTD_dictLoadMethod_e dictLoadMethod, ZSTD_dictContentType_e dictContentType)",
+						"s": "",
+						"u": "ZSTD_CCTX_LOADDICTIONARY_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a6e026af984a513e8c3a89bdd0b0b47a003cb6b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_refPrefix_advanced",
+						"t": "size_t (ZSTD_CCtx *, const void *, size_t, ZSTD_dictContentType_e)",
+						"i": "ZSTD_CCtx_refPrefix_advanced(ZSTD_CCtx*,const void*,size_t,ZSTD_dictContentType_e)",
+						"r": "size_t ZSTD_CCtx_refPrefix_advanced(ZSTD_CCtx *cctx, const void *prefix, size_t prefixSize, ZSTD_dictContentType_e dictContentType)",
+						"s": "",
+						"u": "ZSTD_CCTX_REFPREFIX_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bb04d151778153b9f6f88f7b8a2c703079fdb7c9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_getParameter",
+						"t": "size_t (const ZSTD_CCtx *, ZSTD_cParameter, int *)",
+						"i": "ZSTD_CCtx_getParameter(const ZSTD_CCtx*,ZSTD_cParameter,int*)",
+						"r": "size_t ZSTD_CCtx_getParameter(const ZSTD_CCtx *cctx, ZSTD_cParameter param, int *value)",
+						"s": "",
+						"u": "ZSTD_CCTX_GETPARAMETER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9c99ef23e8c3ece10f53532c8453a53cc822d898"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createCCtxParams",
+						"t": "ZSTD_CCtx_params *()",
+						"i": "ZSTD_createCCtxParams()",
+						"r": "ZSTD_CCtx_params *ZSTD_createCCtxParams()",
+						"s": "",
+						"u": "ZSTD_CREATECCTXPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "06a6ecef2a13b2e4f573819f3bbebabb052caaaf"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_freeCCtxParams",
+						"t": "size_t (ZSTD_CCtx_params *)",
+						"i": "ZSTD_freeCCtxParams(ZSTD_CCtx_params*)",
+						"r": "size_t ZSTD_freeCCtxParams(ZSTD_CCtx_params *params)",
+						"s": "",
+						"u": "ZSTD_FREECCTXPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "21b03a84a66597050994d7cb471fc0e9bca776a7"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtxParams_reset",
+						"t": "size_t (ZSTD_CCtx_params *)",
+						"i": "ZSTD_CCtxParams_reset(ZSTD_CCtx_params*)",
+						"r": "size_t ZSTD_CCtxParams_reset(ZSTD_CCtx_params *params)",
+						"s": "",
+						"u": "ZSTD_CCTXPARAMS_RESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f05daf8850cd10ad1ce30685f3775f5d3704756b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtxParams_init",
+						"t": "size_t (ZSTD_CCtx_params *, int)",
+						"i": "ZSTD_CCtxParams_init(ZSTD_CCtx_params*,int)",
+						"r": "size_t ZSTD_CCtxParams_init(ZSTD_CCtx_params *cctxParams, int compressionLevel)",
+						"s": "",
+						"u": "ZSTD_CCTXPARAMS_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "87d9665ca6c4eef8ac62f1d204d74e91b7a55339"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtxParams_init_advanced",
+						"t": "size_t (ZSTD_CCtx_params *, ZSTD_parameters)",
+						"i": "ZSTD_CCtxParams_init_advanced(ZSTD_CCtx_params*,ZSTD_parameters)",
+						"r": "size_t ZSTD_CCtxParams_init_advanced(ZSTD_CCtx_params *cctxParams, ZSTD_parameters params)",
+						"s": "",
+						"u": "ZSTD_CCTXPARAMS_INIT_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "56699f4e58b2578f3d128991f4c6ce272f3d7a36"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtxParams_setParameter",
+						"t": "size_t (ZSTD_CCtx_params *, ZSTD_cParameter, int)",
+						"i": "ZSTD_CCtxParams_setParameter(ZSTD_CCtx_params*,ZSTD_cParameter,int)",
+						"r": "size_t ZSTD_CCtxParams_setParameter(ZSTD_CCtx_params *params, ZSTD_cParameter param, int value)",
+						"s": "",
+						"u": "ZSTD_CCTXPARAMS_SETPARAMETER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9891a02583689daaae79c86f62e550b443c6bed"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtxParams_getParameter",
+						"t": "size_t (const ZSTD_CCtx_params *, ZSTD_cParameter, int *)",
+						"i": "ZSTD_CCtxParams_getParameter(const ZSTD_CCtx_params*,ZSTD_cParameter,int*)",
+						"r": "size_t ZSTD_CCtxParams_getParameter(const ZSTD_CCtx_params *params, ZSTD_cParameter param, int *value)",
+						"s": "",
+						"u": "ZSTD_CCTXPARAMS_GETPARAMETER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6532943f1ab43794c1562691be549d64dd834c1c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtx_setParametersUsingCCtxParams",
+						"t": "size_t (ZSTD_CCtx *, const ZSTD_CCtx_params *)",
+						"i": "ZSTD_CCtx_setParametersUsingCCtxParams(ZSTD_CCtx*,const ZSTD_CCtx_params*)",
+						"r": "size_t ZSTD_CCtx_setParametersUsingCCtxParams(ZSTD_CCtx *cctx, const ZSTD_CCtx_params *params)",
+						"s": "",
+						"u": "ZSTD_CCTX_SETPARAMETERSUSINGCCTXPARAMS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9510ef2af72f00556f709eff795246962d9e05a9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressStream2_simpleArgs",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, size_t *, const void *, size_t, size_t *, ZSTD_EndDirective)",
+						"i": "ZSTD_compressStream2_simpleArgs(ZSTD_CCtx*,void*,size_t,size_t*,const void*,size_t,size_t*,ZSTD_EndDirective)",
+						"r": "size_t ZSTD_compressStream2_simpleArgs(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, size_t *dstPos, const void *src, size_t srcSize, size_t *srcPos, ZSTD_EndDirective endOp)",
+						"s": "",
+						"u": "ZSTD_COMPRESSSTREAM2_SIMPLEARGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b5a254c73b661838e65c69242b8006cd1cb36e5a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_isFrame",
+						"t": "unsigned int (const void *, size_t)",
+						"i": "ZSTD_isFrame(const void*,size_t)",
+						"r": "unsigned int ZSTD_isFrame(const void *buffer, size_t size)",
+						"s": "",
+						"u": "ZSTD_ISFRAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2f71d12779e02a09d882927e235d64944fad022d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_createDDict_byReference",
+						"t": "ZSTD_DDict *(const void *, size_t)",
+						"i": "ZSTD_createDDict_byReference(const void*,size_t)",
+						"r": "ZSTD_DDict *ZSTD_createDDict_byReference(const void *dictBuffer, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_CREATEDDICT_BYREFERENCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28baaaecd2cb1522b44efbbb8d27aee57599f5da"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_loadDictionary_byReference",
+						"t": "size_t (ZSTD_DCtx *, const void *, size_t)",
+						"i": "ZSTD_DCtx_loadDictionary_byReference(ZSTD_DCtx*,const void*,size_t)",
+						"r": "size_t ZSTD_DCtx_loadDictionary_byReference(ZSTD_DCtx *dctx, const void *dict, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_DCTX_LOADDICTIONARY_BYREFERENCE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3844a55663644e547fbcbc7a72e32ec0fb9d486"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_loadDictionary_advanced",
+						"t": "size_t (ZSTD_DCtx *, const void *, size_t, ZSTD_dictLoadMethod_e, ZSTD_dictContentType_e)",
+						"i": "ZSTD_DCtx_loadDictionary_advanced(ZSTD_DCtx*,const void*,size_t,ZSTD_dictLoadMethod_e,ZSTD_dictContentType_e)",
+						"r": "size_t ZSTD_DCtx_loadDictionary_advanced(ZSTD_DCtx *dctx, const void *dict, size_t dictSize, ZSTD_dictLoadMethod_e dictLoadMethod, ZSTD_dictContentType_e dictContentType)",
+						"s": "",
+						"u": "ZSTD_DCTX_LOADDICTIONARY_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fbc4560d2d5441d167f2ebfe0b1fbc2952cdb3a8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_refPrefix_advanced",
+						"t": "size_t (ZSTD_DCtx *, const void *, size_t, ZSTD_dictContentType_e)",
+						"i": "ZSTD_DCtx_refPrefix_advanced(ZSTD_DCtx*,const void*,size_t,ZSTD_dictContentType_e)",
+						"r": "size_t ZSTD_DCtx_refPrefix_advanced(ZSTD_DCtx *dctx, const void *prefix, size_t prefixSize, ZSTD_dictContentType_e dictContentType)",
+						"s": "",
+						"u": "ZSTD_DCTX_REFPREFIX_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd3c495d65966558488bc9f1ea450e604fa15896"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_setMaxWindowSize",
+						"t": "size_t (ZSTD_DCtx *, size_t)",
+						"i": "ZSTD_DCtx_setMaxWindowSize(ZSTD_DCtx*,size_t)",
+						"r": "size_t ZSTD_DCtx_setMaxWindowSize(ZSTD_DCtx *dctx, size_t maxWindowSize)",
+						"s": "",
+						"u": "ZSTD_DCTX_SETMAXWINDOWSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81f53ca84a817bc9139365455be269ada85e104e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_getParameter",
+						"t": "size_t (ZSTD_DCtx *, ZSTD_dParameter, int *)",
+						"i": "ZSTD_DCtx_getParameter(ZSTD_DCtx*,ZSTD_dParameter,int*)",
+						"r": "size_t ZSTD_DCtx_getParameter(ZSTD_DCtx *dctx, ZSTD_dParameter param, int *value)",
+						"s": "",
+						"u": "ZSTD_DCTX_GETPARAMETER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1fb74e518f58a2819d95e029f5cd07c09ff09cb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_DCtx_setFormat",
+						"t": "size_t (ZSTD_DCtx *, ZSTD_format_e)",
+						"i": "ZSTD_DCtx_setFormat(ZSTD_DCtx*,ZSTD_format_e)[[deprecated(\"use ZSTD_DCtx_setParameter()instead\")]]",
+						"r": "size_t ZSTD_DCtx_setFormat(ZSTD_DCtx *dctx, ZSTD_format_e format) [[deprecated(\"use ZSTD_DCtx_setParameter() instead\")]]",
+						"s": "",
+						"u": "ZSTD_DCTX_SETFORMAT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46c9871cc967911cef7b9c4b6dfbc5c188382792"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressStream_simpleArgs",
+						"t": "size_t (ZSTD_DCtx *, void *, size_t, size_t *, const void *, size_t, size_t *)",
+						"i": "ZSTD_decompressStream_simpleArgs(ZSTD_DCtx*,void*,size_t,size_t*,const void*,size_t,size_t*)",
+						"r": "size_t ZSTD_decompressStream_simpleArgs(ZSTD_DCtx *dctx, void *dst, size_t dstCapacity, size_t *dstPos, const void *src, size_t srcSize, size_t *srcPos)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSSTREAM_SIMPLEARGS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed159167427dc22c01c90ef1f5c639c99cdfa3f5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initCStream_srcSize",
+						"t": "size_t (ZSTD_CStream *, int, unsigned long long)",
+						"i": "ZSTD_initCStream_srcSize(ZSTD_CStream*,int,unsigned long long)[[deprecated(\"use,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_initCStream_srcSize(ZSTD_CStream *zcs, int compressionLevel, unsigned long long pledgedSrcSize) [[deprecated(\"use ZSTD_CCtx_reset, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_INITCSTREAM_SRCSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "808ef22c80ea05a4608e8c255b923b8428e1dceb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initCStream_usingDict",
+						"t": "size_t (ZSTD_CStream *, const void *, size_t, int)",
+						"i": "ZSTD_initCStream_usingDict(ZSTD_CStream*,const void*,size_t,int)[[deprecated(\"use,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_initCStream_usingDict(ZSTD_CStream *zcs, const void *dict, size_t dictSize, int compressionLevel) [[deprecated(\"use ZSTD_CCtx_reset, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_INITCSTREAM_USINGDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "398d95e32b92f8cb85b13061264bf7effdd1bb18"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initCStream_advanced",
+						"t": "size_t (ZSTD_CStream *, const void *, size_t, ZSTD_parameters, unsigned long long)",
+						"i": "ZSTD_initCStream_advanced(ZSTD_CStream*,const void*,size_t,ZSTD_parameters,unsigned long long)[[deprecated(\"use,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_initCStream_advanced(ZSTD_CStream *zcs, const void *dict, size_t dictSize, ZSTD_parameters params, unsigned long long pledgedSrcSize) [[deprecated(\"use ZSTD_CCtx_reset, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_INITCSTREAM_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49bbd90b0dfd372c9b1d92ef35a18859b233ef44"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initCStream_usingCDict",
+						"t": "size_t (ZSTD_CStream *, const ZSTD_CDict *)",
+						"i": "ZSTD_initCStream_usingCDict(ZSTD_CStream*,const ZSTD_CDict*)[[deprecated(\"use ZSTD_CCtx_reset and,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_initCStream_usingCDict(ZSTD_CStream *zcs, const ZSTD_CDict *cdict) [[deprecated(\"use ZSTD_CCtx_reset and ZSTD_CCtx_refCDict, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_INITCSTREAM_USINGCDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c64f1470919f3187c154051691bc00392abfcc51"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initCStream_usingCDict_advanced",
+						"t": "size_t (ZSTD_CStream *, const ZSTD_CDict *, ZSTD_frameParameters, unsigned long long)",
+						"i": "ZSTD_initCStream_usingCDict_advanced(ZSTD_CStream*,const ZSTD_CDict*,ZSTD_frameParameters,unsigned long long)[[deprecated(\"use ZSTD_CCtx_reset and,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_initCStream_usingCDict_advanced(ZSTD_CStream *zcs, const ZSTD_CDict *cdict, ZSTD_frameParameters fParams, unsigned long long pledgedSrcSize) [[deprecated(\"use ZSTD_CCtx_reset and ZSTD_CCtx_refCDict, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_INITCSTREAM_USINGCDICT_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "52c8d2cfd4f221d1af560fc3509f1a282019dd7a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_resetCStream",
+						"t": "size_t (ZSTD_CStream *, unsigned long long)",
+						"i": "ZSTD_resetCStream(ZSTD_CStream*,unsigned long long)[[deprecated(\"use,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_resetCStream(ZSTD_CStream *zcs, unsigned long long pledgedSrcSize) [[deprecated(\"use ZSTD_CCtx_reset, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_RESETCSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8d289f10d759f027ceb1788ca8128544e841a36b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getFrameProgression",
+						"t": "ZSTD_frameProgression (const ZSTD_CCtx *)",
+						"i": "ZSTD_getFrameProgression(const ZSTD_CCtx*)",
+						"r": "ZSTD_frameProgression ZSTD_getFrameProgression(const ZSTD_CCtx *cctx)",
+						"s": "",
+						"u": "ZSTD_GETFRAMEPROGRESSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e630e79dbcbf6d4db399a0c6e322d3a1372c000"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_toFlushNow",
+						"t": "size_t (ZSTD_CCtx *)",
+						"i": "ZSTD_toFlushNow(ZSTD_CCtx*)",
+						"r": "size_t ZSTD_toFlushNow(ZSTD_CCtx *cctx)",
+						"s": "",
+						"u": "ZSTD_TOFLUSHNOW",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "009170f39691b221fb433e1d5e18f15f6e58286e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initDStream_usingDict",
+						"t": "size_t (ZSTD_DStream *, const void *, size_t)",
+						"i": "ZSTD_initDStream_usingDict(ZSTD_DStream*,const void*,size_t)[[deprecated(\"use ZSTD_DCtx_reset+,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_initDStream_usingDict(ZSTD_DStream *zds, const void *dict, size_t dictSize) [[deprecated(\"use ZSTD_DCtx_reset + ZSTD_DCtx_loadDictionary, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_INITDSTREAM_USINGDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f8ff401f13cdf642de394bbfb99a2fb5c5f101a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_initDStream_usingDDict",
+						"t": "size_t (ZSTD_DStream *, const ZSTD_DDict *)",
+						"i": "ZSTD_initDStream_usingDDict(ZSTD_DStream*,const ZSTD_DDict*)[[deprecated(\"use ZSTD_DCtx_reset+,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_initDStream_usingDDict(ZSTD_DStream *zds, const ZSTD_DDict *ddict) [[deprecated(\"use ZSTD_DCtx_reset + ZSTD_DCtx_refDDict, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_INITDSTREAM_USINGDDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1458075c39b83ae6f69377418e25fa5a37dd31b4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_resetDStream",
+						"t": "size_t (ZSTD_DStream *)",
+						"i": "ZSTD_resetDStream(ZSTD_DStream*)[[deprecated(\"use,see zstd.h for detailed instructions\")]]",
+						"r": "size_t ZSTD_resetDStream(ZSTD_DStream *zds) [[deprecated(\"use ZSTD_DCtx_reset, see zstd.h for detailed instructions\")]]",
+						"s": "",
+						"u": "ZSTD_RESETDSTREAM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f2d8bfe06f36759ed3949b385e287da4aea2456"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_registerSequenceProducer",
+						"t": "void (ZSTD_CCtx *, void *, ZSTD_sequenceProducer_F)",
+						"i": "ZSTD_registerSequenceProducer(ZSTD_CCtx*,void*,ZSTD_sequenceProducer_F)",
+						"r": "void ZSTD_registerSequenceProducer(ZSTD_CCtx *cctx, void *sequenceProducerState, ZSTD_sequenceProducer_F sequenceProducer)",
+						"s": "",
+						"u": "ZSTD_REGISTERSEQUENCEPRODUCER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "891fe9efde66a8b9745d3218e5c566818395932c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_CCtxParams_registerSequenceProducer",
+						"t": "void (ZSTD_CCtx_params *, void *, ZSTD_sequenceProducer_F)",
+						"i": "ZSTD_CCtxParams_registerSequenceProducer(ZSTD_CCtx_params*,void*,ZSTD_sequenceProducer_F)",
+						"r": "void ZSTD_CCtxParams_registerSequenceProducer(ZSTD_CCtx_params *params, void *sequenceProducerState, ZSTD_sequenceProducer_F sequenceProducer)",
+						"s": "",
+						"u": "ZSTD_CCTXPARAMS_REGISTERSEQUENCEPRODUCER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e50c755b170272ac7687a346180ad9ce9cd600b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressBegin",
+						"t": "size_t (ZSTD_CCtx *, int)",
+						"i": "ZSTD_compressBegin(ZSTD_CCtx*,int)[[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API.See docs.\")]]",
+						"r": "size_t ZSTD_compressBegin(ZSTD_CCtx *cctx, int compressionLevel) [[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESSBEGIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "da53d43b31fc5053ae28c90fed88456ad98a7193"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressBegin_usingDict",
+						"t": "size_t (ZSTD_CCtx *, const void *, size_t, int)",
+						"i": "ZSTD_compressBegin_usingDict(ZSTD_CCtx*,const void*,size_t,int)[[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API.See docs.\")]]",
+						"r": "size_t ZSTD_compressBegin_usingDict(ZSTD_CCtx *cctx, const void *dict, size_t dictSize, int compressionLevel) [[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESSBEGIN_USINGDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45d8c2fa706ab3edeaf8858fe413999b7da95e26"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressBegin_usingCDict",
+						"t": "size_t (ZSTD_CCtx *, const ZSTD_CDict *)",
+						"i": "ZSTD_compressBegin_usingCDict(ZSTD_CCtx*,const ZSTD_CDict*)[[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API.See docs.\")]]",
+						"r": "size_t ZSTD_compressBegin_usingCDict(ZSTD_CCtx *cctx, const ZSTD_CDict *cdict) [[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESSBEGIN_USINGCDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7577d04c24d24fefd9b65b4b46e14247e2c7d6f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_copyCCtx",
+						"t": "size_t (ZSTD_CCtx *, const ZSTD_CCtx *, unsigned long long)",
+						"i": "ZSTD_copyCCtx(ZSTD_CCtx*,const ZSTD_CCtx*,unsigned long long)[[deprecated(\"This function will likely be removed in a future release.It is misleading and has very limited utility.\")]]",
+						"r": "size_t ZSTD_copyCCtx(ZSTD_CCtx *cctx, const ZSTD_CCtx *preparedCCtx, unsigned long long pledgedSrcSize) [[deprecated(\"This function will likely be removed in a future release. It is misleading and has very limited utility.\")]]",
+						"s": "",
+						"u": "ZSTD_COPYCCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07212dd7121da69a355f89fa5909c8afc3a86ed3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressContinue",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t)",
+						"i": "ZSTD_compressContinue(ZSTD_CCtx*,void*,size_t,const void*,size_t)[[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API.See docs.\")]]",
+						"r": "size_t ZSTD_compressContinue(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize) [[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESSCONTINUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f28d1f0173ed985e5e90a7faa0fae99b90e35ff8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressEnd",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t)",
+						"i": "ZSTD_compressEnd(ZSTD_CCtx*,void*,size_t,const void*,size_t)[[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API.See docs.\")]]",
+						"r": "size_t ZSTD_compressEnd(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize) [[deprecated(\"The buffer-less API is deprecated in favor of the normal streaming API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESSEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7f05f2651beb0f95ba56ae50c8673ccb99c5e3fb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressBegin_advanced",
+						"t": "size_t (ZSTD_CCtx *, const void *, size_t, ZSTD_parameters, unsigned long long)",
+						"i": "ZSTD_compressBegin_advanced(ZSTD_CCtx*,const void*,size_t,ZSTD_parameters,unsigned long long)[[deprecated(\"use advanced API to access custom parameters\")]]",
+						"r": "size_t ZSTD_compressBegin_advanced(ZSTD_CCtx *cctx, const void *dict, size_t dictSize, ZSTD_parameters params, unsigned long long pledgedSrcSize) [[deprecated(\"use advanced API to access custom parameters\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESSBEGIN_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5716cdaeeafd172cbede6532361dd418d10b8110"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressBegin_usingCDict_advanced",
+						"t": "size_t (ZSTD_CCtx *const, const ZSTD_CDict *const, const ZSTD_frameParameters, const unsigned long long)",
+						"i": "ZSTD_compressBegin_usingCDict_advanced(ZSTD_CCtx*const,const ZSTD_CDict*const,const ZSTD_frameParameters,const unsigned long long)[[deprecated(\"use advanced API to access custom parameters\")]]",
+						"r": "size_t ZSTD_compressBegin_usingCDict_advanced(ZSTD_CCtx *const cctx, const ZSTD_CDict *const cdict, const ZSTD_frameParameters fParams, const unsigned long long pledgedSrcSize) [[deprecated(\"use advanced API to access custom parameters\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESSBEGIN_USINGCDICT_ADVANCED",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6624bd50cceab2f586fa11da2000a9d27f1a1fa6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decodingBufferSize_min",
+						"t": "size_t (unsigned long long, unsigned long long)",
+						"i": "ZSTD_decodingBufferSize_min(unsigned long long,unsigned long long)",
+						"r": "size_t ZSTD_decodingBufferSize_min(unsigned long long windowSize, unsigned long long frameContentSize)",
+						"s": "",
+						"u": "ZSTD_DECODINGBUFFERSIZE_MIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4e7b5c86ad2677805ca823bd451e6cd75ba1fad8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressBegin",
+						"t": "size_t (ZSTD_DCtx *)",
+						"i": "ZSTD_decompressBegin(ZSTD_DCtx*)",
+						"r": "size_t ZSTD_decompressBegin(ZSTD_DCtx *dctx)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSBEGIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f03c074188de58a201e75ba2869c9a7415ff3f6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressBegin_usingDict",
+						"t": "size_t (ZSTD_DCtx *, const void *, size_t)",
+						"i": "ZSTD_decompressBegin_usingDict(ZSTD_DCtx*,const void*,size_t)",
+						"r": "size_t ZSTD_decompressBegin_usingDict(ZSTD_DCtx *dctx, const void *dict, size_t dictSize)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSBEGIN_USINGDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "edf7bd08a5e5f18da5948eb8491d8a8b28487fc5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressBegin_usingDDict",
+						"t": "size_t (ZSTD_DCtx *, const ZSTD_DDict *)",
+						"i": "ZSTD_decompressBegin_usingDDict(ZSTD_DCtx*,const ZSTD_DDict*)",
+						"r": "size_t ZSTD_decompressBegin_usingDDict(ZSTD_DCtx *dctx, const ZSTD_DDict *ddict)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSBEGIN_USINGDDICT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aed4fe4af938a713edf6d03adfcda90f0b4f600f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_nextSrcSizeToDecompress",
+						"t": "size_t (ZSTD_DCtx *)",
+						"i": "ZSTD_nextSrcSizeToDecompress(ZSTD_DCtx*)",
+						"r": "size_t ZSTD_nextSrcSizeToDecompress(ZSTD_DCtx *dctx)",
+						"s": "",
+						"u": "ZSTD_NEXTSRCSIZETODECOMPRESS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a7877d3015b77f02f27dbf4c49f481d765484a95"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressContinue",
+						"t": "size_t (ZSTD_DCtx *, void *, size_t, const void *, size_t)",
+						"i": "ZSTD_decompressContinue(ZSTD_DCtx*,void*,size_t,const void*,size_t)",
+						"r": "size_t ZSTD_decompressContinue(ZSTD_DCtx *dctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize)",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSCONTINUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "26076365a88354ed944ae39db82f1b6e2cce76d3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_copyDCtx",
+						"t": "void (ZSTD_DCtx *, const ZSTD_DCtx *)",
+						"i": "ZSTD_copyDCtx(ZSTD_DCtx*,const ZSTD_DCtx*)[[deprecated(\"This function will likely be removed in the next minor release.It is misleading and has very limited utility.\")]]",
+						"r": "void ZSTD_copyDCtx(ZSTD_DCtx *dctx, const ZSTD_DCtx *preparedDCtx) [[deprecated(\"This function will likely be removed in the next minor release. It is misleading and has very limited utility.\")]]",
+						"s": "",
+						"u": "ZSTD_COPYDCTX",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "aad9d1c5b9c337376901caf7b08d003896c4d07c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_nextInputType",
+						"t": "ZSTD_nextInputType_e (ZSTD_DCtx *)",
+						"i": "ZSTD_nextInputType(ZSTD_DCtx*)",
+						"r": "ZSTD_nextInputType_e ZSTD_nextInputType(ZSTD_DCtx *dctx)",
+						"s": "",
+						"u": "ZSTD_NEXTINPUTTYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d5701e1c7579dc6bc7415267b2208ccaf8aaaf2a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_getBlockSize",
+						"t": "size_t (const ZSTD_CCtx *)",
+						"i": "ZSTD_getBlockSize(const ZSTD_CCtx*)[[deprecated(\"The block API is deprecated in favor of the normal compression API.See docs.\")]]",
+						"r": "size_t ZSTD_getBlockSize(const ZSTD_CCtx *cctx) [[deprecated(\"The block API is deprecated in favor of the normal compression API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_GETBLOCKSIZE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3fd8f0e9d23e65b1fcd7962bd141f9b2dcc45e4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_compressBlock",
+						"t": "size_t (ZSTD_CCtx *, void *, size_t, const void *, size_t)",
+						"i": "ZSTD_compressBlock(ZSTD_CCtx*,void*,size_t,const void*,size_t)[[deprecated(\"The block API is deprecated in favor of the normal compression API.See docs.\")]]",
+						"r": "size_t ZSTD_compressBlock(ZSTD_CCtx *cctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize) [[deprecated(\"The block API is deprecated in favor of the normal compression API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_COMPRESSBLOCK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "855e4b06c78ca8bedf69d5e27a400dbe66b11b72"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_decompressBlock",
+						"t": "size_t (ZSTD_DCtx *, void *, size_t, const void *, size_t)",
+						"i": "ZSTD_decompressBlock(ZSTD_DCtx*,void*,size_t,const void*,size_t)[[deprecated(\"The block API is deprecated in favor of the normal compression API.See docs.\")]]",
+						"r": "size_t ZSTD_decompressBlock(ZSTD_DCtx *dctx, void *dst, size_t dstCapacity, const void *src, size_t srcSize) [[deprecated(\"The block API is deprecated in favor of the normal compression API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_DECOMPRESSBLOCK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a33a510be4d48a11fc83ccca385e1c5780543abb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ZSTD_insertBlock",
+						"t": "size_t (ZSTD_DCtx *, const void *, size_t)",
+						"i": "ZSTD_insertBlock(ZSTD_DCtx*,const void*,size_t)[[deprecated(\"The block API is deprecated in favor of the normal compression API.See docs.\")]]",
+						"r": "size_t ZSTD_insertBlock(ZSTD_DCtx *dctx, const void *blockStart, size_t blockSize) [[deprecated(\"The block API is deprecated in favor of the normal compression API. See docs.\")]]",
+						"s": "",
+						"u": "ZSTD_INSERTBLOCK",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f60201b6b89a7d9ca7297cba7a7a438229c50247"
 							}
 						]
 					}

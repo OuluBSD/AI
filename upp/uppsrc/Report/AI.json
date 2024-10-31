@@ -1,5 +1,5 @@
 {
-	"saved_hash": "1b9b5b50e3454601e40d35e3a391bb821423bee1",
+	"saved_hash": "3c2678c631a161b3979a2930039ed12765e9f130",
 	"files": [
 		{
 			"key": "Report.h",
@@ -3259,6 +3259,84 @@
 
 								],
 								"h": ""
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "GetLayoutSize",
+						"t": "Upp::Size ()",
+						"i": "Upp::WithReportWindowLayout::GetLayoutSize()",
+						"r": "static Upp::Size GetLayoutSize()",
+						"s": "Upp",
+						"u": "GETLAYOUTSIZE",
+						"q": "Upp::WithReportWindowLayout",
+						"w": "UPP::WITHREPORTWINDOWLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68d1b2eca79e90566ffd63c982a4e8a7d14dc1d1"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_ReportWindowLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "Upp::SetLayout_ReportWindowLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_ReportWindowLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "Upp",
+						"u": "SETLAYOUT_REPORTWINDOWLAYOUT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68d1b2eca79e90566ffd63c982a4e8a7d14dc1d1"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_ReportWindowLayout",
+						"t": "void (T &, bool, bool)",
+						"i": "Upp::SetLayout_ReportWindowLayout(T&,bool,bool)",
+						"r": "template <class T> void SetLayout_ReportWindowLayout(T& parent, bool add = false, bool show = false)",
+						"s": "Upp",
+						"u": "SETLAYOUT_REPORTWINDOWLAYOUT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "68d1b2eca79e90566ffd63c982a4e8a7d14dc1d1"
 							}
 						]
 					}

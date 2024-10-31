@@ -1,0 +1,4330 @@
+{
+	"saved_hash": "ebaa742476ce278b8250c96cc4e2f5e4def76ed4",
+	"files": [
+		{
+			"key": "c++/v1/__system_error/error_category.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___SYSTEM_ERROR_ERROR_CATEGORY_H",
+						"t": "",
+						"i": "_LIBCPP___SYSTEM_ERROR_ERROR_CATEGORY_H",
+						"r": "_LIBCPP___SYSTEM_ERROR_ERROR_CATEGORY_H",
+						"s": "",
+						"u": "_LIBCPP___SYSTEM_ERROR_ERROR_CATEGORY_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94f5d7dbaf491c7d58f936e58d29b6c2145e8ff5"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "error_condition",
+						"t": "std::error_condition",
+						"i": "std::error_condition",
+						"r": "error_condition",
+						"s": "std::__1",
+						"u": "ERROR_CONDITION",
+						"q": "std::error_condition",
+						"w": "STD::ERROR_CONDITION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7a8dfa69f47400d9da66e6731c1c20779e12288f"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "error_code",
+						"t": "std::error_code",
+						"i": "std::error_code",
+						"r": "error_code",
+						"s": "std::__1",
+						"u": "ERROR_CODE",
+						"q": "std::error_code",
+						"w": "STD::ERROR_CODE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "232c76f4704ddaf9f7574b61f1cf1267e647b787"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__do_message",
+						"t": "std::__do_message",
+						"i": "std::__do_message",
+						"r": "__do_message",
+						"s": "std::__1",
+						"u": "__DO_MESSAGE",
+						"q": "std::__do_message",
+						"w": "STD::__DO_MESSAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd574a7561575870d8b1c3f83da5c395beb291e9"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error_category",
+						"t": "std::error_category",
+						"i": "std::error_category",
+						"r": "error_category",
+						"s": "std::__1",
+						"u": "ERROR_CATEGORY",
+						"q": "std::error_category",
+						"w": "STD::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "991c55316db8d7decca7d6afbcd43d9300b1e860"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~error_category",
+						"t": "void () noexcept",
+						"i": "std::__1::error_category::~()",
+						"r": "~error_category()",
+						"s": "std::__1",
+						"u": "~ERROR_CATEGORY",
+						"q": "std::__1::error_category",
+						"w": "STD::__1::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee7d8943e2deafe878991bb553789ad9f42cad78"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "error_category",
+						"t": "void () noexcept",
+						"i": "std::__1::error_category::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) error_category()",
+						"s": "std::__1",
+						"u": "ERROR_CATEGORY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9f0f374a1e1dfbd056158584c6d96f338685561a"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "error_category",
+						"t": "void (const error_category &)",
+						"i": "std::__1::error_category::error_category(const error_category&)=delete",
+						"r": "error_category(const error_category&)",
+						"s": "std::__1",
+						"u": "ERROR_CATEGORY",
+						"q": "std::__1::error_category",
+						"w": "STD::__1::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bce5832dee5cf424ea5f0849d7c79a3cf4a45548"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "error_category &(const error_category &)",
+						"i": "std::__1::error_category::operator=(const error_category&)=delete",
+						"r": "error_category& operator",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "std::__1::error_category",
+						"w": "STD::__1::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b6089d8a5c26800df4e3538bdfdaee782b8d109"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "name",
+						"t": "const char *() const noexcept",
+						"i": "std::__1::error_category::name()const",
+						"r": "const char *name() const",
+						"s": "std::__1",
+						"u": "NAME",
+						"q": "std::__1::error_category",
+						"w": "STD::__1::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "870b87bd3103ccfb8408ba89cb48dbb9c3e8fc18"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "default_error_condition",
+						"t": "error_condition (int) const noexcept",
+						"i": "std::__1::error_category::default_error_condition(int)const",
+						"r": "error_condition default_error_condition(int __ev) const",
+						"s": "std::__1",
+						"u": "DEFAULT_ERROR_CONDITION",
+						"q": "std::__1::error_category",
+						"w": "STD::__1::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e790bc6a1676c65b20f727ee0dd6eec5ab0e8835"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "equivalent",
+						"t": "bool (int, const error_condition &) const noexcept",
+						"i": "std::__1::error_category::equivalent(int,const error_condition&)const",
+						"r": "bool equivalent(int __code, const error_condition& __condition) const",
+						"s": "std::__1",
+						"u": "EQUIVALENT",
+						"q": "std::__1::error_category",
+						"w": "STD::__1::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8ee77347d6c3c9698d9e248c0e2cdfa7b3814b1a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "equivalent",
+						"t": "bool (const error_code &, int) const noexcept",
+						"i": "std::__1::error_category::equivalent(const error_code&,int)const",
+						"r": "bool equivalent(const error_code& __code, int __condition) const",
+						"s": "std::__1",
+						"u": "EQUIVALENT",
+						"q": "std::__1::error_category",
+						"w": "STD::__1::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2212be24c7d480efd93d6427b9394169cfced0b2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "message",
+						"t": "string (int) const",
+						"i": "std::__1::error_category::message(int)const",
+						"r": "string message(int __ev) const",
+						"s": "std::__1",
+						"u": "MESSAGE",
+						"q": "std::__1::error_category",
+						"w": "STD::__1::ERROR_CATEGORY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "410f7ed6df9667e6d541d40bd5bfe06660897f96"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const error_category &) const noexcept",
+						"i": "std::__1::error_category::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9aaf977da8cafa4972cb0a5b114a01a22198c783"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const error_category &) const noexcept",
+						"i": "std::__1::error_category::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4d9d039fa9634338363b447c168d1c1c56d2a90a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<",
+						"t": "bool (const error_category &) const noexcept",
+						"i": "std::__1::error_category::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator<(const error_category& __rhs) const",
+						"s": "std::__1",
+						"u": "OPERATOR<",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02c883369a7287f49c366324fec434d8ef40ac8a"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__do_message",
+						"t": "std::__do_message",
+						"i": "std::__do_message",
+						"r": "__do_message : public error_category",
+						"s": "std::__1",
+						"u": "__DO_MESSAGE",
+						"q": "std::__do_message",
+						"w": "STD::__DO_MESSAGE",
+						"y": "std::error_category",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "72634efbfe0573287075f211bad16515b0b622ef"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "message",
+						"t": "string (int) const",
+						"i": "std::__1::__do_message::message(int)const",
+						"r": "string message(int __ev) const",
+						"s": "std::__1",
+						"u": "MESSAGE",
+						"q": "std::__1::__do_message",
+						"w": "STD::__1::__DO_MESSAGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a8d0f9941a2b96994e6d62501f23074b367e5c88"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "generic_category",
+						"t": "const error_category &() noexcept",
+						"i": "std::__1::generic_category()",
+						"r": "const error_category& generic_category()",
+						"s": "std::__1",
+						"u": "GENERIC_CATEGORY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "268cd26c24c4cbb7d6121a14dfc9828efe854971"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "system_category",
+						"t": "const error_category &() noexcept",
+						"i": "std::__1::system_category()",
+						"r": "const error_category& system_category()",
+						"s": "std::__1",
+						"u": "SYSTEM_CATEGORY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a8f4a8798326bb523ebd6446dd82e418461449b7"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__system_error/error_code.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___SYSTEM_ERROR_ERROR_CODE_H",
+						"t": "",
+						"i": "_LIBCPP___SYSTEM_ERROR_ERROR_CODE_H",
+						"r": "_LIBCPP___SYSTEM_ERROR_ERROR_CODE_H",
+						"s": "",
+						"u": "_LIBCPP___SYSTEM_ERROR_ERROR_CODE_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60cce635a1aed292ccb9c9f57386dfe928ef0f26"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "is_error_code_enum",
+						"t": "",
+						"i": "std::__1::is_error_code_enum",
+						"r": "template <class _Tp> is_error_code_enum : public false_type",
+						"s": "std::__1",
+						"u": "IS_ERROR_CODE_ENUM",
+						"q": "std::__1::is_error_code_enum",
+						"w": "STD::__1::IS_ERROR_CODE_ENUM",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6682d94d3599a6358f56a0cc43d57270d17399ac"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "make_error_code",
+						"t": "void ()",
+						"i": "std::__1::__adl_only::make_error_code()=delete",
+						"r": "void make_error_code()",
+						"s": "std::__1::__adl_only",
+						"u": "MAKE_ERROR_CODE",
+						"q": "std::__1::__adl_only",
+						"w": "STD::__1::__ADL_ONLY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "008e979a004eee3bfa18b2d859825b2e0d0cf8f5"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error_code",
+						"t": "std::error_code",
+						"i": "std::error_code",
+						"r": "error_code",
+						"s": "std::__1",
+						"u": "ERROR_CODE",
+						"q": "std::error_code",
+						"w": "STD::ERROR_CODE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e0a5fa38ab05a62c8f927947760cb383cdd4fc5"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__val_",
+						"t": "int",
+						"i": "std::__1::error_code::__val_",
+						"r": "int __val_",
+						"s": "std::__1",
+						"u": "__VAL_",
+						"q": "std::__1::error_code",
+						"w": "STD::__1::ERROR_CODE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "65b0e3ec5c87705dc3c944360caf9c49649fb488"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__cat_",
+						"t": "const error_category *",
+						"i": "std::__1::error_code::__cat_",
+						"r": "const error_category *__cat_",
+						"s": "std::__1",
+						"u": "__CAT_",
+						"q": "std::__1::error_code",
+						"w": "STD::__1::ERROR_CODE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1e0255ca0473c212cfc5c07d2a6d7ea92a3abd0a"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error_code",
+						"t": "void () noexcept",
+						"i": "std::__1::error_code::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) error_code()",
+						"s": "std::__1",
+						"u": "ERROR_CODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c545014c0eac11c6a161e0ca70225d689a6cc32a"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error_code",
+						"t": "void (int, const error_category &) noexcept",
+						"i": "std::__1::error_code::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) error_code(int __val, const error_category& __cat)",
+						"s": "std::__1",
+						"u": "ERROR_CODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c49115944b48942569d90a38dc0e8dd79851a70f"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error_code",
+						"t": "void (_Ep) noexcept",
+						"i": "std::__1::error_code::",
+						"r": "template <class _Ep, __enable_if_t<is_error_code_enum<_Ep>::value, int>",
+						"s": "std::__1",
+						"u": "ERROR_CODE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "697cff4589193db8112cfa9f0795fbdc07da890d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "assign",
+						"t": "void (int, const error_category &) noexcept",
+						"i": "std::__1::error_code::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void assign(int __val, const error_category& __cat)",
+						"s": "std::__1",
+						"u": "ASSIGN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ccbdab8ed9cdc52ad752e612754e192e11aa4104"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "error_code &(_Ep) noexcept",
+						"i": "std::__1::error_code::",
+						"r": "template <class _Ep, __enable_if_t<is_error_code_enum<_Ep>::value, int>",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82e184686157bedd0e27e6191498c61dcbadeefd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "clear",
+						"t": "void () noexcept",
+						"i": "std::__1::error_code::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void clear()",
+						"s": "std::__1",
+						"u": "CLEAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d5fe3c52e7db3bd65a90378fa1e02e6ed5b01cf2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "value",
+						"t": "int () const noexcept",
+						"i": "std::__1::error_code::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) int value() const",
+						"s": "std::__1",
+						"u": "VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fdecf6a7d3b9209bc42055753dac77b5cf958fd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "category",
+						"t": "const error_category &() const noexcept",
+						"i": "std::__1::error_code::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) const error_category& category() const",
+						"s": "std::__1",
+						"u": "CATEGORY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d163303bc119ff021b3a8dd3a16644a485e681b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "default_error_condition",
+						"t": "error_condition () const noexcept",
+						"i": "std::__1::error_code::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) error_condition default_error_condition() const",
+						"s": "std::__1",
+						"u": "DEFAULT_ERROR_CONDITION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f786959c75f364fe4c4e874a614d6033b168d7f4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "message",
+						"t": "string () const",
+						"i": "std::__1::error_code::message()const",
+						"r": "string message() const",
+						"s": "std::__1",
+						"u": "MESSAGE",
+						"q": "std::__1::error_code",
+						"w": "STD::__1::ERROR_CODE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73d82491eae7ce15ebea128deecfcacb044bf17e"
+							}
+						]
+					},
+					{
+						"k": 26,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator bool",
+						"t": "bool () const noexcept",
+						"i": "std::__1::error_code::operator bool()const",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) explicit operator bool() const",
+						"s": "std::__1",
+						"u": "OPERATOR BOOL",
+						"q": "std::__1::error_code",
+						"w": "STD::__1::ERROR_CODE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e1c8ccceae19bc2a66888483f6b6821fdb6f0add"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "make_error_code",
+						"t": "error_code (errc) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) error_code make_error_code(errc __e)",
+						"s": "std::__1",
+						"u": "MAKE_ERROR_CODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4bccf2635e4add2e49306c74fa8ebb6a4e04bf9d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const error_code &, const error_code &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd355e5703ccda3a47aae253c6e25628d1370071"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const error_code &, const error_condition &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bac057bf159822a16b32ebbcbd7cb4999f60944d"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const error_condition &, const error_code &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b3b9f1d76f558d316ddb4380629430a9b047eb58"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const error_code &, const error_code &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "82813a82222cde2ceed3da64f825136ab796caef"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const error_code &, const error_condition &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df3485cc44101382b7806d43f88f5e1a0c7c3cae"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const error_condition &, const error_code &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "65b34926bcbaf13d2dd48b429d07cc76dcffc789"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<",
+						"t": "bool (const error_code &, const error_code &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator<(const error_code& __x, const error_code& __y)",
+						"s": "std::__1",
+						"u": "OPERATOR<",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2422b3227e8916bb06ba869903aedf2cd410ccb7"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hash",
+						"t": "std::hash<error_code>",
+						"i": "std::hash",
+						"r": "template<> hash<error_code> : public __unary_function<error_code, size_t>",
+						"s": "std::__1",
+						"u": "HASH",
+						"q": "std::hash",
+						"w": "STD::HASH",
+						"y": "std::__unary_function_keep_layout_base",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "541b63690e66bbca00e5de5ff76346f7dd8cc12b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "size_t (const error_code &) const noexcept",
+						"i": "std::__1::hash::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) size_t operator()(const error_code& __ec) const",
+						"s": "std::__1",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df35ff098f5b7817c4580b0d19dbb4f255d87902"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__system_error/errc.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___ERRC",
+						"t": "",
+						"i": "_LIBCPP___ERRC",
+						"r": "_LIBCPP___ERRC",
+						"s": "",
+						"u": "_LIBCPP___ERRC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f8dd782a8bedfa6fa50c9a24eb39085995dfcf19"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "errc",
+						"t": "std::errc",
+						"i": "std::errc",
+						"r": "enum errc : int",
+						"s": "std::__1",
+						"u": "ERRC",
+						"q": "std",
+						"w": "STD",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eedb4d8a29ad79ebbb81ce988dbcc54cf62b14c6"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "address_family_not_supported",
+						"t": "std::errc",
+						"i": "std::__1::address_family_not_supported",
+						"r": "address_family_not_supported",
+						"s": "std::__1",
+						"u": "ADDRESS_FAMILY_NOT_SUPPORTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e8e693567492ac95fef1af1664fab3c8d6b01e69"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "address_in_use",
+						"t": "std::errc",
+						"i": "std::__1::address_in_use",
+						"r": "address_in_use",
+						"s": "std::__1",
+						"u": "ADDRESS_IN_USE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "46d0d2ffdaecd14e1de0e7aa75df839fe3731ca1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "address_not_available",
+						"t": "std::errc",
+						"i": "std::__1::address_not_available",
+						"r": "address_not_available",
+						"s": "std::__1",
+						"u": "ADDRESS_NOT_AVAILABLE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab5b5e02964f290da919c2de171ef5c09c0d63f7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "already_connected",
+						"t": "std::errc",
+						"i": "std::__1::already_connected",
+						"r": "already_connected",
+						"s": "std::__1",
+						"u": "ALREADY_CONNECTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec354f89c4c012d553c4a1e504fc12e8d310af9b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "argument_list_too_long",
+						"t": "std::errc",
+						"i": "std::__1::argument_list_too_long",
+						"r": "argument_list_too_long",
+						"s": "std::__1",
+						"u": "ARGUMENT_LIST_TOO_LONG",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e249861acaa86260bd281b75de10da3519ee80b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "argument_out_of_domain",
+						"t": "std::errc",
+						"i": "std::__1::argument_out_of_domain",
+						"r": "argument_out_of_domain",
+						"s": "std::__1",
+						"u": "ARGUMENT_OUT_OF_DOMAIN",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d8b80ebffe5e2f66df98eda3670a51ce174b8962"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bad_address",
+						"t": "std::errc",
+						"i": "std::__1::bad_address",
+						"r": "bad_address",
+						"s": "std::__1",
+						"u": "BAD_ADDRESS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "858c5cb2e2f6602edf26e7ddc77f9448693bad36"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bad_file_descriptor",
+						"t": "std::errc",
+						"i": "std::__1::bad_file_descriptor",
+						"r": "bad_file_descriptor",
+						"s": "std::__1",
+						"u": "BAD_FILE_DESCRIPTOR",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8a445736113282315416d5b635f6b3cf4369eeba"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "bad_message",
+						"t": "std::errc",
+						"i": "std::__1::bad_message",
+						"r": "bad_message",
+						"s": "std::__1",
+						"u": "BAD_MESSAGE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9af7795de56467705fc8c5f13a798b3d6df655e7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "broken_pipe",
+						"t": "std::errc",
+						"i": "std::__1::broken_pipe",
+						"r": "broken_pipe",
+						"s": "std::__1",
+						"u": "BROKEN_PIPE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "630589d77ee2268dd43a4b0e35180edbb75cb9ef"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "connection_aborted",
+						"t": "std::errc",
+						"i": "std::__1::connection_aborted",
+						"r": "connection_aborted",
+						"s": "std::__1",
+						"u": "CONNECTION_ABORTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bb45b6f9d82a0bb2e8c2bed3a3684c3696e5df9c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "connection_already_in_progress",
+						"t": "std::errc",
+						"i": "std::__1::connection_already_in_progress",
+						"r": "connection_already_in_progress",
+						"s": "std::__1",
+						"u": "CONNECTION_ALREADY_IN_PROGRESS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "69ad00a6b4c96a0d4722c217443bc99c804e25e7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "connection_refused",
+						"t": "std::errc",
+						"i": "std::__1::connection_refused",
+						"r": "connection_refused",
+						"s": "std::__1",
+						"u": "CONNECTION_REFUSED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0ed7f208cda07c32a273f98e2fa1d6f72087c989"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "connection_reset",
+						"t": "std::errc",
+						"i": "std::__1::connection_reset",
+						"r": "connection_reset",
+						"s": "std::__1",
+						"u": "CONNECTION_RESET",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "26e8f4741d65d17cab855dbcb7332bb50696117e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "cross_device_link",
+						"t": "std::errc",
+						"i": "std::__1::cross_device_link",
+						"r": "cross_device_link",
+						"s": "std::__1",
+						"u": "CROSS_DEVICE_LINK",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b24d0a108bea102dcf0fb574e6ad9bc06dc5b04e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "destination_address_required",
+						"t": "std::errc",
+						"i": "std::__1::destination_address_required",
+						"r": "destination_address_required",
+						"s": "std::__1",
+						"u": "DESTINATION_ADDRESS_REQUIRED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c6d05cc1a4e3fb357d5806d72acace1ab744d066"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "device_or_resource_busy",
+						"t": "std::errc",
+						"i": "std::__1::device_or_resource_busy",
+						"r": "device_or_resource_busy",
+						"s": "std::__1",
+						"u": "DEVICE_OR_RESOURCE_BUSY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8442f57792d515bf04ed66982c17b589cfc559b1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "directory_not_empty",
+						"t": "std::errc",
+						"i": "std::__1::directory_not_empty",
+						"r": "directory_not_empty",
+						"s": "std::__1",
+						"u": "DIRECTORY_NOT_EMPTY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "467a345bd86477190e828192716f1f665a03e78c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "executable_format_error",
+						"t": "std::errc",
+						"i": "std::__1::executable_format_error",
+						"r": "executable_format_error",
+						"s": "std::__1",
+						"u": "EXECUTABLE_FORMAT_ERROR",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "790fb0069bfd5a89384b0c34a7928cc8a1aaefff"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "file_exists",
+						"t": "std::errc",
+						"i": "std::__1::file_exists",
+						"r": "file_exists",
+						"s": "std::__1",
+						"u": "FILE_EXISTS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c7e759c6c2185676854f559b0c7c1b45b3f1b5da"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "file_too_large",
+						"t": "std::errc",
+						"i": "std::__1::file_too_large",
+						"r": "file_too_large",
+						"s": "std::__1",
+						"u": "FILE_TOO_LARGE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c96b6917307f2e8bc246f5ccc1f9871626af6aad"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "filename_too_long",
+						"t": "std::errc",
+						"i": "std::__1::filename_too_long",
+						"r": "filename_too_long",
+						"s": "std::__1",
+						"u": "FILENAME_TOO_LONG",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ec019deaab605a457de91b580ca0e6388ea4990b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "function_not_supported",
+						"t": "std::errc",
+						"i": "std::__1::function_not_supported",
+						"r": "function_not_supported",
+						"s": "std::__1",
+						"u": "FUNCTION_NOT_SUPPORTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "91ba236b7d2adac8a2c1f5aa5261376bb4b5cab6"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "host_unreachable",
+						"t": "std::errc",
+						"i": "std::__1::host_unreachable",
+						"r": "host_unreachable",
+						"s": "std::__1",
+						"u": "HOST_UNREACHABLE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e7184d3cfbc698c10e3d3c7c407fc7fb33351f0e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "identifier_removed",
+						"t": "std::errc",
+						"i": "std::__1::identifier_removed",
+						"r": "identifier_removed",
+						"s": "std::__1",
+						"u": "IDENTIFIER_REMOVED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d4899cf5d6c509e513c557f7564e73418371220"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "illegal_byte_sequence",
+						"t": "std::errc",
+						"i": "std::__1::illegal_byte_sequence",
+						"r": "illegal_byte_sequence",
+						"s": "std::__1",
+						"u": "ILLEGAL_BYTE_SEQUENCE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b4984fa8abdcad47de1bc6788c3b115ba3b788ad"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "inappropriate_io_control_operation",
+						"t": "std::errc",
+						"i": "std::__1::inappropriate_io_control_operation",
+						"r": "inappropriate_io_control_operation",
+						"s": "std::__1",
+						"u": "INAPPROPRIATE_IO_CONTROL_OPERATION",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2bae7847d0fa38b96fe7e6b31d352283d3e2d14a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "interrupted",
+						"t": "std::errc",
+						"i": "std::__1::interrupted",
+						"r": "interrupted",
+						"s": "std::__1",
+						"u": "INTERRUPTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "506f108cc69810c79ffebb7b0647c02aed1c035f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "invalid_argument",
+						"t": "std::errc",
+						"i": "std::__1::invalid_argument",
+						"r": "invalid_argument",
+						"s": "std::__1",
+						"u": "INVALID_ARGUMENT",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "11742840c3c63a6eff7fdad92990d8f60067973e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "invalid_seek",
+						"t": "std::errc",
+						"i": "std::__1::invalid_seek",
+						"r": "invalid_seek",
+						"s": "std::__1",
+						"u": "INVALID_SEEK",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "41340f94d345ef7bcf3dcb170219590602e3cf57"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "io_error",
+						"t": "std::errc",
+						"i": "std::__1::io_error",
+						"r": "io_error",
+						"s": "std::__1",
+						"u": "IO_ERROR",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "50127adf3717ad0e9da15a56f8dab2233728dba8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "is_a_directory",
+						"t": "std::errc",
+						"i": "std::__1::is_a_directory",
+						"r": "is_a_directory",
+						"s": "std::__1",
+						"u": "IS_A_DIRECTORY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28aadaf50e75cbce1d17fa96626d8fbbec17c632"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "message_size",
+						"t": "std::errc",
+						"i": "std::__1::message_size",
+						"r": "message_size",
+						"s": "std::__1",
+						"u": "MESSAGE_SIZE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1cd2def417cd683e3507b1aa4858152df17a977a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "network_down",
+						"t": "std::errc",
+						"i": "std::__1::network_down",
+						"r": "network_down",
+						"s": "std::__1",
+						"u": "NETWORK_DOWN",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f91486cf41014b61804f5186676bd93b004d396"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "network_reset",
+						"t": "std::errc",
+						"i": "std::__1::network_reset",
+						"r": "network_reset",
+						"s": "std::__1",
+						"u": "NETWORK_RESET",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "92d6b661a6094136562cd11cab180ed62dec9228"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "network_unreachable",
+						"t": "std::errc",
+						"i": "std::__1::network_unreachable",
+						"r": "network_unreachable",
+						"s": "std::__1",
+						"u": "NETWORK_UNREACHABLE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9abea9dc9b53792e6d10328f4885f6570a5050e4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_buffer_space",
+						"t": "std::errc",
+						"i": "std::__1::no_buffer_space",
+						"r": "no_buffer_space",
+						"s": "std::__1",
+						"u": "NO_BUFFER_SPACE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54cc95941af186ae70d3e8cadb58f861fb053535"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_child_process",
+						"t": "std::errc",
+						"i": "std::__1::no_child_process",
+						"r": "no_child_process",
+						"s": "std::__1",
+						"u": "NO_CHILD_PROCESS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f9125be3db318550e6cfd9b506daaaec08e767c1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_link",
+						"t": "std::errc",
+						"i": "std::__1::no_link",
+						"r": "no_link",
+						"s": "std::__1",
+						"u": "NO_LINK",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5be33cb227a849bf6e7183a8f69647393a8bb8a2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_lock_available",
+						"t": "std::errc",
+						"i": "std::__1::no_lock_available",
+						"r": "no_lock_available",
+						"s": "std::__1",
+						"u": "NO_LOCK_AVAILABLE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f552d673af9a8f0599a5320822ea6cd876882ad"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_message_available",
+						"t": "std::errc",
+						"i": "std::__1::no_message_available",
+						"r": "no_message_available",
+						"s": "std::__1",
+						"u": "NO_MESSAGE_AVAILABLE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "39ec18df9a0fbd323dbbe42a07a0ef0e6332cabe"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_message",
+						"t": "std::errc",
+						"i": "std::__1::no_message",
+						"r": "no_message",
+						"s": "std::__1",
+						"u": "NO_MESSAGE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dad804c494075bda274a4d3253477193e5d18e2c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_protocol_option",
+						"t": "std::errc",
+						"i": "std::__1::no_protocol_option",
+						"r": "no_protocol_option",
+						"s": "std::__1",
+						"u": "NO_PROTOCOL_OPTION",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e31b55f912b2bc59d4aa2badeab64962b87ba3a2"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_space_on_device",
+						"t": "std::errc",
+						"i": "std::__1::no_space_on_device",
+						"r": "no_space_on_device",
+						"s": "std::__1",
+						"u": "NO_SPACE_ON_DEVICE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a80d6ef2a88fc5fe1bbebafec5817a680a39de73"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_stream_resources",
+						"t": "std::errc",
+						"i": "std::__1::no_stream_resources",
+						"r": "no_stream_resources",
+						"s": "std::__1",
+						"u": "NO_STREAM_RESOURCES",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "49d17c848c1b7e9546df659d1f662006996bcf9f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_such_device_or_address",
+						"t": "std::errc",
+						"i": "std::__1::no_such_device_or_address",
+						"r": "no_such_device_or_address",
+						"s": "std::__1",
+						"u": "NO_SUCH_DEVICE_OR_ADDRESS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d47e538a6d0fdc99689ce6d71f3d4f64df7efe3"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_such_device",
+						"t": "std::errc",
+						"i": "std::__1::no_such_device",
+						"r": "no_such_device",
+						"s": "std::__1",
+						"u": "NO_SUCH_DEVICE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5f64a53ed27023b1ca205b29e815bb952b909cce"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_such_file_or_directory",
+						"t": "std::errc",
+						"i": "std::__1::no_such_file_or_directory",
+						"r": "no_such_file_or_directory",
+						"s": "std::__1",
+						"u": "NO_SUCH_FILE_OR_DIRECTORY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e5357563185fbbf517eff669ec41b0c82be17e5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "no_such_process",
+						"t": "std::errc",
+						"i": "std::__1::no_such_process",
+						"r": "no_such_process",
+						"s": "std::__1",
+						"u": "NO_SUCH_PROCESS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94f9f6e4fc356d3049278b08edf9ac2f859cc82a"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "not_a_directory",
+						"t": "std::errc",
+						"i": "std::__1::not_a_directory",
+						"r": "not_a_directory",
+						"s": "std::__1",
+						"u": "NOT_A_DIRECTORY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "89ee8d69284d9b68eea467524fe0423ce9858014"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "not_a_socket",
+						"t": "std::errc",
+						"i": "std::__1::not_a_socket",
+						"r": "not_a_socket",
+						"s": "std::__1",
+						"u": "NOT_A_SOCKET",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "25c3dc955efac8c1d2c5038b8354e36ca4748136"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "not_a_stream",
+						"t": "std::errc",
+						"i": "std::__1::not_a_stream",
+						"r": "not_a_stream",
+						"s": "std::__1",
+						"u": "NOT_A_STREAM",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b2566e920dac046ccaf892773dd918225a83a09c"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "not_connected",
+						"t": "std::errc",
+						"i": "std::__1::not_connected",
+						"r": "not_connected",
+						"s": "std::__1",
+						"u": "NOT_CONNECTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "01b9c6b074e8a6704b8609c2dbcbeae8f174c5e5"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "not_enough_memory",
+						"t": "std::errc",
+						"i": "std::__1::not_enough_memory",
+						"r": "not_enough_memory",
+						"s": "std::__1",
+						"u": "NOT_ENOUGH_MEMORY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7f110d23a381e74328d56fc90356822b6e87d64d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "not_supported",
+						"t": "std::errc",
+						"i": "std::__1::not_supported",
+						"r": "not_supported",
+						"s": "std::__1",
+						"u": "NOT_SUPPORTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1cad21364b733020ce7c1cefb8a92b9f322f8ec6"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operation_canceled",
+						"t": "std::errc",
+						"i": "std::__1::operation_canceled",
+						"r": "operation_canceled",
+						"s": "std::__1",
+						"u": "OPERATION_CANCELED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94dc32c83f18e706aae3a8a795573274dbdda82f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operation_in_progress",
+						"t": "std::errc",
+						"i": "std::__1::operation_in_progress",
+						"r": "operation_in_progress",
+						"s": "std::__1",
+						"u": "OPERATION_IN_PROGRESS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a8044238dc30c7ad407664a49a04197768d7fdbd"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operation_not_permitted",
+						"t": "std::errc",
+						"i": "std::__1::operation_not_permitted",
+						"r": "operation_not_permitted",
+						"s": "std::__1",
+						"u": "OPERATION_NOT_PERMITTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4cac8ab9d04caa09a269a84c4fb97c6964a7bb8"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operation_not_supported",
+						"t": "std::errc",
+						"i": "std::__1::operation_not_supported",
+						"r": "operation_not_supported",
+						"s": "std::__1",
+						"u": "OPERATION_NOT_SUPPORTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f8837b31fb6540f014fa1c8de4fd9d799a71eebe"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operation_would_block",
+						"t": "std::errc",
+						"i": "std::__1::operation_would_block",
+						"r": "operation_would_block",
+						"s": "std::__1",
+						"u": "OPERATION_WOULD_BLOCK",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b53958db6da1425648b2695a30752e06908cf32"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "owner_dead",
+						"t": "std::errc",
+						"i": "std::__1::owner_dead",
+						"r": "owner_dead",
+						"s": "std::__1",
+						"u": "OWNER_DEAD",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c21901f97b62b03dea164057ff18f6394f0938d7"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "permission_denied",
+						"t": "std::errc",
+						"i": "std::__1::permission_denied",
+						"r": "permission_denied",
+						"s": "std::__1",
+						"u": "PERMISSION_DENIED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "948d8058c7b3e21d4a81b52d5badb6083545b848"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "protocol_error",
+						"t": "std::errc",
+						"i": "std::__1::protocol_error",
+						"r": "protocol_error",
+						"s": "std::__1",
+						"u": "PROTOCOL_ERROR",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fe6ded7f20be069f36246863c11d3068aa5c9907"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "protocol_not_supported",
+						"t": "std::errc",
+						"i": "std::__1::protocol_not_supported",
+						"r": "protocol_not_supported",
+						"s": "std::__1",
+						"u": "PROTOCOL_NOT_SUPPORTED",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "94df480bca733b3c81c701ccbc14153aa5b6dbac"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "read_only_file_system",
+						"t": "std::errc",
+						"i": "std::__1::read_only_file_system",
+						"r": "read_only_file_system",
+						"s": "std::__1",
+						"u": "READ_ONLY_FILE_SYSTEM",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b18953f40847a1495783f7c45166a7ae445dbb73"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "resource_deadlock_would_occur",
+						"t": "std::errc",
+						"i": "std::__1::resource_deadlock_would_occur",
+						"r": "resource_deadlock_would_occur",
+						"s": "std::__1",
+						"u": "RESOURCE_DEADLOCK_WOULD_OCCUR",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fa83d88f71ac363e7f00face4d60bf169bf783b1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "resource_unavailable_try_again",
+						"t": "std::errc",
+						"i": "std::__1::resource_unavailable_try_again",
+						"r": "resource_unavailable_try_again",
+						"s": "std::__1",
+						"u": "RESOURCE_UNAVAILABLE_TRY_AGAIN",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bbe0976420cd81e099251de62d383f4174037267"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "result_out_of_range",
+						"t": "std::errc",
+						"i": "std::__1::result_out_of_range",
+						"r": "result_out_of_range",
+						"s": "std::__1",
+						"u": "RESULT_OUT_OF_RANGE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df56270f4e3ea46e5223113277902400ec2b2364"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "state_not_recoverable",
+						"t": "std::errc",
+						"i": "std::__1::state_not_recoverable",
+						"r": "state_not_recoverable",
+						"s": "std::__1",
+						"u": "STATE_NOT_RECOVERABLE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "62076c8009c69fedecc6ec691046f872673b9dc3"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "stream_timeout",
+						"t": "std::errc",
+						"i": "std::__1::stream_timeout",
+						"r": "stream_timeout",
+						"s": "std::__1",
+						"u": "STREAM_TIMEOUT",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dad8b5fddf7447ca79496c547efe3f01bd56dbfd"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "text_file_busy",
+						"t": "std::errc",
+						"i": "std::__1::text_file_busy",
+						"r": "text_file_busy",
+						"s": "std::__1",
+						"u": "TEXT_FILE_BUSY",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0bb67643f958869b8052bd4977a2590600227781"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "timed_out",
+						"t": "std::errc",
+						"i": "std::__1::timed_out",
+						"r": "timed_out",
+						"s": "std::__1",
+						"u": "TIMED_OUT",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf51e7a2570a8d0ba1e749b602d5fdad774f121b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "too_many_files_open_in_system",
+						"t": "std::errc",
+						"i": "std::__1::too_many_files_open_in_system",
+						"r": "too_many_files_open_in_system",
+						"s": "std::__1",
+						"u": "TOO_MANY_FILES_OPEN_IN_SYSTEM",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27ddf634cbde284abed12b75850522a62cb20718"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "too_many_files_open",
+						"t": "std::errc",
+						"i": "std::__1::too_many_files_open",
+						"r": "too_many_files_open",
+						"s": "std::__1",
+						"u": "TOO_MANY_FILES_OPEN",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "23c6cd12934377661c5ab372285cbf814237c940"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "too_many_links",
+						"t": "std::errc",
+						"i": "std::__1::too_many_links",
+						"r": "too_many_links",
+						"s": "std::__1",
+						"u": "TOO_MANY_LINKS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "544b1390cee5f2d785ea93ab8303762683b76c2d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "too_many_symbolic_link_levels",
+						"t": "std::errc",
+						"i": "std::__1::too_many_symbolic_link_levels",
+						"r": "too_many_symbolic_link_levels",
+						"s": "std::__1",
+						"u": "TOO_MANY_SYMBOLIC_LINK_LEVELS",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7d07c36f33bdc74ac75276169f8aa3ea32c8053b"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "value_too_large",
+						"t": "std::errc",
+						"i": "std::__1::value_too_large",
+						"r": "value_too_large",
+						"s": "std::__1",
+						"u": "VALUE_TOO_LARGE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bcbd3bad7365972491df03c9118fd52d1708dd39"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "wrong_protocol_type",
+						"t": "std::errc",
+						"i": "std::__1::wrong_protocol_type",
+						"r": "wrong_protocol_type",
+						"s": "std::__1",
+						"u": "WRONG_PROTOCOL_TYPE",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "02186dce8de21f20ab6d68c6cb7693d88e7f5d5b"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__system_error/error_condition.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___SYSTEM_ERROR_ERROR_CONDITION_H",
+						"t": "",
+						"i": "_LIBCPP___SYSTEM_ERROR_ERROR_CONDITION_H",
+						"r": "_LIBCPP___SYSTEM_ERROR_ERROR_CONDITION_H",
+						"s": "",
+						"u": "_LIBCPP___SYSTEM_ERROR_ERROR_CONDITION_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "98322a612572f58bc56a4ca83fbed3a62803b0d3"
+							}
+						]
+					},
+					{
+						"k": 31,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "is_error_condition_enum",
+						"t": "",
+						"i": "std::__1::is_error_condition_enum",
+						"r": "template <class _Tp> is_error_condition_enum : public false_type",
+						"s": "std::__1",
+						"u": "IS_ERROR_CONDITION_ENUM",
+						"q": "std::__1::is_error_condition_enum",
+						"w": "STD::__1::IS_ERROR_CONDITION_ENUM",
+						"y": "std::false_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "944c92d876b8d6208bb26fc3c09b982db31424a3"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "is_error_condition_enum",
+						"t": "std::is_error_condition_enum<errc>",
+						"i": "std::is_error_condition_enum",
+						"r": "template<> is_error_condition_enum<errc> : true_type",
+						"s": "std::__1",
+						"u": "IS_ERROR_CONDITION_ENUM",
+						"q": "std::is_error_condition_enum",
+						"w": "STD::IS_ERROR_CONDITION_ENUM",
+						"y": "std::true_type",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31598fc5aaa1a5e8850fff3d46f6527758be07c5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "make_error_condition",
+						"t": "void ()",
+						"i": "std::__1::__adl_only::make_error_condition()=delete",
+						"r": "void make_error_condition()",
+						"s": "std::__1::__adl_only",
+						"u": "MAKE_ERROR_CONDITION",
+						"q": "std::__1::__adl_only",
+						"w": "STD::__1::__ADL_ONLY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e4c0fbce6fbf897e0a881be0ffb457480e048cc9"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error_condition",
+						"t": "std::error_condition",
+						"i": "std::error_condition",
+						"r": "error_condition",
+						"s": "std::__1",
+						"u": "ERROR_CONDITION",
+						"q": "std::error_condition",
+						"w": "STD::ERROR_CONDITION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "023345fd2e0879954049d6953cec27586f6c7782"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__val_",
+						"t": "int",
+						"i": "std::__1::error_condition::__val_",
+						"r": "int __val_",
+						"s": "std::__1",
+						"u": "__VAL_",
+						"q": "std::__1::error_condition",
+						"w": "STD::__1::ERROR_CONDITION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "65b0e3ec5c87705dc3c944360caf9c49649fb488"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__cat_",
+						"t": "const error_category *",
+						"i": "std::__1::error_condition::__cat_",
+						"r": "const error_category *__cat_",
+						"s": "std::__1",
+						"u": "__CAT_",
+						"q": "std::__1::error_condition",
+						"w": "STD::__1::ERROR_CONDITION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1e0255ca0473c212cfc5c07d2a6d7ea92a3abd0a"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error_condition",
+						"t": "void () noexcept",
+						"i": "std::__1::error_condition::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) error_condition()",
+						"s": "std::__1",
+						"u": "ERROR_CONDITION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7140718da95c00147e30499fba1edb1a0d2644d3"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "error_condition",
+						"t": "void (int, const error_category &) noexcept",
+						"i": "std::__1::error_condition::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) error_condition(int __val, const error_category& __cat)",
+						"s": "std::__1",
+						"u": "ERROR_CONDITION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1ca280c95c28b7d5633c7b6af94404459ed5b666"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "error_condition",
+						"t": "void (_Ep) noexcept",
+						"i": "std::__1::error_condition::",
+						"r": "template <class _Ep, __enable_if_t<is_error_condition_enum<_Ep>::value, int>",
+						"s": "std::__1",
+						"u": "ERROR_CONDITION",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77f059550f77b886ab76f9f9e057ac4ad4e1b7b1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "assign",
+						"t": "void (int, const error_category &) noexcept",
+						"i": "std::__1::error_condition::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void assign(int __val, const error_category& __cat)",
+						"s": "std::__1",
+						"u": "ASSIGN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ccbdab8ed9cdc52ad752e612754e192e11aa4104"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "operator=",
+						"t": "error_condition &(_Ep) noexcept",
+						"i": "std::__1::error_condition::",
+						"r": "template <class _Ep, __enable_if_t<is_error_condition_enum<_Ep>::value, int>",
+						"s": "std::__1",
+						"u": "OPERATOR=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d9b12d58bf76336615e72d5d2f76edad09d414a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "clear",
+						"t": "void () noexcept",
+						"i": "std::__1::error_condition::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void clear()",
+						"s": "std::__1",
+						"u": "CLEAR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9bf90636dec979febc10d24d27f52f91c08581bc"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "value",
+						"t": "int () const noexcept",
+						"i": "std::__1::error_condition::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) int value() const",
+						"s": "std::__1",
+						"u": "VALUE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fdecf6a7d3b9209bc42055753dac77b5cf958fd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "category",
+						"t": "const error_category &() const noexcept",
+						"i": "std::__1::error_condition::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) const error_category& category() const",
+						"s": "std::__1",
+						"u": "CATEGORY",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d163303bc119ff021b3a8dd3a16644a485e681b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "message",
+						"t": "string () const",
+						"i": "std::__1::error_condition::message()const",
+						"r": "string message() const",
+						"s": "std::__1",
+						"u": "MESSAGE",
+						"q": "std::__1::error_condition",
+						"w": "STD::__1::ERROR_CONDITION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73d82491eae7ce15ebea128deecfcacb044bf17e"
+							}
+						]
+					},
+					{
+						"k": 26,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator bool",
+						"t": "bool () const noexcept",
+						"i": "std::__1::error_condition::operator bool()const",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) explicit operator bool() const",
+						"s": "std::__1",
+						"u": "OPERATOR BOOL",
+						"q": "std::__1::error_condition",
+						"w": "STD::__1::ERROR_CONDITION",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e1c8ccceae19bc2a66888483f6b6821fdb6f0add"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "make_error_condition",
+						"t": "error_condition (errc) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) error_condition make_error_condition(errc __e)",
+						"s": "std::__1",
+						"u": "MAKE_ERROR_CONDITION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "58f1bee24dba77455f970f6095dd8db2a928dea6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator==",
+						"t": "bool (const error_condition &, const error_condition &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator",
+						"s": "std::__1",
+						"u": "OPERATOR==",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d089f21f8fab5709d9d4be47916eb03a735f04ad"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator!=",
+						"t": "bool (const error_condition &, const error_condition &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator!",
+						"s": "std::__1",
+						"u": "OPERATOR!=",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a3e39e1d319ea9231783d6524f447f18d14204d8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator<",
+						"t": "bool (const error_condition &, const error_condition &) noexcept",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) bool operator<(const error_condition& __x, const error_condition& __y)",
+						"s": "std::__1",
+						"u": "OPERATOR<",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32b174626b392c0674d1b7daa9cf800ac8ae7586"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "hash",
+						"t": "std::hash<error_condition>",
+						"i": "std::hash",
+						"r": "template<> hash<error_condition> : public __unary_function<error_condition, size_t>",
+						"s": "std::__1",
+						"u": "HASH",
+						"q": "std::hash",
+						"w": "STD::HASH",
+						"y": "std::__unary_function_keep_layout_base",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f4d7a90c630dd5be68df6b491c89f7f08ff33b4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "size_t (const error_condition &) const noexcept",
+						"i": "std::__1::hash::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) size_t operator()(const error_condition& __ec) const",
+						"s": "std::__1",
+						"u": "OPERATOR()",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "77a339780865654c59134f299ba5fb07a7571a89"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "c++/v1/__system_error/system_error.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "_LIBCPP___SYSTEM_ERROR_SYSTEM_ERROR_H",
+						"t": "",
+						"i": "_LIBCPP___SYSTEM_ERROR_SYSTEM_ERROR_H",
+						"r": "_LIBCPP___SYSTEM_ERROR_SYSTEM_ERROR_H",
+						"s": "",
+						"u": "_LIBCPP___SYSTEM_ERROR_SYSTEM_ERROR_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "707c491cc929e3196e2391dfcc5d2bb41cc8073a"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "system_error",
+						"t": "std::system_error",
+						"i": "std::system_error",
+						"r": "system_error : public runtime_error",
+						"s": "std::__1",
+						"u": "SYSTEM_ERROR",
+						"q": "std::system_error",
+						"w": "STD::SYSTEM_ERROR",
+						"y": "std::runtime_error",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "112464cb1a436f3adccf882ae56979d0e6c62f23"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__ec_",
+						"t": "error_code",
+						"i": "std::__1::system_error::__ec_",
+						"r": "error_code __ec_",
+						"s": "std::__1",
+						"u": "__EC_",
+						"q": "std::__1::system_error",
+						"w": "STD::__1::SYSTEM_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "989a96c5d547950dd328986e55c64c693dfb595e"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "system_error",
+						"t": "void (error_code, const string &)",
+						"i": "std::__1::system_error::system_error(error_code,const string&)",
+						"r": "system_error(error_code __ec, const string& __what_arg)",
+						"s": "std::__1",
+						"u": "SYSTEM_ERROR",
+						"q": "std::__1::system_error",
+						"w": "STD::__1::SYSTEM_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "454fd269da6f35150b13f9f4781ab38f312d6a80"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "system_error",
+						"t": "void (error_code, const char *)",
+						"i": "std::__1::system_error::system_error(error_code,const char*)",
+						"r": "system_error(error_code __ec, const char *__what_arg)",
+						"s": "std::__1",
+						"u": "SYSTEM_ERROR",
+						"q": "std::__1::system_error",
+						"w": "STD::__1::SYSTEM_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9582b4f0d78bbcc46bf9cc8a9f6b95ccb3b65768"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "system_error",
+						"t": "void (error_code)",
+						"i": "std::__1::system_error::system_error(error_code)",
+						"r": "system_error(error_code __ec)",
+						"s": "std::__1",
+						"u": "SYSTEM_ERROR",
+						"q": "std::__1::system_error",
+						"w": "STD::__1::SYSTEM_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14d4fe4a38b5689d1c3cd4ae5e0d2a4e79292583"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "system_error",
+						"t": "void (int, const error_category &, const string &)",
+						"i": "std::__1::system_error::system_error(int,const error_category&,const string&)",
+						"r": "system_error(int __ev, const error_category& __ecat, const string& __what_arg)",
+						"s": "std::__1",
+						"u": "SYSTEM_ERROR",
+						"q": "std::__1::system_error",
+						"w": "STD::__1::SYSTEM_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b8a977a3b6524b1587fec5db8e57fb6f202ead33"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "system_error",
+						"t": "void (int, const error_category &, const char *)",
+						"i": "std::__1::system_error::system_error(int,const error_category&,const char*)",
+						"r": "system_error(int __ev, const error_category& __ecat, const char *__what_arg)",
+						"s": "std::__1",
+						"u": "SYSTEM_ERROR",
+						"q": "std::__1::system_error",
+						"w": "STD::__1::SYSTEM_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f4e8e281aefa639306605626a95877ff860e2f3c"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "system_error",
+						"t": "void (int, const error_category &)",
+						"i": "std::__1::system_error::system_error(int,const error_category&)",
+						"r": "system_error(int __ev, const error_category& __ecat)",
+						"s": "std::__1",
+						"u": "SYSTEM_ERROR",
+						"q": "std::__1::system_error",
+						"w": "STD::__1::SYSTEM_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "07cf2b9080ada257d869aaf23f92e3657aef5802"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "system_error",
+						"t": "void (const system_error &) noexcept",
+						"i": "std::__1::system_error::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) system_error(const system_error&)",
+						"s": "std::__1",
+						"u": "SYSTEM_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a0aa17885d44409622dabe6b7594288d7787a93b"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "~system_error",
+						"t": "void () noexcept",
+						"i": "std::__1::system_error::~()",
+						"r": "~system_error()",
+						"s": "std::__1",
+						"u": "~SYSTEM_ERROR",
+						"q": "std::__1::system_error",
+						"w": "STD::__1::SYSTEM_ERROR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8288357ca75ccb959e2620ba5b59cdfcdfbfdd76"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "code",
+						"t": "const error_code &() const noexcept",
+						"i": "std::__1::system_error::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) const error_code& code() const",
+						"s": "std::__1",
+						"u": "CODE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6fa6f92c87cd925cddacde53874157df33bb811a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "__throw_system_error",
+						"t": "void (int, const char *)",
+						"i": "std::__1::__throw_system_error(int,const char*)[[noreturn]]",
+						"r": "void __throw_system_error(int __ev, const char *__what_arg) [[noreturn]]",
+						"s": "std::__1",
+						"u": "__THROW_SYSTEM_ERROR",
+						"q": "std::__1",
+						"w": "STD::__1",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "15e417a3d369980230824ef3f69efad8496f6963"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "__throw_system_error",
+						"t": "void (error_code, const char *)",
+						"i": "std::__1::",
+						"r": "__attribute__((exclude_from_explicit_instantiation)) __attribute__((abi_tag(\"ne180100\"))) void __throw_system_error(error_code __ec, const char *__what_arg) [[noreturn]]",
+						"s": "std::__1",
+						"u": "__THROW_SYSTEM_ERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5534dac0e91e26e3ce4cc3a36657818b675cf814"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

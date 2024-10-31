@@ -1,5 +1,5 @@
 {
-	"saved_hash": "7925f2fdde9fa3656438cd0df6a1114b56e0fa5c",
+	"saved_hash": "ba4f45a41f462df45377a828bcea3dfb083509fd",
 	"files": [
 		{
 			"key": "Util.cpp",
@@ -228,7 +228,7 @@
 						"n": "TopicWordIndex",
 						"t": "int (const String &)",
 						"i": "TopicWordIndex(const String&)",
-						"r": "int TopicWordIndex(const Upp::String& w)",
+						"r": "int TopicWordIndex(const String& w)",
 						"s": "",
 						"u": "TOPICWORDINDEX",
 						"q": "",
@@ -254,7 +254,7 @@
 						"n": "TopicIndexWord",
 						"t": "String (int)",
 						"i": "TopicIndexWord(int)",
-						"r": "Upp::String TopicIndexWord(int i)",
+						"r": "String TopicIndexWord(int i)",
 						"s": "",
 						"u": "TOPICINDEXWORD",
 						"q": "",
@@ -306,7 +306,7 @@
 						"n": "TppId",
 						"t": "String (const String &, bool)",
 						"i": "TppId(const String&,bool)",
-						"r": "Upp::String TppId(const Upp::String& ref, bool noscope = false)",
+						"r": "String TppId(const String& ref, bool noscope = false)",
 						"s": "",
 						"u": "TPPID",
 						"q": "",
@@ -332,7 +332,7 @@
 						"n": "CleanupTppId",
 						"t": "String (const String &)",
 						"i": "CleanupTppId(const String&)",
-						"r": "Upp::String CleanupTppId(const Upp::String& ref_)",
+						"r": "String CleanupTppId(const String& ref_)",
 						"s": "",
 						"u": "CLEANUPTPPID",
 						"q": "",
@@ -358,7 +358,7 @@
 						"n": "AddLinkRef",
 						"t": "void (const String &, const String &)",
 						"i": "AddLinkRef(const String&,const String&)",
-						"r": "void AddLinkRef(const Upp::String& link, const Upp::String& ref_)",
+						"r": "void AddLinkRef(const String& link, const String& ref_)",
 						"s": "",
 						"u": "ADDLINKREF",
 						"q": "",
@@ -384,7 +384,7 @@
 						"n": "ClearLinkRef",
 						"t": "void (const String &)",
 						"i": "ClearLinkRef(const String&)",
-						"r": "void ClearLinkRef(const Upp::String& link)",
+						"r": "void ClearLinkRef(const String& link)",
 						"s": "",
 						"u": "CLEARLINKREF",
 						"q": "",
@@ -410,7 +410,7 @@
 						"n": "ScanTopicIterator",
 						"t": "ScanTopicIterator",
 						"i": "ScanTopicIterator",
-						"r": "ScanTopicIterator : Upp::RichTxt::Iterator",
+						"r": "ScanTopicIterator : RichText::Iterator",
 						"s": "",
 						"u": "SCANTOPICITERATOR",
 						"q": "ScanTopicIterator",
@@ -436,7 +436,7 @@
 						"n": "link",
 						"t": "String",
 						"i": "ScanTopicIterator::link",
-						"r": "Upp::String link",
+						"r": "String link",
 						"s": "",
 						"u": "LINK",
 						"q": "ScanTopicIterator",
@@ -514,7 +514,7 @@
 						"n": "operator()",
 						"t": "bool (int, const RichPara &)",
 						"i": "ScanTopicIterator::operator()(int,const RichPara&)",
-						"r": "bool operator()(int pos, const Upp::RichPara& para)",
+						"r": "bool operator()(int pos, const RichPara& para)",
 						"s": "",
 						"u": "OPERATOR()",
 						"q": "ScanTopicIterator",
@@ -566,7 +566,7 @@
 						"n": "TopicCacheName",
 						"t": "String (const char *)",
 						"i": "TopicCacheName(const char*)",
-						"r": "Upp::String TopicCacheName(const char *path)",
+						"r": "String TopicCacheName(const char *path)",
 						"s": "",
 						"u": "TOPICCACHENAME",
 						"q": "",
@@ -618,7 +618,7 @@
 						"n": "SyncTopicFile",
 						"t": "void (const RichText &, const String &, const String &, const String &)",
 						"i": "SyncTopicFile(const RichText&,const String&,const String&,const String&)",
-						"r": "void SyncTopicFile(const Upp::RichText& text, const Upp::String& link, const Upp::String& path, const Upp::String& title)",
+						"r": "void SyncTopicFile(const RichText& text, const String& link, const String& path, const String& title)",
 						"s": "",
 						"u": "SYNCTOPICFILE",
 						"q": "",
@@ -644,7 +644,7 @@
 						"n": "SyncTopicFile",
 						"t": "void (const String &)",
 						"i": "SyncTopicFile(const String&)",
-						"r": "void SyncTopicFile(const Upp::String& link)",
+						"r": "void SyncTopicFile(const String& link)",
 						"s": "",
 						"u": "SYNCTOPICFILE",
 						"q": "",
@@ -670,7 +670,7 @@
 						"n": "InvalidateTopicInfoPath",
 						"t": "void (const String &)",
 						"i": "InvalidateTopicInfoPath(const String&)",
-						"r": "void InvalidateTopicInfoPath(const Upp::String& path)",
+						"r": "void InvalidateTopicInfoPath(const String& path)",
 						"s": "",
 						"u": "INVALIDATETOPICINFOPATH",
 						"q": "",
@@ -774,7 +774,7 @@
 						"n": "SyncRefsDir",
 						"t": "void (const char *, const String &, Progress &)",
 						"i": "SyncRefsDir(const char*,const String&,Progress&)",
-						"r": "void SyncRefsDir(const char *dir, const Upp::String& rel, Upp::Progress& pi)",
+						"r": "void SyncRefsDir(const char *dir, const String& rel, Progress& pi)",
 						"s": "",
 						"u": "SYNCREFSDIR",
 						"q": "",
@@ -826,7 +826,7 @@
 						"n": "LegacyRef",
 						"t": "String (String)",
 						"i": "LegacyRef(String)",
-						"r": "Upp::String LegacyRef(Upp::String ref)",
+						"r": "String LegacyRef(String ref)",
 						"s": "",
 						"u": "LEGACYREF",
 						"q": "",
@@ -852,7 +852,7 @@
 						"n": "AnnotationCandidates",
 						"t": "Vector<String> (const String &)",
 						"i": "AnnotationCandidates(const String&)",
-						"r": "Vector<String> AnnotationCandidates(const Upp::String& ref)",
+						"r": "Vector<String> AnnotationCandidates(const String& ref)",
 						"s": "",
 						"u": "ANNOTATIONCANDIDATES",
 						"q": "",
@@ -878,7 +878,7 @@
 						"n": "GetRefLinks",
 						"t": "Vector<String> (const String &)",
 						"i": "GetRefLinks(const String&)",
-						"r": "Vector<String> GetRefLinks(const Upp::String& ref)",
+						"r": "Vector<String> GetRefLinks(const String& ref)",
 						"s": "",
 						"u": "GETREFLINKS",
 						"q": "",
@@ -904,7 +904,7 @@
 						"n": "GetTopicTitle",
 						"t": "String (const String &)",
 						"i": "GetTopicTitle(const String&)",
-						"r": "Upp::String GetTopicTitle(const Upp::String& link)",
+						"r": "String GetTopicTitle(const String& link)",
 						"s": "",
 						"u": "GETTOPICTITLE",
 						"q": "",
@@ -930,7 +930,7 @@
 						"n": "MatchWord",
 						"t": "int (const Vector<int> &, const String &)",
 						"i": "MatchWord(const Vector&,const String&)",
-						"r": "int MatchWord(const Vector<int>& w, const Upp::String& pattern)",
+						"r": "int MatchWord(const Vector<int>& w, const String& pattern)",
 						"s": "",
 						"u": "MATCHWORD",
 						"q": "",
@@ -956,7 +956,7 @@
 						"n": "MatchTopicLink",
 						"t": "bool (const String &, const Vector<String> &)",
 						"i": "MatchTopicLink(const String&,const Vector&)",
-						"r": "bool MatchTopicLink(const Upp::String& link, const Vector<String>& query)",
+						"r": "bool MatchTopicLink(const String& link, const Vector<String>& query)",
 						"s": "",
 						"u": "MATCHTOPICLINK",
 						"q": "",
@@ -1015,7 +1015,7 @@
 						"n": "ParseTopicFileName",
 						"t": "bool (const String &, String &, int &)",
 						"i": "ParseTopicFileName(const String&,String&,int&)",
-						"r": "bool ParseTopicFileName(const Upp::String& fn, Upp::String& topic, int& lang)",
+						"r": "bool ParseTopicFileName(const String& fn, String& topic, int& lang)",
 						"s": "",
 						"u": "PARSETOPICFILENAME",
 						"q": "",
@@ -1041,7 +1041,7 @@
 						"n": "GetTopicPath",
 						"t": "String (const TopicLink &)",
 						"i": "GetTopicPath(const TopicLink&)",
-						"r": "Upp::String GetTopicPath(const Upp::TopicLink& tl)",
+						"r": "String GetTopicPath(const TopicLink& tl)",
 						"s": "",
 						"u": "GETTOPICPATH",
 						"q": "",
@@ -1067,7 +1067,7 @@
 						"n": "GetTopicPath",
 						"t": "String (const String &)",
 						"i": "GetTopicPath(const String&)",
-						"r": "Upp::String GetTopicPath(const Upp::String& link)",
+						"r": "String GetTopicPath(const String& link)",
 						"s": "",
 						"u": "GETTOPICPATH",
 						"q": "",
@@ -1093,7 +1093,7 @@
 						"n": "ReadTopic",
 						"t": "Topic (const char *)",
 						"i": "ReadTopic(const char*)",
-						"r": "Upp::Topic ReadTopic(const char *text)",
+						"r": "Topic ReadTopic(const char *text)",
 						"s": "",
 						"u": "READTOPIC",
 						"q": "",
@@ -1119,7 +1119,7 @@
 						"n": "GatherLabels",
 						"t": "Vector<String> (const RichText &)",
 						"i": "GatherLabels(const RichText&)",
-						"r": "Vector<String> GatherLabels(const Upp::RichText& text)",
+						"r": "Vector<String> GatherLabels(const RichText& text)",
 						"s": "",
 						"u": "GATHERLABELS",
 						"q": "",
@@ -1145,7 +1145,7 @@
 						"n": "WriteTopic",
 						"t": "String (const char *, const RichText &)",
 						"i": "WriteTopic(const char*,const RichText&)",
-						"r": "Upp::String WriteTopic(const char *title, const Upp::RichText& text)",
+						"r": "String WriteTopic(const char *title, const RichText& text)",
 						"s": "",
 						"u": "WRITETOPIC",
 						"q": "",
@@ -1171,7 +1171,7 @@
 						"n": "WriteTopicI",
 						"t": "String (const char *, const RichText &)",
 						"i": "WriteTopicI(const char*,const RichText&)",
-						"r": "Upp::String WriteTopicI(const char *title, const Upp::RichText& text)",
+						"r": "String WriteTopicI(const char *title, const RichText& text)",
 						"s": "",
 						"u": "WRITETOPICI",
 						"q": "",
@@ -1197,7 +1197,7 @@
 						"n": "SaveGroupInc",
 						"t": "void (const String &)",
 						"i": "SaveGroupInc(const String&)",
-						"r": "void SaveGroupInc(const Upp::String& grouppath)",
+						"r": "void SaveGroupInc(const String& grouppath)",
 						"s": "",
 						"u": "SAVEGROUPINC",
 						"q": "",
@@ -1238,6 +1238,748 @@
 
 								],
 								"h": "8cb0487052c7d6defea0fb2819ac966da8acf8de"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Topic.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "editstate",
+						"t": "ArrayMap<String, TopicEditor::FileInfo>",
+						"i": "TopicEditor::editstate",
+						"r": "ArrayMap<String, TopicEditor::FileInfo> editstate",
+						"s": "",
+						"u": "EDITSTATE",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b95f3a4135b11ac57541054d1b472282721a005"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "grouptopic",
+						"t": "VectorMap<String, String>",
+						"i": "TopicEditor::grouptopic",
+						"r": "VectorMap<String, String> grouptopic",
+						"s": "",
+						"u": "GROUPTOPIC",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2be0293e327ec49b1eeb3e31508b387dbbaa4e83"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lasttemplate",
+						"t": "String",
+						"i": "TopicEditor::lasttemplate",
+						"r": "String lasttemplate",
+						"s": "",
+						"u": "LASTTEMPLATE",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dc70680ef954db59fa9e63bd3eb16b9ea8462dfb"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "lastlang",
+						"t": "int",
+						"i": "TopicEditor::lastlang",
+						"r": "int lastlang",
+						"s": "",
+						"u": "LASTLANG",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fbde37d65f96f2a1802ef1e0505fc23c90272790"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "allfonts",
+						"t": "bool",
+						"i": "TopicEditor::allfonts",
+						"r": "bool allfonts",
+						"s": "",
+						"u": "ALLFONTS",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0e7bb3111fef16c70825b9ec58c098e5f82edd61"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ListOrder",
+						"t": "ListOrder",
+						"i": "ListOrder",
+						"r": "ListOrder : FileList::Order",
+						"s": "",
+						"u": "LISTORDER",
+						"q": "ListOrder",
+						"w": "LISTORDER",
+						"y": "Upp::FileList::Order",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ab7fdb8eaace25a5c615550929f659bb2466d0d1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "operator()",
+						"t": "bool (const FileList::File &, const FileList::File &) const",
+						"i": "ListOrder::operator()(const FileList::File&,const FileList::File&)const",
+						"r": "bool operator()(const FileList::File& a, const FileList::File& b) const",
+						"s": "",
+						"u": "OPERATOR()",
+						"q": "ListOrder",
+						"w": "LISTORDER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "32cf32b4ec99f073cf7bd80ea10c4930a8aef5bb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "LoadTopics",
+						"t": "bool (Vector<String> &, const String &)",
+						"i": "LoadTopics(Vector&,const String&)",
+						"r": "bool LoadTopics(Vector<String>& topics, const String& grouppath)",
+						"s": "",
+						"u": "LOADTOPICS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8b26e07d5ba0b8ab6ca130f171ebc8f79619d0e6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FillTopicsList",
+						"t": "void (FileList &, const Vector<String> &)",
+						"i": "FillTopicsList(FileList&,const Vector&)",
+						"r": "void FillTopicsList(FileList& list, const Vector<String>& topics)",
+						"s": "",
+						"u": "FILLTOPICSLIST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb4b47ba6549fe06bb3fa4ea14f6bb92770d0954"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Open",
+						"t": "void (const String &)",
+						"i": "TopicEditor::Open(const String&)",
+						"r": "void Open(const String& group_path)",
+						"s": "",
+						"u": "OPEN",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "28047f6de13fd7259c7b8c818f8a83c4b6f3696f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "OpenFile",
+						"t": "void (const String &)",
+						"i": "TopicEditor::OpenFile(const String&)",
+						"r": "void OpenFile(const String& path)",
+						"s": "",
+						"u": "OPENFILE",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14b2060b8114deeb0d5bfac7cf487ed5451c2852"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "OnSearch",
+						"t": "void ()",
+						"i": "TopicEditor::OnSearch()",
+						"r": "void OnSearch()",
+						"s": "",
+						"u": "ONSEARCH",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ea4042d39c1e50fc4441c4b873e6912c96652d49"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "DoSearch",
+						"t": "void ()",
+						"i": "TopicEditor::DoSearch()",
+						"r": "void DoSearch()",
+						"s": "",
+						"u": "DOSEARCH",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e5f1352e890af260a98c90b04af5ded59a441e96"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetCurrentTopicPath",
+						"t": "String ()",
+						"i": "TopicEditor::GetCurrentTopicPath()",
+						"r": "String GetCurrentTopicPath()",
+						"s": "",
+						"u": "GETCURRENTTOPICPATH",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "24302c11b838f3428dfbf5dbf6611b97257e47e1"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ShowTopic",
+						"t": "void (bool)",
+						"i": "TopicEditor::ShowTopic(bool)",
+						"r": "void ShowTopic(bool b = true)",
+						"s": "",
+						"u": "SHOWTOPIC",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f7200c203d0583940ee8ab1b3e0efd001b91d9b0"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "TopicCursor",
+						"t": "void ()",
+						"i": "TopicEditor::TopicCursor()",
+						"r": "void TopicCursor()",
+						"s": "",
+						"u": "TOPICCURSOR",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "082263c21cb4019294355095cb7c9465ccc62f04"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Load",
+						"t": "void (const String &)",
+						"i": "TopicEditor::Load(const String&)",
+						"r": "void Load(const String& fn)",
+						"s": "",
+						"u": "LOAD",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "57675e30e3eb68656cd3c9e0351148946ddc5687"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "serial",
+						"t": "int",
+						"i": "TopicEditor::serial",
+						"r": "int serial",
+						"s": "",
+						"u": "SERIAL",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22af38e8edb4b7045854b45eb3f441ca76485d96"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetSerial",
+						"t": "int ()",
+						"i": "TopicEditor::GetSerial()",
+						"r": "int GetSerial()",
+						"s": "",
+						"u": "GETSERIAL",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a244b8999a04f323c268f2401da27368c999f70f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SaveTopic",
+						"t": "void ()",
+						"i": "TopicEditor::SaveTopic()",
+						"r": "void SaveTopic()",
+						"s": "",
+						"u": "SAVETOPIC",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f1809ac44eb241df108a72100f0351324ea7229c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Flush",
+						"t": "void ()",
+						"i": "TopicEditor::Flush()",
+						"r": "void Flush()",
+						"s": "",
+						"u": "FLUSH",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df642e1774af637a0577e01ff90ede623d64b700"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SaveInc",
+						"t": "void ()",
+						"i": "TopicEditor::SaveInc()",
+						"r": "void SaveInc()",
+						"s": "",
+						"u": "SAVEINC",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "259ccef0452c5e2495ff2215db6e177374da4c57"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ParseTopicFilePath",
+						"t": "TopicLink (const String &)",
+						"i": "ParseTopicFilePath(const String&)",
+						"r": "TopicLink ParseTopicFilePath(const String& path)",
+						"s": "",
+						"u": "PARSETOPICFILEPATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "958b41a1d45e73b5ca91ebb3739a0a58e4539da2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "TopicFilePath",
+						"t": "String (const TopicLink &)",
+						"i": "TopicFilePath(const TopicLink&)",
+						"r": "String TopicFilePath(const TopicLink& tl)",
+						"s": "",
+						"u": "TOPICFILEPATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "50f9bb125f70c7e208d3884f75c21d60f8a6bec0"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "Template.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ListTemplates",
+						"t": "void (Vector<String> &, Vector<String> &)",
+						"i": "TopicEditor::ListTemplates(Vector&,Vector&)",
+						"r": "void ListTemplates(Vector<String>& path, Vector<String>& name)",
+						"s": "",
+						"u": "LISTTEMPLATES",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ba3973dced27996456a022186f170de9b7f10e2b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ChooseTemplate",
+						"t": "String (const char *)",
+						"i": "TopicEditor::ChooseTemplate(const char*)",
+						"r": "String ChooseTemplate(const char *title)",
+						"s": "",
+						"u": "CHOOSETEMPLATE",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b9d61907fcac3b85d213fc8e8bb76eb854f941f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ApplyStylesheet",
+						"t": "void ()",
+						"i": "TopicEditor::ApplyStylesheet()",
+						"r": "void ApplyStylesheet()",
+						"s": "",
+						"u": "APPLYSTYLESHEET",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "746c2a92449072fa64a6ae5360c37d9228a3429a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ApplyStylesheetGroup",
+						"t": "void ()",
+						"i": "TopicEditor::ApplyStylesheetGroup()",
+						"r": "void ApplyStylesheetGroup()",
+						"s": "",
+						"u": "APPLYSTYLESHEETGROUP",
+						"q": "TopicEditor",
+						"w": "TOPICEDITOR",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d76ddc244ee7a5d22e9f88f8f4a1c659e33b1b3c"
 							}
 						]
 					}
@@ -1386,7 +2128,7 @@
 						"n": "LinkString",
 						"t": "String ()",
 						"i": "TopicLinkDlg::LinkString()",
-						"r": "Upp::String LinkString()",
+						"r": "String LinkString()",
 						"s": "",
 						"u": "LINKSTRING",
 						"q": "TopicLinkDlg",
@@ -1412,7 +2154,7 @@
 						"n": "ActualDir",
 						"t": "String ()",
 						"i": "TopicLinkDlg::ActualDir()",
-						"r": "Upp::String ActualDir()",
+						"r": "String ActualDir()",
 						"s": "",
 						"u": "ACTUALDIR",
 						"q": "TopicLinkDlg",
@@ -1438,7 +2180,7 @@
 						"n": "PackageGroup",
 						"t": "String (const char *)",
 						"i": "TopicLinkDlg::PackageGroup(const char*)",
-						"r": "Upp::String PackageGroup(const char *name)",
+						"r": "String PackageGroup(const char *name)",
 						"s": "",
 						"u": "PACKAGEGROUP",
 						"q": "TopicLinkDlg",
@@ -1542,7 +2284,7 @@
 						"n": "PackageGroup",
 						"t": "String (const char *)",
 						"i": "TopicLinkDlg::PackageGroup(const char*)",
-						"r": "Upp::String PackageGroup(const char *name)",
+						"r": "String PackageGroup(const char *name)",
 						"s": "",
 						"u": "PACKAGEGROUP",
 						"q": "TopicLinkDlg",
@@ -1620,7 +2362,7 @@
 						"n": "LinkString",
 						"t": "String ()",
 						"i": "TopicLinkDlg::LinkString()",
-						"r": "Upp::String LinkString()",
+						"r": "String LinkString()",
 						"s": "",
 						"u": "LINKSTRING",
 						"q": "TopicLinkDlg",
@@ -1698,7 +2440,7 @@
 						"n": "Hyperlink",
 						"t": "void (String &, WString &)",
 						"i": "TopicEditor::Hyperlink(String&,WString&)",
-						"r": "void Hyperlink(Upp::String& link, Upp::WString& text)",
+						"r": "void Hyperlink(String& link, WString& text)",
 						"s": "",
 						"u": "HYPERLINK",
 						"q": "TopicEditor",
@@ -1861,7 +2603,7 @@
 						"n": "s__sF6_59",
 						"t": "Upp::Callinit",
 						"i": "s__sF6_59",
-						"r": "static Upp::Callinit s__sF6_59(s__sF6_59_fn, \"/home/sblo/ai-upp/uppsrc/ide/Browser/TopicWin.cpp\", 59)",
+						"r": "static Upp::Callinit s__sF6_59(s__sF6_59_fn, \"C:\\\\Users\\\\sblo\\\\ai-upp\\\\uppsrc\\\\ide\\\\Browser\\\\TopicWin.cpp\", 59)",
 						"s": "",
 						"u": "S__SF6_59",
 						"q": "",
@@ -1913,7 +2655,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "TopicEditor::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "",
 						"u": "SERIALIZE",
 						"q": "TopicEditor",
@@ -1939,7 +2681,7 @@
 						"n": "SerializeEditPos",
 						"t": "void (Stream &)",
 						"i": "TopicEditor::SerializeEditPos(Stream&)",
-						"r": "void SerializeEditPos(Upp::Stream& s)",
+						"r": "void SerializeEditPos(Stream& s)",
 						"s": "",
 						"u": "SERIALIZEEDITPOS",
 						"q": "TopicEditor",
@@ -1991,7 +2733,7 @@
 						"n": "UpdateTopicLinks",
 						"t": "void (String &, const String &)",
 						"i": "UpdateTopicLinks(String&,const String&)",
-						"r": "static void UpdateTopicLinks(Upp::String& text, const Upp::String& ext)",
+						"r": "static void UpdateTopicLinks(String& text, const String& ext)",
 						"s": "",
 						"u": "UPDATETOPICLINKS",
 						"q": "",
@@ -2173,7 +2915,7 @@
 						"n": "TopicMenu",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::TopicMenu(Bar&)",
-						"r": "void TopicMenu(Upp::Bar& bar)",
+						"r": "void TopicMenu(Bar& bar)",
 						"s": "",
 						"u": "TOPICMENU",
 						"q": "TopicEditor",
@@ -2199,7 +2941,7 @@
 						"n": "FileBar",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::FileBar(Bar&)",
-						"r": "void FileBar(Upp::Bar& bar)",
+						"r": "void FileBar(Bar& bar)",
 						"s": "",
 						"u": "FILEBAR",
 						"q": "TopicEditor",
@@ -2225,7 +2967,7 @@
 						"n": "EditMenu",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::EditMenu(Bar&)",
-						"r": "void EditMenu(Upp::Bar& bar)",
+						"r": "void EditMenu(Bar& bar)",
 						"s": "",
 						"u": "EDITMENU",
 						"q": "TopicEditor",
@@ -2251,7 +2993,7 @@
 						"n": "FormatMenu",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::FormatMenu(Bar&)",
-						"r": "void FormatMenu(Upp::Bar& bar)",
+						"r": "void FormatMenu(Bar& bar)",
 						"s": "",
 						"u": "FORMATMENU",
 						"q": "TopicEditor",
@@ -2277,7 +3019,7 @@
 						"n": "TableMenu",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::TableMenu(Bar&)",
-						"r": "void TableMenu(Upp::Bar& bar)",
+						"r": "void TableMenu(Bar& bar)",
 						"s": "",
 						"u": "TABLEMENU",
 						"q": "TopicEditor",
@@ -2303,7 +3045,7 @@
 						"n": "CreateTopic",
 						"t": "void (const char *, int, const String &)",
 						"i": "CreateTopic(const char*,int,const String&)",
-						"r": "void CreateTopic(const char *fn, int lang, const Upp::String& ss)",
+						"r": "void CreateTopic(const char *fn, int lang, const String& ss)",
 						"s": "",
 						"u": "CREATETOPIC",
 						"q": "",
@@ -2329,7 +3071,7 @@
 						"n": "NewTopicEx",
 						"t": "bool (const String &, const AnnotationItem &)",
 						"i": "TopicEditor::NewTopicEx(const String&,const AnnotationItem&)",
-						"r": "bool NewTopicEx(const Upp::String& iname, const AnnotationItem& create)",
+						"r": "bool NewTopicEx(const String& iname, const AnnotationItem& create)",
 						"s": "",
 						"u": "NEWTOPICEX",
 						"q": "TopicEditor",
@@ -2459,7 +3201,7 @@
 						"n": "Key",
 						"t": "bool (dword, int)",
 						"i": "TopicEditor::Key(dword,int)",
-						"r": "bool Key(Upp::dword key, int cnt)",
+						"r": "bool Key(dword key, int cnt)",
 						"s": "",
 						"u": "KEY",
 						"q": "TopicEditor",
@@ -2502,12 +3244,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "e4800c578fa74a0fabfcbcfe5d1b74f66b4561af"
-							},
 							{
 								"items": [
 
@@ -2616,12 +3352,6 @@
 								"items": [
 
 								],
-								"h": "7ec80d36a15e4b38e0415235d0fe2cae12aa8292"
-							},
-							{
-								"items": [
-
-								],
 								"h": "99e5da29bf6a0c527e572bc9f8049c1bd4f2f829"
 							}
 						]
@@ -2648,12 +3378,6 @@
 								"items": [
 
 								],
-								"h": "f184c16c5f9064b61485614059dc09391aa62821"
-							},
-							{
-								"items": [
-
-								],
 								"h": "d91bea45703ec2c6d9d107f09b85cdbd64c1ddfa"
 							}
 						]
@@ -2676,12 +3400,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "cfa5b67562cdbae5cf9f0f5fc28a9f8e8fc0404c"
-							},
 							{
 								"items": [
 
@@ -2823,12 +3541,6 @@
 								"items": [
 
 								],
-								"h": "9b47142828d321d7e6fd20f68a03f058ebf6b09a"
-							},
-							{
-								"items": [
-
-								],
 								"h": "6f095d65d0d6b0d83e1082865fcdcb7811826d6e"
 							}
 						]
@@ -2841,7 +3553,7 @@
 						"n": "IdeGotoCodeRef",
 						"t": "void (const String &)",
 						"i": "IdeGotoCodeRef(const String&)",
-						"r": "void IdeGotoCodeRef(const Upp::String& ref_id)",
+						"r": "void IdeGotoCodeRef(const String& ref_id)",
 						"s": "",
 						"u": "IDEGOTOCODEREF",
 						"q": "",
@@ -2881,12 +3593,6 @@
 								"items": [
 
 								],
-								"h": "19ea51ddb5b78ef2b8bde803d242a73b192761c1"
-							},
-							{
-								"items": [
-
-								],
 								"h": "db341ce93e79dd81e66bc56a302a613ac9717c64"
 							}
 						]
@@ -2899,7 +3605,7 @@
 						"n": "Label",
 						"t": "void (String &)",
 						"i": "TopicEditor::Label(String&)",
-						"r": "void Label(Upp::String& label)",
+						"r": "void Label(String& label)",
 						"s": "",
 						"u": "LABEL",
 						"q": "TopicEditor",
@@ -2909,12 +3615,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "65f40d7dd193f9a329c656723f885787f94f8673"
-							},
 							{
 								"items": [
 
@@ -2931,7 +3631,7 @@
 						"n": "CodeItemUuid",
 						"t": "Uuid ()",
 						"i": "CodeItemUuid()",
-						"r": "Upp::Uuid CodeItemUuid()",
+						"r": "Uuid CodeItemUuid()",
 						"s": "",
 						"u": "CODEITEMUUID",
 						"q": "",
@@ -2941,12 +3641,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "1fcce4ff8b92f5df444fe07dd2214004b0f92621"
-							},
 							{
 								"items": [
 
@@ -2963,7 +3657,7 @@
 						"n": "StructItemUuid",
 						"t": "Uuid ()",
 						"i": "StructItemUuid()",
-						"r": "Upp::Uuid StructItemUuid()",
+						"r": "Uuid StructItemUuid()",
 						"s": "",
 						"u": "STRUCTITEMUUID",
 						"q": "",
@@ -2973,12 +3667,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "49254efcc438741944a2068f6519b969bc8e1874"
-							},
 							{
 								"items": [
 
@@ -2995,7 +3683,7 @@
 						"n": "BeginUuid",
 						"t": "Uuid ()",
 						"i": "BeginUuid()",
-						"r": "Upp::Uuid BeginUuid()",
+						"r": "Uuid BeginUuid()",
 						"s": "",
 						"u": "BEGINUUID",
 						"q": "",
@@ -3005,12 +3693,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "d7d8529380e65207a886e8cb9ef8789e4f2b8f02"
-							},
 							{
 								"items": [
 
@@ -3027,7 +3709,7 @@
 						"n": "EndUuid",
 						"t": "Uuid ()",
 						"i": "EndUuid()",
-						"r": "Upp::Uuid EndUuid()",
+						"r": "Uuid EndUuid()",
 						"s": "",
 						"u": "ENDUUID",
 						"q": "",
@@ -3037,12 +3719,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "12444e67e00e057c29fbfa1bc5a623fbf0d6f566"
-							},
 							{
 								"items": [
 
@@ -3073,12 +3749,6 @@
 								"items": [
 
 								],
-								"h": "69253d80e074861fad560c7f38304c5560cc950f"
-							},
-							{
-								"items": [
-
-								],
 								"h": "f902c7048a5678fc39db72dea16e0e7241d4bb5a"
 							}
 						]
@@ -3091,7 +3761,7 @@
 						"n": "Tools",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::Tools(Bar&)",
-						"r": "void Tools(Upp::Bar& bar)",
+						"r": "void Tools(Bar& bar)",
 						"s": "",
 						"u": "TOOLS",
 						"q": "TopicEditor",
@@ -3101,12 +3771,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8f56e188d477d6e5f8f82360b4b320843ed0114f"
-							},
 							{
 								"items": [
 
@@ -3123,7 +3787,7 @@
 						"n": "MainTool",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::MainTool(Bar&)",
-						"r": "void MainTool(Upp::Bar& bar)",
+						"r": "void MainTool(Bar& bar)",
 						"s": "",
 						"u": "MAINTOOL",
 						"q": "TopicEditor",
@@ -3133,12 +3797,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "1f6a3f2d6507d8c056c8bbe4508823fb3c202729"
-							},
 							{
 								"items": [
 
@@ -3155,7 +3813,7 @@
 						"n": "NaturalDeQtf",
 						"t": "String (const char *)",
 						"i": "NaturalDeQtf(const char*)",
-						"r": "Upp::String NaturalDeQtf(const char *s)",
+						"r": "String NaturalDeQtf(const char *s)",
 						"s": "",
 						"u": "NATURALDEQTF",
 						"q": "",
@@ -3165,12 +3823,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "eb1353f3b0f7f80378ac11f741d2974a33a10183"
-							},
 							{
 								"items": [
 
@@ -3187,7 +3839,7 @@
 						"n": "GetLang",
 						"t": "String () const",
 						"i": "TopicEditor::GetLang()const",
-						"r": "Upp::String GetLang() const",
+						"r": "String GetLang() const",
 						"s": "",
 						"u": "GETLANG",
 						"q": "TopicEditor",
@@ -3197,12 +3849,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "6cd867ee310697702910b47269311470b7fa1781"
-							},
 							{
 								"items": [
 
@@ -3219,7 +3865,7 @@
 						"n": "DecoratedItem",
 						"t": "String (const String &, const String &)",
 						"i": "DecoratedItem(const String&,const String&)",
-						"r": "Upp::String DecoratedItem(const Upp::String& name, const Upp::String& pretty)",
+						"r": "String DecoratedItem(const String& name, const String& pretty)",
 						"s": "",
 						"u": "DECORATEDITEM",
 						"q": "",
@@ -3229,12 +3875,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "97e048e7f450877ada358db8092e8e411e92ac21"
-							},
 							{
 								"items": [
 
@@ -3251,7 +3891,7 @@
 						"n": "CreateQtf",
 						"t": "String (const AnnotationItem &, const String &, bool)",
 						"i": "CreateQtf(const AnnotationItem&,const String&,bool)",
-						"r": "Upp::String CreateQtf(const AnnotationItem& m, const Upp::String& lang, bool onlyhdr = false)",
+						"r": "String CreateQtf(const AnnotationItem& m, const String& lang, bool onlyhdr = false)",
 						"s": "",
 						"u": "CREATEQTF",
 						"q": "",
@@ -3261,12 +3901,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "e639785be304f5ded3509198a847b82b3931ffc9"
-							},
 							{
 								"items": [
 
@@ -3297,12 +3931,6 @@
 								"items": [
 
 								],
-								"h": "690208dacc8bbd4d9f5ecaaaafadc13d58b9bb6f"
-							},
-							{
-								"items": [
-
-								],
 								"h": "05417016bf264e1eb8b7558444af765442a8692d"
 							}
 						]
@@ -3315,7 +3943,7 @@
 						"n": "GoTo",
 						"t": "void (const String &, const String &, const AnnotationItem &, bool)",
 						"i": "TopicEditor::GoTo(const String&,const String&,const AnnotationItem&,bool)",
-						"r": "void GoTo(const Upp::String& _topic, const Upp::String& link, const AnnotationItem& create, bool before)",
+						"r": "void GoTo(const String& _topic, const String& link, const AnnotationItem& create, bool before)",
 						"s": "",
 						"u": "GOTO",
 						"q": "TopicEditor",
@@ -3325,12 +3953,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "699e636c8a3f46c179b231ec1b220543ef080a39"
-							},
 							{
 								"items": [
 
@@ -3361,12 +3983,6 @@
 								"items": [
 
 								],
-								"h": "82444196815551130fd8a4625ee97e74b64dc1b5"
-							},
-							{
-								"items": [
-
-								],
 								"h": "c8f34e915a0c2e18ba7bfd755a30280aea712acd"
 							}
 						]
@@ -3379,7 +3995,7 @@
 						"n": "GetFileName",
 						"t": "String () const",
 						"i": "TopicEditor::GetFileName()const",
-						"r": "Upp::String GetFileName() const",
+						"r": "String GetFileName() const",
 						"s": "",
 						"u": "GETFILENAME",
 						"q": "TopicEditor",
@@ -3389,12 +4005,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "630db16791ba0d010bed9c6d8cc6fed2efe72f27"
-							},
 							{
 								"items": [
 
@@ -3425,12 +4035,6 @@
 								"items": [
 
 								],
-								"h": "a4befa3346ea1c0e2cf91dd8b67e8afe78ecd54d"
-							},
-							{
-								"items": [
-
-								],
 								"h": "cfc19ca26e0d1c7cda4bd7fcc35100e2cf2c5390"
 							}
 						]
@@ -3457,12 +4061,6 @@
 								"items": [
 
 								],
-								"h": "44e99f3e26f8a8110d8fc6b2e89b838535574996"
-							},
-							{
-								"items": [
-
-								],
 								"h": "df6d359b05d1b9f1cb8d0314344372e10e84b100"
 							}
 						]
@@ -3485,12 +4083,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "013bc0b2d92c6a685811c2afd59195db383077c4"
-							},
 							{
 								"items": [
 
@@ -3528,12 +4120,6 @@
 								"items": [
 
 								],
-								"h": "7e2f70014f31e929712734339a97e80a0449a1ef"
-							},
-							{
-								"items": [
-
-								],
 								"h": "d745e56c8c4b0f52a059f19da64bcfdacb9e81d3"
 							}
 						]
@@ -3556,12 +4142,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ed86d97b0d05ab3fcb43e4dd1336cb59c996e86e"
-							},
 							{
 								"items": [
 
@@ -3592,12 +4172,6 @@
 								"items": [
 
 								],
-								"h": "9deb78b12a67354e3d21c9377996e18d8cf6238e"
-							},
-							{
-								"items": [
-
-								],
 								"h": "432490980acf50a7686bca986edbe4e9900f57f3"
 							}
 						]
@@ -3610,7 +4184,7 @@
 						"n": "GetID",
 						"t": "String ()",
 						"i": "TopicModule::GetID()",
-						"r": "Upp::String GetID()",
+						"r": "String GetID()",
 						"s": "",
 						"u": "GETID",
 						"q": "TopicModule",
@@ -3636,7 +4210,7 @@
 						"n": "FileIcon",
 						"t": "Image (const char *)",
 						"i": "TopicModule::FileIcon(const char*)",
-						"r": "Upp::Image FileIcon(const char *path)",
+						"r": "Image FileIcon(const char *path)",
 						"s": "",
 						"u": "FILEICON",
 						"q": "TopicModule",
@@ -3646,12 +4220,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "d167fb252d7adf5820237b73a420439486621cfa"
-							},
 							{
 								"items": [
 
@@ -3668,7 +4236,7 @@
 						"n": "CreateDesigner",
 						"t": "IdeDesigner *(const char *, byte)",
 						"i": "TopicModule::CreateDesigner(const char*,byte)",
-						"r": "IdeDesigner *CreateDesigner(const char *path, Upp::byte cs)",
+						"r": "IdeDesigner *CreateDesigner(const char *path, byte cs)",
 						"s": "",
 						"u": "CREATEDESIGNER",
 						"q": "TopicModule",
@@ -3678,12 +4246,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "6ce346f80e06a0abfad28c43ce8c68913ebf0220"
-							},
 							{
 								"items": [
 
@@ -3700,7 +4262,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "TopicModule::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "",
 						"u": "SERIALIZE",
 						"q": "TopicModule",
@@ -3710,12 +4272,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "953537f40364896849a448dc03e9f41a7b8c2b91"
-							},
 							{
 								"items": [
 
@@ -3746,12 +4302,6 @@
 								"items": [
 
 								],
-								"h": "b687a2b9dc36edfe0a221155b2880869e29d2ed5"
-							},
-							{
-								"items": [
-
-								],
 								"h": "d5401129f99edbd22f386394e33a85fa16b9213a"
 							}
 						]
@@ -3774,12 +4324,6 @@
 
 						],
 						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ecfa4f9b45bc414786d860abb654f14311ac51d9"
-							},
 							{
 								"items": [
 
@@ -3837,637 +4381,6 @@
 
 								],
 								"h": "1d7b940fab9c503b86113d6f853521e6cbe3fe4b"
-							}
-						]
-					}
-				]
-			}
-		},
-		{
-			"key": "Topic.cpp",
-			"value": {
-				"items": [
-					{
-						"k": 9,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "editstate",
-						"t": "ArrayMap<String, TopicEditor::FileInfo>",
-						"i": "TopicEditor::editstate",
-						"r": "ArrayMap<String, TopicEditor::FileInfo> editstate",
-						"s": "",
-						"u": "EDITSTATE",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4b95f3a4135b11ac57541054d1b472282721a005"
-							}
-						]
-					},
-					{
-						"k": 9,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "grouptopic",
-						"t": "VectorMap<String, String>",
-						"i": "TopicEditor::grouptopic",
-						"r": "VectorMap<String, String> grouptopic",
-						"s": "",
-						"u": "GROUPTOPIC",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "2be0293e327ec49b1eeb3e31508b387dbbaa4e83"
-							}
-						]
-					},
-					{
-						"k": 9,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "lasttemplate",
-						"t": "String",
-						"i": "TopicEditor::lasttemplate",
-						"r": "Upp::String lasttemplate",
-						"s": "",
-						"u": "LASTTEMPLATE",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "dc70680ef954db59fa9e63bd3eb16b9ea8462dfb"
-							}
-						]
-					},
-					{
-						"k": 9,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "lastlang",
-						"t": "int",
-						"i": "TopicEditor::lastlang",
-						"r": "int lastlang",
-						"s": "",
-						"u": "LASTLANG",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "fbde37d65f96f2a1802ef1e0505fc23c90272790"
-							}
-						]
-					},
-					{
-						"k": 9,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "allfonts",
-						"t": "bool",
-						"i": "TopicEditor::allfonts",
-						"r": "bool allfonts",
-						"s": "",
-						"u": "ALLFONTS",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "0e7bb3111fef16c70825b9ec58c098e5f82edd61"
-							}
-						]
-					},
-					{
-						"k": 2,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ListOrder",
-						"t": "ListOrder",
-						"i": "ListOrder",
-						"r": "ListOrder : Upp::FileList::Order",
-						"s": "",
-						"u": "LISTORDER",
-						"q": "ListOrder",
-						"w": "LISTORDER",
-						"y": "Upp::FileList::Order",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ab7fdb8eaace25a5c615550929f659bb2466d0d1"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": true,
-						"is": false,
-						"n": "operator()",
-						"t": "bool (const FileList::File &, const FileList::File &) const",
-						"i": "ListOrder::operator()(const FileList::File&,const FileList::File&)const",
-						"r": "bool operator()(const Upp::FileList::File& a, const Upp::FileList::File& b) const",
-						"s": "",
-						"u": "OPERATOR()",
-						"q": "ListOrder",
-						"w": "LISTORDER",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "32cf32b4ec99f073cf7bd80ea10c4930a8aef5bb"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "LoadTopics",
-						"t": "bool (Vector<String> &, const String &)",
-						"i": "LoadTopics(Vector&,const String&)",
-						"r": "bool LoadTopics(Vector<String>& topics, const Upp::String& grouppath)",
-						"s": "",
-						"u": "LOADTOPICS",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "8b26e07d5ba0b8ab6ca130f171ebc8f79619d0e6"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "FillTopicsList",
-						"t": "void (FileList &, const Vector<String> &)",
-						"i": "FillTopicsList(FileList&,const Vector&)",
-						"r": "void FillTopicsList(Upp::FileList& list, const Vector<String>& topics)",
-						"s": "",
-						"u": "FILLTOPICSLIST",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "fb4b47ba6549fe06bb3fa4ea14f6bb92770d0954"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Open",
-						"t": "void (const String &)",
-						"i": "TopicEditor::Open(const String&)",
-						"r": "void Open(const Upp::String& group_path)",
-						"s": "",
-						"u": "OPEN",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "28047f6de13fd7259c7b8c818f8a83c4b6f3696f"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "OpenFile",
-						"t": "void (const String &)",
-						"i": "TopicEditor::OpenFile(const String&)",
-						"r": "void OpenFile(const Upp::String& path)",
-						"s": "",
-						"u": "OPENFILE",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "14b2060b8114deeb0d5bfac7cf487ed5451c2852"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "OnSearch",
-						"t": "void ()",
-						"i": "TopicEditor::OnSearch()",
-						"r": "void OnSearch()",
-						"s": "",
-						"u": "ONSEARCH",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "ea4042d39c1e50fc4441c4b873e6912c96652d49"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "DoSearch",
-						"t": "void ()",
-						"i": "TopicEditor::DoSearch()",
-						"r": "void DoSearch()",
-						"s": "",
-						"u": "DOSEARCH",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "e5f1352e890af260a98c90b04af5ded59a441e96"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "GetCurrentTopicPath",
-						"t": "String ()",
-						"i": "TopicEditor::GetCurrentTopicPath()",
-						"r": "Upp::String GetCurrentTopicPath()",
-						"s": "",
-						"u": "GETCURRENTTOPICPATH",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "24302c11b838f3428dfbf5dbf6611b97257e47e1"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ShowTopic",
-						"t": "void (bool)",
-						"i": "TopicEditor::ShowTopic(bool)",
-						"r": "void ShowTopic(bool b = true)",
-						"s": "",
-						"u": "SHOWTOPIC",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f7200c203d0583940ee8ab1b3e0efd001b91d9b0"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "TopicCursor",
-						"t": "void ()",
-						"i": "TopicEditor::TopicCursor()",
-						"r": "void TopicCursor()",
-						"s": "",
-						"u": "TOPICCURSOR",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "082263c21cb4019294355095cb7c9465ccc62f04"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Load",
-						"t": "void (const String &)",
-						"i": "TopicEditor::Load(const String&)",
-						"r": "void Load(const Upp::String& fn)",
-						"s": "",
-						"u": "LOAD",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "57675e30e3eb68656cd3c9e0351148946ddc5687"
-							}
-						]
-					},
-					{
-						"k": 9,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "serial",
-						"t": "int",
-						"i": "TopicEditor::serial",
-						"r": "int serial",
-						"s": "",
-						"u": "SERIAL",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "22af38e8edb4b7045854b45eb3f441ca76485d96"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "GetSerial",
-						"t": "int ()",
-						"i": "TopicEditor::GetSerial()",
-						"r": "int GetSerial()",
-						"s": "",
-						"u": "GETSERIAL",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "a244b8999a04f323c268f2401da27368c999f70f"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "SaveTopic",
-						"t": "void ()",
-						"i": "TopicEditor::SaveTopic()",
-						"r": "void SaveTopic()",
-						"s": "",
-						"u": "SAVETOPIC",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "f1809ac44eb241df108a72100f0351324ea7229c"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "Flush",
-						"t": "void ()",
-						"i": "TopicEditor::Flush()",
-						"r": "void Flush()",
-						"s": "",
-						"u": "FLUSH",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "df642e1774af637a0577e01ff90ede623d64b700"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "SaveInc",
-						"t": "void ()",
-						"i": "TopicEditor::SaveInc()",
-						"r": "void SaveInc()",
-						"s": "",
-						"u": "SAVEINC",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "259ccef0452c5e2495ff2215db6e177374da4c57"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ParseTopicFilePath",
-						"t": "TopicLink (const String &)",
-						"i": "ParseTopicFilePath(const String&)",
-						"r": "Upp::TopicLink ParseTopicFilePath(const Upp::String& path)",
-						"s": "",
-						"u": "PARSETOPICFILEPATH",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "958b41a1d45e73b5ca91ebb3739a0a58e4539da2"
-							}
-						]
-					},
-					{
-						"k": 8,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "TopicFilePath",
-						"t": "String (const TopicLink &)",
-						"i": "TopicFilePath(const TopicLink&)",
-						"r": "Upp::String TopicFilePath(const Upp::TopicLink& tl)",
-						"s": "",
-						"u": "TOPICFILEPATH",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "50f9bb125f70c7e208d3884f75c21d60f8a6bec0"
 							}
 						]
 					}
@@ -4668,7 +4581,7 @@
 						"n": "BrowserFont",
 						"t": "Font ()",
 						"i": "BrowserFont()",
-						"r": "Upp::Font BrowserFont()",
+						"r": "Font BrowserFont()",
 						"s": "",
 						"u": "BROWSERFONT",
 						"q": "",
@@ -4720,7 +4633,7 @@
 						"n": "time",
 						"t": "Time",
 						"i": "TopicInfo::time",
-						"r": "Upp::Time time",
+						"r": "Time time",
 						"s": "",
 						"u": "TIME",
 						"q": "TopicInfo",
@@ -4746,7 +4659,7 @@
 						"n": "path",
 						"t": "String",
 						"i": "TopicInfo::path",
-						"r": "Upp::String path",
+						"r": "String path",
 						"s": "",
 						"u": "PATH",
 						"q": "TopicInfo",
@@ -4772,7 +4685,7 @@
 						"n": "title",
 						"t": "String",
 						"i": "TopicInfo::title",
-						"r": "Upp::String title",
+						"r": "String title",
 						"s": "",
 						"u": "TITLE",
 						"q": "TopicInfo",
@@ -4824,7 +4737,7 @@
 						"n": "GetTopicPath",
 						"t": "String (const TopicLink &)",
 						"i": "GetTopicPath(const TopicLink&)",
-						"r": "Upp::String GetTopicPath(const Upp::TopicLink& link)",
+						"r": "String GetTopicPath(const TopicLink& link)",
 						"s": "",
 						"u": "GETTOPICPATH",
 						"q": "",
@@ -4850,7 +4763,7 @@
 						"n": "GetTopicPath",
 						"t": "String (const String &)",
 						"i": "GetTopicPath(const String&)",
-						"r": "Upp::String GetTopicPath(const Upp::String& link)",
+						"r": "String GetTopicPath(const String& link)",
 						"s": "",
 						"u": "GETTOPICPATH",
 						"q": "",
@@ -4954,7 +4867,7 @@
 						"n": "SyncTopicFile",
 						"t": "void (const RichText &, const String &, const String &, const String &)",
 						"i": "SyncTopicFile(const RichText&,const String&,const String&,const String&)",
-						"r": "void SyncTopicFile(const Upp::RichText& text, const Upp::String& link, const Upp::String& path, const Upp::String& title)",
+						"r": "void SyncTopicFile(const RichText& text, const String& link, const String& path, const String& title)",
 						"s": "",
 						"u": "SYNCTOPICFILE",
 						"q": "",
@@ -4980,7 +4893,7 @@
 						"n": "SyncTopicFile",
 						"t": "void (const String &)",
 						"i": "SyncTopicFile(const String&)",
-						"r": "void SyncTopicFile(const Upp::String& link)",
+						"r": "void SyncTopicFile(const String& link)",
 						"s": "",
 						"u": "SYNCTOPICFILE",
 						"q": "",
@@ -5006,7 +4919,7 @@
 						"n": "GetTopicTitle",
 						"t": "String (const String &)",
 						"i": "GetTopicTitle(const String&)",
-						"r": "Upp::String GetTopicTitle(const Upp::String& link)",
+						"r": "String GetTopicTitle(const String& link)",
 						"s": "",
 						"u": "GETTOPICTITLE",
 						"q": "",
@@ -5032,7 +4945,7 @@
 						"n": "InvalidateTopicInfoPath",
 						"t": "void (const String &)",
 						"i": "InvalidateTopicInfoPath(const String&)",
-						"r": "void InvalidateTopicInfoPath(const Upp::String& path)",
+						"r": "void InvalidateTopicInfoPath(const String& path)",
 						"s": "",
 						"u": "INVALIDATETOPICINFOPATH",
 						"q": "",
@@ -5058,7 +4971,7 @@
 						"n": "TppId",
 						"t": "String (const String &, bool)",
 						"i": "TppId(const String&,bool)",
-						"r": "Upp::String TppId(const Upp::String& ref, bool remove_first_scope = false)",
+						"r": "String TppId(const String& ref, bool remove_first_scope = false)",
 						"s": "",
 						"u": "TPPID",
 						"q": "",
@@ -5084,7 +4997,7 @@
 						"n": "CleanupTppId",
 						"t": "String (const String &)",
 						"i": "CleanupTppId(const String&)",
-						"r": "Upp::String CleanupTppId(const Upp::String& ref)",
+						"r": "String CleanupTppId(const String& ref)",
 						"s": "",
 						"u": "CLEANUPTPPID",
 						"q": "",
@@ -5110,7 +5023,7 @@
 						"n": "AnnotationCandidates",
 						"t": "Vector<String> (const String &)",
 						"i": "AnnotationCandidates(const String&)",
-						"r": "Vector<String> AnnotationCandidates(const Upp::String& ref)",
+						"r": "Vector<String> AnnotationCandidates(const String& ref)",
 						"s": "",
 						"u": "ANNOTATIONCANDIDATES",
 						"q": "",
@@ -5136,7 +5049,7 @@
 						"n": "GetRefLinks",
 						"t": "Vector<String> (const String &)",
 						"i": "GetRefLinks(const String&)",
-						"r": "Vector<String> GetRefLinks(const Upp::String& ref)",
+						"r": "Vector<String> GetRefLinks(const String& ref)",
 						"s": "",
 						"u": "GETREFLINKS",
 						"q": "",
@@ -5162,7 +5075,7 @@
 						"n": "TopicWordIndex",
 						"t": "int (const String &)",
 						"i": "TopicWordIndex(const String&)",
-						"r": "int TopicWordIndex(const Upp::String& w)",
+						"r": "int TopicWordIndex(const String& w)",
 						"s": "",
 						"u": "TOPICWORDINDEX",
 						"q": "",
@@ -5188,7 +5101,7 @@
 						"n": "MatchWord",
 						"t": "int (const Vector<int> &, const String &)",
 						"i": "MatchWord(const Vector&,const String&)",
-						"r": "int MatchWord(const Vector<int>& w, const Upp::String& pattern)",
+						"r": "int MatchWord(const Vector<int>& w, const String& pattern)",
 						"s": "",
 						"u": "MATCHWORD",
 						"q": "",
@@ -5214,7 +5127,7 @@
 						"n": "MatchTopicLink",
 						"t": "bool (const String &, const Vector<String> &)",
 						"i": "MatchTopicLink(const String&,const Vector&)",
-						"r": "bool MatchTopicLink(const Upp::String& link, const Vector<String>& query)",
+						"r": "bool MatchTopicLink(const String& link, const Vector<String>& query)",
 						"s": "",
 						"u": "MATCHTOPICLINK",
 						"q": "",
@@ -5344,7 +5257,7 @@
 						"n": "ParseTopicFileName",
 						"t": "bool (const String &, String &, int &)",
 						"i": "ParseTopicFileName(const String&,String&,int&)",
-						"r": "bool ParseTopicFileName(const Upp::String& fn, Upp::String& topic, int& lang)",
+						"r": "bool ParseTopicFileName(const String& fn, String& topic, int& lang)",
 						"s": "",
 						"u": "PARSETOPICFILENAME",
 						"q": "",
@@ -5370,7 +5283,7 @@
 						"n": "ReadTopic",
 						"t": "Topic (const char *)",
 						"i": "ReadTopic(const char*)",
-						"r": "Upp::Topic ReadTopic(const char *text)",
+						"r": "Topic ReadTopic(const char *text)",
 						"s": "",
 						"u": "READTOPIC",
 						"q": "",
@@ -5396,7 +5309,7 @@
 						"n": "GatherLabels",
 						"t": "Vector<String> (const RichText &)",
 						"i": "GatherLabels(const RichText&)",
-						"r": "Vector<String> GatherLabels(const Upp::RichText& text)",
+						"r": "Vector<String> GatherLabels(const RichText& text)",
 						"s": "",
 						"u": "GATHERLABELS",
 						"q": "",
@@ -5422,7 +5335,7 @@
 						"n": "WriteTopic",
 						"t": "String (const char *, const RichText &)",
 						"i": "WriteTopic(const char*,const RichText&)",
-						"r": "Upp::String WriteTopic(const char *title, const Upp::RichText& text)",
+						"r": "String WriteTopic(const char *title, const RichText& text)",
 						"s": "",
 						"u": "WRITETOPIC",
 						"q": "",
@@ -5448,7 +5361,7 @@
 						"n": "WriteTopicI",
 						"t": "String (const char *, const RichText &)",
 						"i": "WriteTopicI(const char*,const RichText&)",
-						"r": "Upp::String WriteTopicI(const char *title, const Upp::RichText& text)",
+						"r": "String WriteTopicI(const char *title, const RichText& text)",
 						"s": "",
 						"u": "WRITETOPICI",
 						"q": "",
@@ -5474,7 +5387,7 @@
 						"n": "LoadTopics",
 						"t": "bool (Vector<String> &, const String &)",
 						"i": "LoadTopics(Vector&,const String&)",
-						"r": "bool LoadTopics(Vector<String>& topics, const Upp::String& dir)",
+						"r": "bool LoadTopics(Vector<String>& topics, const String& dir)",
 						"s": "",
 						"u": "LOADTOPICS",
 						"q": "",
@@ -5500,7 +5413,7 @@
 						"n": "FillTopicsList",
 						"t": "void (FileList &, const Vector<String> &)",
 						"i": "FillTopicsList(FileList&,const Vector&)",
-						"r": "void FillTopicsList(Upp::FileList& list, const Vector<String>& topics)",
+						"r": "void FillTopicsList(FileList& list, const Vector<String>& topics)",
 						"s": "",
 						"u": "FILLTOPICSLIST",
 						"q": "",
@@ -5526,7 +5439,7 @@
 						"n": "ParseTopicFilePath",
 						"t": "TopicLink (const String &)",
 						"i": "ParseTopicFilePath(const String&)",
-						"r": "Upp::TopicLink ParseTopicFilePath(const Upp::String& path)",
+						"r": "TopicLink ParseTopicFilePath(const String& path)",
 						"s": "",
 						"u": "PARSETOPICFILEPATH",
 						"q": "",
@@ -5552,7 +5465,7 @@
 						"n": "TopicFilePath",
 						"t": "String (const TopicLink &)",
 						"i": "TopicFilePath(const TopicLink&)",
-						"r": "Upp::String TopicFilePath(const Upp::TopicLink& tl)",
+						"r": "String TopicFilePath(const TopicLink& tl)",
 						"s": "",
 						"u": "TOPICFILEPATH",
 						"q": "",
@@ -5578,7 +5491,7 @@
 						"n": "SaveGroupInc",
 						"t": "void (const String &)",
 						"i": "SaveGroupInc(const String&)",
-						"r": "void SaveGroupInc(const Upp::String& grouppath)",
+						"r": "void SaveGroupInc(const String& grouppath)",
 						"s": "",
 						"u": "SAVEGROUPINC",
 						"q": "",
@@ -5630,7 +5543,7 @@
 						"n": "CodeItemUuid",
 						"t": "Uuid ()",
 						"i": "CodeItemUuid()",
-						"r": "Upp::Uuid CodeItemUuid()",
+						"r": "Uuid CodeItemUuid()",
 						"s": "",
 						"u": "CODEITEMUUID",
 						"q": "",
@@ -5656,7 +5569,7 @@
 						"n": "StructItemUuid",
 						"t": "Uuid ()",
 						"i": "StructItemUuid()",
-						"r": "Upp::Uuid StructItemUuid()",
+						"r": "Uuid StructItemUuid()",
 						"s": "",
 						"u": "STRUCTITEMUUID",
 						"q": "",
@@ -5682,7 +5595,7 @@
 						"n": "BeginUuid",
 						"t": "Uuid ()",
 						"i": "BeginUuid()",
-						"r": "Upp::Uuid BeginUuid()",
+						"r": "Uuid BeginUuid()",
 						"s": "",
 						"u": "BEGINUUID",
 						"q": "",
@@ -5708,7 +5621,7 @@
 						"n": "EndUuid",
 						"t": "Uuid ()",
 						"i": "EndUuid()",
-						"r": "Upp::Uuid EndUuid()",
+						"r": "Uuid EndUuid()",
 						"s": "",
 						"u": "ENDUUID",
 						"q": "",
@@ -5780,13 +5693,13 @@
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "GetName",
 						"t": "String () const",
 						"i": "TopicDlg::GetName()const",
-						"r": "Upp::String GetName() const",
+						"r": "String GetName() const",
 						"s": "",
 						"u": "GETNAME",
 						"q": "TopicDlg",
@@ -5800,13 +5713,13 @@
 								"items": [
 
 								],
-								"h": "76f70ee050d6dec946d91e38b8c44c26c71c61c0"
+								"h": "d5034c391072c661bbc5ff15bd4e7024e43f0f07"
 							}
 						]
 					},
 					{
 						"k": 24,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "TopicDlg<T>",
@@ -5826,7 +5739,7 @@
 								"items": [
 
 								],
-								"h": "0e541d6909035586fbf204fc97447ba4f71fa9b3"
+								"h": "4dbe22ddbce8aa01ad25b7b84d5eeccd137fe5c0"
 							}
 						]
 					},
@@ -5838,7 +5751,7 @@
 						"n": "TopicEditor",
 						"t": "TopicEditor",
 						"i": "TopicEditor",
-						"r": "TopicEditor : public IdeDesigner, public Upp::Ctrl",
+						"r": "TopicEditor : public IdeDesigner, public Ctrl",
 						"s": "",
 						"u": "TOPICEDITOR",
 						"q": "TopicEditor",
@@ -5864,7 +5777,7 @@
 						"n": "GetFileName",
 						"t": "String () const",
 						"i": "TopicEditor::GetFileName()const",
-						"r": "Upp::String GetFileName() const",
+						"r": "String GetFileName() const",
 						"s": "",
 						"u": "GETFILENAME",
 						"q": "TopicEditor",
@@ -5916,7 +5829,7 @@
 						"n": "EditMenu",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::EditMenu(Bar&)",
-						"r": "void EditMenu(Upp::Bar& menu)",
+						"r": "void EditMenu(Bar& menu)",
 						"s": "",
 						"u": "EDITMENU",
 						"q": "TopicEditor",
@@ -5942,7 +5855,7 @@
 						"n": "DesignerCtrl",
 						"t": "Ctrl &()",
 						"i": "TopicEditor::DesignerCtrl()",
-						"r": "Upp::Ctrl& DesignerCtrl()",
+						"r": "Ctrl& DesignerCtrl()",
 						"s": "",
 						"u": "DESIGNERCTRL",
 						"q": "TopicEditor",
@@ -6020,7 +5933,7 @@
 						"n": "Key",
 						"t": "bool (dword, int)",
 						"i": "TopicEditor::Key(dword,int)",
-						"r": "bool Key(Upp::dword key, int)",
+						"r": "bool Key(dword key, int)",
 						"s": "",
 						"u": "KEY",
 						"q": "TopicEditor",
@@ -6046,7 +5959,7 @@
 						"n": "tool",
 						"t": "ToolBar",
 						"i": "TopicEditor::tool",
-						"r": "Upp::ToolBar tool",
+						"r": "ToolBar tool",
 						"s": "",
 						"u": "TOOL",
 						"q": "TopicEditor",
@@ -6098,7 +6011,7 @@
 						"n": "topics_parent",
 						"t": "ParentCtrl",
 						"i": "TopicEditor::topics_parent",
-						"r": "Upp::ParentCtrl topics_parent",
+						"r": "ParentCtrl topics_parent",
 						"s": "",
 						"u": "TOPICS_PARENT",
 						"q": "TopicEditor",
@@ -6124,7 +6037,7 @@
 						"n": "topics_list",
 						"t": "FileList",
 						"i": "TopicEditor::topics_list",
-						"r": "Upp::FileList topics_list",
+						"r": "FileList topics_list",
 						"s": "",
 						"u": "TOPICS_LIST",
 						"q": "TopicEditor",
@@ -6150,7 +6063,7 @@
 						"n": "topics_search",
 						"t": "EditString",
 						"i": "TopicEditor::topics_search",
-						"r": "Upp::EditString topics_search",
+						"r": "EditString topics_search",
 						"s": "",
 						"u": "TOPICS_SEARCH",
 						"q": "TopicEditor",
@@ -6176,7 +6089,7 @@
 						"n": "title",
 						"t": "EditString",
 						"i": "TopicEditor::title",
-						"r": "Upp::EditString title",
+						"r": "EditString title",
 						"s": "",
 						"u": "TITLE",
 						"q": "TopicEditor",
@@ -6202,7 +6115,7 @@
 						"n": "editor",
 						"t": "RichEdit",
 						"i": "TopicEditor::editor",
-						"r": "Upp::RichEdit editor",
+						"r": "RichEdit editor",
 						"s": "",
 						"u": "EDITOR",
 						"q": "TopicEditor",
@@ -6228,7 +6141,7 @@
 						"n": "right",
 						"t": "StaticRect",
 						"i": "TopicEditor::right",
-						"r": "Upp::StaticRect right",
+						"r": "StaticRect right",
 						"s": "",
 						"u": "RIGHT",
 						"q": "TopicEditor",
@@ -6254,7 +6167,7 @@
 						"n": "left_right",
 						"t": "Splitter",
 						"i": "TopicEditor::left_right",
-						"r": "Upp::Splitter left_right",
+						"r": "Splitter left_right",
 						"s": "",
 						"u": "LEFT_RIGHT",
 						"q": "TopicEditor",
@@ -6280,7 +6193,7 @@
 						"n": "grouppath",
 						"t": "String",
 						"i": "TopicEditor::grouppath",
-						"r": "Upp::String grouppath",
+						"r": "String grouppath",
 						"s": "",
 						"u": "GROUPPATH",
 						"q": "TopicEditor",
@@ -6306,7 +6219,7 @@
 						"n": "topicpath",
 						"t": "String",
 						"i": "TopicEditor::topicpath",
-						"r": "Upp::String topicpath",
+						"r": "String topicpath",
 						"s": "",
 						"u": "TOPICPATH",
 						"q": "TopicEditor",
@@ -6332,7 +6245,7 @@
 						"n": "singlefilepath",
 						"t": "String",
 						"i": "TopicEditor::singlefilepath",
-						"r": "Upp::String singlefilepath",
+						"r": "String singlefilepath",
 						"s": "",
 						"u": "SINGLEFILEPATH",
 						"q": "TopicEditor",
@@ -6358,7 +6271,7 @@
 						"n": "lasttemplate",
 						"t": "String",
 						"i": "TopicEditor::lasttemplate",
-						"r": "static Upp::String lasttemplate",
+						"r": "static String lasttemplate",
 						"s": "",
 						"u": "LASTTEMPLATE",
 						"q": "TopicEditor",
@@ -6488,7 +6401,7 @@
 						"n": "time",
 						"t": "Time",
 						"i": "TopicEditor::FileInfo::time",
-						"r": "Upp::Time time",
+						"r": "Time time",
 						"s": "",
 						"u": "TIME",
 						"q": "TopicEditor::FileInfo",
@@ -6514,7 +6427,7 @@
 						"n": "undo",
 						"t": "RichEdit::UndoInfo",
 						"i": "TopicEditor::FileInfo::undo",
-						"r": "Upp::RichEdit::UndoInfo undo",
+						"r": "RichEdit::UndoInfo undo",
 						"s": "",
 						"u": "UNDO",
 						"q": "TopicEditor::FileInfo",
@@ -6540,7 +6453,7 @@
 						"n": "pos",
 						"t": "RichEdit::PosInfo",
 						"i": "TopicEditor::FileInfo::pos",
-						"r": "Upp::RichEdit::PosInfo pos",
+						"r": "RichEdit::PosInfo pos",
 						"s": "",
 						"u": "POS",
 						"q": "TopicEditor::FileInfo",
@@ -6644,7 +6557,7 @@
 						"n": "FormatMenu",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::FormatMenu(Bar&)",
-						"r": "void FormatMenu(Upp::Bar& bar)",
+						"r": "void FormatMenu(Bar& bar)",
 						"s": "",
 						"u": "FORMATMENU",
 						"q": "TopicEditor",
@@ -6670,7 +6583,7 @@
 						"n": "TableMenu",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::TableMenu(Bar&)",
-						"r": "void TableMenu(Upp::Bar& bar)",
+						"r": "void TableMenu(Bar& bar)",
 						"s": "",
 						"u": "TABLEMENU",
 						"q": "TopicEditor",
@@ -6696,7 +6609,7 @@
 						"n": "TopicMenu",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::TopicMenu(Bar&)",
-						"r": "void TopicMenu(Upp::Bar& bar)",
+						"r": "void TopicMenu(Bar& bar)",
 						"s": "",
 						"u": "TOPICMENU",
 						"q": "TopicEditor",
@@ -6722,7 +6635,7 @@
 						"n": "MainTool",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::MainTool(Bar&)",
-						"r": "void MainTool(Upp::Bar& bar)",
+						"r": "void MainTool(Bar& bar)",
 						"s": "",
 						"u": "MAINTOOL",
 						"q": "TopicEditor",
@@ -6748,7 +6661,7 @@
 						"n": "FileBar",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::FileBar(Bar&)",
-						"r": "void FileBar(Upp::Bar& bar)",
+						"r": "void FileBar(Bar& bar)",
 						"s": "",
 						"u": "FILEBAR",
 						"q": "TopicEditor",
@@ -6800,7 +6713,7 @@
 						"n": "GetCurrentTopicPath",
 						"t": "String ()",
 						"i": "TopicEditor::GetCurrentTopicPath()",
-						"r": "Upp::String GetCurrentTopicPath()",
+						"r": "String GetCurrentTopicPath()",
 						"s": "",
 						"u": "GETCURRENTTOPICPATH",
 						"q": "TopicEditor",
@@ -6826,7 +6739,7 @@
 						"n": "InsertNew",
 						"t": "void (const String &, const String &)",
 						"i": "TopicEditor::InsertNew(const String&,const String&)",
-						"r": "void InsertNew(const Upp::String& id, const Upp::String& pretty)",
+						"r": "void InsertNew(const String& id, const String& pretty)",
 						"s": "",
 						"u": "INSERTNEW",
 						"q": "TopicEditor",
@@ -7086,7 +6999,7 @@
 						"n": "ChooseTemplate",
 						"t": "String (const char *)",
 						"i": "TopicEditor::ChooseTemplate(const char*)",
-						"r": "Upp::String ChooseTemplate(const char *title)",
+						"r": "String ChooseTemplate(const char *title)",
 						"s": "",
 						"u": "CHOOSETEMPLATE",
 						"q": "TopicEditor",
@@ -7190,7 +7103,7 @@
 						"n": "Hyperlink",
 						"t": "void (String &, WString &)",
 						"i": "TopicEditor::Hyperlink(String&,WString&)",
-						"r": "void Hyperlink(Upp::String&, Upp::WString&)",
+						"r": "void Hyperlink(String&, WString&)",
 						"s": "",
 						"u": "HYPERLINK",
 						"q": "TopicEditor",
@@ -7216,7 +7129,7 @@
 						"n": "Load",
 						"t": "void (const String &)",
 						"i": "TopicEditor::Load(const String&)",
-						"r": "void Load(const Upp::String& path)",
+						"r": "void Load(const String& path)",
 						"s": "",
 						"u": "LOAD",
 						"q": "TopicEditor",
@@ -7372,7 +7285,7 @@
 						"n": "Tools",
 						"t": "void (Bar &)",
 						"i": "TopicEditor::Tools(Bar&)",
-						"r": "void Tools(Upp::Bar& bar)",
+						"r": "void Tools(Bar& bar)",
 						"s": "",
 						"u": "TOOLS",
 						"q": "TopicEditor",
@@ -7398,7 +7311,7 @@
 						"n": "Label",
 						"t": "void (String &)",
 						"i": "TopicEditor::Label(String&)",
-						"r": "void Label(Upp::String&)",
+						"r": "void Label(String&)",
 						"s": "",
 						"u": "LABEL",
 						"q": "TopicEditor",
@@ -7476,7 +7389,7 @@
 						"n": "GetLang",
 						"t": "String () const",
 						"i": "TopicEditor::GetLang()const",
-						"r": "Upp::String GetLang() const",
+						"r": "String GetLang() const",
 						"s": "",
 						"u": "GETLANG",
 						"q": "TopicEditor",
@@ -7603,12 +7516,12 @@
 						"d": true,
 						"iv": false,
 						"is": false,
-						"n": "(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/Browser/Browser.h:196:2)",
-						"t": "TopicEditor::(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/Browser/Browser.h:196:2)",
-						"i": "TopicEditor::(unnamed at/home/sblo/ai-upp/uppsrc/ide/Browser/Browser.)",
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\ide\\Browser\\Browser.h:196:2)",
+						"t": "TopicEditor::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\ide\\Browser\\Browser.h:196:2)",
+						"i": "TopicEditor::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\ide\\Browser\\Browser.)",
 						"r": "enum",
 						"s": "",
-						"u": "(UNNAMED ENUM AT /HOME/SBLO/AI-UPP/UPPSRC/IDE/BROWSER/BROWSER.H:196:2)",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\IDE\\BROWSER\\BROWSER.H:196:2)",
 						"q": "",
 						"w": "",
 						"y": "",
@@ -7630,7 +7543,7 @@
 						"iv": false,
 						"is": false,
 						"n": "TIMEID_AUTOSAVE",
-						"t": "TopicEditor::(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/Browser/Browser.h:196:2)",
+						"t": "TopicEditor::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\ide\\Browser\\Browser.h:196:2)",
 						"i": "TopicEditor::TIMEID_AUTOSAVE",
 						"r": "TIMEID_AUTOSAVE",
 						"s": "",
@@ -7656,7 +7569,7 @@
 						"iv": false,
 						"is": false,
 						"n": "TIMEID_COUNT",
-						"t": "TopicEditor::(unnamed enum at /home/sblo/ai-upp/uppsrc/ide/Browser/Browser.h:196:2)",
+						"t": "TopicEditor::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\ide\\Browser\\Browser.h:196:2)",
 						"i": "TopicEditor::TIMEID_COUNT",
 						"r": "TIMEID_COUNT",
 						"s": "",
@@ -7684,7 +7597,7 @@
 						"n": "TopicPage",
 						"t": "Size ()",
 						"i": "TopicEditor::TopicPage()",
-						"r": "static Upp::Size TopicPage()",
+						"r": "static Size TopicPage()",
 						"s": "",
 						"u": "TOPICPAGE",
 						"q": "TopicEditor",
@@ -7892,7 +7805,7 @@
 						"n": "NewTopicEx",
 						"t": "bool (const String &, const AnnotationItem &)",
 						"i": "TopicEditor::NewTopicEx(const String&,const AnnotationItem&)",
-						"r": "bool NewTopicEx(const Upp::String& iname, const AnnotationItem& create)",
+						"r": "bool NewTopicEx(const String& iname, const AnnotationItem& create)",
 						"s": "",
 						"u": "NEWTOPICEX",
 						"q": "TopicEditor",
@@ -7918,7 +7831,7 @@
 						"n": "Open",
 						"t": "void (const String &)",
 						"i": "TopicEditor::Open(const String&)",
-						"r": "void Open(const Upp::String& grouppath)",
+						"r": "void Open(const String& grouppath)",
 						"s": "",
 						"u": "OPEN",
 						"q": "TopicEditor",
@@ -7944,7 +7857,7 @@
 						"n": "OpenFile",
 						"t": "void (const String &)",
 						"i": "TopicEditor::OpenFile(const String&)",
-						"r": "void OpenFile(const Upp::String& path)",
+						"r": "void OpenFile(const String& path)",
 						"s": "",
 						"u": "OPENFILE",
 						"q": "TopicEditor",
@@ -7970,7 +7883,7 @@
 						"n": "GoTo",
 						"t": "void (const String &, const String &, const AnnotationItem &, bool)",
 						"i": "TopicEditor::GoTo(const String&,const String&,const AnnotationItem&,bool)",
-						"r": "void GoTo(const Upp::String& _topic, const Upp::String& link, const AnnotationItem& create, bool before)",
+						"r": "void GoTo(const String& _topic, const String& link, const AnnotationItem& create, bool before)",
 						"s": "",
 						"u": "GOTO",
 						"q": "TopicEditor",
@@ -8074,7 +7987,7 @@
 						"n": "SerializeEditPos",
 						"t": "void (Stream &)",
 						"i": "TopicEditor::SerializeEditPos(Stream&)",
-						"r": "static void SerializeEditPos(Upp::Stream& s)",
+						"r": "static void SerializeEditPos(Stream& s)",
 						"s": "",
 						"u": "SERIALIZEEDITPOS",
 						"q": "TopicEditor",
@@ -8100,7 +8013,7 @@
 						"n": "Serialize",
 						"t": "void (Stream &)",
 						"i": "TopicEditor::Serialize(Stream&)",
-						"r": "void Serialize(Upp::Stream& s)",
+						"r": "void Serialize(Stream& s)",
 						"s": "",
 						"u": "SERIALIZE",
 						"q": "TopicEditor",
@@ -8167,141 +8080,6 @@
 
 								],
 								"h": "15820f9df9ad5234d8542f21cad4e8fcb14d625d"
-							}
-						]
-					}
-				]
-			}
-		},
-		{
-			"key": "Template.cpp",
-			"value": {
-				"items": [
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ListTemplates",
-						"t": "void (Vector<String> &, Vector<String> &)",
-						"i": "TopicEditor::ListTemplates(Vector&,Vector&)",
-						"r": "void ListTemplates(Vector<String>& path, Vector<String>& name)",
-						"s": "",
-						"u": "LISTTEMPLATES",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "28d1d80044cb1b13e516ec78d92f29470e057fd3"
-							},
-							{
-								"items": [
-
-								],
-								"h": "ba3973dced27996456a022186f170de9b7f10e2b"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ChooseTemplate",
-						"t": "String (const char *)",
-						"i": "TopicEditor::ChooseTemplate(const char*)",
-						"r": "Upp::String ChooseTemplate(const char *title)",
-						"s": "",
-						"u": "CHOOSETEMPLATE",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "4aac559637aea73a562783ed8cdd1bb0ee673fb9"
-							},
-							{
-								"items": [
-
-								],
-								"h": "7b9d61907fcac3b85d213fc8e8bb76eb854f941f"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ApplyStylesheet",
-						"t": "void ()",
-						"i": "TopicEditor::ApplyStylesheet()",
-						"r": "void ApplyStylesheet()",
-						"s": "",
-						"u": "APPLYSTYLESHEET",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "84269d463fa1ff3d45b3b0925dd6f12f02416f23"
-							},
-							{
-								"items": [
-
-								],
-								"h": "746c2a92449072fa64a6ae5360c37d9228a3429a"
-							}
-						]
-					},
-					{
-						"k": 21,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "ApplyStylesheetGroup",
-						"t": "void ()",
-						"i": "TopicEditor::ApplyStylesheetGroup()",
-						"r": "void ApplyStylesheetGroup()",
-						"s": "",
-						"u": "APPLYSTYLESHEETGROUP",
-						"q": "TopicEditor",
-						"w": "TOPICEDITOR",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "b8f0c15c80c508fdaa278744287181bf42835aa1"
-							},
-							{
-								"items": [
-
-								],
-								"h": "d76ddc244ee7a5d22e9f88f8f4a1c659e33b1b3c"
 							}
 						]
 					}
@@ -9621,7 +9399,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_NewTopicLayout",
@@ -9641,7 +9419,7 @@
 								"items": [
 
 								],
-								"h": "b700238bef29d4f9dd48ef9ac009aa74b97e1ee6"
+								"h": "6e9fb9d660196c710ffa757d418ee11516d5ee7d"
 							}
 						]
 					},
@@ -9673,7 +9451,7 @@
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": true,
 						"n": "GetLayoutSize",
@@ -9699,7 +9477,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "InitLayout",
@@ -9719,13 +9497,13 @@
 								"items": [
 
 								],
-								"h": "b700238bef29d4f9dd48ef9ac009aa74b97e1ee6"
+								"h": "6e9fb9d660196c710ffa757d418ee11516d5ee7d"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_NewTopicLayout",
@@ -9745,7 +9523,7 @@
 								"items": [
 
 								],
-								"h": "b700238bef29d4f9dd48ef9ac009aa74b97e1ee6"
+								"h": "6e9fb9d660196c710ffa757d418ee11516d5ee7d"
 							}
 						]
 					},
@@ -9809,7 +9587,7 @@
 						"n": "lang",
 						"t": "LNGCtrl",
 						"i": "WithNewTopicLayout::lang",
-						"r": "Upp::LNGCtrl lang",
+						"r": "LNGCtrl lang",
 						"s": "",
 						"u": "LANG",
 						"q": "WithNewTopicLayout",
@@ -9959,7 +9737,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_MoveTopicLayout",
@@ -9979,59 +9757,7 @@
 								"items": [
 
 								],
-								"h": "806f655873354dfbe95e3379c32c863560d3b153"
-							}
-						]
-					},
-					{
-						"k": 30,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "InitLayout",
-						"t": "void (Upp::Ctrl &, L &, D &, MoveTopicLayout__layid &)",
-						"i": "InitLayout(Upp::Ctrl&,L&,D&,MoveTopicLayout__layid&)",
-						"r": "template <class L, class D> void InitLayout(Upp::Ctrl& parent, L& layout, D& uts, MoveTopicLayout__layid&)",
-						"s": "",
-						"u": "INITLAYOUT",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "806f655873354dfbe95e3379c32c863560d3b153"
-							}
-						]
-					},
-					{
-						"k": 30,
-						"d": true,
-						"iv": false,
-						"is": false,
-						"n": "SetLayout_MoveTopicLayout",
-						"t": "void (T &, D &, bool, bool)",
-						"i": "SetLayout_MoveTopicLayout(T&,D&,bool,bool)",
-						"r": "template <class T, class D> void SetLayout_MoveTopicLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
-						"s": "",
-						"u": "SETLAYOUT_MOVETOPICLAYOUT",
-						"q": "",
-						"w": "",
-						"y": "",
-						"da": [
-
-						],
-						"sf": [
-							{
-								"items": [
-
-								],
-								"h": "806f655873354dfbe95e3379c32c863560d3b153"
+								"h": "7c1b922e853e15eadcceae1b2aa4b1a1195170ec"
 							}
 						]
 					},
@@ -10063,7 +9789,7 @@
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": true,
 						"n": "GetLayoutSize",
@@ -10074,6 +9800,58 @@
 						"u": "GETLAYOUTSIZE",
 						"q": "WithMoveTopicLayout",
 						"w": "WITHMOVETOPICLAYOUT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c1b922e853e15eadcceae1b2aa4b1a1195170ec"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "InitLayout",
+						"t": "void (Upp::Ctrl &, L &, D &, MoveTopicLayout__layid &)",
+						"i": "InitLayout(Upp::Ctrl&,L&,D&,MoveTopicLayout__layid&)",
+						"r": "template <class L, class D> void InitLayout(Upp::Ctrl& parent, L& layout, D& uts, MoveTopicLayout__layid&)",
+						"s": "",
+						"u": "INITLAYOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7c1b922e853e15eadcceae1b2aa4b1a1195170ec"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetLayout_MoveTopicLayout",
+						"t": "void (T &, D &, bool, bool)",
+						"i": "SetLayout_MoveTopicLayout(T&,D&,bool,bool)",
+						"r": "template <class T, class D> void SetLayout_MoveTopicLayout(T& ctrl, D& parent, bool add = false, bool show = false)",
+						"s": "",
+						"u": "SETLAYOUT_MOVETOPICLAYOUT",
+						"q": "",
+						"w": "",
 						"y": "",
 						"da": [
 
@@ -10277,7 +10055,7 @@
 						"n": "lang",
 						"t": "LNGCtrl",
 						"i": "WithMoveTopicLayout::lang",
-						"r": "Upp::LNGCtrl lang",
+						"r": "LNGCtrl lang",
 						"s": "",
 						"u": "LANG",
 						"q": "WithMoveTopicLayout",
@@ -10349,7 +10127,7 @@
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": true,
 						"n": "GetLayoutSize",
@@ -10375,7 +10153,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_TemplateListLayout",
@@ -10395,7 +10173,7 @@
 								"items": [
 
 								],
-								"h": "10ef30769bdc4ce71ecf16684f9f586f312a07e5"
+								"h": "64c7c874a4a1e1d11b3693f05309d99f5ee8d617"
 							}
 						]
 					},
@@ -10453,7 +10231,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "InitLayout",
@@ -10473,13 +10251,13 @@
 								"items": [
 
 								],
-								"h": "10ef30769bdc4ce71ecf16684f9f586f312a07e5"
+								"h": "64c7c874a4a1e1d11b3693f05309d99f5ee8d617"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_TemplateListLayout",
@@ -10499,7 +10277,7 @@
 								"items": [
 
 								],
-								"h": "10ef30769bdc4ce71ecf16684f9f586f312a07e5"
+								"h": "64c7c874a4a1e1d11b3693f05309d99f5ee8d617"
 							}
 						]
 					},
@@ -10609,7 +10387,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "InitLayout",
@@ -10629,13 +10407,13 @@
 								"items": [
 
 								],
-								"h": "725751c6b29a069411ee9705dd5281807344d945"
+								"h": "7b1a5973dc1fe3de640cfb91c72bcd96c66ecfbf"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_TopicLinkLayout",
@@ -10655,7 +10433,7 @@
 								"items": [
 
 								],
-								"h": "725751c6b29a069411ee9705dd5281807344d945"
+								"h": "7b1a5973dc1fe3de640cfb91c72bcd96c66ecfbf"
 							}
 						]
 					},
@@ -10687,7 +10465,7 @@
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": true,
 						"n": "GetLayoutSize",
@@ -10713,7 +10491,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_TopicLinkLayout",
@@ -10733,7 +10511,7 @@
 								"items": [
 
 								],
-								"h": "725751c6b29a069411ee9705dd5281807344d945"
+								"h": "7b1a5973dc1fe3de640cfb91c72bcd96c66ecfbf"
 							}
 						]
 					},
@@ -10797,7 +10575,7 @@
 						"n": "package",
 						"t": "FileList",
 						"i": "WithTopicLinkLayout::package",
-						"r": "Upp::FileList package",
+						"r": "FileList package",
 						"s": "",
 						"u": "PACKAGE",
 						"q": "WithTopicLinkLayout",
@@ -10823,7 +10601,7 @@
 						"n": "group",
 						"t": "FileList",
 						"i": "WithTopicLinkLayout::group",
-						"r": "Upp::FileList group",
+						"r": "FileList group",
 						"s": "",
 						"u": "GROUP",
 						"q": "WithTopicLinkLayout",
@@ -10849,7 +10627,7 @@
 						"n": "topic",
 						"t": "FileList",
 						"i": "WithTopicLinkLayout::topic",
-						"r": "Upp::FileList topic",
+						"r": "FileList topic",
 						"s": "",
 						"u": "TOPIC",
 						"q": "WithTopicLinkLayout",
@@ -10875,7 +10653,7 @@
 						"n": "label",
 						"t": "FileList",
 						"i": "WithTopicLinkLayout::label",
-						"r": "Upp::FileList label",
+						"r": "FileList label",
 						"s": "",
 						"u": "LABEL",
 						"q": "WithTopicLinkLayout",
@@ -10973,7 +10751,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_GroupDlgLayout",
@@ -10993,13 +10771,13 @@
 								"items": [
 
 								],
-								"h": "560668780edbfa7f0a29d23171e1db1ffb1418dd"
+								"h": "d8ca6d1c5a9372ccddb747c76f331a3ff584bce1"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "InitLayout",
@@ -11019,13 +10797,13 @@
 								"items": [
 
 								],
-								"h": "560668780edbfa7f0a29d23171e1db1ffb1418dd"
+								"h": "d8ca6d1c5a9372ccddb747c76f331a3ff584bce1"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_GroupDlgLayout",
@@ -11045,7 +10823,7 @@
 								"items": [
 
 								],
-								"h": "560668780edbfa7f0a29d23171e1db1ffb1418dd"
+								"h": "d8ca6d1c5a9372ccddb747c76f331a3ff584bce1"
 							}
 						]
 					},
@@ -11077,7 +10855,7 @@
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": true,
 						"n": "GetLayoutSize",
@@ -11233,7 +11011,7 @@
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": true,
 						"n": "GetLayoutSize",
@@ -11259,7 +11037,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_ReferenceDlgLayout",
@@ -11279,13 +11057,13 @@
 								"items": [
 
 								],
-								"h": "675247d8e3dcc3d8c8926bf1fd84f933b3e41a30"
+								"h": "23af8283298e96e7d0c92817e9a55c874d904f29"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_ReferenceDlgLayout",
@@ -11305,13 +11083,13 @@
 								"items": [
 
 								],
-								"h": "675247d8e3dcc3d8c8926bf1fd84f933b3e41a30"
+								"h": "23af8283298e96e7d0c92817e9a55c874d904f29"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "InitLayout",
@@ -11331,7 +11109,7 @@
 								"items": [
 
 								],
-								"h": "675247d8e3dcc3d8c8926bf1fd84f933b3e41a30"
+								"h": "23af8283298e96e7d0c92817e9a55c874d904f29"
 							}
 						]
 					},
@@ -11519,7 +11297,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_SaveTemplateLayout",
@@ -11539,13 +11317,13 @@
 								"items": [
 
 								],
-								"h": "1c4e90d595dfd35708373803dfc921a200a9ea1f"
+								"h": "cdd2ac54eaf38978e152892ec29d487986807a54"
 							}
 						]
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": true,
 						"n": "GetLayoutSize",
@@ -11571,7 +11349,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_SaveTemplateLayout",
@@ -11591,13 +11369,13 @@
 								"items": [
 
 								],
-								"h": "1c4e90d595dfd35708373803dfc921a200a9ea1f"
+								"h": "cdd2ac54eaf38978e152892ec29d487986807a54"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "InitLayout",
@@ -11617,7 +11395,7 @@
 								"items": [
 
 								],
-								"h": "1c4e90d595dfd35708373803dfc921a200a9ea1f"
+								"h": "cdd2ac54eaf38978e152892ec29d487986807a54"
 							}
 						]
 					},
@@ -11733,7 +11511,7 @@
 						"n": "lang",
 						"t": "LNGCtrl",
 						"i": "WithSaveTemplateLayout::lang",
-						"r": "Upp::LNGCtrl lang",
+						"r": "LNGCtrl lang",
 						"s": "",
 						"u": "LANG",
 						"q": "WithSaveTemplateLayout",
@@ -11857,7 +11635,7 @@
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "InitLayout",
@@ -11877,13 +11655,13 @@
 								"items": [
 
 								],
-								"h": "08adba68a1f671876c06a666a2635762a66d8dda"
+								"h": "dc6d1513938a088c9910a6ce4c8ce078914be3f8"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_EditRefLayout",
@@ -11903,13 +11681,13 @@
 								"items": [
 
 								],
-								"h": "08adba68a1f671876c06a666a2635762a66d8dda"
+								"h": "dc6d1513938a088c9910a6ce4c8ce078914be3f8"
 							}
 						]
 					},
 					{
 						"k": 30,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": false,
 						"n": "SetLayout_EditRefLayout",
@@ -11929,13 +11707,13 @@
 								"items": [
 
 								],
-								"h": "08adba68a1f671876c06a666a2635762a66d8dda"
+								"h": "dc6d1513938a088c9910a6ce4c8ce078914be3f8"
 							}
 						]
 					},
 					{
 						"k": 21,
-						"d": true,
+						"d": false,
 						"iv": false,
 						"is": true,
 						"n": "GetLayoutSize",
@@ -12333,4 +12111,83 @@
 					{
 						"k": 21,
 						"d": true,
-						
+						"iv": false,
+						"is": true,
+						"n": "Label__UHD",
+						"t": "Upp::Image ()",
+						"i": "TopicImg::Label__UHD()",
+						"r": "static Upp::Image Label__UHD()",
+						"s": "",
+						"u": "LABEL__UHD",
+						"q": "TopicImg",
+						"w": "TOPICIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81765c1ae84e5694bbd91846a7e801ea4c28bded"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "TOC__UHD",
+						"t": "Upp::Image ()",
+						"i": "TopicImg::TOC__UHD()",
+						"r": "static Upp::Image TOC__UHD()",
+						"s": "",
+						"u": "TOC__UHD",
+						"q": "TopicImg",
+						"w": "TOPICIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4ae51def28a97b414adb88a3e1d50453aba01ad6"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "TOC",
+						"t": "Upp::Image ()",
+						"i": "TopicImg::TOC()",
+						"r": "static Upp::Image TOC()",
+						"s": "",
+						"u": "TOC",
+						"q": "TopicImg",
+						"w": "TOPICIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6b988a71ecebd15ec1dd509207d6d3f2a039790"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

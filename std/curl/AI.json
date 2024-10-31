@@ -1,5 +1,5 @@
 {
-	"saved_hash": "8b6b1d6088610c279cd7b7e1cf2d73b58c150965",
+	"saved_hash": "806ebbe3047d4cce4ffe83124e677396414a62f9",
 	"files": [
 		{
 			"key": "curl/curl.h",
@@ -158,6 +158,12 @@
 
 								],
 								"h": "683225d24114695f0258dd7abac6a64108ecf335"
+							},
+							{
+								"items": [
+
+								],
+								"h": "37953d6b860b2e5c20d5f37f80f60e4e1efc234a"
 							}
 						]
 					},
@@ -210,6 +216,12 @@
 
 								],
 								"h": "0ea1c7fddef2f63c817a073e59e7db484fcddf95"
+							},
+							{
+								"items": [
+
+								],
+								"h": "538443188d982da2d8b47c58c2a6cb0e359c8078"
 							}
 						]
 					},
@@ -834,6 +846,12 @@
 
 								],
 								"h": "3dc1c59d236da00fd20b9fd0f53e5c2e4da4570b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ff51913c506ae35200cc637d57489f8872bcaf32"
 							}
 						]
 					},
@@ -6138,6 +6156,12 @@
 
 								],
 								"h": "8b54d776d6e0fa7094cc18ccf86b80223d4d9bf8"
+							},
+							{
+								"items": [
+
+								],
+								"h": "1fe2d23bc465d829ad0a521bfe3879cd590b5734"
 							}
 						]
 					},
@@ -8842,6 +8866,12 @@
 
 								],
 								"h": "f154516654a664512d400002bb948acfb90100b0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "29d934c7513e6e8eb9662624fb1f61b27ab6ccd1"
 							}
 						]
 					},
@@ -11104,6 +11134,12 @@
 
 								],
 								"h": "58d4a46cdde8f60e5fb8b65ba363815b13f9b809"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e2c352d836e71ab909fc73f58eabd6c50df250c6"
 							}
 						]
 					},
@@ -11208,6 +11244,12 @@
 
 								],
 								"h": "d865f228e61a7c69a079170981c4defb43529996"
+							},
+							{
+								"items": [
+
+								],
+								"h": "1ae8e928ddb42d61ce361c88107b931ab4451d9a"
 							}
 						]
 					},
@@ -11442,6 +11484,12 @@
 
 								],
 								"h": "62f24959ef9e51bffbc738f15210646b028ba5d2"
+							},
+							{
+								"items": [
+
+								],
+								"h": "cc44367d74f8508d6bc85701e0d3846724efafd1"
 							}
 						]
 					},
@@ -12456,6 +12504,12 @@
 
 								],
 								"h": "5280d650068ec6f6f6709fe16b787eb84c17771f"
+							},
+							{
+								"items": [
+
+								],
+								"h": "46e638fb13e117e55b997dd5efbfe51baff0423c"
 							}
 						]
 					},
@@ -16096,6 +16150,12 @@
 
 								],
 								"h": "7568dd52fbbeabbb1deac9f715114c6ae940f50d"
+							},
+							{
+								"items": [
+
+								],
+								"h": "1d6d2a95f804f53adaf3f1a6282638e49c73d569"
 							}
 						]
 					},
@@ -24130,6 +24190,12 @@
 
 								],
 								"h": "0dc5026b77eca2b16c5890eb68839bc484f12207"
+							},
+							{
+								"items": [
+
+								],
+								"h": "92eea7299d15cb2544928aa2dc51e4003164d9f9"
 							}
 						]
 					},
@@ -28524,6 +28590,12 @@
 
 								],
 								"h": "79048c994ead3feb6f8859618a1c3afbf7f35145"
+							},
+							{
+								"items": [
+
+								],
+								"h": "0de83c1f455a93217399d3934093b2958b866a8c"
 							}
 						]
 					},
@@ -28914,6 +28986,12 @@
 
 								],
 								"h": "c831f536a41ed20ca8e3c6ea3fcb4df2c98d3272"
+							},
+							{
+								"items": [
+
+								],
+								"h": "75cc733da63f26404ed2b5b265a8fd34959472de"
 							}
 						]
 					},
@@ -30890,6 +30968,12 @@
 
 								],
 								"h": "418ffe2d6526b1c54b2fc473003da0470de7dd6d"
+							},
+							{
+								"items": [
+
+								],
+								"h": "625a93faec98a3af27bfbff55863a99288c89295"
 							}
 						]
 					},
@@ -30916,6 +31000,12 @@
 
 								],
 								"h": "ba3edbdfee9efa28b6f76592e0f8667171cdf2c1"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c6b9c84a225fcf1614e21692d0f636ef50f676b2"
 							}
 						]
 					},
@@ -32268,6 +32358,12 @@
 
 								],
 								"h": "eda60a7f36828daeabf92d0a10744e5b40e55091"
+							},
+							{
+								"items": [
+
+								],
+								"h": "617a744102738a319a5602aeddc55f8e0f50b556"
 							}
 						]
 					},
@@ -32476,6 +32572,12 @@
 
 								],
 								"h": "4f0e47b4505c0b90559187374405ec72eb43e339"
+							},
+							{
+								"items": [
+
+								],
+								"h": "24fb44c0a44b7923f643c6ff891f499dfea943ab"
 							}
 						]
 					},
@@ -32580,6 +32682,12 @@
 
 								],
 								"h": "082278eaa913110f93d6033fd3205a5468406d52"
+							},
+							{
+								"items": [
+
+								],
+								"h": "8d5d983073044a2d23b2c27b2633dc5240d834d6"
 							}
 						]
 					},
@@ -32944,6 +33052,12 @@
 
 								],
 								"h": "7df5baa3a57ee3643a241526bff2902b4122323f"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5e69e7e6bf02f4bf70207af8e18d23822c1550b9"
 							}
 						]
 					},
@@ -32970,6 +33084,12 @@
 
 								],
 								"h": "6fd9c8a8b3073d3639165f79301db939a137197b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "498704224fc7c1356c61d4a2f28875b8ca205d26"
 							}
 						]
 					},
@@ -32996,6 +33116,12 @@
 
 								],
 								"h": "d481f764fb521d939f8609b86c2ebfb568a58d61"
+							},
+							{
+								"items": [
+
+								],
+								"h": "1d5ecf149da730d15fe5381ee5b185ca8cc80139"
 							}
 						]
 					},
@@ -34896,6 +35022,1618 @@
 								"h": "12d599cef8c86c141593b86c60fb28618754c00c"
 							}
 						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CURL_WIN32",
+						"t": "",
+						"i": "CURL_WIN32",
+						"r": "CURL_WIN32",
+						"s": "",
+						"u": "CURL_WIN32",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "153edd4de299949fed75c387198c0af61c8245fd"
+							}
+						]
+					},
+					{
+						"k": 20,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "curl_socket_t",
+						"t": "curl_socket_t",
+						"i": "curl_socket_t",
+						"r": "typedef SOCKET curl_socket_t",
+						"s": "",
+						"u": "CURL_SOCKET_T",
+						"q": "",
+						"w": "",
+						"y": "SOCKET",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b7e729da824314019e3c842a9cc6b4d489303eb"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURLOPT_OBSOLETE40",
+						"t": "CURLoption",
+						"i": "CURLOPT_OBSOLETE40",
+						"r": "CURLOPT_OBSOLETE40",
+						"s": "",
+						"u": "CURLOPT_OBSOLETE40",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURLOPT_OBSOLETE72",
+						"t": "CURLoption",
+						"i": "CURLOPT_OBSOLETE72",
+						"r": "CURLOPT_OBSOLETE72",
+						"s": "",
+						"u": "CURLOPT_OBSOLETE72",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": ""
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2262:1)",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2262:1)",
+						"i": "(unnamed at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.)",
+						"r": "enum",
+						"s": "",
+						"u": "(UNNAMED ENUM AT E:\\SBLO\\DEV\\VCPKG\\INSTALLED\\X64-WINDOWS\\INCLUDE\\CURL\\CURL.H:2262:1)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "01809ce4d043ccfebd883f80dab9b0695c154291"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "(unnamed at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.)",
+						"r": "enum",
+						"s": "",
+						"u": "(UNNAMED ENUM AT E:\\SBLO\\DEV\\VCPKG\\INSTALLED\\X64-WINDOWS\\INCLUDE\\CURL\\CURL.H:2318:1)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f9350fad722051e1face2ac03182831edc64059"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_DEFAULT",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_DEFAULT",
+						"r": "CURL_SSLVERSION_DEFAULT",
+						"s": "",
+						"u": "CURL_SSLVERSION_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "95d0ff4457dda425d59b46d13a322e82a38d361e"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_TLSv1",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_TLSv1",
+						"r": "CURL_SSLVERSION_TLSv1",
+						"s": "",
+						"u": "CURL_SSLVERSION_TLSV1",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c9b7e84e9011374a604ca78114fd3a28987b5784"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_SSLv2",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_SSLv2",
+						"r": "CURL_SSLVERSION_SSLv2",
+						"s": "",
+						"u": "CURL_SSLVERSION_SSLV2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f5f58326dc17cc1fbfc231f3feaac77b7691c4fd"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_SSLv3",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_SSLv3",
+						"r": "CURL_SSLVERSION_SSLv3",
+						"s": "",
+						"u": "CURL_SSLVERSION_SSLV3",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7800713ed5f975bc367a4735ec7c3bdd686f514f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_TLSv1_0",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_TLSv1_0",
+						"r": "CURL_SSLVERSION_TLSv1_0",
+						"s": "",
+						"u": "CURL_SSLVERSION_TLSV1_0",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45f0e6241e969ca73176d655713f609da1b1d074"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_TLSv1_1",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_TLSv1_1",
+						"r": "CURL_SSLVERSION_TLSv1_1",
+						"s": "",
+						"u": "CURL_SSLVERSION_TLSV1_1",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4dbefe1e9fb19729895fa24c1fbc4de19d72c349"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_TLSv1_2",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_TLSv1_2",
+						"r": "CURL_SSLVERSION_TLSv1_2",
+						"s": "",
+						"u": "CURL_SSLVERSION_TLSV1_2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "324912372a9a2f749f99edfe3831658de8deaf9d"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_TLSv1_3",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_TLSv1_3",
+						"r": "CURL_SSLVERSION_TLSv1_3",
+						"s": "",
+						"u": "CURL_SSLVERSION_TLSV1_3",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1a961ddd4ee2aa556a25544251496adb210ae640"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_LAST",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2318:1)",
+						"i": "CURL_SSLVERSION_LAST",
+						"r": "CURL_SSLVERSION_LAST",
+						"s": "",
+						"u": "CURL_SSLVERSION_LAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a4bf73461e80f263e2506fca0f1054700b3ac359"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"i": "(unnamed at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.)",
+						"r": "enum",
+						"s": "",
+						"u": "(UNNAMED ENUM AT E:\\SBLO\\DEV\\VCPKG\\INSTALLED\\X64-WINDOWS\\INCLUDE\\CURL\\CURL.H:2331:1)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2b7fe52a915693b27093716f8e72854aaee14bb4"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_MAX_NONE",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"i": "CURL_SSLVERSION_MAX_NONE",
+						"r": "CURL_SSLVERSION_MAX_NONE",
+						"s": "",
+						"u": "CURL_SSLVERSION_MAX_NONE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22f52f0654fb4d6f836f33c3e9441cf829a09883"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_MAX_DEFAULT",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"i": "CURL_SSLVERSION_MAX_DEFAULT",
+						"r": "CURL_SSLVERSION_MAX_DEFAULT",
+						"s": "",
+						"u": "CURL_SSLVERSION_MAX_DEFAULT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4c653bd61360db90e1493580900a30c1bd1e9ca1"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_MAX_TLSv1_0",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"i": "CURL_SSLVERSION_MAX_TLSv1_0",
+						"r": "CURL_SSLVERSION_MAX_TLSv1_0",
+						"s": "",
+						"u": "CURL_SSLVERSION_MAX_TLSV1_0",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a8a8dbbf17f83e67d915871d4a42703289175163"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_MAX_TLSv1_1",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"i": "CURL_SSLVERSION_MAX_TLSv1_1",
+						"r": "CURL_SSLVERSION_MAX_TLSv1_1",
+						"s": "",
+						"u": "CURL_SSLVERSION_MAX_TLSV1_1",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "79e9ace2227f03acc214b6063e1fdb9f0cbbf8fe"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_MAX_TLSv1_2",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"i": "CURL_SSLVERSION_MAX_TLSv1_2",
+						"r": "CURL_SSLVERSION_MAX_TLSv1_2",
+						"s": "",
+						"u": "CURL_SSLVERSION_MAX_TLSV1_2",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "509ef195efcd260028e60f481c27971960a3a36f"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_MAX_TLSv1_3",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"i": "CURL_SSLVERSION_MAX_TLSv1_3",
+						"r": "CURL_SSLVERSION_MAX_TLSv1_3",
+						"s": "",
+						"u": "CURL_SSLVERSION_MAX_TLSV1_3",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3f529a4c51e2c82b5deb8d4f49acb61b1f032e53"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CURL_SSLVERSION_MAX_LAST",
+						"t": "(unnamed enum at E:\\sblo\\Dev\\vcpkg\\installed\\x64-windows\\include\\curl\\curl.h:2331:1)",
+						"i": "CURL_SSLVERSION_MAX_LAST",
+						"r": "CURL_SSLVERSION_MAX_LAST",
+						"s": "",
+						"u": "CURL_SSLVERSION_MAX_LAST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c363c589e3d1c0000ac97ce8639924e95ebc9cf5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_strequal",
+						"t": "int (const char *, const char *)",
+						"i": "curl_strequal(const char*,const char*)",
+						"r": "int curl_strequal(const char *s1, const char *s2) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_STREQUAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a3d1dd3599c06868abefafa37ae30af15a6c99f6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_strnequal",
+						"t": "int (const char *, const char *, size_t)",
+						"i": "curl_strnequal(const char*,const char*,size_t)",
+						"r": "int curl_strnequal(const char *s1, const char *s2, size_t n) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_STRNEQUAL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ae6181d35173bca22d485e8379cacd5a62c4cfa"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_init",
+						"t": "curl_mime *(CURL *)",
+						"i": "curl_mime_init(CURL*)",
+						"r": "curl_mime *curl_mime_init(CURL *easy) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ee156c2b516fdaaa927cd0546c31b20355f7ed7c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_free",
+						"t": "void (curl_mime *)",
+						"i": "curl_mime_free(curl_mime*)",
+						"r": "void curl_mime_free(curl_mime *mime) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_FREE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a667c7e18a45f12f1a02f72d34295c7fe581c3cc"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_addpart",
+						"t": "curl_mimepart *(curl_mime *)",
+						"i": "curl_mime_addpart(curl_mime*)",
+						"r": "curl_mimepart *curl_mime_addpart(curl_mime *mime) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_ADDPART",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b80506cdbc5b1ac3302274a5464835c160186470"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_name",
+						"t": "CURLcode (curl_mimepart *, const char *)",
+						"i": "curl_mime_name(curl_mimepart*,const char*)",
+						"r": "CURLcode curl_mime_name(curl_mimepart *part, const char *name) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "694eb00c3ba5ab73ab27427cad7a4da91e1d3aad"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_filename",
+						"t": "CURLcode (curl_mimepart *, const char *)",
+						"i": "curl_mime_filename(curl_mimepart*,const char*)",
+						"r": "CURLcode curl_mime_filename(curl_mimepart *part, const char *filename) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_FILENAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8d99a8d4267eb69013e6a452c0353f48ffab9c9e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_type",
+						"t": "CURLcode (curl_mimepart *, const char *)",
+						"i": "curl_mime_type(curl_mimepart*,const char*)",
+						"r": "CURLcode curl_mime_type(curl_mimepart *part, const char *mimetype) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_TYPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eacf53532fc18b92cc01f46f947be677ea6e93a2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_encoder",
+						"t": "CURLcode (curl_mimepart *, const char *)",
+						"i": "curl_mime_encoder(curl_mimepart*,const char*)",
+						"r": "CURLcode curl_mime_encoder(curl_mimepart *part, const char *encoding) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_ENCODER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "67378bff1ba24ef0b7a62a9ebb7957f9af14c376"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_data",
+						"t": "CURLcode (curl_mimepart *, const char *, size_t)",
+						"i": "curl_mime_data(curl_mimepart*,const char*,size_t)",
+						"r": "CURLcode curl_mime_data(curl_mimepart *part, const char *data, size_t datasize) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_DATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "60f26852b7ce2d8c297a55154f68134053ea4e5f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_filedata",
+						"t": "CURLcode (curl_mimepart *, const char *)",
+						"i": "curl_mime_filedata(curl_mimepart*,const char*)",
+						"r": "CURLcode curl_mime_filedata(curl_mimepart *part, const char *filename) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_FILEDATA",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08f772a87be0f72fa3d461fe644e6fa61aa4e4fd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_data_cb",
+						"t": "CURLcode (curl_mimepart *, curl_off_t, curl_read_callback, curl_seek_callback, curl_free_callback, void *)",
+						"i": "curl_mime_data_cb(curl_mimepart*,curl_off_t,curl_read_callback,curl_seek_callback,curl_free_callback,void*)",
+						"r": "CURLcode curl_mime_data_cb(curl_mimepart *part, curl_off_t datasize, curl_read_callback readfunc, curl_seek_callback seekfunc, curl_free_callback freefunc, void *arg) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_DATA_CB",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d67e61e5eff804df7ad16d0eb090bab1b5abba87"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_subparts",
+						"t": "CURLcode (curl_mimepart *, curl_mime *)",
+						"i": "curl_mime_subparts(curl_mimepart*,curl_mime*)",
+						"r": "CURLcode curl_mime_subparts(curl_mimepart *part, curl_mime *subparts) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_SUBPARTS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fbb668f6b9122f2b818d6cb8e612a7dee1f3b1f8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_mime_headers",
+						"t": "CURLcode (curl_mimepart *, struct curl_slist *, int)",
+						"i": "curl_mime_headers(curl_mimepart*,curl_slist*,int)",
+						"r": "CURLcode curl_mime_headers(curl_mimepart *part, curl_slist *headers, int take_ownership) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MIME_HEADERS",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9e06200c1f10c076eaaf5c52ead4127890731642"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_formadd",
+						"t": "CURLFORMcode (struct curl_httppost **, struct curl_httppost **, ...)",
+						"i": "curl_formadd(curl_httppost**,curl_httppost**,...)",
+						"r": "CURLFORMcode curl_formadd(curl_httppost **httppost, curl_httppost **last_post, ...) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_FORMADD",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "12b6161d86eee40a8940ab47c9ef819b78f26007"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_formget",
+						"t": "int (struct curl_httppost *, void *, curl_formget_callback)",
+						"i": "curl_formget(curl_httppost*,void*,curl_formget_callback)",
+						"r": "int curl_formget(curl_httppost *form, void *arg, curl_formget_callback append) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_FORMGET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2136c267b4337b703085774b4c9510ba019e53e0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_formfree",
+						"t": "void (struct curl_httppost *)",
+						"i": "curl_formfree(curl_httppost*)",
+						"r": "void curl_formfree(curl_httppost *form) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_FORMFREE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b016aab553c8dd0f620a6e9a90d68a9197acabaa"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_getenv",
+						"t": "char *(const char *)",
+						"i": "curl_getenv(const char*)",
+						"r": "char *curl_getenv(const char *variable) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_GETENV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0dac3114a59b2a462677937659ace2281e4ebefb"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_version",
+						"t": "char *()",
+						"i": "curl_version()",
+						"r": "char *curl_version() __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_VERSION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "54403707eadf844a40d68c95b7fb5a309d64c8a0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_escape",
+						"t": "char *(CURL *, const char *, int)",
+						"i": "curl_easy_escape(CURL*,const char*,int)",
+						"r": "char *curl_easy_escape(CURL *handle, const char *string, int length) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_ESCAPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "680af8bef972b6c2341c360e31829ace44fde6ed"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_escape",
+						"t": "char *(const char *, int)",
+						"i": "curl_escape(const char*,int)",
+						"r": "char *curl_escape(const char *string, int length) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_ESCAPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "659cec39e4daf9e0191020301e17a1a2c8ad9ec3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_unescape",
+						"t": "char *(CURL *, const char *, int, int *)",
+						"i": "curl_easy_unescape(CURL*,const char*,int,int*)",
+						"r": "char *curl_easy_unescape(CURL *handle, const char *string, int length, int *outlength) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_UNESCAPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b14cad7b2aed87dced44f669bf030168b59cd31"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_unescape",
+						"t": "char *(const char *, int)",
+						"i": "curl_unescape(const char*,int)",
+						"r": "char *curl_unescape(const char *string, int length) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_UNESCAPE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "17f150e78569c3e0c2ba97f8e4d42919f6519b5a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_free",
+						"t": "void (void *)",
+						"i": "curl_free(void*)",
+						"r": "void curl_free(void *p) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_FREE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1f71ea58118123889354adb98a9f7ebe787b5588"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_global_init",
+						"t": "CURLcode (long)",
+						"i": "curl_global_init(long)",
+						"r": "CURLcode curl_global_init(long flags) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_GLOBAL_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b28debc8052bb29effd9dce362763f548f954890"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_global_init_mem",
+						"t": "CURLcode (long, curl_malloc_callback, curl_free_callback, curl_realloc_callback, curl_strdup_callback, curl_calloc_callback)",
+						"i": "curl_global_init_mem(long,curl_malloc_callback,curl_free_callback,curl_realloc_callback,curl_strdup_callback,curl_calloc_callback)",
+						"r": "CURLcode curl_global_init_mem(long flags, curl_malloc_callback m, curl_free_callback f, curl_realloc_callback r, curl_strdup_callback s, curl_calloc_callback c) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_GLOBAL_INIT_MEM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8f49caf08f62054be52b84fb87c3ce06f434980a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_global_cleanup",
+						"t": "void ()",
+						"i": "curl_global_cleanup()",
+						"r": "void curl_global_cleanup() __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_GLOBAL_CLEANUP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08198f97b7a5644424c661e7ee790d0d611e705e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_global_trace",
+						"t": "CURLcode (const char *)",
+						"i": "curl_global_trace(const char*)",
+						"r": "CURLcode curl_global_trace(const char *config) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_GLOBAL_TRACE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bec12d1e3925586b4049ca821cd1c92de88528ba"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_global_sslset",
+						"t": "CURLsslset (curl_sslbackend, const char *, const curl_ssl_backend ***)",
+						"i": "curl_global_sslset(curl_sslbackend,const char*,const curl_ssl_backend***)",
+						"r": "CURLsslset curl_global_sslset(curl_sslbackend id, const char *name, const curl_ssl_backend ***avail) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_GLOBAL_SSLSET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3e08144cb8357879c16b7711360c584de84dd327"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_slist_append",
+						"t": "struct curl_slist *(struct curl_slist *, const char *)",
+						"i": "curl_slist_append(curl_slist*,const char*)",
+						"r": "curl_slist *curl_slist_append(curl_slist *list, const char *data) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_SLIST_APPEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f6778b2b2393cda47ed0027b3ba0524b976727c0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_slist_free_all",
+						"t": "void (struct curl_slist *)",
+						"i": "curl_slist_free_all(curl_slist*)",
+						"r": "void curl_slist_free_all(curl_slist *list) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_SLIST_FREE_ALL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed400edc3c0bd041784c1b332d937aff95caef21"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_getdate",
+						"t": "time_t (const char *, const time_t *)",
+						"i": "curl_getdate(const char*,const time_t*)",
+						"r": "time_t curl_getdate(const char *p, const time_t *unused) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_GETDATE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4b64ef0d60f65f626017c22e36a37c907d475fea"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_share_init",
+						"t": "CURLSH *()",
+						"i": "curl_share_init()",
+						"r": "CURLSH *curl_share_init() __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_SHARE_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c89e1657d514fdaf6878aec68512eb0a2459c944"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_share_setopt",
+						"t": "CURLSHcode (CURLSH *, CURLSHoption, ...)",
+						"i": "curl_share_setopt(CURLSH*,CURLSHoption,...)",
+						"r": "CURLSHcode curl_share_setopt(CURLSH *share, CURLSHoption option, ...) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_SHARE_SETOPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1c7433e7b0f1a33fb096bdef339f5a7f71b43de"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_share_cleanup",
+						"t": "CURLSHcode (CURLSH *)",
+						"i": "curl_share_cleanup(CURLSH*)",
+						"r": "CURLSHcode curl_share_cleanup(CURLSH *share) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_SHARE_CLEANUP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6e0d10bfdd7d51ede305251aac59792c85a57502"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_version_info",
+						"t": "curl_version_info_data *(CURLversion)",
+						"i": "curl_version_info(CURLversion)",
+						"r": "curl_version_info_data *curl_version_info(CURLversion) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_VERSION_INFO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cb17df216d062d402ebd1806f509fb15ae87958c"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_strerror",
+						"t": "const char *(CURLcode)",
+						"i": "curl_easy_strerror(CURLcode)",
+						"r": "const char *curl_easy_strerror(CURLcode) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_STRERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cc6e3c7b932717f7da6f69bc70bbdd9c5ae239b5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_share_strerror",
+						"t": "const char *(CURLSHcode)",
+						"i": "curl_share_strerror(CURLSHcode)",
+						"r": "const char *curl_share_strerror(CURLSHcode) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_SHARE_STRERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "21425a4f2d109a963916b453ea1c3503532c3325"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_pause",
+						"t": "CURLcode (CURL *, int)",
+						"i": "curl_easy_pause(CURL*,int)",
+						"r": "CURLcode curl_easy_pause(CURL *handle, int bitmask) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_PAUSE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "985174fb30827c1e736bd9d7e21dce57819afb45"
+							}
+						]
 					}
 				]
 			}
@@ -34979,6 +36717,12 @@
 
 								],
 								"h": "a0e763aad7f04e3a1571362e3992caf3722744ee"
+							},
+							{
+								"items": [
+
+								],
+								"h": "bc03471cbd2b8fef6311db11de8c55ea26a1d63a"
 							}
 						]
 					},
@@ -35031,6 +36775,12 @@
 
 								],
 								"h": "56d49ebfc8c442a95065d47afc671db0919a89be"
+							},
+							{
+								"items": [
+
+								],
+								"h": "860d455d0a3e4eeba9d7dd4036cac3c76729deb3"
 							}
 						]
 					},
@@ -35057,6 +36807,12 @@
 
 								],
 								"h": "969eef2aa1390ae51ba4d8721146feac47ec1ca0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c5675ed5078cdef2b304fe6706cb564ca601d931"
 							}
 						]
 					},
@@ -35083,6 +36839,12 @@
 
 								],
 								"h": "c353cac4e87f7e220a3bd42cae9e114e6b32f308"
+							},
+							{
+								"items": [
+
+								],
+								"h": "29e9479afe9c4fba55590da731873afbeb141ec5"
 							}
 						]
 					},
@@ -35109,6 +36871,12 @@
 
 								],
 								"h": "d52c8af8b1f97296a69fb7e676a403b8d6de9a60"
+							},
+							{
+								"items": [
+
+								],
+								"h": "055599a7cc962bebb070964deef2dcae4f5e6bfc"
 							}
 						]
 					},
@@ -35220,6 +36988,12 @@
 
 								],
 								"h": "5bf86e397b8fa261d3d73b978cceec23da44fa45"
+							},
+							{
+								"items": [
+
+								],
+								"h": "f925800bc73fdc48ba5c5870c0608308e7ee77d0"
 							}
 						]
 					},
@@ -35246,6 +37020,12 @@
 
 								],
 								"h": "ab1495e2c4c07e7dc4c98d467ef61e87dac9defc"
+							},
+							{
+								"items": [
+
+								],
+								"h": "11c257aa752628196fea32d7193bfb7842856963"
 							}
 						]
 					},
@@ -35298,6 +37078,12 @@
 
 								],
 								"h": "abba8fc1b8316934af6c122fb0c0b2f9bcee1beb"
+							},
+							{
+								"items": [
+
+								],
+								"h": "4c3e37f4e66a7f4a1479aa34a4fd61bbc8af414c"
 							}
 						]
 					},
@@ -35324,6 +37110,12 @@
 
 								],
 								"h": "1fc784be78344b58733574b1df72fba88b0e4ee5"
+							},
+							{
+								"items": [
+
+								],
+								"h": "35525e26df8b7503afa00a94677b46ee604e956a"
 							}
 						]
 					},
@@ -35584,6 +37376,58 @@
 
 								],
 								"h": "51b2a62426d5de16db182c5bd3cd1dd315e3c5b9"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CURL_FORMAT_CURL_OFF_TU",
+						"t": "",
+						"i": "CURL_FORMAT_CURL_OFF_TU",
+						"r": "CURL_FORMAT_CURL_OFF_TU",
+						"s": "",
+						"u": "CURL_FORMAT_CURL_OFF_TU",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e776d86ddbed2c8c8b6478166c543e60e3dec3c2"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CURL_PULL_WS2TCPIP_H",
+						"t": "",
+						"i": "CURL_PULL_WS2TCPIP_H",
+						"r": "CURL_PULL_WS2TCPIP_H",
+						"s": "",
+						"u": "CURL_PULL_WS2TCPIP_H",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ccf3c6b533ba5dabe504e5b684dbbed64382c1e1"
 							}
 						]
 					}
@@ -36035,6 +37879,266 @@
 								"h": "14ee4bc55e7e9c30d18d913f5e885075656df0f7"
 							}
 						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_init",
+						"t": "CURL *()",
+						"i": "curl_easy_init()",
+						"r": "CURL *curl_easy_init() __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7e692215b85f18179d08edebcbb950c826a17f38"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_setopt",
+						"t": "CURLcode (CURL *, CURLoption, ...)",
+						"i": "curl_easy_setopt(CURL*,CURLoption,...)",
+						"r": "CURLcode curl_easy_setopt(CURL *curl, CURLoption option, ...) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_SETOPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27a4c2ee2f014033f93bd6850944046e44bbf40f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_perform",
+						"t": "CURLcode (CURL *)",
+						"i": "curl_easy_perform(CURL*)",
+						"r": "CURLcode curl_easy_perform(CURL *curl) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_PERFORM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a40203633bf9a6ca725f46d0bab5891c957c0eb0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_cleanup",
+						"t": "void (CURL *)",
+						"i": "curl_easy_cleanup(CURL*)",
+						"r": "void curl_easy_cleanup(CURL *curl) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_CLEANUP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b41b56e513f9d80acf5f17fb464b5136716094c6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_getinfo",
+						"t": "CURLcode (CURL *, CURLINFO, ...)",
+						"i": "curl_easy_getinfo(CURL*,CURLINFO,...)",
+						"r": "CURLcode curl_easy_getinfo(CURL *curl, CURLINFO info, ...) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_GETINFO",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "09c6f0891b8973585b32d65192036c3db0ec796f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_duphandle",
+						"t": "CURL *(CURL *)",
+						"i": "curl_easy_duphandle(CURL*)",
+						"r": "CURL *curl_easy_duphandle(CURL *curl) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_DUPHANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ce3ac822c7b3ab8afd1c6db80a64ec53e802d4d0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_reset",
+						"t": "void (CURL *)",
+						"i": "curl_easy_reset(CURL*)",
+						"r": "void curl_easy_reset(CURL *curl) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_RESET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d7e9b2cd5474884229b3effcf1f7e1fff08dae5b"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_recv",
+						"t": "CURLcode (CURL *, void *, size_t, size_t *)",
+						"i": "curl_easy_recv(CURL*,void*,size_t,size_t*)",
+						"r": "CURLcode curl_easy_recv(CURL *curl, void *buffer, size_t buflen, size_t *n) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_RECV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "cf58c8e23a13e17e334eee645509fa636c75b317"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_send",
+						"t": "CURLcode (CURL *, const void *, size_t, size_t *)",
+						"i": "curl_easy_send(CURL*,const void*,size_t,size_t*)",
+						"r": "CURLcode curl_easy_send(CURL *curl, const void *buffer, size_t buflen, size_t *n) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_SEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9363abfe44ca61932c5ca4792abe6e5c13fa2b48"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_upkeep",
+						"t": "CURLcode (CURL *)",
+						"i": "curl_easy_upkeep(CURL*)",
+						"r": "CURLcode curl_easy_upkeep(CURL *curl) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_UPKEEP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d34734750f60be14b4fdc0fec647e5cec2ccdcfe"
+							}
+						]
 					}
 				]
 			}
@@ -36118,6 +38222,12 @@
 
 								],
 								"h": "2ae3b8c0d271c41b0fe66221ff126e89aab66503"
+							},
+							{
+								"items": [
+
+								],
+								"h": "aa4d99ca660e218e2251baaa1c93ffb3bd74ec5c"
 							}
 						]
 					},
@@ -36534,6 +38644,12 @@
 
 								],
 								"h": "97e40f784bbf5d89370e1463e90639c9ff69e04e"
+							},
+							{
+								"items": [
+
+								],
+								"h": "555da2f5eb08965df2b749c93c0a9c7010da7a54"
 							}
 						]
 					},
@@ -38980,6 +41096,526 @@
 								"h": "e2465d0666c58d6023cfb925cb83c724c99829e7"
 							}
 						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_init",
+						"t": "CURLM *()",
+						"i": "curl_multi_init()",
+						"r": "CURLM *curl_multi_init() __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_INIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b07be8bef13ef9dd3b10156075cc02ef5018e616"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_add_handle",
+						"t": "CURLMcode (CURLM *, CURL *)",
+						"i": "curl_multi_add_handle(CURLM*,CURL*)",
+						"r": "CURLMcode curl_multi_add_handle(CURLM *multi_handle, CURL *curl_handle) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_ADD_HANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "78ee074631f61ef6686cc7d7b0684c1b0acf913f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_remove_handle",
+						"t": "CURLMcode (CURLM *, CURL *)",
+						"i": "curl_multi_remove_handle(CURLM*,CURL*)",
+						"r": "CURLMcode curl_multi_remove_handle(CURLM *multi_handle, CURL *curl_handle) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_REMOVE_HANDLE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e0af9e2c3025b7f7238acae3793733a9e83e395e"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_fdset",
+						"t": "CURLMcode (CURLM *, fd_set *, fd_set *, fd_set *, int *)",
+						"i": "curl_multi_fdset(CURLM*,fd_set*,fd_set*,fd_set*,int*)",
+						"r": "CURLMcode curl_multi_fdset(CURLM *multi_handle, fd_set *read_fd_set, fd_set *write_fd_set, fd_set *exc_fd_set, int *max_fd) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_FDSET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e9f13b0de6572ae34b22b83a5ce549e4e4fcf138"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_wait",
+						"t": "CURLMcode (CURLM *, struct curl_waitfd *, unsigned int, int, int *)",
+						"i": "curl_multi_wait(CURLM*,curl_waitfd[],unsigned int,int,int*)",
+						"r": "CURLMcode curl_multi_wait(CURLM *multi_handle, curl_waitfd extra_fds[], unsigned int extra_nfds, int timeout_ms, int *ret) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_WAIT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b524600f2536ff6784ffd531101904c2ef357956"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_poll",
+						"t": "CURLMcode (CURLM *, struct curl_waitfd *, unsigned int, int, int *)",
+						"i": "curl_multi_poll(CURLM*,curl_waitfd[],unsigned int,int,int*)",
+						"r": "CURLMcode curl_multi_poll(CURLM *multi_handle, curl_waitfd extra_fds[], unsigned int extra_nfds, int timeout_ms, int *ret) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_POLL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3ca43e1be6f115d80eb1c5d378955a33a6cd573f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_wakeup",
+						"t": "CURLMcode (CURLM *)",
+						"i": "curl_multi_wakeup(CURLM*)",
+						"r": "CURLMcode curl_multi_wakeup(CURLM *multi_handle) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_WAKEUP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2fb4314f55f26672bfd60a1269a25a7b42db797f"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_perform",
+						"t": "CURLMcode (CURLM *, int *)",
+						"i": "curl_multi_perform(CURLM*,int*)",
+						"r": "CURLMcode curl_multi_perform(CURLM *multi_handle, int *running_handles) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_PERFORM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "129a03e580f1047d216394956a41c9949a0f2a00"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_cleanup",
+						"t": "CURLMcode (CURLM *)",
+						"i": "curl_multi_cleanup(CURLM*)",
+						"r": "CURLMcode curl_multi_cleanup(CURLM *multi_handle) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_CLEANUP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c4fb9667f0dc076e471605ccb219adac0e8045bd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_info_read",
+						"t": "CURLMsg *(CURLM *, int *)",
+						"i": "curl_multi_info_read(CURLM*,int*)",
+						"r": "CURLMsg *curl_multi_info_read(CURLM *multi_handle, int *msgs_in_queue) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_INFO_READ",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "3d5b4869b6a1615ec97deca68b009432513f4038"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_strerror",
+						"t": "const char *(CURLMcode)",
+						"i": "curl_multi_strerror(CURLMcode)",
+						"r": "const char *curl_multi_strerror(CURLMcode) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_STRERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "073618cb40f71954c104de1fb7d357b90bbd10df"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_socket",
+						"t": "CURLMcode (CURLM *, curl_socket_t, int *)",
+						"i": "curl_multi_socket(CURLM*,curl_socket_t,int*)",
+						"r": "CURLMcode curl_multi_socket(CURLM *multi_handle, curl_socket_t s, int *running_handles) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_SOCKET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a401c4e227e18bd753fb8f23f77d14285c86f203"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_socket_action",
+						"t": "CURLMcode (CURLM *, curl_socket_t, int, int *)",
+						"i": "curl_multi_socket_action(CURLM*,curl_socket_t,int,int*)",
+						"r": "CURLMcode curl_multi_socket_action(CURLM *multi_handle, curl_socket_t s, int ev_bitmask, int *running_handles) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_SOCKET_ACTION",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e7d2bb5a94a727134944437133db3ffb892848d6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_socket_all",
+						"t": "CURLMcode (CURLM *, int *)",
+						"i": "curl_multi_socket_all(CURLM*,int*)",
+						"r": "CURLMcode curl_multi_socket_all(CURLM *multi_handle, int *running_handles) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_SOCKET_ALL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6d1ebdbee3368a41172109e9dc8abb82c193ca46"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_timeout",
+						"t": "CURLMcode (CURLM *, long *)",
+						"i": "curl_multi_timeout(CURLM*,long*)",
+						"r": "CURLMcode curl_multi_timeout(CURLM *multi_handle, long *milliseconds) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_TIMEOUT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9bb3af5effc4b04b8bb9218d63cf22abcc0628a2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_setopt",
+						"t": "CURLMcode (CURLM *, CURLMoption, ...)",
+						"i": "curl_multi_setopt(CURLM*,CURLMoption,...)",
+						"r": "CURLMcode curl_multi_setopt(CURLM *multi_handle, CURLMoption option, ...) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_SETOPT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2aa74252a301e46085b7567846015867e80a680"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_assign",
+						"t": "CURLMcode (CURLM *, curl_socket_t, void *)",
+						"i": "curl_multi_assign(CURLM*,curl_socket_t,void*)",
+						"r": "CURLMcode curl_multi_assign(CURLM *multi_handle, curl_socket_t sockfd, void *sockp) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_ASSIGN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd849ed8601777a1a8308ea9be378e40667fc4ee"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_multi_get_handles",
+						"t": "CURL **(CURLM *)",
+						"i": "curl_multi_get_handles(CURLM*)",
+						"r": "CURL **curl_multi_get_handles(CURLM *multi_handle) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_MULTI_GET_HANDLES",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7a32f3d39533568c1dd60ef3b496cdd34870f5c0"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_pushheader_bynum",
+						"t": "char *(struct curl_pushheaders *, size_t)",
+						"i": "curl_pushheader_bynum(curl_pushheaders*,size_t)",
+						"r": "char *curl_pushheader_bynum(curl_pushheaders *h, size_t num) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_PUSHHEADER_BYNUM",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "62b7c03f0e537d4081233c889bf187a8f979d5c9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_pushheader_byname",
+						"t": "char *(struct curl_pushheaders *, const char *)",
+						"i": "curl_pushheader_byname(curl_pushheaders*,const char*)",
+						"r": "char *curl_pushheader_byname(curl_pushheaders *h, const char *name) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_PUSHHEADER_BYNAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a0e4de34f3dfd7d20771a44db4c5fa03593fd844"
+							}
+						]
 					}
 				]
 			}
@@ -39037,6 +41673,12 @@
 
 								],
 								"h": "91eaf574a66c2b3fb81cde7d1276d07c6739f683"
+							},
+							{
+								"items": [
+
+								],
+								"h": "f33f0b865c60dd02dd324221887f4b483b437782"
 							}
 						]
 					},
@@ -39921,6 +42563,12 @@
 
 								],
 								"h": "54d898f4e6ec4fdfd4e6f907932d54f180c27e65"
+							},
+							{
+								"items": [
+
+								],
+								"h": "20d3a65216d91b0129e5f69ee94a65cb712df861"
 							}
 						]
 					},
@@ -40885,6 +43533,162 @@
 								"h": "6704ef127ca8c64242ec8403ed118637091e693a"
 							}
 						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_url",
+						"t": "CURLU *()",
+						"i": "curl_url()",
+						"r": "CURLU *curl_url() __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_URL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c1bf3a1b727d37f2cdb0fe0b38bbe012a49e6055"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_url_cleanup",
+						"t": "void (CURLU *)",
+						"i": "curl_url_cleanup(CURLU*)",
+						"r": "void curl_url_cleanup(CURLU *handle) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_URL_CLEANUP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f09cb1332a9215ef1bed7a1fb112fab67a092dc8"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_url_dup",
+						"t": "CURLU *(const CURLU *)",
+						"i": "curl_url_dup(const CURLU*)",
+						"r": "CURLU *curl_url_dup(const CURLU *in) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_URL_DUP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2d6abc501e9440631cfc5668680e6976b75928f4"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_url_get",
+						"t": "CURLUcode (const CURLU *, CURLUPart, char **, unsigned int)",
+						"i": "curl_url_get(const CURLU*,CURLUPart,char**,unsigned int)",
+						"r": "CURLUcode curl_url_get(const CURLU *handle, CURLUPart what, char **part, unsigned int flags) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_URL_GET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d3ef75232ec50c9f0a55c00eee03cdeb209c3451"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_url_set",
+						"t": "CURLUcode (CURLU *, CURLUPart, const char *, unsigned int)",
+						"i": "curl_url_set(CURLU*,CURLUPart,const char*,unsigned int)",
+						"r": "CURLUcode curl_url_set(CURLU *handle, CURLUPart what, const char *part, unsigned int flags) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_URL_SET",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "42c7667dffe2eb7687eee65765a121979b7a3926"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_url_strerror",
+						"t": "const char *(CURLUcode)",
+						"i": "curl_url_strerror(CURLUcode)",
+						"r": "const char *curl_url_strerror(CURLUcode) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_URL_STRERROR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1359d615dd1845e9e8bfe378944c02edc709d622"
+							}
+						]
 					}
 				]
 			}
@@ -41436,6 +44240,84 @@
 
 								],
 								"h": "0ac50c482f01b68bba6044b8dc952fc54d4b9756"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_option_by_name",
+						"t": "const struct curl_easyoption *(const char *)",
+						"i": "curl_easy_option_by_name(const char*)",
+						"r": "const curl_easyoption *curl_easy_option_by_name(const char *name) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_OPTION_BY_NAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "276add3e741c5d6db3642be8589ed0a214b6fdc5"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_option_by_id",
+						"t": "const struct curl_easyoption *(CURLoption)",
+						"i": "curl_easy_option_by_id(CURLoption)",
+						"r": "const curl_easyoption *curl_easy_option_by_id(CURLoption id) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_OPTION_BY_ID",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "317f6edec04116917371c2b1c5c49a84e4371f99"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_option_next",
+						"t": "const struct curl_easyoption *(const struct curl_easyoption *)",
+						"i": "curl_easy_option_next(const curl_easyoption*)",
+						"r": "const curl_easyoption *curl_easy_option_next(const curl_easyoption *prev) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_OPTION_NEXT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c46e703305c4f1002426d3edd941b47445b97c62"
 							}
 						]
 					}
@@ -42095,6 +44977,58 @@
 								"h": "fbb15405ba6b40c213b17ff22a949f24204f514b"
 							}
 						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_header",
+						"t": "CURLHcode (CURL *, const char *, size_t, unsigned int, int, struct curl_header **)",
+						"i": "curl_easy_header(CURL*,const char*,size_t,unsigned int,int,curl_header**)",
+						"r": "CURLHcode curl_easy_header(CURL *easy, const char *name, size_t index, unsigned int origin, int request, curl_header **hout) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_HEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b1cacf870bda2f49a5994ded47485ea1128a1cab"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_easy_nextheader",
+						"t": "struct curl_header *(CURL *, unsigned int, int, struct curl_header *)",
+						"i": "curl_easy_nextheader(CURL*,unsigned int,int,curl_header*)",
+						"r": "curl_header *curl_easy_nextheader(CURL *easy, unsigned int origin, int request, curl_header *prev) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_EASY_NEXTHEADER",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0b44273e263d9b3ecfbecd6e33e7ecbc1ca0cf71"
+							}
+						]
 					}
 				]
 			}
@@ -42568,6 +45502,84 @@
 
 								],
 								"h": "4d246e7792a6633e4ec3d3669fad048d7abc3ba2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_ws_recv",
+						"t": "CURLcode (CURL *, void *, size_t, size_t *, const struct curl_ws_frame **)",
+						"i": "curl_ws_recv(CURL*,void*,size_t,size_t*,const curl_ws_frame**)",
+						"r": "CURLcode curl_ws_recv(CURL *curl, void *buffer, size_t buflen, size_t *recv, const curl_ws_frame **metap) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_WS_RECV",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a2cd2b662ef860e09731755c2dea8f8b902fcc67"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_ws_send",
+						"t": "CURLcode (CURL *, const void *, size_t, size_t *, curl_off_t, unsigned int)",
+						"i": "curl_ws_send(CURL*,const void*,size_t,size_t*,curl_off_t,unsigned int)",
+						"r": "CURLcode curl_ws_send(CURL *curl, const void *buffer, size_t buflen, size_t *sent, curl_off_t fragsize, unsigned int flags) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_WS_SEND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "84be75cf8aef9744fbc6c26f2e795866ccbe6037"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "curl_ws_meta",
+						"t": "const struct curl_ws_frame *(CURL *)",
+						"i": "curl_ws_meta(CURL*)",
+						"r": "const curl_ws_frame *curl_ws_meta(CURL *curl) __attribute__((dllimport))",
+						"s": "",
+						"u": "CURL_WS_META",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "287bb096d35766d776be1db6650dbef7c01be726"
 							}
 						]
 					}

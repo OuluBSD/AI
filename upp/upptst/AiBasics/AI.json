@@ -1,0 +1,2182 @@
+{
+	"saved_hash": "fd03ce7818cd3bc19ef5e5ae1f1ae371a6b8b3a3",
+	"files": [
+		{
+			"key": "AiBasics.cpp",
+			"value": {
+				"items": [
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "main",
+						"t": "int (int, const char **)",
+						"i": "main(int,const char*[])",
+						"r": "int main(int argc, const char *argv[])",
+						"s": "",
+						"u": "MAIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+							{
+								"s": "This function is used to return the name of the object as a constant char pointer"
+							},
+							{
+								"s": "End of class definition"
+							},
+							{
+								"s": "Blank line"
+							},
+							{
+								"s": "This line creates a variable 'v'"
+							}
+						],
+						"sf": [
+							{
+								"items": [
+									{
+										"k": 0,
+										"l": 0,
+										"d": 0
+									},
+									{
+										"k": 0,
+										"l": 1,
+										"d": 1
+									},
+									{
+										"k": 0,
+										"l": 2,
+										"d": 2
+									},
+									{
+										"k": 0,
+										"l": 3,
+										"d": 3
+									}
+								],
+								"h": "7d1e07928095ada870e185d11bf04253fe53b9a0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "3b22cd50c332d5adeea7655664b241ef7fbf4004"
+							},
+							{
+								"items": [
+
+								],
+								"h": "186e0663113556be5bb6f93a946c10307dd09228"
+							},
+							{
+								"items": [
+
+								],
+								"h": "26d7aae8f96e3787738cc2e3b2d8e2721e04e8fc"
+							},
+							{
+								"items": [
+
+								],
+								"h": "a2b3c02bb8d74b40c08deb1a1bada99635a5e766"
+							},
+							{
+								"items": [
+
+								],
+								"h": "b3127725f678ca5b1038b1df45a06f2ff4e1f544"
+							},
+							{
+								"items": [
+
+								],
+								"h": "82ecd676e2d814aea154d9731c92c5069e2dbd9c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "a4cefbda411993ab7a723bb19c862dc181f1eb1c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "6f2e4721a87aa9137383b7a0c4f57ef4fa458547"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ac6a257a8fd534d30aad6264934eec0c84ff07e4"
+							},
+							{
+								"items": [
+
+								],
+								"h": "892b5f650d89f02a341dd9705e1c4c0b36e61a42"
+							},
+							{
+								"items": [
+
+								],
+								"h": "cfbef40ac0ef00ce897af9aa4a1639fd428121a8"
+							},
+							{
+								"items": [
+
+								],
+								"h": "0d6fee01380feac8aebf02b197befa9bfd60c10b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5126253e7dc64f5923ae10a54b6f58fc679e8de0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c7f431050af6fe28d301420b068a9b44f96f2e72"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ea24d520bf490218bf07b5e6a9ef7c9d0d31e178"
+							},
+							{
+								"items": [
+
+								],
+								"h": "8686869c75c352f223fbc42700c3a722d4a293b9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d98a4be20a30df4c3e5d0651a89a65ae14f57b68"
+							},
+							{
+								"items": [
+
+								],
+								"h": "88c10d03190eec20c0723a3997e7ae963c2e680a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "3f137d76dcd36da6820a1ef337b8507ecd2e9db2"
+							},
+							{
+								"items": [
+
+								],
+								"h": "f0e1226c08944006bb47afa9868e5529584ada94"
+							},
+							{
+								"items": [
+
+								],
+								"h": "6c511cd9d5e66b743169e328383ab36a99f4b378"
+							},
+							{
+								"items": [
+
+								],
+								"h": "44819d67c2aae8d9786ca74002a9fe5e22de1dfb"
+							},
+							{
+								"items": [
+
+								],
+								"h": "20dede1859eba32b25aab3fc3e869d33d09cf43a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "4771db54c83c7a169e70f84ac0ccce21b263c92d"
+							},
+							{
+								"items": [
+
+								],
+								"h": "98c886197d33dae3204f28c0aa7ce2d4f1554178"
+							},
+							{
+								"items": [
+
+								],
+								"h": "54c806cea9af5ebb495505e0239148cb06950bf5"
+							},
+							{
+								"items": [
+
+								],
+								"h": "4dd36c211fd0c99e9114d6d295d76b43aca9ee9d"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Base",
+						"t": "Base",
+						"i": "Base",
+						"r": "Base",
+						"s": "",
+						"u": "BASE",
+						"q": "Base",
+						"w": "BASE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "81e038628878b993462a8710925065b118b023e5"
+							},
+							{
+								"items": [
+
+								],
+								"h": "0eb79058bd8a8e0eefbcfda9af5760b3e4a4a759"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Fruit",
+						"t": "Fruit",
+						"i": "Fruit",
+						"r": "Fruit",
+						"s": "",
+						"u": "FRUIT",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+							{
+								"s": "class Fruit {"
+							},
+							{
+								"s": "public:"
+							},
+							{
+								"s": "Fruit() {}"
+							},
+							{
+								"s": "virtual const char* GetName() {return \"Fruit\";}"
+							},
+							{
+								"s": "}"
+							},
+							{
+								"s": "This class represents the base class for all fruits. It will be inherited by specific fruit classes such as Orange and Apple."
+							},
+							{
+								"s": "This access specifier allows the class to be accessed publicly by other classes."
+							},
+							{
+								"s": "This is the constructor for the Fruit class."
+							},
+							{
+								"s": "This is the virtual destructor for the Fruit class."
+							},
+							{
+								"s": "This is the virtual function that returns the name of the fruit."
+							},
+							{
+								"s": "This is the pure virtual function that represents eating the fruit. It will be implemented in the specific fruit classes."
+							},
+							{
+								"s": "This is a blank line for readability."
+							},
+							{
+								"s": "This is a struct that represents a Fruit"
+							},
+							{
+								"s": "Mass of the fruit in grams"
+							},
+							{
+								"s": "This class is the base class for all fruits, such as Orange and Apple"
+							},
+							{
+								"s": "Default constructor for Fruit class"
+							},
+							{
+								"s": "Function to set the mass of the fruit"
+							},
+							{
+								"s": "Virtual destructor for Fruit class"
+							},
+							{
+								"s": "Virtual function to get the name of the fruit, returns \"Fruit\" by default"
+							},
+							{
+								"s": "End of Fruit struct"
+							}
+						],
+						"sf": [
+							{
+								"items": [
+									{
+										"k": 0,
+										"l": 0,
+										"d": 12
+									},
+									{
+										"k": 0,
+										"l": 1,
+										"d": 13
+									},
+									{
+										"k": 0,
+										"l": 2,
+										"d": 14
+									},
+									{
+										"k": 0,
+										"l": 3,
+										"d": 15
+									},
+									{
+										"k": 0,
+										"l": 4,
+										"d": 16
+									},
+									{
+										"k": 0,
+										"l": 5,
+										"d": 17
+									},
+									{
+										"k": 0,
+										"l": 6,
+										"d": 18
+									},
+									{
+										"k": 0,
+										"l": 7,
+										"d": 19
+									}
+								],
+								"h": "41c384f64a324645c0cce6ff8f5459af368d197c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "6dd6e46ea41f3b96550771c27505b2dfc79bf1c0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "789ef025c95b1ea22c852cac74890f6433fcad00"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e6e3938d6a8d3aaec49ab018a9ff0d02f8004099"
+							},
+							{
+								"items": [
+
+								],
+								"h": "a78c2ae87d81cb4fd7e7b8876a740c29c22b36d5"
+							},
+							{
+								"items": [
+
+								],
+								"h": "6d2756ef179a21dadb39583a2a4ed632a79d3e92"
+							},
+							{
+								"items": [
+
+								],
+								"h": "600cbec6ff54b23f6e82c8b1a94801ba8e766143"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Fruit",
+						"t": "void ()",
+						"i": "Fruit::Fruit()",
+						"r": "Fruit()",
+						"s": "",
+						"u": "FRUIT",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ae996c27163b4f6abc94405761508040ff906ee2"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d3e53c82ae56441dd5928e14598be1d325b1613b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "82ffc2b89ae5f259a4b888fa6fdf703f95f90234"
+							},
+							{
+								"items": [
+
+								],
+								"h": "808affb6eb45cac53e6c7f911db9ac25cbf7774b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "Fruit::GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0133ba75795073648e80609b3887ae5a5aa51999"
+							},
+							{
+								"items": [
+
+								],
+								"h": "27758c16b31ffdb232292d12bac986bcfb20cb80"
+							},
+							{
+								"items": [
+
+								],
+								"h": "411d26ecebdfa04861ed2b154c223e5ba9d8615a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "2d14ab97cc3dc294c51c0d6814f4ea45f4b4e312"
+							},
+							{
+								"items": [
+
+								],
+								"h": "16e5bf7e203d3ab99edd7389af67fdd98f3b7c1e"
+							},
+							{
+								"items": [
+
+								],
+								"h": "27e180396d5dc1875fb9a1f2a3fd3123701531c9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Eat",
+						"t": "void ()",
+						"i": "Fruit::Eat()",
+						"r": "void Eat()",
+						"s": "",
+						"u": "EAT",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "521f8c303c2c4719c5c0fd1cf35bfec946ac8deb"
+							},
+							{
+								"items": [
+
+								],
+								"h": "b5e706995ebc4e8e7dc4209357184414ca4bb977"
+							},
+							{
+								"items": [
+
+								],
+								"h": "2d14ab97cc3dc294c51c0d6814f4ea45f4b4e312"
+							},
+							{
+								"items": [
+
+								],
+								"h": "27758c16b31ffdb232292d12bac986bcfb20cb80"
+							},
+							{
+								"items": [
+
+								],
+								"h": "be50deaaccac6e9288b4e37753ebf7e5cea2a27f"
+							}
+						]
+					},
+					{
+						"k": 25,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "~Fruit",
+						"t": "void () noexcept",
+						"i": "Fruit::~()",
+						"r": "~Fruit()",
+						"s": "",
+						"u": "~FRUIT",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "27758c16b31ffdb232292d12bac986bcfb20cb80"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ae996c27163b4f6abc94405761508040ff906ee2"
+							},
+							{
+								"items": [
+
+								],
+								"h": "766da666bd05aed8b6649f3bab576f6c80d4bc34"
+							},
+							{
+								"items": [
+
+								],
+								"h": "2e8744f49347360a30379026f1c3cd7206d54e4e"
+							},
+							{
+								"items": [
+
+								],
+								"h": "db13291ca599d00348f82b02bc9c65dffb3f975c"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Orange",
+						"t": "Orange",
+						"i": "Orange",
+						"r": "Orange",
+						"s": "",
+						"u": "ORANGE",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+							{
+								"s": "Define a struct named 'Orange' which inherits from the 'Fruit' struct."
+							},
+							{
+								"s": "Define the default constructor for the 'Orange' struct."
+							},
+							{
+								"s": "Declare a method named 'GetName' that returns a constant pointer to char and overrides the base class method."
+							},
+							{
+								"s": "Closing curly brace for the 'Orange' struct."
+							},
+							{
+								"s": "Empty line for spacing."
+							}
+						],
+						"sf": [
+							{
+								"items": [
+									{
+										"k": 0,
+										"l": 0,
+										"d": 0
+									},
+									{
+										"k": 0,
+										"l": 1,
+										"d": 1
+									},
+									{
+										"k": 0,
+										"l": 2,
+										"d": 2
+									},
+									{
+										"k": 0,
+										"l": 3,
+										"d": 3
+									},
+									{
+										"k": 0,
+										"l": 4,
+										"d": 4
+									}
+								],
+								"h": "5bd3b8aef5ba1195d909fbfac1e66e38a6a5750b"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Fruit",
+						"t": "Fruit",
+						"i": "Fruit",
+						"r": "Fruit",
+						"s": "",
+						"u": "FRUIT",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "45e0336c10a42bc378a9b293064272a637c9894e"
+							},
+							{
+								"items": [
+
+								],
+								"h": "640853664728097592b260bf5a3cb722980b3d1c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ca36f41e8c16e1b52256a2bc36dde22a989a4f2f"
+							},
+							{
+								"items": [
+
+								],
+								"h": "4bb809c879ce850c01b7a937ad492305f881e7bb"
+							},
+							{
+								"items": [
+
+								],
+								"h": "600cbec6ff54b23f6e82c8b1a94801ba8e766143"
+							},
+							{
+								"items": [
+
+								],
+								"h": "42b47626ddaa5842af4c2b80d3bfe712937f32ec"
+							},
+							{
+								"items": [
+
+								],
+								"h": "628fd2f934e6e688c7c0b87da370eecafb4ad4b1"
+							},
+							{
+								"items": [
+
+								],
+								"h": "a26ea4b3903bb59042f3429584cc5afee9adc5fe"
+							},
+							{
+								"items": [
+
+								],
+								"h": "1f0c6e362e76b8f168cb9ec8e3b415f3fd6a9c49"
+							},
+							{
+								"items": [
+
+								],
+								"h": "ea3ccda177b74c7b9ca52b4df786d63ecd1ebfad"
+							},
+							{
+								"items": [
+
+								],
+								"h": "60e279058ec8eb0286b83c82e3c253d4ffc98fbd"
+							},
+							{
+								"items": [
+
+								],
+								"h": "8b6f1d3d6c517432e8c18bd4583bd59c38c748ef"
+							},
+							{
+								"items": [
+
+								],
+								"h": "17e00a3880b102f2add40c6ebd2d315fcbc56aee"
+							},
+							{
+								"items": [
+
+								],
+								"h": "646a0337512d39bd0cea04d9f6aa788c536f2dca"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Orange",
+						"t": "Orange",
+						"i": "Orange",
+						"r": "Orange : Fruit",
+						"s": "",
+						"u": "ORANGE",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "Fruit",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a2b3c02bb8d74b40c08deb1a1bada99635a5e766"
+							},
+							{
+								"items": [
+
+								],
+								"h": "7bf268ec99d08fe1da49da54248febeda4ecbed7"
+							},
+							{
+								"items": [
+
+								],
+								"h": "9339d48b58b40b1ae7ea1d1d7fc7e15e7514ea68"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5a86778c9ea90e1af2394fa1b2077e72159f97b3"
+							},
+							{
+								"items": [
+
+								],
+								"h": "72b2f1a0229480a8e01df0fd5a58ca34377d247c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "3537e2995599b42f9d88a6af54f58abd7f0df3f3"
+							},
+							{
+								"items": [
+
+								],
+								"h": "1a7bf93506de10451d7cb7fa67ff7d609b73eb7b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "6ff883bddc86b21e69f1f57ac1cf9a56f613f0fd"
+							},
+							{
+								"items": [
+
+								],
+								"h": "fe5ea6b056fda4e8065ec433d489fe55d367054d"
+							},
+							{
+								"items": [
+
+								],
+								"h": "f420844b4f669d18b95d39c6da0ebcf50ae21e17"
+							},
+							{
+								"items": [
+
+								],
+								"h": "51c39cac5d3bec84b1914034c21aad6656716883"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Orange",
+						"t": "void ()",
+						"i": "Orange::Orange()",
+						"r": "Orange()",
+						"s": "",
+						"u": "ORANGE",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd5a3fff2e20047d719d7ebdfe2fd645aa949528"
+							},
+							{
+								"items": [
+
+								],
+								"h": "806599193ef0e65625aa739eeca4ec98f6e2877c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "2d14ab97cc3dc294c51c0d6814f4ea45f4b4e312"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e045bf6191438ace834a3f99dd5aea377c0b4fce"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Eat",
+						"t": "void ()",
+						"i": "Orange::Eat()",
+						"r": "void Eat()",
+						"s": "",
+						"u": "EAT",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "eb12be81391e320f2a5f94df279ccf9e9a9c3545"
+							},
+							{
+								"items": [
+
+								],
+								"h": "2d14ab97cc3dc294c51c0d6814f4ea45f4b4e312"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Eat",
+						"t": "void ()",
+						"i": "Orange::Eat()",
+						"r": "void Eat()",
+						"s": "",
+						"u": "EAT",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0f05912b204f0542191164feba1e863b8d0d6220"
+							},
+							{
+								"items": [
+
+								],
+								"h": "88d5a2318e0b35e8515f139a2b9a9c74aa1de6f5"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "mass",
+						"t": "int",
+						"i": "Fruit::mass",
+						"r": "int mass",
+						"s": "",
+						"u": "MASS",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "19f675aa4279a53053175e00b18d1c7cf9bf7b90"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d400b2b9be19377192d2d45000cecc9ea890a30f"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "mass",
+						"t": "double",
+						"i": "Fruit::mass",
+						"r": "double mass",
+						"s": "",
+						"u": "MASS",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d78bb09c93597f7ecb7510721aece51cf73f5f2e"
+							},
+							{
+								"items": [
+
+								],
+								"h": "237edda62ecdc9165359a123344c077a02469b34"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Se",
+						"t": "void",
+						"i": "Fruit::Se",
+						"r": "void Se",
+						"s": "",
+						"u": "SE",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af84d91fde168566c7dc18f3121ea2fbe651af1f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetMass",
+						"t": "void (void (*)())",
+						"i": "Fruit::SetMass(void())",
+						"r": "void SetMass(void ())",
+						"s": "",
+						"u": "SETMASS",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "36ada27ee522c4cc6e78b05d4bc1005241b0508f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "SetMass",
+						"t": "void (double)",
+						"i": "Fruit::SetMass(double)",
+						"r": "void SetMass(double mass)",
+						"s": "",
+						"u": "SETMASS",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6575399e0fbb66512b9c188db8dd43ce42f00e3e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetMass",
+						"t": "void (double)",
+						"i": "Fruit::SetMass(double)",
+						"r": "void SetMass(double mass)",
+						"s": "",
+						"u": "SETMASS",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e570b82f3e35bb56839310e4a10c1ead091a287e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SetMass",
+						"t": "void (double)",
+						"i": "Fruit::SetMass(double)",
+						"r": "void SetMass(double grams)",
+						"s": "",
+						"u": "SETMASS",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16e5bf7e203d3ab99edd7389af67fdd98f3b7c1e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Eat",
+						"t": "void (double)",
+						"i": "Fruit::Eat(double)",
+						"r": "void Eat(double grams)",
+						"s": "",
+						"u": "EAT",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "411d26ecebdfa04861ed2b154c223e5ba9d8615a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "814a8671007815445946813d3736b69414e8dc27"
+							},
+							{
+								"items": [
+
+								],
+								"h": "a610535d511e03a084448e2b091adef2150eb27b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Consume",
+						"t": "void (double)",
+						"i": "Fruit::Consume(double)",
+						"r": "void Consume(double grams)",
+						"s": "",
+						"u": "CONSUME",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e6407cbf6bf9dcffbf7f9727f46c7cb6a125033c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "a6dfb54b96f4094eefc4d41b3c22920c2682b91e"
+							},
+							{
+								"items": [
+
+								],
+								"h": "4b11cccd13914f1cb6ebe55344abd900fbe9bd8e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Consume",
+						"t": "void ()",
+						"i": "Orange::Consume()",
+						"r": "void Consume()",
+						"s": "",
+						"u": "CONSUME",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "19cc99e2ca3d85336a54542bfa4c485c671454cd"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Consume",
+						"t": "void (double)",
+						"i": "Orange::Consume(double)",
+						"r": "void Consume(double grams)",
+						"s": "",
+						"u": "CONSUME",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e1205deab9ab48ea32a4f363d079904277d94374"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e63bc1c0af2373638ff06bc20d83b943aa49c023"
+							},
+							{
+								"items": [
+
+								],
+								"h": "6d3999b5aad8a363ddd214559fe3eb3538cb98d9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "1d820c0b38d276c29a2cbb6dff3c54def91616f9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "eaa38fe75fff060c2afcb845ccd267dcd795bf5c"
+							},
+							{
+								"items": [
+
+								],
+								"h": "058b0078375546035cf5877373e0bbc0b28ca06c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Eat",
+						"t": "void ()",
+						"i": "Orange::Eat()",
+						"r": "void Eat()",
+						"s": "",
+						"u": "EAT",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7ed22ffc971e2e163e30d4cf35559bbe66bdb7e9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Eat",
+						"t": "void ()",
+						"i": "Orange::Eat()",
+						"r": "void Eat()",
+						"s": "",
+						"u": "EAT",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7958ba601236fa702bbdaa1a972442a94a2484eb"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "Consume",
+						"t": "void (double)",
+						"i": "Orange::Consume(double)",
+						"r": "void Consume(double grams)",
+						"s": "",
+						"u": "CONSUME",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "457579dc56f0a53a0d8fa1a231556e0fe09fdb79"
+							},
+							{
+								"items": [
+
+								],
+								"h": "628463c5138d469bb9ef161c2c30dbb34125b0d1"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed struct at C:\\Users\\sblo\\ai-upp\\upptst\\AiBasics\\AiBasics.cpp:17:8)",
+						"t": "(unnamed struct at C:\\Users\\sblo\\ai-upp\\upptst\\AiBasics\\AiBasics.cpp:17:8)",
+						"i": "(unnamed at C:\\Users\\sblo\\ai-upp\\upptst\\AiBasics\\AiBasics.)",
+						"r": "",
+						"s": "",
+						"u": "(UNNAMED STRUCT AT C:\\USERS\\SBLO\\AI-UPP\\UPPTST\\AIBASICS\\AIBASICS.CPP:17:8)",
+						"q": "(unnamed struct at C:\\Users\\sblo\\ai-upp\\upptst\\AiBasics\\AiBasics.cpp:17:8)",
+						"w": "(UNNAMED STRUCT AT C:\\USERS\\SBLO\\AI-UPP\\UPPTST\\AIBASICS\\AIBASICS.CPP:17:8)",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "22232fa84a9d568a8f8064795f5500fc9c85ac43"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "A",
+						"t": "A",
+						"i": "A",
+						"r": "A : Fruit",
+						"s": "",
+						"u": "A",
+						"q": "A",
+						"w": "A",
+						"y": "Fruit",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "76ae802f02f4b64a572b5721c167cad102105b78"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Apple",
+						"t": "Apple",
+						"i": "Apple",
+						"r": "Apple : Fruit",
+						"s": "",
+						"u": "APPLE",
+						"q": "Apple",
+						"w": "APPLE",
+						"y": "Fruit",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1d5c3506946f52c87dfe13214a6583d6cfc13d05"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d9d6fde3df02b5e76175069d14cc3db663e072ae"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c20398072b27e34f592802fbe7ed5bb5d952cf7a"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c3021c080aca97a35f22f5abdb595729a6feb5f1"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5dcf6a0e97516b883f44f8f22aa13f4ad1e95b9b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e415bb66bc182b053d23512c6b989fd5e2cf8c9d"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed struct at C:\\Users\\sblo\\ai-upp\\upptst\\AiBasics\\AiBasics.cpp:28:8)",
+						"t": "(unnamed struct at C:\\Users\\sblo\\ai-upp\\upptst\\AiBasics\\AiBasics.cpp:28:8)",
+						"i": "(unnamed at C:\\Users\\sblo\\ai-upp\\upptst\\AiBasics\\AiBasics.)",
+						"r": "",
+						"s": "",
+						"u": "(UNNAMED STRUCT AT C:\\USERS\\SBLO\\AI-UPP\\UPPTST\\AIBASICS\\AIBASICS.CPP:28:8)",
+						"q": "(unnamed struct at C:\\Users\\sblo\\ai-upp\\upptst\\AiBasics\\AiBasics.cpp:28:8)",
+						"w": "(UNNAMED STRUCT AT C:\\USERS\\SBLO\\AI-UPP\\UPPTST\\AIBASICS\\AIBASICS.CPP:28:8)",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9d6fde3df02b5e76175069d14cc3db663e072ae"
+							},
+							{
+								"items": [
+
+								],
+								"h": "d8c5551008de3c164fa06b720a3da22e346bec67"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "Consume",
+						"t": "void (double)",
+						"i": "Orange::Consume(double)",
+						"r": "void Consume(double grams)",
+						"s": "",
+						"u": "CONSUME",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+							{
+								"s": "Defines the GetName() function for the Orange class, which returns the name \"Orange\""
+							},
+							{
+								"s": "The function is a constant function and returns a constant char pointer"
+							},
+							{
+								"s": "The return value is the string \"Orange\""
+							},
+							{
+								"s": "Empty line"
+							},
+							{
+								"s": "Call to the(function GetName() is started)"
+							}
+						],
+						"sf": [
+							{
+								"items": [
+									{
+										"k": 0,
+										"l": 0,
+										"d": 0
+									},
+									{
+										"k": 0,
+										"l": 1,
+										"d": 1
+									},
+									{
+										"k": 0,
+										"l": 2,
+										"d": 2
+									},
+									{
+										"k": 0,
+										"l": 3,
+										"d": 3
+									},
+									{
+										"k": 0,
+										"l": 4,
+										"d": 4
+									}
+								],
+								"h": "eaa38fe75fff060c2afcb845ccd267dcd795bf5c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Apple",
+						"t": "void (double)",
+						"i": "Orange::Apple(double)",
+						"r": "void Apple(double grams)",
+						"s": "",
+						"u": "APPLE",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "937a04a91d337536fe6c839a0c4d8bf18e8699c8"
+							},
+							{
+								"items": [
+
+								],
+								"h": "cfbef40ac0ef00ce897af9aa4a1639fd428121a8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Consume",
+						"t": "void (double)",
+						"i": "Fruit::Consume(double)",
+						"r": "void Consume(double grams)",
+						"s": "",
+						"u": "CONSUME",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7efb565d96dd3e7f61efb88e29844228ef1ff7a9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "eb862c1b01a0610909a7b9cf940fe487b0373814"
+							},
+							{
+								"items": [
+
+								],
+								"h": "9776eb983bd4afdd3416e0f1b373fd7d212530f9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "4e580904bd67b228bd67b8f1780df44e7988b4ef"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "Orange::GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6c5c015389991858a71fc8a79f6dbf08acfe4ea9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "a963cba4ef9bbf1ff9e532c3ae1894d25c1ab748"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Apple",
+						"t": "void ()",
+						"i": "Apple::Apple()",
+						"r": "Apple()",
+						"s": "",
+						"u": "APPLE",
+						"q": "Apple",
+						"w": "APPLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "531f26a8ac978f79a75f13076ae6f4fa3c36ca25"
+							},
+							{
+								"items": [
+
+								],
+								"h": "3aa2483f382370a1b27e7362b8d569005a54491b"
+							},
+							{
+								"items": [
+
+								],
+								"h": "20e319ea918f6f6d4ca78a180ad11ad1f467b255"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "Apple::GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Apple",
+						"w": "APPLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ed18ea739d9cb07cac7fc021fd27e498eb741723"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fb7c17e611fc1ba2369790e7ecf9919ee8e59fd3"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "Apple::GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Apple",
+						"w": "APPLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "14e62f8d6ada773d011290a63a907c628ebb92b2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "Apple::GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Apple",
+						"w": "APPLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "263c1d1d8c0b90d0dd29f5a0d1bdc28cb47a4377"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e5f476c6e0a3333ea7873e1ebd1e865fcea77321"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "Fruit::GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d51b474b9bd9562051d35192aee36536a6bc2d38"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *() const",
+						"i": "Fruit::GetName()const",
+						"r": "const char *GetName() const",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f20024b6b0f861e8f37594807c3839cb445baf17"
+							},
+							{
+								"items": [
+
+								],
+								"h": "27758c16b31ffdb232292d12bac986bcfb20cb80"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "Orange::GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "06a859aff09c79bed17f06893499b57d02ced4a5"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *()",
+						"i": "Apple::GetName()",
+						"r": "const char *GetName()",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Apple",
+						"w": "APPLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6857754253e89930cbb89fe438482e27dcd6df71"
+							},
+							{
+								"items": [
+
+								],
+								"h": "e5f476c6e0a3333ea7873e1ebd1e865fcea77321"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5f65aea0760b0381fc46b7c8d5ea85d61c9d41f7"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *() const",
+						"i": "Orange::GetName()const",
+						"r": "const char *GetName() const",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f8134431305e5120093401772f48b8a89960abea"
+							},
+							{
+								"items": [
+
+								],
+								"h": "dd5a3fff2e20047d719d7ebdfe2fd645aa949528"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *() const",
+						"i": "Apple::GetName()const",
+						"r": "const char *GetName() const",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Apple",
+						"w": "APPLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "280f9d92fd84b40d665648bd3db9827ea81a44c3"
+							},
+							{
+								"items": [
+
+								],
+								"h": "3aa2483f382370a1b27e7362b8d569005a54491b"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Consume",
+						"t": "void (double)",
+						"i": "Fruit::Consume(double)",
+						"r": "void Consume(double grams)",
+						"s": "",
+						"u": "CONSUME",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bd6cc3c81ae71d01d10418e67de28513881844c0"
+							},
+							{
+								"items": [
+
+								],
+								"h": "058b0078375546035cf5877373e0bbc0b28ca06c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": true,
+						"is": false,
+						"n": "GetName",
+						"t": "const char *() const",
+						"i": "Orange::GetName()const",
+						"r": "const char *GetName() const",
+						"s": "",
+						"u": "GETNAME",
+						"q": "Orange",
+						"w": "ORANGE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b7a25afb5394c33f4aecb78afe0acb62abee52b3"
+							},
+							{
+								"items": [
+
+								],
+								"h": "5f65aea0760b0381fc46b7c8d5ea85d61c9d41f7"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetMass",
+						"t": "double () const",
+						"i": "Fruit::GetMass()const",
+						"r": "double GetMass() const",
+						"s": "",
+						"u": "GETMASS",
+						"q": "Fruit",
+						"w": "FRUIT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2bdc3a630fe82d1c13d2767889872370d43cee14"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "TEST",
+						"t": "",
+						"i": "TEST",
+						"r": "TEST",
+						"s": "",
+						"u": "TEST",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "150bcb4d5f457380a1c662889d4cb665582d1da8"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

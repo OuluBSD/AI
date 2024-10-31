@@ -1,5 +1,5 @@
 {
-	"saved_hash": "780a521ac2ffb7f7e6d8d6631d45b57c4ae5ee1d",
+	"saved_hash": "692b52bba388a7b47e95feb2ca4d125573d24da8",
 	"files": [
 		{
 			"key": "FontCoco.mm",
@@ -17795,6 +17795,58 @@
 								"h": "dffa953a344f14d1177aa8b8f4fc2ed3670b233a"
 							}
 						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FactoryFn",
+						"t": "DataDrawer *()",
+						"i": "Upp::DataDrawer::FactoryFn()",
+						"r": "template <class T> static Upp::DataDrawer *FactoryFn()",
+						"s": "Upp",
+						"u": "FACTORYFN",
+						"q": "Upp::DataDrawer",
+						"w": "UPP::DATADRAWER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0d6a08aafd5f15a2a783a80a89715f8e40b53530"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Register",
+						"t": "void (const char *)",
+						"i": "Upp::DataDrawer::Register(const char*)",
+						"r": "template <class T> static void Register(const char *id)",
+						"s": "Upp",
+						"u": "REGISTER",
+						"q": "Upp::DataDrawer",
+						"w": "UPP::DATADRAWER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a802e800526281d2d68663444211419a931e959"
+							}
+						]
 					}
 				]
 			}
@@ -23995,6 +24047,12 @@
 
 								],
 								"h": "5f4035748cde9f3d0fec504eaefb098fd85dd9a9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "66bdf061a6bfb30d985eaf3aab63027c8b86648c"
 							}
 						]
 					},
@@ -25035,6 +25093,32 @@
 
 								],
 								"h": "51ef68bb291c663695c1c1987e9ac5d8b7fc69c2"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetId",
+						"t": "String (int) const",
+						"i": "Upp::Iml::GetId(int)const",
+						"r": "Upp::String GetId(int i) const",
+						"s": "Upp",
+						"u": "GETID",
+						"q": "Upp::Iml",
+						"w": "UPP::IML",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f775e0b117edad1a7796208164df3711b82594ad"
 							}
 						]
 					}
@@ -30928,6 +31012,58 @@
 								"h": "470a09fff3dcc58acc8113964c9e03cb9f6423e0"
 							}
 						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FactoryFn",
+						"t": "StreamRaster *()",
+						"i": "Upp::StreamRaster::FactoryFn()",
+						"r": "template <class T> static StreamRaster *FactoryFn()",
+						"s": "Upp",
+						"u": "FACTORYFN",
+						"q": "Upp::StreamRaster",
+						"w": "UPP::STREAMRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "09152240c02e2676d2af27335bb53df672ffb0d2"
+							}
+						]
+					},
+					{
+						"k": 30,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "Register",
+						"t": "void ()",
+						"i": "Upp::StreamRaster::Register()",
+						"r": "template <class T> static void Register()",
+						"s": "Upp",
+						"u": "REGISTER",
+						"q": "Upp::StreamRaster",
+						"w": "UPP::STREAMRASTER",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7064bed9c96ddfce0fdbf4199a54d0e8bcea8569"
+							}
+						]
 					}
 				]
 			}
@@ -35348,6 +35484,12 @@
 
 								],
 								"h": "df906e2909ccd8a00ff3f25fe0031693c936b1e9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "dead908915e6bd4b6a117b69281bb989a6f7dc8b"
 							}
 						]
 					},
@@ -35790,6 +35932,12 @@
 
 								],
 								"h": "5d505a5d026a9cb34273dbb7395c6fc9fcc48beb"
+							},
+							{
+								"items": [
+
+								],
+								"h": "c7ad7114b2739e7b368c6199e0ea14a1136bd213"
 							}
 						]
 					},
@@ -35816,6 +35964,1962 @@
 
 								],
 								"h": "f904da531e442e5dcfbcbff3232284b3ed78dbf9"
+							},
+							{
+								"items": [
+
+								],
+								"h": "f9bf228b87c90c0da8fe0cf4a9e7657519200ae4"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CtrlsImg",
+						"t": "Upp::CtrlsImg",
+						"i": "Upp::CtrlsImg",
+						"r": "CtrlsImg",
+						"s": "Upp",
+						"u": "CTRLSIMG",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df906e2909ccd8a00ff3f25fe0031693c936b1e9"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "RichTextImg",
+						"t": "Upp::RichTextImg",
+						"i": "Upp::RichTextImg",
+						"r": "RichTextImg",
+						"s": "Upp",
+						"u": "RICHTEXTIMG",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df906e2909ccd8a00ff3f25fe0031693c936b1e9"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "RichEditImg",
+						"t": "Upp::RichEditImg",
+						"i": "Upp::RichEditImg",
+						"r": "RichEditImg",
+						"s": "Upp",
+						"u": "RICHEDITIMG",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df906e2909ccd8a00ff3f25fe0031693c936b1e9"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CtrlCoreImg",
+						"t": "Upp::CtrlCoreImg",
+						"i": "Upp::CtrlCoreImg",
+						"r": "CtrlCoreImg",
+						"s": "Upp",
+						"u": "CTRLCOREIMG",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df906e2909ccd8a00ff3f25fe0031693c936b1e9"
+							}
+						]
+					},
+					{
+						"k": 4,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CtrlImg",
+						"t": "Upp::CtrlImg",
+						"i": "Upp::CtrlImg",
+						"r": "CtrlImg",
+						"s": "Upp",
+						"u": "CTRLIMG",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "df906e2909ccd8a00ff3f25fe0031693c936b1e9"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"t": "Upp::RichEditImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichEditImg::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.)",
+						"r": "enum",
+						"s": "Upp",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\DRAW\\IML_HEADER.H:16:2)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "106e0609744f6975297611d819f1cdac5107a599"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"t": "Upp::CtrlImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::CtrlImg::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.)",
+						"r": "enum",
+						"s": "Upp",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\DRAW\\IML_HEADER.H:16:2)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "106e0609744f6975297611d819f1cdac5107a599"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"t": "Upp::CtrlsImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::CtrlsImg::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.)",
+						"r": "enum",
+						"s": "Upp",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\DRAW\\IML_HEADER.H:16:2)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "106e0609744f6975297611d819f1cdac5107a599"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.)",
+						"r": "enum",
+						"s": "Upp",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\DRAW\\IML_HEADER.H:16:2)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "106e0609744f6975297611d819f1cdac5107a599"
+							}
+						]
+					},
+					{
+						"k": 5,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"t": "Upp::CtrlCoreImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::CtrlCoreImg::(unnamed at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.)",
+						"r": "enum",
+						"s": "Upp",
+						"u": "(UNNAMED ENUM AT C:\\USERS\\SBLO\\AI-UPP\\UPPSRC\\DRAW\\IML_HEADER.H:16:2)",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "106e0609744f6975297611d819f1cdac5107a599"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "COUNT",
+						"t": "Upp::CtrlImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::CtrlImg::COUNT",
+						"r": "COUNT",
+						"s": "Upp",
+						"u": "COUNT",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2bf90245c3eae70b50309837f6647c1f83fdf58"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "COUNT",
+						"t": "Upp::RichEditImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichEditImg::COUNT",
+						"r": "COUNT",
+						"s": "Upp",
+						"u": "COUNT",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2bf90245c3eae70b50309837f6647c1f83fdf58"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "COUNT",
+						"t": "Upp::CtrlCoreImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::CtrlCoreImg::COUNT",
+						"r": "COUNT",
+						"s": "Upp",
+						"u": "COUNT",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2bf90245c3eae70b50309837f6647c1f83fdf58"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "COUNT",
+						"t": "Upp::RichTextImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::RichTextImg::COUNT",
+						"r": "COUNT",
+						"s": "Upp",
+						"u": "COUNT",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2bf90245c3eae70b50309837f6647c1f83fdf58"
+							}
+						]
+					},
+					{
+						"k": 7,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "COUNT",
+						"t": "Upp::CtrlsImg::(unnamed enum at C:\\Users\\sblo\\ai-upp\\uppsrc\\Draw\\iml_header.h:16:2)",
+						"i": "Upp::CtrlsImg::COUNT",
+						"r": "COUNT",
+						"s": "Upp",
+						"u": "COUNT",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e2bf90245c3eae70b50309837f6647c1f83fdf58"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Iml",
+						"t": "Upp::Iml &()",
+						"i": "Upp::CtrlImg::Iml()",
+						"r": "static Upp::Iml& Iml()",
+						"s": "Upp",
+						"u": "IML",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31ff77101d8d5083b8717f98174793d2305983b9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Iml",
+						"t": "Upp::Iml &()",
+						"i": "Upp::RichEditImg::Iml()",
+						"r": "static Upp::Iml& Iml()",
+						"s": "Upp",
+						"u": "IML",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31ff77101d8d5083b8717f98174793d2305983b9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Iml",
+						"t": "Upp::Iml &()",
+						"i": "Upp::CtrlsImg::Iml()",
+						"r": "static Upp::Iml& Iml()",
+						"s": "Upp",
+						"u": "IML",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31ff77101d8d5083b8717f98174793d2305983b9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Iml",
+						"t": "Upp::Iml &()",
+						"i": "Upp::CtrlCoreImg::Iml()",
+						"r": "static Upp::Iml& Iml()",
+						"s": "Upp",
+						"u": "IML",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31ff77101d8d5083b8717f98174793d2305983b9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Iml",
+						"t": "Upp::Iml &()",
+						"i": "Upp::RichTextImg::Iml()",
+						"r": "static Upp::Iml& Iml()",
+						"s": "Upp",
+						"u": "IML",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "31ff77101d8d5083b8717f98174793d2305983b9"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Register__",
+						"t": "void ()",
+						"i": "Upp::RichEditImg::Register__()",
+						"r": "static void Register__()",
+						"s": "Upp",
+						"u": "REGISTER__",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fda602a6a208655543334d1850f1aa666b61b96"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Register__",
+						"t": "void ()",
+						"i": "Upp::CtrlCoreImg::Register__()",
+						"r": "static void Register__()",
+						"s": "Upp",
+						"u": "REGISTER__",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fda602a6a208655543334d1850f1aa666b61b96"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Register__",
+						"t": "void ()",
+						"i": "Upp::CtrlsImg::Register__()",
+						"r": "static void Register__()",
+						"s": "Upp",
+						"u": "REGISTER__",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fda602a6a208655543334d1850f1aa666b61b96"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Register__",
+						"t": "void ()",
+						"i": "Upp::CtrlImg::Register__()",
+						"r": "static void Register__()",
+						"s": "Upp",
+						"u": "REGISTER__",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fda602a6a208655543334d1850f1aa666b61b96"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Register__",
+						"t": "void ()",
+						"i": "Upp::RichTextImg::Register__()",
+						"r": "static void Register__()",
+						"s": "Upp",
+						"u": "REGISTER__",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5fda602a6a208655543334d1850f1aa666b61b96"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const Upp::String &)",
+						"i": "Upp::CtrlCoreImg::Find(const Upp::String&)",
+						"r": "static int Find(const Upp::String& s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "131ebfd0e1ea4215231adbbcd1fe3b5a3ef125af"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const Upp::String &)",
+						"i": "Upp::CtrlsImg::Find(const Upp::String&)",
+						"r": "static int Find(const Upp::String& s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "131ebfd0e1ea4215231adbbcd1fe3b5a3ef125af"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const Upp::String &)",
+						"i": "Upp::RichTextImg::Find(const Upp::String&)",
+						"r": "static int Find(const Upp::String& s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "131ebfd0e1ea4215231adbbcd1fe3b5a3ef125af"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const Upp::String &)",
+						"i": "Upp::CtrlImg::Find(const Upp::String&)",
+						"r": "static int Find(const Upp::String& s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "131ebfd0e1ea4215231adbbcd1fe3b5a3ef125af"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const Upp::String &)",
+						"i": "Upp::RichEditImg::Find(const Upp::String&)",
+						"r": "static int Find(const Upp::String& s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "131ebfd0e1ea4215231adbbcd1fe3b5a3ef125af"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const char *)",
+						"i": "Upp::CtrlCoreImg::Find(const char*)",
+						"r": "static int Find(const char *s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "513b718c9f0219924c65f8a4e3fbbac1e8c19aae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const char *)",
+						"i": "Upp::RichTextImg::Find(const char*)",
+						"r": "static int Find(const char *s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "513b718c9f0219924c65f8a4e3fbbac1e8c19aae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const char *)",
+						"i": "Upp::CtrlImg::Find(const char*)",
+						"r": "static int Find(const char *s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "513b718c9f0219924c65f8a4e3fbbac1e8c19aae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const char *)",
+						"i": "Upp::RichEditImg::Find(const char*)",
+						"r": "static int Find(const char *s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "513b718c9f0219924c65f8a4e3fbbac1e8c19aae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Find",
+						"t": "int (const char *)",
+						"i": "Upp::CtrlsImg::Find(const char*)",
+						"r": "static int Find(const char *s)",
+						"s": "Upp",
+						"u": "FIND",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "513b718c9f0219924c65f8a4e3fbbac1e8c19aae"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetCount",
+						"t": "int ()",
+						"i": "Upp::CtrlImg::GetCount()",
+						"r": "static int GetCount()",
+						"s": "Upp",
+						"u": "GETCOUNT",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0489ac1e813f4ac86764270d93bb54bc3556454a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetCount",
+						"t": "int ()",
+						"i": "Upp::CtrlCoreImg::GetCount()",
+						"r": "static int GetCount()",
+						"s": "Upp",
+						"u": "GETCOUNT",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0489ac1e813f4ac86764270d93bb54bc3556454a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetCount",
+						"t": "int ()",
+						"i": "Upp::CtrlsImg::GetCount()",
+						"r": "static int GetCount()",
+						"s": "Upp",
+						"u": "GETCOUNT",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0489ac1e813f4ac86764270d93bb54bc3556454a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetCount",
+						"t": "int ()",
+						"i": "Upp::RichTextImg::GetCount()",
+						"r": "static int GetCount()",
+						"s": "Upp",
+						"u": "GETCOUNT",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0489ac1e813f4ac86764270d93bb54bc3556454a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetCount",
+						"t": "int ()",
+						"i": "Upp::RichEditImg::GetCount()",
+						"r": "static int GetCount()",
+						"s": "Upp",
+						"u": "GETCOUNT",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0489ac1e813f4ac86764270d93bb54bc3556454a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetId",
+						"t": "Upp::String (int)",
+						"i": "Upp::CtrlsImg::GetId(int)",
+						"r": "static Upp::String GetId(int i)",
+						"s": "Upp",
+						"u": "GETID",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64cee8f6a3872ca2a5aa19fc35a07d2cacb5ff33"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetId",
+						"t": "Upp::String (int)",
+						"i": "Upp::RichTextImg::GetId(int)",
+						"r": "static Upp::String GetId(int i)",
+						"s": "Upp",
+						"u": "GETID",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64cee8f6a3872ca2a5aa19fc35a07d2cacb5ff33"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetId",
+						"t": "Upp::String (int)",
+						"i": "Upp::RichEditImg::GetId(int)",
+						"r": "static Upp::String GetId(int i)",
+						"s": "Upp",
+						"u": "GETID",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64cee8f6a3872ca2a5aa19fc35a07d2cacb5ff33"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetId",
+						"t": "Upp::String (int)",
+						"i": "Upp::CtrlImg::GetId(int)",
+						"r": "static Upp::String GetId(int i)",
+						"s": "Upp",
+						"u": "GETID",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64cee8f6a3872ca2a5aa19fc35a07d2cacb5ff33"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "GetId",
+						"t": "Upp::String (int)",
+						"i": "Upp::CtrlCoreImg::GetId(int)",
+						"r": "static Upp::String GetId(int i)",
+						"s": "Upp",
+						"u": "GETID",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "64cee8f6a3872ca2a5aa19fc35a07d2cacb5ff33"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (int)",
+						"i": "Upp::RichTextImg::Get(int)",
+						"r": "static Upp::Image Get(int i)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fbcc4f836fece3c16a58e6614a16f39c9ddfd0c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (int)",
+						"i": "Upp::CtrlImg::Get(int)",
+						"r": "static Upp::Image Get(int i)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fbcc4f836fece3c16a58e6614a16f39c9ddfd0c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (int)",
+						"i": "Upp::RichEditImg::Get(int)",
+						"r": "static Upp::Image Get(int i)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fbcc4f836fece3c16a58e6614a16f39c9ddfd0c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (int)",
+						"i": "Upp::CtrlCoreImg::Get(int)",
+						"r": "static Upp::Image Get(int i)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fbcc4f836fece3c16a58e6614a16f39c9ddfd0c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (int)",
+						"i": "Upp::CtrlsImg::Get(int)",
+						"r": "static Upp::Image Get(int i)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8fbcc4f836fece3c16a58e6614a16f39c9ddfd0c"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const char *)",
+						"i": "Upp::RichEditImg::Get(const char*)",
+						"r": "static Upp::Image Get(const char *s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2070237b8f7539aadbce1c7c0816087f2d4d2ce"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const char *)",
+						"i": "Upp::CtrlImg::Get(const char*)",
+						"r": "static Upp::Image Get(const char *s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2070237b8f7539aadbce1c7c0816087f2d4d2ce"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const char *)",
+						"i": "Upp::CtrlCoreImg::Get(const char*)",
+						"r": "static Upp::Image Get(const char *s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2070237b8f7539aadbce1c7c0816087f2d4d2ce"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const char *)",
+						"i": "Upp::CtrlsImg::Get(const char*)",
+						"r": "static Upp::Image Get(const char *s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2070237b8f7539aadbce1c7c0816087f2d4d2ce"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const char *)",
+						"i": "Upp::RichTextImg::Get(const char*)",
+						"r": "static Upp::Image Get(const char *s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2070237b8f7539aadbce1c7c0816087f2d4d2ce"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const Upp::String &)",
+						"i": "Upp::RichEditImg::Get(const Upp::String&)",
+						"r": "static Upp::Image Get(const Upp::String& s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1bc65545a48b1a4e7b9751027e1d071083d930a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const Upp::String &)",
+						"i": "Upp::RichTextImg::Get(const Upp::String&)",
+						"r": "static Upp::Image Get(const Upp::String& s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1bc65545a48b1a4e7b9751027e1d071083d930a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const Upp::String &)",
+						"i": "Upp::CtrlImg::Get(const Upp::String&)",
+						"r": "static Upp::Image Get(const Upp::String& s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1bc65545a48b1a4e7b9751027e1d071083d930a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const Upp::String &)",
+						"i": "Upp::CtrlsImg::Get(const Upp::String&)",
+						"r": "static Upp::Image Get(const Upp::String& s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1bc65545a48b1a4e7b9751027e1d071083d930a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Get",
+						"t": "Upp::Image (const Upp::String &)",
+						"i": "Upp::CtrlCoreImg::Get(const Upp::String&)",
+						"r": "static Upp::Image Get(const Upp::String& s)",
+						"s": "Upp",
+						"u": "GET",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d1bc65545a48b1a4e7b9751027e1d071083d930a"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (int, const Upp::Image &)",
+						"i": "Upp::RichTextImg::Set(int,const Upp::Image&)",
+						"r": "static void Set(int i, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "902fa22c2e7180b02893f0174fa61dd8d69df62d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (int, const Upp::Image &)",
+						"i": "Upp::CtrlCoreImg::Set(int,const Upp::Image&)",
+						"r": "static void Set(int i, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "902fa22c2e7180b02893f0174fa61dd8d69df62d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (int, const Upp::Image &)",
+						"i": "Upp::CtrlsImg::Set(int,const Upp::Image&)",
+						"r": "static void Set(int i, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "902fa22c2e7180b02893f0174fa61dd8d69df62d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (int, const Upp::Image &)",
+						"i": "Upp::CtrlImg::Set(int,const Upp::Image&)",
+						"r": "static void Set(int i, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "902fa22c2e7180b02893f0174fa61dd8d69df62d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (int, const Upp::Image &)",
+						"i": "Upp::RichEditImg::Set(int,const Upp::Image&)",
+						"r": "static void Set(int i, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "902fa22c2e7180b02893f0174fa61dd8d69df62d"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (const char *, const Upp::Image &)",
+						"i": "Upp::CtrlImg::Set(const char*,const Upp::Image&)",
+						"r": "static void Set(const char *s, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c610c69b583025d1c647785a5391d6a030a79fdf"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (const char *, const Upp::Image &)",
+						"i": "Upp::CtrlsImg::Set(const char*,const Upp::Image&)",
+						"r": "static void Set(const char *s, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c610c69b583025d1c647785a5391d6a030a79fdf"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (const char *, const Upp::Image &)",
+						"i": "Upp::CtrlCoreImg::Set(const char*,const Upp::Image&)",
+						"r": "static void Set(const char *s, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c610c69b583025d1c647785a5391d6a030a79fdf"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (const char *, const Upp::Image &)",
+						"i": "Upp::RichTextImg::Set(const char*,const Upp::Image&)",
+						"r": "static void Set(const char *s, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c610c69b583025d1c647785a5391d6a030a79fdf"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "Set",
+						"t": "void (const char *, const Upp::Image &)",
+						"i": "Upp::RichEditImg::Set(const char*,const Upp::Image&)",
+						"r": "static void Set(const char *s, const Upp::Image& m)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c610c69b583025d1c647785a5391d6a030a79fdf"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Reset",
+						"t": "void ()",
+						"i": "Upp::RichEditImg::Reset()",
+						"r": "static void Reset()",
+						"s": "Upp",
+						"u": "RESET",
+						"q": "Upp::RichEditImg",
+						"w": "UPP::RICHEDITIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a129c345239b0d9f8161951e88b6ae4375755786"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Reset",
+						"t": "void ()",
+						"i": "Upp::RichTextImg::Reset()",
+						"r": "static void Reset()",
+						"s": "Upp",
+						"u": "RESET",
+						"q": "Upp::RichTextImg",
+						"w": "UPP::RICHTEXTIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a129c345239b0d9f8161951e88b6ae4375755786"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Reset",
+						"t": "void ()",
+						"i": "Upp::CtrlsImg::Reset()",
+						"r": "static void Reset()",
+						"s": "Upp",
+						"u": "RESET",
+						"q": "Upp::CtrlsImg",
+						"w": "UPP::CTRLSIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a129c345239b0d9f8161951e88b6ae4375755786"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Reset",
+						"t": "void ()",
+						"i": "Upp::CtrlImg::Reset()",
+						"r": "static void Reset()",
+						"s": "Upp",
+						"u": "RESET",
+						"q": "Upp::CtrlImg",
+						"w": "UPP::CTRLIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a129c345239b0d9f8161951e88b6ae4375755786"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "Reset",
+						"t": "void ()",
+						"i": "Upp::CtrlCoreImg::Reset()",
+						"r": "static void Reset()",
+						"s": "Upp",
+						"u": "RESET",
+						"q": "Upp::CtrlCoreImg",
+						"w": "UPP::CTRLCOREIMG",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a129c345239b0d9f8161951e88b6ae4375755786"
 							}
 						]
 					}
@@ -37572,6 +39676,110 @@
 
 								],
 								"h": "d54c5d652ec3e2599371d0c13148d877be93545f"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Standard",
+						"t": "const T &() const",
+						"i": "Upp::ChStyle::Standard()const",
+						"r": "const T& Standard() const",
+						"s": "Upp",
+						"u": "STANDARD",
+						"q": "Upp::ChStyle",
+						"w": "UPP::CHSTYLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "59b9f4dbfd75cc5acabda269f6711545335c83d4"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Write",
+						"t": "T &() const",
+						"i": "Upp::ChStyle::Write()const",
+						"r": "T& Write() const",
+						"s": "Upp",
+						"u": "WRITE",
+						"q": "Upp::ChStyle",
+						"w": "UPP::CHSTYLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "528ba2e824b9b364dd4f0db8d6509a0cc9ed40b8"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Assign",
+						"t": "void (const T &)",
+						"i": "Upp::ChStyle::Assign(const T&)",
+						"r": "void Assign(const T& src)",
+						"s": "Upp",
+						"u": "ASSIGN",
+						"q": "Upp::ChStyle",
+						"w": "UPP::CHSTYLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "37b4de6774c2a1c9487dc37642c1c93360924e8e"
+							}
+						]
+					},
+					{
+						"k": 24,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ChStyle<T>",
+						"t": "void ()",
+						"i": "Upp::ChStyle::ChStyle()",
+						"r": "ChStyle<T>()",
+						"s": "Upp",
+						"u": "CHSTYLE<T>",
+						"q": "Upp::ChStyle",
+						"w": "UPP::CHSTYLE",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9ba34a7a42540e6f1f8771886d9b326ff0c399ee"
 							}
 						]
 					}
@@ -47962,6 +50170,994 @@
 
 								],
 								"h": "4f9878c4dbace497a771c3c744aea49fc03d5632"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "sFTlib",
+						"t": "FT_Library",
+						"i": "Upp::sFTlib",
+						"r": "static FT_Library sFTlib",
+						"s": "Upp",
+						"u": "SFTLIB",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fcb9ec45167fd0b464bc9e53f27a744eff1e41cd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": true,
+						"n": "s__sF2_17_fn",
+						"t": "void ()",
+						"i": "Upp::s__sF2_17_fn()",
+						"r": "static void s__sF2_17_fn()",
+						"s": "Upp",
+						"u": "S__SF2_17_FN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4100671b1ce818b387b00cb4fefbe0fb4f0c2cbd"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "s__sF2_17",
+						"t": "Upp::Callexit",
+						"i": "Upp::s__sF2_17",
+						"r": "static Upp::Callexit s__sF2_17(s__sF2_17_fn)",
+						"s": "Upp",
+						"u": "S__SF2_17",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4100671b1ce818b387b00cb4fefbe0fb4f0c2cbd"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "s__sF2_17_fn",
+						"t": "void ()",
+						"i": "Upp::s__sF2_17_fn()",
+						"r": "static void s__sF2_17_fn()",
+						"s": "Upp",
+						"u": "S__SF2_17_FN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "fda4e847bfb1f9ff58f221ae496f6c13e39354c6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sInitFt",
+						"t": "bool ()",
+						"i": "Upp::sInitFt()",
+						"r": "bool sInitFt()",
+						"s": "Upp",
+						"u": "SINITFT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "80e795f1eed704f17b37bf35487d023ba09fcc85"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CreateFcPattern",
+						"t": "FcPattern *(Font)",
+						"i": "Upp::CreateFcPattern(Font)",
+						"r": "FcPattern *CreateFcPattern(Upp::Font font)",
+						"s": "Upp",
+						"u": "CREATEFCPATTERN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "08dc4488a5996e5d6956a74944e8d46b78de107a"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "CreateFTFace",
+						"t": "FT_Face (const FcPattern *, String *)",
+						"i": "Upp::CreateFTFace(const FcPattern*,String*)",
+						"r": "FT_Face CreateFTFace(const FcPattern *pattern, Upp::String *rpath)",
+						"s": "Upp",
+						"u": "CREATEFTFACE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c8c639b320b31bbb51ce86f5b4e47d207a02d0bf"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FONTCACHE",
+						"t": "",
+						"i": "FONTCACHE",
+						"r": "FONTCACHE",
+						"s": "",
+						"u": "FONTCACHE",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "63a62b66d8925285befb8e3bfa62a3e8bab4abd0"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FtFaceEntry",
+						"t": "Upp::FtFaceEntry",
+						"i": "Upp::FtFaceEntry",
+						"r": "FtFaceEntry",
+						"s": "Upp",
+						"u": "FTFACEENTRY",
+						"q": "Upp::FtFaceEntry",
+						"w": "UPP::FTFACEENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "9d600140bb94d8058dbe08a88f267c0d68283577"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "font",
+						"t": "Font",
+						"i": "Upp::FtFaceEntry::font",
+						"r": "Upp::Font font",
+						"s": "Upp",
+						"u": "FONT",
+						"q": "Upp::FtFaceEntry",
+						"w": "UPP::FTFACEENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "4f3e080201d2294788891848796cc29b6d22c42c"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "face",
+						"t": "FT_Face",
+						"i": "Upp::FtFaceEntry::face",
+						"r": "FT_Face face",
+						"s": "Upp",
+						"u": "FACE",
+						"q": "Upp::FtFaceEntry",
+						"w": "UPP::FTFACEENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "bbffb039d821ca047beb8fa760a92346361a0b00"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "path",
+						"t": "String",
+						"i": "Upp::FtFaceEntry::path",
+						"r": "Upp::String path",
+						"s": "Upp",
+						"u": "PATH",
+						"q": "Upp::FtFaceEntry",
+						"w": "UPP::FTFACEENTRY",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c963315378508c7211b41774565867090876a964"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FTFaceXft",
+						"t": "FT_Face (*)(Font, String *)",
+						"i": "Upp::FTFaceXft",
+						"r": "FT_Face (*FTFaceXft)(Upp::Font, Upp::String *)",
+						"s": "Upp",
+						"u": "FTFACEXFT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2afdbeb160cdd127cf61113a049b3aa1bf1948f6"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "fnt",
+						"t": "Font",
+						"i": "fnt",
+						"r": "Upp::Font fnt",
+						"s": "",
+						"u": "FNT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d2be69d022f023f6a456d0202d6ef7072ea14243"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "rpath",
+						"t": "String *",
+						"i": "rpath",
+						"r": "Upp::String *rpath",
+						"s": "",
+						"u": "RPATH",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "282b9a26dac251a61e699301df594ac7205a73a1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "FTFace",
+						"t": "FT_Face (Font, String *)",
+						"i": "Upp::FTFace(Font,String*)",
+						"r": "FT_Face FTFace(Upp::Font fnt, Upp::String *rpath = __null)",
+						"s": "Upp",
+						"u": "FTFACE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "dd60cfa32e40aed63ef571bc9ec5f75d2fa1a332"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetFontInfoSysXft",
+						"t": "CommonFontInfo (*)(Font)",
+						"i": "Upp::GetFontInfoSysXft",
+						"r": "Upp::CommonFontInfo (*GetFontInfoSysXft)(Upp::Font)",
+						"s": "Upp",
+						"u": "GETFONTINFOSYSXFT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6ac7dc2d4820731d8e219552ee38d9494c9aa506"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "font",
+						"t": "Font",
+						"i": "font",
+						"r": "Upp::Font font",
+						"s": "",
+						"u": "FONT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a5bd6f8a88b08ef72ec54ff81ee96c5b95fb7b2"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetFontInfoSys",
+						"t": "CommonFontInfo (Font)",
+						"i": "Upp::GetFontInfoSys(Font)",
+						"r": "Upp::CommonFontInfo GetFontInfoSys(Upp::Font font)",
+						"s": "Upp",
+						"u": "GETFONTINFOSYS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5c6f31caaf3d5735bd816353adeb4083831f271d"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "FLOOR",
+						"t": "",
+						"i": "FLOOR",
+						"r": "FLOOR",
+						"s": "",
+						"u": "FLOOR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d5cff66c9398c4b67cf7fd19d06ed2c9c48d3d5b"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "CEIL",
+						"t": "",
+						"i": "CEIL",
+						"r": "CEIL",
+						"s": "",
+						"u": "CEIL",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d9f20460372058584e22538ad11c7d43be3f4785"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "TRUNC",
+						"t": "",
+						"i": "TRUNC",
+						"r": "TRUNC",
+						"s": "",
+						"u": "TRUNC",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "5cddf0e048dfebf9e7fdf153159353ff2f3bf2bb"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ROUND",
+						"t": "",
+						"i": "ROUND",
+						"r": "ROUND",
+						"s": "",
+						"u": "ROUND",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2df03e3e64c6c86d2bdff99fc9b2ee69d4d145c9"
+							}
+						]
+					},
+					{
+						"k": 9,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetGlyphInfoSysXft",
+						"t": "GlyphInfo (*)(Font, int)",
+						"i": "Upp::GetGlyphInfoSysXft",
+						"r": "Upp::GlyphInfo (*GetGlyphInfoSysXft)(Upp::Font, int)",
+						"s": "Upp",
+						"u": "GETGLYPHINFOSYSXFT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "d77f0462174c00c1c2f2780f09816c39e0a96a92"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "font",
+						"t": "Font",
+						"i": "font",
+						"r": "Upp::Font font",
+						"s": "",
+						"u": "FONT",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2a5bd6f8a88b08ef72ec54ff81ee96c5b95fb7b2"
+							}
+						]
+					},
+					{
+						"k": 10,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "chr",
+						"t": "int",
+						"i": "chr",
+						"r": "int chr",
+						"s": "",
+						"u": "CHR",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "a0a501a14ca3480c8f45963edd53c8810e773af6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetGlyphInfoSys",
+						"t": "GlyphInfo (Font, int)",
+						"i": "Upp::GetGlyphInfoSys(Font,int)",
+						"r": "Upp::GlyphInfo GetGlyphInfoSys(Upp::Font font, int chr)",
+						"s": "Upp",
+						"u": "GETGLYPHINFOSYS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "be61084cd049f3ff91223f9b3aff3b3d9cebdbad"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetAllFacesSys",
+						"t": "Vector<FaceInfo> ()",
+						"i": "Upp::GetAllFacesSys()",
+						"r": "Vector<FaceInfo> GetAllFacesSys()",
+						"s": "Upp",
+						"u": "GETALLFACESSYS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "de0c649fff2883c157a4a913db8ab0c059336e65"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "GetFontDataSysSys",
+						"t": "String (Stream &, int, const char *, int, int)",
+						"i": "Upp::GetFontDataSysSys(Stream&,int,const char*,int,int)",
+						"r": "Upp::String GetFontDataSysSys(Upp::Stream& in, int fonti, const char *table, int offset, int size)",
+						"s": "Upp",
+						"u": "GETFONTDATASYSSYS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "04370c17b64a1f91256c1236da69f56824200fa6"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "GetFontDataSys",
+						"t": "String (Font, const char *, int, int)",
+						"i": "Upp::GetFontDataSys(Font,const char*,int,int)",
+						"r": "Upp::String GetFontDataSys(Upp::Font font, const char *table, int offset, int size)",
+						"s": "Upp",
+						"u": "GETFONTDATASYS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "ac48228e11be2fcd6410a82e8c7f4c8abaee5ef9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": true,
+						"n": "ft_dbl",
+						"t": "double (int)",
+						"i": "Upp::ft_dbl(int)",
+						"r": "static double ft_dbl(int p)",
+						"s": "Upp",
+						"u": "FT_DBL",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6cb0d26fff47637c6374c8ad6cb723ca6f64ad8c"
+							}
+						]
+					},
+					{
+						"k": 2,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "ConvertOutlinePoint",
+						"t": "Upp::ConvertOutlinePoint",
+						"i": "Upp::ConvertOutlinePoint",
+						"r": "ConvertOutlinePoint",
+						"s": "Upp",
+						"u": "CONVERTOUTLINEPOINT",
+						"q": "Upp::ConvertOutlinePoint",
+						"w": "UPP::CONVERTOUTLINEPOINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "7b645670b937b946e9e801341fb9968cc1760540"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "sheer",
+						"t": "bool",
+						"i": "Upp::ConvertOutlinePoint::sheer",
+						"r": "bool sheer",
+						"s": "Upp",
+						"u": "SHEER",
+						"q": "Upp::ConvertOutlinePoint",
+						"w": "UPP::CONVERTOUTLINEPOINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "0891d85ce5f109827de133f3f1f9a8348f3e00b9"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "xx",
+						"t": "double",
+						"i": "Upp::ConvertOutlinePoint::xx",
+						"r": "double xx",
+						"s": "Upp",
+						"u": "XX",
+						"q": "Upp::ConvertOutlinePoint",
+						"w": "UPP::CONVERTOUTLINEPOINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "b297c1a5e219e28c9ef67e4608295642fac90162"
+							}
+						]
+					},
+					{
+						"k": 6,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "yy",
+						"t": "double",
+						"i": "Upp::ConvertOutlinePoint::yy",
+						"r": "double yy",
+						"s": "Upp",
+						"u": "YY",
+						"q": "Upp::ConvertOutlinePoint",
+						"w": "UPP::CONVERTOUTLINEPOINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c7cb52021353405fde744ebeada6507ee63f7628"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "operator()",
+						"t": "Pointf (int, int)",
+						"i": "Upp::ConvertOutlinePoint::operator()(int,int)",
+						"r": "Upp::Pointf operator()(int x, int y)",
+						"s": "Upp",
+						"u": "OPERATOR()",
+						"q": "Upp::ConvertOutlinePoint",
+						"w": "UPP::CONVERTOUTLINEPOINT",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "e94ce1b98e76db15bee2c43525efd9af3d0e9ab3"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "RenderOutline",
+						"t": "bool (const FT_Outline &, FontGlyphConsumer &, double, double, bool)",
+						"i": "Upp::RenderOutline(const FT_Outline&,FontGlyphConsumer&,double,double,bool)",
+						"r": "bool RenderOutline(const FT_Outline& outline, Upp::FontGlyphConsumer& path, double xx, double yy, bool sheer)",
+						"s": "Upp",
+						"u": "RENDEROUTLINE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "75541c1a2dafd43c7d1bab17a965f27438274878"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "RenderCharacterSys",
+						"t": "void (FontGlyphConsumer &, double, double, int, Font)",
+						"i": "Upp::RenderCharacterSys(FontGlyphConsumer&,double,double,int,Font)",
+						"r": "void RenderCharacterSys(Upp::FontGlyphConsumer& sw, double x, double y, int ch, Upp::Font fnt)",
+						"s": "Upp",
+						"u": "RENDERCHARACTERSYS",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "af414b4e2b8d48622d989bccbd96ee25758f6ccc"
 							}
 						]
 					}
@@ -61216,6 +64412,58 @@
 								"h": "b5fde70184918edf1eab7697a2636865528f0aa2"
 							}
 						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IMAGE_BEGIN",
+						"t": "",
+						"i": "IMAGE_BEGIN",
+						"r": "IMAGE_BEGIN",
+						"s": "",
+						"u": "IMAGE_BEGIN",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "89a3f5343db28db5dfc5759e59b7f9f073b5b171"
+							}
+						]
+					},
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IMAGE_ID",
+						"t": "",
+						"i": "IMAGE_ID",
+						"r": "IMAGE_ID",
+						"s": "",
+						"u": "IMAGE_ID",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "73b4300fbacbbf5c57b153f6d961fa980f57f71d"
+							}
+						]
 					}
 				]
 			}
@@ -72095,6 +75343,12 @@
 
 								],
 								"h": "7ff7ccb5564bb9bc9c69cb729b90d989566947ef"
+							},
+							{
+								"items": [
+
+								],
+								"h": "4389dd594c025d6f72c6504e45973d004d662de0"
 							}
 						]
 					},
@@ -72589,6 +75843,32 @@
 
 								],
 								"h": "501942b841ac8164872e38c36b6f1e47eccc905e"
+							}
+						]
+					},
+					{
+						"k": 21,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "Set",
+						"t": "void (int, const Image &)",
+						"i": "Upp::Iml::Set(int,const Image&)",
+						"r": "void Set(int i, const Upp::Image& img)",
+						"s": "Upp",
+						"u": "SET",
+						"q": "Upp::Iml",
+						"w": "UPP::IML",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "16ce6f45ba83af1bb08a443d1d6667f6c0360653"
 							}
 						]
 					}
@@ -79353,6 +82633,214 @@
 								"h": "ba57afb6d2474072b161af0dbcc750a7db5b5943"
 							}
 						]
+					},
+					{
+						"k": 8,
+						"d": true,
+						"iv": false,
+						"is": false,
+						"n": "SColorShadow_Write",
+						"t": "void (Color)",
+						"i": "Upp::SColorShadow_Write(Color)",
+						"r": "void SColorShadow_Write(Upp::Color v)",
+						"s": "Upp",
+						"u": "SCOLORSHADOW_WRITE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "f5cf2aa711e326aeeda6796a639faffa7c5bfe20"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ch_var__SColorMark",
+						"t": "ChColor &()",
+						"i": "Upp::ch_var__SColorMark()",
+						"r": "Upp::ChColor& ch_var__SColorMark()",
+						"s": "Upp",
+						"u": "CH_VAR__SCOLORMARK",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6001a15dec2367b2da6f0fa9a5725e29f0d2c9ab"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ch_var__SLtGray",
+						"t": "ChColor &()",
+						"i": "Upp::ch_var__SLtGray()",
+						"r": "ChColor& ch_var__SLtGray()",
+						"s": "Upp",
+						"u": "CH_VAR__SLTGRAY",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "c1201604b18b551b9b2aa51ba804e004944fb805"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ch_var__SWhite",
+						"t": "ChColor &()",
+						"i": "Upp::ch_var__SWhite()",
+						"r": "ChColor& ch_var__SWhite()",
+						"s": "Upp",
+						"u": "CH_VAR__SWHITE",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "db80d9800360080b43843d53b335f44ff60ebc48"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ch_var__SBrown",
+						"t": "ChColor &()",
+						"i": "Upp::ch_var__SBrown()",
+						"r": "ChColor& ch_var__SBrown()",
+						"s": "Upp",
+						"u": "CH_VAR__SBROWN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "1b38f7caaaaee7e114d6aa32fa0c7d61788055b1"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ch_var__SYellow",
+						"t": "ChColor &()",
+						"i": "Upp::ch_var__SYellow()",
+						"r": "ChColor& ch_var__SYellow()",
+						"s": "Upp",
+						"u": "CH_VAR__SYELLOW",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "6f61719ad637850f16d23ef303185685571a1920"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ch_var__SLtGreen",
+						"t": "ChColor &()",
+						"i": "Upp::ch_var__SLtGreen()",
+						"r": "ChColor& ch_var__SLtGreen()",
+						"s": "Upp",
+						"u": "CH_VAR__SLTGREEN",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "8c4202919439d27d449ec1d9c06cb2ea8cf20cb9"
+							}
+						]
+					},
+					{
+						"k": 8,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "ch_var__SColorLight",
+						"t": "ChColor &()",
+						"i": "Upp::ch_var__SColorLight()",
+						"r": "ChColor& ch_var__SColorLight()",
+						"s": "Upp",
+						"u": "CH_VAR__SCOLORLIGHT",
+						"q": "Upp",
+						"w": "UPP",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2cb141a445cff10ff64914e4edcce46f86af8079"
+							}
+						]
 					}
 				]
 			}
@@ -81532,6 +85020,39 @@
 
 								],
 								"h": "0d406b8f2618d8aa59246b0dc8aec745b0a4379f"
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"key": "iml.h",
+			"value": {
+				"items": [
+					{
+						"k": 501,
+						"d": false,
+						"iv": false,
+						"is": false,
+						"n": "IMAGE_KEEP",
+						"t": "",
+						"i": "IMAGE_KEEP",
+						"r": "IMAGE_KEEP",
+						"s": "",
+						"u": "IMAGE_KEEP",
+						"q": "",
+						"w": "",
+						"y": "",
+						"da": [
+
+						],
+						"sf": [
+							{
+								"items": [
+
+								],
+								"h": "2ca5927f3a4289e028caec7588f72863726bdd12"
 							}
 						]
 					}
